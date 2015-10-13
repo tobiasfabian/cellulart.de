@@ -43,3 +43,25 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
+
+
+
+
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  ExpiresByType text/html "modification plus 1 hour"
+  ExpiresByType text/css "modification plus 1 year"
+  ExpiresByType text/javascript "modification plus 1 year"
+  ExpiresByType text/plain "modification plus 1 year"
+  ExpiresByType application/javascript "modification plus 1 year"
+  ExpiresByType application/x-javascript "modification plus 1 year"
+
+  ExpiresByType application/font-woff "modification plus 1 year"
+  ExpiresByType image/svg+xml "modification plus 1 year"
+  ExpiresByType application/vnd.ms-fontobject "modification plus 1 year"
+  ExpiresByType application/x-font-ttf "modification plus 1 year"
+  ExpiresByType application/x-font-truetype "modification plus 1 year"
+  ExpiresByType application/x-font-opentype "modification plus 1 year"
+</IfModule>

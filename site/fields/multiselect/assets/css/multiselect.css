@@ -1,0 +1,120 @@
+
+.input-with-multiselectbox .input-display {
+  cursor: pointer;
+}
+.input-with-multiselectbox .input-is-focused {
+  border-bottom-color: #ddd;
+}
+
+
+.input-with-multiselectbox .item {
+  background: none;
+}
+.input-with-multiselectbox .item:not(:last-of-type):after {
+  content: ", ";
+}
+
+.input-with-multiselectbox .input-list {
+  display: none;
+  position: absolute;
+  z-index: 10;
+  top: 100%;
+  left: 0;
+  right: 0;
+  max-height: 185px;
+  overflow: auto;
+
+  background-color: #fff;
+  border: solid #8dae28;
+  border-width: 0 2px 2px 2px;
+
+
+}
+
+.input-with-multiselectbox .input-list-item {
+  margin: 0;
+}
+
+.input-with-multiselectbox .input-list-item:first-of-type {
+  padding-top: .2em;
+}
+
+.input-with-multiselectbox .input-list-item:last-of-type {
+  padding-bottom: .2em;
+}
+
+
+.input-with-multiselectbox .input-list-item:not(:last-child) {
+  border-bottom: 1px dashed #ddd;
+}
+
+.input-with-multiselectbox .input-list .input {
+  border: none;
+  font-size: .9em;
+  padding: .2em .5em;
+  cursor: pointer;
+
+}
+
+/* Checkboxes */
+.input-with-multiselectbox .checkbox {
+  display: none;
+}
+
+.input-with-multiselectbox .checkbox + span:before {
+  content: "X";
+  margin-right: 7px;
+
+  border: 1px solid #ddd;
+  padding: 0 3px;
+  font-size: 9px;
+  color: #fff;
+  vertical-align: 4%;
+}
+
+.input-with-multiselectbox .checkbox:checked + span:before {
+  color: #8dae28;
+  border-color: #8dae28;
+}
+
+/* Search */
+.multiselectbox-search {
+  width: 100%;
+  border: none;
+  top: -10px;
+  padding: .4em 1.7em .5em;
+  font-size: .9em;
+  background-color: #efefef;
+  border-bottom: 1px dashed #ddd;
+
+}
+
+.multiselectbox-search:focus {
+  outline: none;
+  border: none;
+  border-bottom: 1px dashed #ddd;
+}
+
+
+/* readonly or disabled */
+.field-is-readonly .input-with-multiselectbox .input-display,
+.field-is-disabled .input-with-multiselectbox .input-display {
+  cursor: default;
+
+}
+.field-is-readonly .input-with-multiselectbox .field-icon,
+.field-is-disabled .input-with-multiselectbox .field-icon {
+  display: block !important;
+}
+
+/* error */
+.field-with-error .input-with-multiselectbox .input-list,
+.field-with-error .input-with-multiselectbox .input-is-focused::before,
+.field-with-error .input-with-multiselectbox .input-is-focused::after {
+  border-color: #b3000a;
+}
+
+/* structure field fix */
+.modal-content.overflowing {
+  overflow: visible !important;
+}

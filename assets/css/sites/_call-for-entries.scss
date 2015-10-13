@@ -1,0 +1,91 @@
+.call-for-entries {
+  background-image: url(../images/bg-call_for_entries.svg);
+  background-color: $red;
+  overflow: hidden;
+  @media (max-height: 45em) {
+    overflow: auto;
+  }
+  @media (max-width: $max-width/12*7) {
+    overflow: auto;
+    background-size: auto 150%;
+  }
+  .center {
+    @media (max-width: $max-width) {
+      padding-left: $default-padding;
+      padding-right: $default-padding;
+    }
+    @media (max-width: $max-width/12*7) {
+      padding-left: $default-padding*0.4;
+      padding-right: $default-padding*0.4;
+    }
+    main {
+      h1 {
+        margin: 0;
+        text-transform: lowercase;
+        font-size: 14em;
+        line-height: 1em;
+        color: white;
+        @media (max-width: $max-width) {
+          font-size: 12em;
+        }
+        @media (max-width: $max-width/12*10) {
+          font-size: 10em;
+        }
+        @media (max-width: $max-width/12*7) {
+          margin-top: -0.4em;
+          font-size: 7em;
+        }
+        span {
+          position: absolute;
+          display: inline-block;
+          transform-origin: 0 0;
+        }
+        span:nth-of-type(1) {
+          margin-top: -0.05em;
+        }
+        span:nth-of-type(2) {
+          margin-top: 0.696em;
+          margin-left: 0.15em;
+          color: $black;
+        }
+        span:nth-of-type(3) {
+          margin-top: 2.61em;
+          margin-left: -0.05em;
+          transform: rotate(-45deg);
+        }
+      }
+      .text {
+        position: relative;
+        z-index: 1;
+        box-sizing: padding-box;
+        margin-left: $raster-width * 7;
+        width: $raster-width * 5;
+        padding: $default-padding * 2;
+        background: url(../images/corner_bg-white-br.svg) right bottom no-repeat;
+        @media (max-width: $max-width) {
+          float: right;
+          width: calc(8.33333333% * 5 - 20px);
+        }
+        @media (max-width: $max-width/12*10) {
+          width: calc(8.33333333% * 6 - 20px);
+        }
+        @media (max-width: $max-width/12*8) {
+          width: calc(8.33333333% * 7 - 20px);
+        }
+        @media (max-width: $max-width/12*7) {
+          margin-top: 22em;
+          width: 100%;
+          padding: $default-padding*1.5;
+        }
+        .downloads {
+          .button {
+            display: block;
+            float: left;
+            margin-bottom: 0.5em;
+            margin-right: 0.5em;
+          }
+        }
+      }
+    }
+  }
+}

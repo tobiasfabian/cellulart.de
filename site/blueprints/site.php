@@ -1,20 +1,39 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Site
-pages: default
+pages:
+  template:
+    - default
+    - page
+files: false
 fields:
   title:
     label: Title
     type:  text
-  author:
-    label: Author
+  meta_description:
+    label: Meta Description
     type:  text
-  description:
-    label: Description
-    type:  textarea
-  keywords:
-    label: Keywords
-    type:  tags
-  copyright:
-    label: Copyright
-    type:  textarea
+    required: true
+  email:
+    label: E-Mail
+    type:  email
+  facebook:
+    label: Facebook Link
+    type:  url
+  twitter:
+    label: Twitter Link
+    type:  url
+  vimeo:
+    label: Vimeo Link
+    type:  url
+  startdate:
+    label: Start Date
+    type:  date
+    width: 1/2
+  enddate:
+    label: End Date
+    type:  date
+    width: 1/2
+  venue:
+    label: Venue
+    type:  text

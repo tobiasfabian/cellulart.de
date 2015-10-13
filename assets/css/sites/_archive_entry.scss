@@ -1,0 +1,48 @@
+.archive-entry {
+  .center {
+    padding-top: 9em;
+    .winner {
+      margin: 3em 0;
+      &:first-child {
+        margin-top: 0;
+      }
+      > h1 {
+        margin-left: $raster-width;
+        padding-left: $default-padding;
+        @media (max-width: $max-width/12*6) {
+          margin-left: 0;
+          padding-left: 0;
+        }
+      }
+    }
+    .text, .gallery {
+      &:first-of-type {
+        padding-top: 0;
+      }
+    }
+    .text {
+      margin: 0 auto;
+      width: $raster-width * 6;
+      padding: 3em $default-padding;
+      @media (max-width: $max-width/12*10) {
+        width: $raster-width * 8;
+      }
+      @media (max-width: $max-width/12*7) {
+        width: auto;
+      }
+    }
+    .downloads {
+      margin: 3em 0;
+      margin-left: $raster-width;
+      padding-left: $default-padding;
+      @media (max-width: $max-width/12*6) {
+        margin-left: 0;
+        padding-left: 0;
+      }
+      .button {
+        margin: 0 0.2em 0.5em 0;
+        padding: 0.6em 0.5em 0.4em;
+      }
+    }
+  }
+}

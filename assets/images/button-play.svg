@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>button-play</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assets" fill="#FFFFFF">
+            <path d="M0,0 L52,0 L52,36 L36,52 L0,52 L0,0 Z M17,38 L38,26 L17,14 L17,38 Z" id="button-play"></path>
+        </g>
+    </g>
+</svg>

@@ -1,4 +1,14 @@
 .DS_Store
-/site/accounts
+
+/site/accounts/*
+/site/cache/*
 /assets/avatars
 /thumbs/*
+
+/assets/css/.sass-cache
+/site/config/config.cellulart.de.php
+/content/*
+
+BingSiteAuth.xml
+google528c7c7784687219.html
+config.codekit

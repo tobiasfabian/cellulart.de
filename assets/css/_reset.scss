@@ -1,0 +1,108 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  color: $black;
+  -webkit-font-smoothing: antialiased;
+  font-family: $font;
+  font-weight: 500;
+  font-size: 1em;
+  line-height: 1.4em;
+  background: center top no-repeat fixed;
+}
+* {
+  box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, p, ul, ol, li, figure {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+h1, h2, h3, h4, h5 {
+  font-size: 1em;
+  font-weight: inherit;
+  text-transform: lowercase;
+}
+h1 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
+  line-height: 0.9em;
+}
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.2em;
+  line-height: 0.9em;
+}
+h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 0.95em;
+  text-transform: uppercase;
+}
+p {
+  margin-bottom: 1em;
+}
+h1, h2, h3, p {
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+img, video {
+  display: block;
+}
+a {
+  display: inline-block;
+  color: inherit;
+  text-decoration: none;
+  transition: $default-duration;
+  color: $red;
+  line-height: 0.9em;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  &:focus, &:hover, &.active {
+    border-color: $red;
+  }
+  &.button {
+    display: inline-block;
+    padding: 0.4em 0.3em 0.2em;
+    color: $red;
+    font-size: 0.9em;
+    line-height: 1em;
+    letter-spacing: 0.04em;
+    text-transform: lowercase;
+    border: 1.5px solid $red;
+    &.invert {
+      color: white;
+      border-color: white;
+      &:focus, &:hover {
+        color: $red !important;
+        background-color: white;
+      }
+    }
+    &:focus, &:hover {
+      color: white;
+      background-color: $red;
+    }
+  }
+}
+.center {
+  margin: 0 auto;
+  max-width: $max-width;
+  min-height: calc(100vh - 13em);
+  padding: 7em $default-padding 0;
+  @media (max-width: $max-width) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  @media (max-width: $max-width/12*7) {
+    padding: 6em $default-padding*0.8;
+  }
+  h1:first-of-type {
+    margin-top: 0;
+  }
+}
+.clear {
+  clear: both;
+}

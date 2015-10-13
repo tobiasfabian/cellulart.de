@@ -1,0 +1,30 @@
+.raster {
+  // display: none;
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  .container {
+    margin: 0 auto;
+    max-width: $max-width;
+    height: 100%;
+    padding: 0 $default-padding;
+    @media (max-width: $max-width) {
+      padding: 0 0;
+    }
+    div {
+      float: left;
+      width: 8.3333333333%;
+      padding: 0 $default-padding;
+      height: 100%;
+      background: hsla(0,0%,0%,0.1);
+      background-clip: content-box;
+      &:first-of-type {
+      }
+      &:last-of-type {
+      }
+    }
+  }
+}

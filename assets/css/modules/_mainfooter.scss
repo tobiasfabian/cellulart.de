@@ -1,0 +1,81 @@
+.mainfooter {
+  clear: both;
+  position: relative;
+  z-index: 1;
+  height: 13em;
+  .logo {
+    z-index: 1;
+    position: absolute;
+    bottom: 1.4em;
+    right: 8.4em;
+    width: 9em;
+    height: 9em;
+    border: none;
+    background: url(../images/logo-red-white.svg) center center no-repeat;
+    background-size: contain;
+  }
+  a.langswitch {
+    z-index: 3;
+    position: absolute;
+    right: 0.6em;
+    bottom: 11em;
+    text-transform: lowercase;
+    color: $red;
+    transform: rotate(-45deg);
+    transform-origin: 0 0;
+    font-size: 0.93em;
+  }
+  nav {
+    z-index: 2;
+    position: relative;
+    float: right;
+    width: 13em;
+    height: 13em;
+    background: url(../images/corner-red-br.svg) top left no-repeat;
+    color: white;
+    clip-path: polygon(100% 0, 100% 100%, 0 100%);
+    overflow: hidden;
+    div {
+      position: absolute;
+      left: 1.5em;
+      bottom: -0.5em;
+      width: 14em;
+      text-transform: lowercase;
+      transform: rotate(-45deg);
+      transform-origin: 0 0;
+      font-size: 0.93em;
+      a {
+        display: inline-block;
+        margin: 0 0.1em;
+        padding: 0.1em;
+        line-height: 0.6em;
+        color: white;
+        &:focus, &:hover, &.active {
+          border-color: white;
+        }
+      }
+    }
+  }
+}
+.invert .mainfooter {
+  .logo {
+    background-image: url(../images/logo-white-red.svg);
+  }
+  .langswitch {
+    color: white;
+    &:focus, &:hover {
+      border-color: white;
+    }
+  }
+  nav {
+    background-image: url(../images/corner-white-br.svg);
+    div {
+      a {
+        color: black;
+        &:focus, &:hover {
+          border-color: $black;
+        }
+      }
+    }
+  }
+}

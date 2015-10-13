@@ -1,0 +1,27 @@
+<?php if(!defined('KIRBY')) exit ?>
+
+title: Call for Entries
+pages: false
+files:
+  sanitize: false
+  fields:
+    caption:
+      label: Caption
+      type:  text
+fields:
+  title:
+    label: Title
+    type:  text
+  meta_description:
+    label: Meta Description
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  downloads:
+    label: Downloads
+    type:  selector
+    mode:  multiple
+  reelport_link:
+    label: Reelport Link
+    type:  url

@@ -1,0 +1,146 @@
+.news {
+  .center {
+    padding-top: 6.125em;
+    main {
+      margin-left: $raster-width;
+      width: $raster-width * 5;
+      padding: 0 $default-padding;
+      @media (max-width: $max-width/12*11) {
+        width: $raster-width * 6;
+      }
+      @media (max-width: $max-width/12*7) {
+        width: auto;
+      }
+      article {
+        padding: 2.5em 0 2em;
+        border-bottom: 2px solid $red;
+        &:first-of-type {
+          padding-top: 0;
+        }
+        &:last-of-type {
+          border-bottom: none;
+        }
+        header {
+          position: relative;
+          .time {
+            display: inline-block;
+            position: absolute;
+            top: 0.3em;
+            left: -4em;
+            transform: rotate(-45deg);
+            transform-origin:  0 0;
+            line-height: 1em;
+            text-transform: lowercase;
+            color: $red;
+            @media (max-width: $max-width/12*7) {
+              left: -3em;
+            }
+            &:focus, &:hover {
+              border: none;
+            }
+          }
+          h1 {
+            margin-bottom: 0.5em;
+          }
+        }
+        p {
+          margin-bottom: 1em;
+        }
+        figure {
+          margin-bottom: 1em;
+          figcaption {
+            margin-top: 0.5em;
+            font-size: 0.9em;
+          }
+          img {
+            max-width: 100%;
+          }
+        }
+      }
+      .pagination {
+        .previous, .next {
+          display: block;
+          width: 2em;
+          height: 1em;
+          background: no-repeat;
+          border: none;
+        }
+        .next {
+          float: right;
+          background-position: center right;
+          background-image: url(../images/button-next-arrow.svg);
+        }
+        .previous {
+          background-position: center left;
+          background-image: url(../images/button-previous-arrow.svg);
+        }
+      }
+    }
+    aside {
+      float: right;
+      width: $raster-width * 4;
+      @media (max-width: $max-width) {
+        margin-right: $default-padding;
+        right: $default-padding;
+        width: $raster-width * 4;
+      }
+      @media (max-width: $max-width/12*7) {
+        float: none;
+        margin: 0 auto 6em;
+        width: $raster-width*10;
+      }
+      @media (max-width: $max-width/12*6) {
+        margin: 0 0 3em;
+        width: auto;
+      }
+      .events {
+        margin-bottom: 0.5em;
+        color: white;
+        background: url(../images/corner_bg-red-br.svg) right bottom no-repeat;
+        a {
+          color: white;
+          &:focus, &:hover {
+            border-color: white;
+          }
+        }
+        article {
+          margin: 0 $default-padding;
+          padding: $default-padding 0;
+          border-bottom: 2px solid white;
+          font-size: 0.9em;
+          &:last-of-type {
+            border-bottom: 0;
+          }
+          header {
+            position: relative;
+            padding-left: 3.5em;
+            cursor: pointer;
+            time {
+              position: absolute;
+              left: 0;
+              top: 1.1em;
+              text-transform: lowercase;
+              line-height: 1em;
+              transform: rotate(-45deg);
+              transform-origin: 0 0;
+            }
+            h1 {
+              margin-top: 0.3em;
+              margin-bottom: 0.1em;
+              font-size: 1.2em;
+            }
+          }
+          .more {
+            transition: $default-duration;
+            padding-top: 0.5em;
+            padding-left: 3.5em;
+            overflow: hidden;
+            .button {
+              margin-right: 0.5em;
+            }
+          }
+        }
+      }
+    }
+  }
+}

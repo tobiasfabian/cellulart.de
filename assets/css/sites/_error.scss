@@ -1,0 +1,28 @@
+.error {
+  .center {
+    padding-top: 8em;
+    header {
+      z-index: 1;
+      position: fixed;
+      left: 50%;
+      top: 6.5em;
+      margin-left: - $max-width / 2 + $default-padding * 2;
+      transform: rotate(-45deg);
+      transform-origin: 0 0;
+      color: $red;
+      font-size: 1.5em;
+      text-transform: lowercase;
+      @media (max-width: $max-width) {
+        left: $default-padding;
+        margin-left: 0;
+      }
+      @media (max-width: $max-width/12*7) {
+        position: absolute;
+        left: auto;
+        margin-left: 0;
+        right: 1.7em;
+        top: 2.8em;
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+.filmblock {
+  .center {
+    padding-top: 6.3em;
+    main {
+      header {
+        margin-bottom: 3em;
+        .text {
+          float: left;
+          width: $raster-width * 6;
+          padding: 0 $default-padding;
+          h1 {
+            margin-top: 0;
+          }
+          .button {
+            color: $black;
+            border-color: $black;
+            &:focus, &:hover {
+              color: white;
+              background-color: $black;
+            }
+          }
+          @media (max-width: $max-width/12*7) {
+            float: none;
+            margin-bottom: 2em;
+            width: 100%;
+            padding: 0;
+          }
+        }
+        .video {
+          position: relative;
+          float: right;
+          width: $raster-width * 6;
+          padding: 0 $default-padding;
+          cursor: pointer;
+          .play {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin: -1.5em;
+            width: 3em;
+            height: 3em;
+            fill: white;
+            transition: $default-duration;
+            &.hidden {
+              opacity: 0;
+            }
+          }
+          &:focus, &:hover {
+            svg {
+              fill: $red;
+            }
+          }
+          img, video, iframe {
+            width: 100%;
+          }
+          iframe {
+            height: 17.8em;
+            @media (max-width: $max-width) {
+              height: calc((50vw - 40px) / 16 * 9);
+            }
+            @media (max-width: $max-width/12*7) {
+              height: calc((100vw - 72px) / 16 * 9);
+            }
+            @media (max-width: $max-width/12*6) {
+              height: calc((100vw - 32px) / 16 * 9);
+            }
+          }
+          @media (max-width: $max-width/12*7) {
+            float: none;
+            width: 100%;
+          }
+          @media (max-width: $max-width/12*6) {
+            padding: 0;
+          }
+        }
+      }
+    }
+  }
+  &.archive {
+    .center {
+      padding-top: 8.3em;
+    }
+  }
+}

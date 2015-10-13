@@ -1,0 +1,157 @@
+.mainnav {
+  z-index: 10;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding: 0.25em 0 0;
+  overflow: hidden;
+  @media (max-width: $max-width) {
+    padding-left: $default-padding;
+    padding-right: $default-padding;
+  }
+  .togglenav {
+    display: none;
+  }
+  .nav-1, .nav-2, .nav-3 {
+    display: flex;
+    margin: 0 auto;
+    max-width: $max-width;
+    margin: 0 auto;
+    overflow: auto;
+    a {
+      display: flex;
+      margin: 0 -1px;
+      padding: 0.3em;
+      flex: 1 0 4em;
+      color: $red;
+      text-transform: lowercase;
+      letter-spacing: 0.04em;
+      border: 2px solid $red;
+      background: white;
+      line-height: 1.15;
+      overflow: hidden;
+      span {
+        margin: auto;
+        height: 1em;
+      }
+      svg {
+        margin: auto;
+        height: 18px;
+        fill: $red;
+        transition: $default-duration * 2;
+      }
+      &:focus, &:hover, &.active {
+        color: white;
+        background: $red;
+        svg {
+          fill: white;
+        }
+      }
+      &:first-of-type {
+        margin-left: 0;
+      }
+      &:last-of-type {
+        margin-right: 0;
+      }
+    }
+  }
+  .nav-1 {
+    height: 2.5em;
+  }
+  .nav-2, .nav-3 {
+    margin-top: -2px;
+    height: 2em;
+    a {
+      font-size: 0.9em;
+    }
+  }
+  @media (max-width: $max-width/12*7) {
+    padding: $default-padding*0.8*3 $default-padding*0.8 0;
+    display: flex;
+    right: auto;
+    width: $default-padding*4;
+    height: $default-padding*4;
+    background: url(../images/corner-red-tl.svg) top left no-repeat;
+    background-size: $default-padding*4;
+    transition: $default-duration * 2;
+    &.open {
+      background-color: white;
+      background-position: -100% -100%;
+      box-sizing: border-box;
+      height: 100vh;
+      width: 100vw;
+      transition-delay: 0s;
+    }
+    a.togglenav {
+      z-index: 1;
+      position: absolute;
+      left: 0;
+      top: 0;
+      display: block;
+      padding: $default-padding*0.8 $default-padding*2.4 $default-padding*2.4 $default-padding*0.8;
+      box-sizing: content-box;
+      width: $default-padding;
+      height: $default-padding;
+      border: none;
+      span {
+        display: block;
+        margin: 4px 0;
+        height: 2px;
+        width: 100%;
+        background-color: white;
+        transition: $default-duration;
+      }
+    }
+    &.open a.togglenav {
+      padding: $default-padding*0.8 $default-padding*0.8 $default-padding*0.8 $default-padding*0.8;
+      span {
+        background-color: $red;
+        transition-delay: 0s;
+      }
+      span:nth-of-type(1) {
+        transform: rotate(-45deg) translate(-2px, 2.5px);
+      }
+      span:nth-of-type(2) {
+        display: none;
+      }
+      span:nth-of-type(3) {
+        transform: rotate(45deg) translate(-2px, -2px);
+      }
+    }
+    .nav-1, .nav-2, .nav-3 {
+      display: block;
+      height: 100%;
+      margin: 0;
+      opacity: 0;
+      transition: $default-duration * 2;
+      a {
+        width: 100%;
+        margin: 0;
+        margin-bottom: -2px;
+      }
+    }
+    &.open .nav-1, &.open .nav-2, &.open .nav-3 {
+      transition-delay: $default-duration * 2;
+      opacity: 1;
+    }
+    .nav-1 {
+      flex: 0 2 14em;
+      a {
+        height: 2.4em;
+      }
+    }
+    .nav-2, .nav-3 {
+      margin-top: 0;
+      margin-left: -2px;
+      padding-bottom: 2.67em;
+      flex: 0 1.6 14em;
+      a {
+        height: 2.67em;
+      }
+    }
+    .nav-3 {
+      flex-shrink: 1.2;
+    }
+  }
+}

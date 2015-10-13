@@ -1,0 +1,39 @@
+.press {
+  .center {
+    main {
+      float: left;
+      margin-left: $raster-width;
+      width: $raster-width * 6;
+      padding: 0 $default-padding;
+      @media (max-width: $max-width/12*7) {
+        float: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+      }
+    }
+    aside {
+      float: right;
+      width: $raster-width * 4;
+      @media (max-width: $max-width) {
+        margin-right: $default-padding;
+        width: $raster-width * 4;
+      }
+      @media (max-width: $max-width/12*7) {
+        float: none;
+        width: auto;
+        margin: 3em 0 0;
+      }
+      .downloads {
+        margin-bottom: 0.5em;
+        width: 75%;
+        padding: $default-padding;
+        border: 2px solid $red;
+        border-bottom: none;
+        border-right: none;
+        color: $red;
+        background: url(../images/corner_bg-redoutline-br-small.svg) bottom right;
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.contact {
+  .center {
+    main {
+      float: left;
+      margin-left: $raster-width;
+      width: $raster-width * 6;
+      padding: 0 $default-padding;
+      @media (max-width: $max-width/12*7) {
+        float: none;
+        margin-left: 0;
+        padding: 0;
+        width: 100%;
+      }
+    }
+    aside {
+      float: right;
+      width: $raster-width * 4;
+      @media (max-width: $max-width) {
+        margin-right: $default-padding;
+        width: $raster-width * 4;
+      }
+      @media (max-width: $max-width/12*7) {
+        float: none;
+        margin: 3em 0 0;
+        width: 100%;
+      }
+    }
+  }
+}

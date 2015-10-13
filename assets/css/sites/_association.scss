@@ -1,0 +1,19 @@
+.association {
+  .center {
+    main {
+      margin: 0 auto;
+      width: $raster-width * 10;
+      img {
+        width: 100%;
+      }
+      @media (max-width: $max-width/12*10) {
+        margin: 0 $default-padding;
+        width: auto;
+      }
+      @media (max-width: $max-width/12*7) {
+        margin: 0;
+        width: auto;
+      }
+    }
+  }
+}

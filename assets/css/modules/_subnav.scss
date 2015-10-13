@@ -1,0 +1,39 @@
+.subnav {
+  margin-top: -0.5em;
+  margin-bottom: 2em;
+  text-align: center;
+  text-transform: lowercase;
+  @media (max-width: $max-width/12*7) {
+    margin-top: -2em;
+  }
+  a {
+    margin: 0 $default-padding/2 1em;
+    padding: 0 $default-padding/2;
+    border: none;
+    display: inline-block;
+    letter-spacing: 0.02em;
+    @media (max-width: $max-width/12*10) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    @media (max-width: $max-width/12*8) {
+      letter-spacing: 0em;
+      padding-left: $default-padding/3;
+      padding-right: $default-padding/3;
+    }
+    @media (max-width: $max-width/12*8) {
+      margin-bottom: 0.5em;
+    }
+    span {
+      display: inline-block;
+      margin-bottom: 0.4em;
+      border-bottom: 2px solid transparent;
+      transition: $default-duration;
+    }
+    &:focus, &:hover, &.active {
+      span {
+        border-color: $red;
+      }
+    }
+  }
+}

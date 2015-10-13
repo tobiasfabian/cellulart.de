@@ -10,4 +10,6 @@ fields:
   text:
     label: Text
     type:  textarea
-    size:  large
+    buttons:
+      - link
+      - email

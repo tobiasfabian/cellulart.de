@@ -1,0 +1,66 @@
+.jury {
+  .center {
+    @media (max-width: $max-width/12*7) {
+      padding-top: 2em;
+    }
+    header {
+      position: relative;
+      height: 2em;
+      margin: 0 $default-padding;
+      @media (max-width: $max-width/12*4.5) {
+        margin: 0;
+        height: 4em;
+      }
+      h1.jury-title {
+        position: absolute;
+        top: 2em;
+        left: -0.3em;
+        margin-bottom: 1em;
+        color: $red;
+        transform: rotate(-45deg);
+      }
+    }
+    .jury-member {
+      margin: 0 0 2em;
+      float: left;
+      width: $raster-width*4;
+      padding: 0 $default-padding;
+      &:nth-of-type(5), &:nth-of-type(9) {
+        clear: both;
+      }
+      @media (max-width: $max-width/12*9) {
+        width: $raster-width*6;
+        &:nth-of-type(4), &:nth-of-type(8) {
+          clear: both;
+        }
+      }
+      @media (max-width: $max-width/12*6) {
+        float: none;
+        margin: 0 0 3em !important;
+        width: 100%;
+        padding-left: $default-padding*4;
+        padding-right: $default-padding*4;
+      }
+      @media (max-width: $max-width/12*4.5) {
+        padding: 0;
+      }
+      h2 {
+        margin-bottom: 2em;
+        text-align: center;
+      }
+      img {
+        margin: 2em auto;
+        height: 10em;
+      }
+      .text-center {
+        text-align: center;
+        p {
+          hyphens: none;
+        }
+      }
+      p {
+        hyphens: auto;
+      }
+    }
+  }
+}

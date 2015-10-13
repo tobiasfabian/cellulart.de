@@ -1,0 +1,43 @@
+.social_media {
+  a {
+    float: left;
+    display: flex;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    height: 2em;
+    min-width: 2em;
+    padding: 0 2px 2px 0;
+    text-align: center;
+    color: $red;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: 2px solid $red;
+    border-bottom: none;
+    border-right: none;
+    background: url(../images/button-social_media.svg) bottom right no-repeat;
+    svg {
+      margin: auto;
+      fill: $red;
+      transition: $default-duration;
+    }
+    span {
+      margin: auto;
+      font-size: 0.8em;
+    }
+    &:focus, &:hover {
+      background-color: $red;
+      color: white;
+      svg {
+        fill: white;
+      }
+    }
+    &.press, &.bildflimmern {
+      position: relative;
+      width: 5em;
+      padding-top: 0.3em;
+    }
+    &.bildflimmern {
+      width: 4em;
+    }
+  }
+}

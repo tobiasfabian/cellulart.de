@@ -1,0 +1,84 @@
+.become-a-member {
+  .center {
+    header {
+      position: fixed;
+      left: 50%;
+      top: 14em;
+      margin-left: - $max-width / 2 + $default-padding;
+      color: $red;
+      width: 10em;
+      transform: rotate(-45deg);
+      transform-origin: 0 0;
+      h1, h2 {
+        margin: 0;
+      }
+      h1 {
+        margin-bottom: 0.25em;
+      }
+      @media (max-width: $max-width) {
+        left: $default-padding;
+        margin-left: 0;
+      }
+      @media (max-width: $max-width/12*7) {
+        position: absolute;
+        left: 1em;
+        top: 7em;
+      }
+    }
+    aside {
+      position: fixed;
+      left: 50%;
+      top: 20em;
+      margin-left: - $max-width / 2 + $default-padding;
+      width: ($max-width - $default-padding) / 12 * 3;
+      padding: $default-padding;
+      border: 2px solid $red;
+      border-bottom: none;
+      border-right: none;
+      color: $red;
+      background: url(../images/corner_bg-redoutline-br-small.svg) bottom right;
+      @media (max-width: $max-width) {
+        left: $default-padding;
+        margin-left: 0;
+        width: $raster-width * 3;
+      }
+      @media (max-width: $max-width/12*9) {
+        width: $raster-width * 4;
+      }
+      @media (max-width: $max-width/12*7) {
+        position: static;
+        margin: 5em auto 3em;
+        width: auto;
+        max-width: $max-width/12*5;
+      }
+      h1 {
+        font-size: 1.2em;
+        &:first-of-type {
+          margin-top: 0;
+        }
+      }
+      a {
+        display: inline-block;
+        line-height: 0.8em;
+        border-bottom: 2px solid transparent;
+        &:focus, &:hover {
+          border-bottom-color: $red;
+        }
+      }
+    }
+    main {
+      margin: 0 $raster-width * 4;
+      width: $raster-width * 6;
+      padding: 0 $default-padding;
+      @media (max-width: $max-width/12*9) {
+        margin-left: $raster-width * 5;
+        width: $raster-width * 7;
+      }
+      @media (max-width: $max-width/12*7) {
+        margin: 0;
+        padding: 0;
+        width: auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+.page {
+  .center {
+    .text, .gallery {
+      &:first-of-type {
+        padding-top: 0;
+      }
+    }
+    .text {
+      margin: 0 auto;
+      width: $raster-width * 6;
+      padding: 3em $default-padding;
+      @media (max-width: $max-width/12*10) {
+        width: $raster-width * 8;
+      }
+      @media (max-width: $max-width/12*7) {
+        padding-left: 0;
+        padding-right: 0;
+        width: auto;
+      }
+      figure {
+        margin-bottom: 1em;
+        img, video {
+          max-width: 100%;
+        }
+        iframe {
+          width: 100%;
+          height: 100%;
+          height: 18em;
+          @media (max-width: $max-width) {
+            height: calc(((50vw - 40px) / 16 * 9);
+          }
+          @media (max-width: $max-width/12*10) {
+            height: calc(((66.666667vw - 40px) / 16 * 9);
+          }
+          @media (max-width: $max-width/12*7) {
+            height: calc(((100vw - 32px) / 16 * 9);
+          }
+        }
+        @media (max-width: $max-width/12*7) {
+          margin-left: -$default-padding;
+          margin-right: -$default-padding;
+        }
+        @media (max-width: $max-width/12*6) {
+          margin-left: -$default-padding;
+          margin-right: -$default-padding;
+        }
+      }
+    }
+  }
+  &.archive {
+    .center {
+      padding-top: 8.3em;
+    }
+  }
+}

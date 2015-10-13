@@ -1,0 +1,37 @@
+$red: #EA564B;
+$black: hsl(0,0%,5%);
+$font: 'FranklinGothicURW-Med', 'Franklin Gothic', Helvetica, sans-serif;
+$max-width: 1130px;
+$default-padding: 20px;
+$default-duration: 150ms;
+$raster-width: 100% / 12;
+
+@import 'reset';
+@import 'fonts';
+@import 'raster';
+
+@import 'modules/mainnav';
+@import 'modules/subnav';
+@import 'modules/mainfooter';
+@import 'modules/social_media';
+@import 'modules/gallery';
+@import 'modules/films';
+
+@import 'sites/page';
+@import 'sites/homepage';
+@import 'sites/news';
+@import 'sites/festival';
+  @import 'sites/call-for-entries';
+  @import 'sites/competition';
+  @import 'sites/filmblock';
+  @import 'sites/jury';
+  @import 'sites/sponsors';
+@import 'sites/association';
+  @import 'sites/member';
+  @import 'sites/become-a-member';
+  @import 'sites/history';
+@import 'sites/archive';
+  @import 'sites/archive_entry';
+@import 'sites/press';
+@import 'sites/contact';
+@import 'sites/error';
