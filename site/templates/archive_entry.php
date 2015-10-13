@@ -64,7 +64,7 @@
         if(count($filenames) < 2) $filenames = array_pad($filenames, 2, '');
         $files = call_user_func_array(array($page->files(), 'find'), $filenames);
         foreach($files as $file) : ?>
-        <a href="<?=$file->url()?>" class="button" download="<?=$file->filename()?>"><?=$file->filename().' ('.$file->niceSize().')'?></a>
+        <a href="<?=$file->url()?>" class="button" download="<?=$file->filename()?>" target="_blank"><?=$file->filename().' ('.$file->niceSize().')'?></a>
         <?php endforeach ?>
     </section>
     <?php endif ?>
