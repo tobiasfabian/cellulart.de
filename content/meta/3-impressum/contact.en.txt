@@ -24,10 +24,11 @@ Robin Weißenborn
 ## Webdesign
 (link: https://tobiaswolf.me text: Tobias Wolf popup: true)
 
-Font: Franklin Gothic Medium, CMS: Kirby, JavaScript Library: Underscore.js
+Font: Franklin Gothic Medium, CMS: Kirby
+The source code of the website is available on (link: https://github.com/tobiasfabian/cellulart.de text: GitHub popup: true).
 
 ## Privacy Notice
-This website uses the web analytics service Google Analytics. Google Analytics uses Cookies, that enable an analysis of the usage of this website.  For this purpose the data acquired by the Cookie is transferred to a server and saved for further usage analysis. During this process the IP-address is immediately anonymised. The data acquired in this process will of course not be forwarded to third parties. The use of Cookies can be prevented with certain settings on your browser.
+This website uses the web analytics service Piwik. Piwik uses Cookies, that enable an analysis of the usage of this website.  For this purpose the data acquired by the Cookie is transferred to our server and saved for further usage analysis. During this process the IP-address is immediately anonymised. The data acquired in this process will of course not be forwarded to third parties. The tracking of analytics services and use of Cookies can be prevented with certain settings on your browser.
 
 ----
 
