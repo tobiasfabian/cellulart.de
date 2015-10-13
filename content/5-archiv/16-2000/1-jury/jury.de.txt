@@ -1,0 +1,53 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Heike Melcher-Heller
+  image:
+  text: Mitbegründerin Film e.V. Jena
+  _fieldset: jury-member
+- 
+  name: 'Falk Heunemann '
+  image:
+  text: >
+    Chefredakteur des Akrützel im Jahr
+    1999/2000
+  _fieldset: jury-member
+- 
+  name: 'Ron Winkler '
+  image:
+  text: >
+    freier Autor und Herausgeber der
+    Literaturzeitschrift „Intendenzen“
+  _fieldset: jury-member
+- 
+  name: Stefan Höltgen
+  image:
+  text: >
+    Lektor, Buchautor und Dozent mit dem
+    Forschungsschwerpunkt Film
+  _fieldset: jury-member
+- 
+  name: Helga Rek
+  image:
+  text: >
+    StuRa-Mitglied 2000, Bereich
+    Kulturförderung
+  _fieldset: jury-member
+- 
+  name: Anett Kretzschmar
+  image:
+  text: >
+    Kulturbeauftragte des Studentenwerks
+    Jena-Weimar
+  _fieldset: jury-member

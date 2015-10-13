@@ -1,0 +1,68 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Fachjury
+  _fieldset: jury-title
+- 
+  name: Timo Becker
+  image: regisseur_timo_becker.jpg
+  text: 'Timo Becker studierte Regie am renommierten American Film Institute in Los Angeles und erhielt einen Dipl. Ing. der audiovisuellen Medien von der Hochschule der Medien in Stuttgart. Neben seiner Arbeit als Regisseur und Autor war er auch in nahezu jedem weiteren Bereich der Film- und Medienproduktion tätig. Sein Kurzfilm »Mädchenabend« wurde 2012 auf dem Festival Max Ophüls Preis und beim 13. cellu l’art vom Publikum zum besten Kurzfilm gekürt. Zur Zeit entwickelt er sein Langfilm-Debut »Zwei Schwestern« und arbeitet nebenher als freier Regisseur, Kameramann, Cutter und Dozent.'
+  _fieldset: jury-member
+- 
+  name: Germaine Paulus
+  image: germainepaulus.jpg
+  text: 'Germaine Paulus (* 1972 in Saarlouis) arbeitete nach dem Abschluss des Studiums an der Hochschule der Bildenden Künste Saar als Texterin sowie als Kolumnistin für mehrere Magazine. Die gemeinsame Liebe zum fantastischen Film brachte sie 2002 mit Andreas Peter und Yazid Benfeghoul und deren Independent-Magazin »Gory News« zusammen. Nach 4 Jahren der gemeinsamen Tätigkeit gründete Paulus mit Peter und Benfeghoul Ende 2006 »Deadline - das Filmmagazin«. Seitdem ist sie Mitglied der Redaktion. Germaine Paulus lebt und arbeitet in Saarbrücken.'
+  _fieldset: jury-member
+- 
+  name: Jonas Zipf
+  image: jonas-zipf.jpg
+  text: 'Jonas Zipf studierte Psychologie an der FU Berlin sowie Sprechtheater- und Musiktheater-Regie an der Bayerischen Theaterakademie »August Everding«. Als freier Dramaturg, Autor und Regisseur arbeitete er für verschiedene freie Produktionen (u.a.: Théâtre Alfortville Paris, kampnagel Hamburg, tacheles Berlin, Schauspielhaus Zürich). Zuletzt inszenierte er die Erstaufführung von »Flüchtlinge« am Thalia Theater in Hamburg. Seit dem Wintersemester 2010 / 2011 promoviert er an der HfBK Hamburg zu urbanistischer Kunst. Derzeit ist er Mitglied der Künstlerischen Leitung am Theaterhaus Jena.'
+  _fieldset: jury-member
+- 
+  title: Jugendjury
+  _fieldset: jury-title
+- 
+  name: Lukas Spantzel
+  image: lukas.jpg
+  text: >
+    Ich bin Lukas, 18 Jahre alt und mache
+    momentan Abitur am Angergymnasium in
+    Jena. In meiner Freizeit treffe ich mich
+    gern mit Freunden, höre Musik und
+    schaue Filme. Ich interessiere mich für
+    das cellu l’art Filmfestival, weil ich
+    selbst schon an einem Kurzfilm
+    mitgewirkt habe.
+  _fieldset: jury-member
+- 
+  name: Arabella Vogel
+  image: arabella.jpg
+  text: >
+    Mein Name ist Arabella, ich bin 16 Jahre
+    alt. Ich gehe in die 11. Klasse des
+    Christlichen Gymnasium in Jena. Am
+    liebsten schaue ich alte
+    Sherlock-Holmes-Krimis. Beim Film
+    interessiert mich am meisten die
+    Entstehung des Drehbuchs, die Geschichte
+    und die Dialoge der Protagonisten.
+  _fieldset: jury-member
+- 
+  name: Dennis König
+  image: dennis.jpg
+  text: >
+    Ich bin Dennis, 18 Jahre alt. Ich mache
+    zur Zeit mein Abitur am Angergymnasium
+    in Jena. Am liebsten schaue ich
+    gesellschaftskritische Filme. Deutsche
+    Filme mag ich lieber als
+    Hollywood-Produktionen.
+  _fieldset: jury-member

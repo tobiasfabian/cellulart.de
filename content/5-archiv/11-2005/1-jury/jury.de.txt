@@ -1,0 +1,46 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Torsten Cott
+  image:
+  text: >
+    Mitglied im Rundfunkrat des MDR,
+    betreibt eigenes Schnittstudio
+  _fieldset: jury-member
+- 
+  name: Uwe Fleischer
+  image:
+  text: >
+    Kameramann, lehrt Tricktechnik an der
+    HFF Potsdam
+  _fieldset: jury-member
+- 
+  name: Juliane Fuchs
+  image:
+  text: >
+    Leiterin des ‚backup_festivals‘ in
+    Weimar
+  _fieldset: jury-member
+- 
+  name: Sven Hain
+  image:
+  text: >
+    freier Regisseur (führte auch Regie
+    beim cellu l’art-Trailer)
+  _fieldset: jury-member
+- 
+  name: Boris Ausserer
+  image:
+  text: Produzent bei Bavaria Film
+  _fieldset: jury-member

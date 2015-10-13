@@ -1,0 +1,23 @@
+Title: Spielort
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Spielort
+    Volksbad Jena
+  text: |
+    Das Volksbad hat eine bewegte Geschichte. Zwischen 1907 und 1909 erbaut, wurde es mit seinem Schwimmbecken, Saunen und medizinischen Bädern schnell zu einer
+    Begegnungsstätte der Jenaer Bevölkerung und zu einem beliebten Ort des kulturellen
+     Austauschs. Nach der Schließung des denkmalgeschützten Hauses im Jahre 2001 drohte ihm eine ungewisse Zukunft. Doch dann wurde es umgebaut, 2007 wiedereröffnet und zu einem beliebten Veranstaltungsort der Jenaer Kulturszene. Nach 2012 findet das Kurzfilmfestival cellu l’art das zweite Mal in dieser traditionsreichen Location statt.
+    
+    Volksbad Jena
+    Knebelstraße 10, Jena
+    (link: http://www.volksbad-jena.de text: www.volksbad-jena.de popup: true)
+  _fieldset: text

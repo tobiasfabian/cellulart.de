@@ -1,0 +1,32 @@
+Title: Wettbewerb 5
+
+----
+
+Subtitle: Kribbeln und Krawall
+
+----
+
+Meta-description: 
+
+----
+
+Text: Ob aus Sehnsucht, Lust oder Langeweile: Hier geht es um Menschen, die nach dem Unbekannten, dem Aufregenden oder einfach der Freiheit streben – und zwar solange, bis es knallt. Kribbeln garantiert!
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-24
+  time: 20:00
+- 
+  date: 2014-04-26
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

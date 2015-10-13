@@ -1,0 +1,40 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: Wir wollen im Rahmen des 16. Kurzfilmfestivals einen Einblick in die Thematik des irischen Kurzfilms gewähren
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Länderschwerpunkt 2015
+    Irland
+  text: |
+    „Éirinn go brách!“ Der 12. Länderschwerpunkt des internationalen Kurzfilmfestivals cellu l’art ist 2015 Irland. Die grüne Insel weckt Gedanken an unberührte Natur, eine rege Pub Kultur und jede Menge Regen. Wir möchten mit einer Sammlung von irischen Kurzfilmen zeigen, welcher Facettenreichtum die irische Kultur und vor allem den irischen Film ausmachen.
+    Oft auf landschaftliche und touristische Ideen reduziert, bietet Irland bei genauerem Hinsehen eine extreme Vielfalt in Kultur und Gesellschaft. Für seine kompakte Größe ist Irland ein außerordentlich produktives Filmland. Neben vielen Vorlagen irischer Geschichte, die in Hollywood Anklang finden, hat das Land selbst einen großen Output an hochwertigen Filmen, die international häufig erfolgreich sind. Um nur ein Beispiel zu nennen: In den vergangenen 10 Jahren wurden 2 Kurzfilme mit dem Oscar® ausgezeichnet, 6 weitere waren in den Kategorien Kurzspielfilm beziehungsweise Animation für die begehrte Trophäe nominiert.
+    
+    Dass die Iren talentierte Geschichten Erzähler sind, stellen sie immer wieder unter Beweis. Sie sind großartige Gastgeber und in einer liebevollen Weise stolz auf ihr Land., das sie wie ihre Westentasche kennen. Wo auch immer man auf der Insel Fuß setzt, wird man auf Einheimische treffen, die einen in wenigen Minuten in interessante Gespräche verwickeln. In Pubs wird man zwischen Live-Musik Menschen treffen, die gern Geschichten erzählen. Die erzählte Tradition wird auch über den stolzen Erhalt der Irischen Sprache weitergetragen. Diese wird in Irland als Nationalschatz behandelt. Kaum verwundert es, dass einige der größten  Erzähler der vergangenen Jahrhunderte von der grünen Insel kommen. Bram Stoker, Jonathan Swift und Samuel Beckett zählen da nur zu den größten Namen der irischen Nationalpoeten.
+    
+    Neben den Schriftstellern der modernen Zeit ist in der irischen Kultur auch die Mythologie vergangener Zeiten sehr wichtig. Diese wird immer wieder rezitiert, neu erfunden und in die moderne Tradition des Landes integriert. Jeder Ire kennt die Märchen der Feen und Kobolde, und darüber hinaus die des wohl bekanntesten Volkshelden – St. Patrick. Auf ihm beruht der Nationalfeiertag, der mittlerweile in großen Teilen der Welt gefeiert wird. Zu den Traditionen der Iren zählt auch ihre formenreiche Festivalkultur. Das Spektrum geht über kulinarische , musikalische und filmische Festivals weit hinaus. Diese reichhaltige Festivalszene wirkt sich auch auf den Output an kulturellen Werken aus.
+    
+    Weiterhin zeichnet sich das kleine Inselvölkchen durch seine Weltoffenheit aus, die mit ihrem Nationalstolz einhergeht. So sehen sich die Iren oft als ein Volk, das wiederholt auswandert und viele Verbindungen zum Ausland hat. Dies ist seit der großen Hungersnot tatsächlich der Fall. Große Bevölkerungsteile ferner Länder, wie zum Beispiel der USA, sind stolz darauf, Irische Wurzeln zu haben. Diese Verbundenheit mit der Welt trägt genau so enorm zur positiven Wahrnehmung der Iren bei wie ihre ehrliche, sympathische Art. All die erwähnten Aspekte werden im Irischen Kurzfilm aufgenommen, und angesprochen. Diese Vielfalt macht unseren Länderschwerpunkt zu einem großen Highlight des cellu l’art Festivals, dass ihr auf keinen Fall verpassen solltet.
+    
+    (vimeo: https://vimeo.com/125180391)
+  _fieldset: text
+- 
+  h1: |
+    Grußwort S.E. Michael Collins,
+    Botschafter von Irland in Deutschland
+  text: |
+    Es ist mir eine große Freude, dass Irland als Länderschwerpunkt des 16. internationalen Kurzfilmfestivals cellu l’art in Jena auserkoren wurde. Die Botschaft von Irland in Deutschland hat sich der Förderung Irlands in Deutschland verschrieben. Wie ließe sich dieses Unterfangen besser in die Tat umsetzen als durch eine Kurzfilmreihe, in der die angebotene Vielfalt unserer Kultur, Landschaft und Bevölkerung in Szene gesetzt wird.
+    Sowohl Anzahl als auch Qualität der gezeigten Filme zeugen davon, dass die irische Filmindustrie heute mehr floriert als je zuvor. Irische Produktionen der Film-, Fernseh- und Animationsindustrie haben 2014 zum dritten Mal in Folge alle Rekorde gebrochen – nicht zuletzt aufgrund der herausragenden Begabung und Kreativität irischer Kunstschaffender.
+    Das Festivalpublikum wird sich gewiss nicht nur einmal ein Bild davon machen können. Am 1. Januar 2015 sind darüber hinaus neue Regelungen zu Steuervergünstigungen im Filmbereich in Kraft getreten. Bis zu 32% der Ausgaben können nun als förderfähig geltend gemacht werden – eine weitere Fördermaßnahme im Bereich der Filmproduktion und deutliches Zeichen der Unterstützung des Filmsektors durch die irische Regierung.
+    Ich hoffe, dass dieses Festival das Publikum dazu anregt, nach Irland zu reisen und sich auf Spurensuche der Drehorte der gezeigten Filme zu begeben. Möglicherweise drehen einige von Ihnen gar ihren nächsten Film in Irland. Fest steht, dass wir Sie alle herzlich mit einem traditionellen „Céad Míle Fáilte“ willkommen heißen werden.
+    
+    Empfang mit Botschafter Michael Collins
+    Mi, 22. April, 19 Uhr
+    Volksbad Jena
+  _fieldset: text

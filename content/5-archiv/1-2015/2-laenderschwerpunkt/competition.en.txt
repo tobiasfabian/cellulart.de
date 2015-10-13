@@ -1,0 +1,24 @@
+Title: Local Focus
+
+----
+
+Meta-description: In the context of the 16th cellu l’art in April 2015, we attempt to provide an insight to Irish short film
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Focus on
+    Ireland
+  text: |
+    „Éirinn go brách!“ Ireland is the 2015 national focus of the International Short Film Festival cellu l’art, the 12th country to be subject of this tradition. The emerald isle evokes pictures of unspoiled nature, a lively pub culture and a whole lot of rain. And while these images might be true, we strive to enrich your idea of Ireland with a collection of highly renowned Irish short films. The films will shed light on numerous aspects of Irish culture and encompass the facets of Irish film.
+    
+    Ireland is often reduced to the touristic ideals of landscape and city life. Far beyond this superficial image, the country offers a great variety of culture. Considering its compact size, Ireland proves to be a very productive film country. There are several events in Irish history that have been adapted for the screen, even in Hollywood. The country itself has a very high output of films that are internationally popular. For example: Over the past 10 years 2 Irish short films have been awarded with the Oscar®, the most renowned award in film industry. 6 more short films were nominated for the popular prize in the categories best live action drama and animation.
+    The Irish people are great story tellers, a fact that they prove frequently. They are also great hosts and fond of their country in an affectionate way. Wherever you set foot on this beautiful island, you will meet locals that immerse you in gripping conversations within minutes. A visitor to Ireland finds that the pub culture transcends the mere imbibing of beer, with pubs being a social place of laughter, stories, and the occasional argument. The oral tradition is also inherited in the Irish language that is kept alive proudly through the generations, treated like a national treasure. It is very plausible that some of the best story tellers ever come from Éire, as Ireland is called in Gaelic. Bram Stoker, Jonathan Swift and Samuel Beckett are only a few great names picked out of a literary power house of national poets.  
+    
+    Besides the writers of contemporary times, the Irish culture strongly depends on the mythology of times past. These stories are often recited, reinterpreted and integrated into Ireland’s modern tradition. Every Irish man knows at least one tale about the fairies and the leprechauns and the strong, valiant heroes of old, of which the greatest and most widely known national hero is St. Patrick. He is the foundation of the national holiday that is nowadays celebrated all across the globe. A diverse festival landscape is also part of the Irish tradition. The spectrum covers culinary, literary, musical and cinematic festivals and many more. This rich festival culture is one reason why the cultural productivity of this country goes beyond expectation.
+    
+      The island nation is also known for its cosmopolitanism that goes hand in hand with their sense of nationality. In that way large portions of the earth are enriched by the Irish culture. Furthermore, this fact ensures that Ireland has ties all around the world. The connectedness to the world coins a very positive image of the Irish just as much as their honest, likable nature. All of the aspects mentioned above will be portrayed in the Irish short films selected for the short film festival. This diversity will make the “Focus on Ireland” a highlight at the cellu l’art Festival that you should not miss under any circumstances.
+  _fieldset: text

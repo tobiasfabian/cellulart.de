@@ -1,0 +1,51 @@
+Title: Competition 3
+
+----
+
+Subtitle: Mischief Makers
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+„Grober Unfug: früher geltender Straftatbestand, der nunmehr durch §118 Ordnungswidrigkeitengesetz erfasst ist.“ – Bundeszentrale für politische Bildung.
+Die Störung der Ordnung – das steht im Zentrum dieser Filme. Ob die Menschen in absurde Situationen geraten oder selber welche verursachen: Sie setzen sich über die bestehende Ordnung hinweg. Und betreten damit eine andere Welt.
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-22
+  time: 22:00
+- 
+  date: 2015-04-24
+  time: 20:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

@@ -1,0 +1,28 @@
+Title: Thüringen im Fokus
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Thüringen im Fokus
+  text: >
+    „Warum in die Ferne schweifen, wenn
+    das Gute liegt so nah?“ Zum ersten Mal
+    präsentieren wir Thüringen als unsere
+    Heimat und Ursprung aufstrebender
+    Filmtalente. Lena Liberta und Markus
+    Dietrich sind nur zwei von vielen
+    regionalen Filmemachern, die sich in der
+    Kurzfilmwelt bereits behaupten konnten.
+  _fieldset: text
+- 
+  h1: |
+    Thüringen
+    Kinderkurzfilmland
+  text: 'Zum ersten Mal bieten wir auch für die jüngeren Zuschauer ein speziell zusammengestelltes Programm. Im Rahmen des Themenschwerpunktes „Thüringen: Kinderkurzfilmland“ zeigen wir an zwei Tagen Filmreihen geeignet für die Altersgruppen ab acht und ab zwölf Jahren. Den Kinobesucher erwartet ein buntes Programm an Animations- und Spielfilmen sowie von Kindern für Kinder gedrehte Filme des „Eine Welt Netzwerk Thüringen e.V.“.'
+  _fieldset: text

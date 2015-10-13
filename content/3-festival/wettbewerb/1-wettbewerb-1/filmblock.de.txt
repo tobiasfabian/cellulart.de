@@ -1,0 +1,36 @@
+Title: Wettbewerb 1
+
+----
+
+Blockimage: wb1.png
+
+----
+
+Blockvideo: wb1.mp4
+
+----
+
+Subtitle: Schöne neue Welt?
+
+----
+
+Text: Ob aus Sehnsucht, Lust oder Langeweile: Hier geht es um Menschen, die nach dem Unbekannten, dem aufregenden oder einfach der Freiheit streben – und zwar solange, bis es knallt. Kribbeln garantiert!
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-22
+  time: 22:00
+- 
+  date: 2016-04-23
+  time: 21:15
+
+----
+
+Meta-description: Schöne neue Welt? – Ob aus Sehnsucht, Lust oder Langeweile.
+
+----
+
+Location: Volksbad Jena

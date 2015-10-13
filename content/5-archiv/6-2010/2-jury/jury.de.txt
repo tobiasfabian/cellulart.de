@@ -1,0 +1,57 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Roman Gonther
+  image: gonther.jpg
+  text: 'Roman Gonther, 1969 in Bad Nauheim geboren, studierte Germanistik mir dem Schwerpunkt Kinder- und Jugendbuchforschung und arbeitete als freier Cutter und Illustrator, sowie als Autor und Dramaturg u.a. für eine Kinderserie mit der "Augsburger Puppenkiste". Seit 2001 ist er als freier Regisseur, Illustrator und VFX Supervisor in Frankfurt a.M. und Weimar tätig.'
+  _fieldset: jury-member
+- 
+  name: Timo Hübsch
+  image: huebsch.jpg
+  text: >
+    Timo Hübsch wurde 1977 in Köln geboren
+    und absolvierte zunächst ein
+    BWL-Studium, bevor er sich als
+    Schauspieler ausbilden ließ. Seit 2004
+    spielte er zunächst Theater und stand
+    bereits für mehrere TV-Filme und
+    -Serien vor der Kamera. 2008 war er als
+    Regisseur mit seinem Kurzfilm "Adieu
+    Bonjour" beim Cellu l´art
+    Kurzfilmfestival mit im Wettbewerb.
+  _fieldset: jury-member
+- 
+  name: Dipl.-Math. Johannes Selle
+  image: selle.jpg
+  text: >
+    Johannes Selle wurde 1956 geboren und
+    absolvierte eine Ausbildung zum
+    Diplom-Mathematiker. Er ist Mitarbeiter
+    der Mitteldeutschen Medienförderung
+    GmbH Leipzig und war bis 2009 auch
+    Leiter des KinderMedienZentrums Erfurt.
+    Außerdem ist Johannes Selle Mitglied im
+    Bundestagsausschuss für Kultur und
+    Medien.
+  _fieldset: jury-member
+- 
+  name: Dr. Gloriana Gunarubini Selvanathan
+  image: selvanathan.jpg
+  text: 'Dr. Selvanathan wurde 1947 auf Sri Lanka geboren und studierte Medien an der Cambridge University. Sie ist seit 2004 ständiges Jurymitglied der Internationalen Filmfestspiele Tamil Nadu in Indien. Seit 2008 ist sie Programmdirektorin für das Asian Pacific Film Festival Berlin. Außerdem arbeitet sie als Buch- autorin und Dokumentarfilmerin.'
+  _fieldset: jury-member
+- 
+  name: Christine Wagner
+  image: wagner.jpg
+  text: 'Christine Wagner (Kamerafrau, bvk) wurde 1963 in Frankfurt a.M. geboren. Seit 18 Jahren tätig als Kameraassistentin und Camera Operator bei deutschen wie ausländischen Film- u. Fernsehproduktionen, avancierte vor 10 Jahren in Hollywood zur Kamerafrau. Heute arbeitet sie als freie Kamerafrau in Deutschland und den USA an Kinofilmen, Industriefilmen, Musikvideos uva.'
+  _fieldset: jury-member

@@ -1,0 +1,27 @@
+Title: 2000
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    1.
+    Platz
+  film: deeper
+
+----
+
+Text: Am 15. Januar 2000 feiert das Kurzfilmfestival Premiere. Das Schillerhofkino öffnet seine Pforten für Zuschauer, Presse, Freunde und Förderer. Die Veranstaltung ist damals noch sehr klein. 14 Beiträge können gezeigt werden, weniger von Regisseuren als vielmehr von Jenaer Studenten gedreht.
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: 

@@ -1,0 +1,32 @@
+Title: Wettbewerb 2
+
+----
+
+Subtitle: Love Actually?
+
+----
+
+Meta-description: 
+
+----
+
+Text: What is this feeling, which takes us up and down, let us be hopefull, let us be afraid, let us be passionate, let us even be violent sometimes, but never really realistic? Well might it be “love actually”?
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-23
+  time: 20:00
+- 
+  date: 2014-04-25
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

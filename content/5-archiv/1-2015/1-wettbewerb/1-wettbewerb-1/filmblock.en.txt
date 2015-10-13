@@ -1,0 +1,48 @@
+Title: Competition 1
+
+----
+
+Subtitle: Brave New World?
+
+----
+
+Meta-description: 
+
+----
+
+Text: Die Zukunft wartet auf uns! Wir tauchen ein in das Social-Media-Netz und entdecken, was das Morgen für uns bereithält. Neue Technologien versprechen, unser Leben einfacher zu machen – sorgen aber auch für ungeahnte Probleme.
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-22
+  time: 18:00
+- 
+  date: 2015-04-23
+  time: 22:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

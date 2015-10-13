@@ -1,0 +1,42 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Cornelia Erdmann
+  image:
+  text: Multimedia-Architektin
+  _fieldset: jury-member
+- 
+  name: Sarah Jasinszczak
+  image:
+  text: Leiterin des Jugendtheaters Jena
+  _fieldset: jury-member
+- 
+  name: Stephan Sarasi
+  image:
+  text: >
+    Gründer des Kurzfilmfestivals ‚short
+    cuts cologne‘
+  _fieldset: jury-member
+- 
+  name: Bernhard Sieger
+  image:
+  text: Medien-Dozent
+  _fieldset: jury-member
+- 
+  name: Rudolf Worschesch
+  image:
+  text: >
+    Chefedakteur der Zeitschrift ‚epd.
+    Film‘
+  _fieldset: jury-member

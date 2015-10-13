@@ -1,0 +1,33 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Länderschwerpunkt
+    Schweden
+  text: >
+    Einst mit Ingmar Bergman ein
+    internationaler Ein-Mann-Kult, wird die
+    schwedische Filmszene inzwischen von
+    jungen und ambitionierten Filmemachern
+    überschwemmt, die begeistert mit neuen
+    Filmtechniken experimentieren. Zum
+    ersten Mal wird dieses Jahr der beste
+    Film aus unserem Gastland mit einem
+    Preis in eigener Kategorie prämiert.
+  _fieldset: text
+- 
+  h1: |
+    Fotoausstellung
+    schwedische Impressionen
+  text: |
+    Die Thüringer Fotografen Katharina Schmidt und Christian Rothe haben auf ihrer Reise ins Land der Elche, Trolle und Seen bezaubernde Eindrücke gesammelt, die den Betrachter für einen Moment in die schwedische Traumwelt entführen.
+    Ab 13. April sind neben schwedischen Welten auch ausgewählte Bilder aus unserem regionalen Fotowettbewerb zu bestaunen. Zu sehen jeweils in der 27. Etage und im Foyer des Intershop Tower.
+  _fieldset: text

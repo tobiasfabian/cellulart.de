@@ -1,0 +1,52 @@
+Title: Wettbewerb 1
+
+----
+
+Subtitle: Schöne neue Welt?
+
+----
+
+Meta-description: 
+
+----
+
+Text: Die Zukunft wartet auf uns! Wir tauchen ein in das Social-Media-Netz und entdecken, was das Morgen für uns bereithält. Neue Technologien versprechen, unser Leben einfacher zu machen – sorgen aber auch für ungeahnte Probleme.
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-22
+  time: 18:00
+- 
+  date: 2015-04-23
+  time: 22:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125164932

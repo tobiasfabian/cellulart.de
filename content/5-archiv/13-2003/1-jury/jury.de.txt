@@ -1,0 +1,38 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Oliver Baumgarten
+  image:
+  text: Gründer des Filmmagazin ‚Schnitt‘
+  _fieldset: jury-member
+- 
+  name: Michael Engelhardt
+  image:
+  text: Tontechniker
+  _fieldset: jury-member
+- 
+  name: 'Stephan Gail '
+  image:
+  text: TV-Regisseur
+  _fieldset: jury-member
+- 
+  name: 'Cristina Marx '
+  image:
+  text: 'PR-Referentin der Deutschen Film- und Fernsehakademie Berlin'
+  _fieldset: jury-member
+- 
+  name: 'Julia Neuhausen '
+  image:
+  text: freischaffende Künstlerin und Dozentin
+  _fieldset: jury-member

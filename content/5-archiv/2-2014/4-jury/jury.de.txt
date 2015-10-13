@@ -1,0 +1,77 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Fachjury
+  _fieldset: jury-title
+- 
+  name: Nils Dettmann
+  image: nils-dettmann.jpg
+  text: |
+    Nils Dettmann ist ein in Schleswig-Holstein geborener und in Berlin lebender Regisseur.
+    Während seines Studiums der Medientechnik in Hamburg begann er 2000 bei Film und Fernsehen zu arbeiten. Sein vielseitiges technisches Wissen und seine fast zehnjährige Erfahrung als Regieassistent bei nationalen und internationalen Fernseh- und Kinoproduktionen bereichern seine Arbeit als Filmemacher. Zuletzt hat er bei der Kinderserie Schloss Einstein in Erfurt Regie geführt. Seit 2011 betreibt er seine eigene Produktionsfirma „Koivu Pictures“, mit der er schon einige Kurzfilme produziert hat und zur Zeit einen Dokumentarfilm in Finnland vorbereitet.
+  _fieldset: jury-member
+- 
+  name: Sabine Krätzschmar
+  image: sabine-kraetzschmar.jpg
+  text: |
+    Sabine Krätzschmar, Jahrgang 1979, studierte Politikwissenschaft und Journalistik an der Universität Leipzig.  Zwischen 2006 und 2007 absolvierte sie ein Rundfunk-Volontariat beim Mitteldeutschen Rundfunk und war Realisatorin für die Bereiche Print und TV, u.a. beim MDR.
+    Im Ch. Links Verlag ist von ihr, zusammen mit Thomas Spanier, u.a. das zeithistorische Buch „Ankunft im gelobten Land - Das erste Mal im Westen“ erschienen. Seit 2007 ist sie freie Mitarbeiterin beim Kinderkanal für Formate wie „Erde an Zukunft“ und die Kulturreportagereihe „Schnitzeljagd“.
+  _fieldset: jury-member
+- 
+  name: Sidney Martins
+  image: sidney078.jpg
+  text: 'Sidney Martins wurde 1967 in São Gonçalo R. J. geboren, er ist Schauspieler, Capoeirista und Kultur-Manager.Von 1982 bis 1990 arbeitete er in Rio de Janeiro als Schauspieler in verschiedenen Theater-, Fernseh- und Filmproduktionen. 1990 zog er nach Rom und war als Schauspieler in verschiedenen Theatergruppen tätig. Er arbeitete im Brasilianischen Kultur-Institut als Theater und Capoeira-Lehrer bis Ende 1997. Seit 1998 wohnt er in Berlin. 2005 gründete er CINEMANEGRO, das zahlreiche Veranstaltungen mit Schwerpunkt auf der Afro-brasilianischen Kultur organisiert. Seine erste Dokumentation „Fazenda São José“ 1999 wurde von der UNESCO als Denkmal für die Afro-brasilianische-Kultur anerkannt.'
+  _fieldset: jury-member
+- 
+  title: Jugendjury
+  _fieldset: jury-title
+- 
+  name: Alina Sonnefeld
+  image: alina-sonnefeld.jpg
+  text: >
+    Ich heiße Alina und bin 16 Jahre alt.
+    Zur Zeit besuche ich die 10. Klasse der
+    Jenaplanschule Jena. An Kurzfilmen
+    fasziniert mich, dass sie so vielseitig
+    und verwandelbar sind. Man kann mit
+    ihnen viel ausdrücken und eine Menge
+    Menschen erreichen. Das sind auch einige
+    der Gründe, weshalb ich selbst überall
+    mit der Videokamera zu finden bin.
+  _fieldset: jury-member
+- 
+  name: Lisa Schmohl
+  image: lisa-schmohl.jpg
+  text: >
+    Mein Name ist Lisa, ich bin 18 Jahre alt
+    und absolviere momentan mein Abitur am
+    Christlichen Gymnasium Jena. In meiner
+    Freizeit unternehme ich viel mit
+    Freunden und höre sehr gern gute Musik.
+    Am Filmfestival cellu l´art
+    interessieren mich besonders die
+    Hintergründe und
+    Entstehungsgeschichten der Drehbücher
+    und die Intentionen der Regisseure. 
+  _fieldset: jury-member
+- 
+  name: Nicolas Koerrenz
+  image: nicolas-koerrenz.jpg
+  text: >
+    Ich heiße Nicolas und bin 16 Jahre alt.
+    Derzeit gehe ich in die 12. Klasse des
+    Christlichen Gymnasium Jena. Am liebsten
+    sehe ich mir englische Krimi-Serien an.
+    An Filmen interessieren mich vor allem
+    die darüber transportierten politischen
+    Botschaften sowie deren Umsetzung im
+    Film.
+  _fieldset: jury-member

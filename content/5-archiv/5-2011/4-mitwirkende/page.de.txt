@@ -1,0 +1,17 @@
+Title: Mitwirkende
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Mitwirkende
+  text: |
+    (image: mitglieder.jpg)
+    
+    Ellen Thießen, Manuela Lindig, Susan Kuhne, Robert Wagner, Marcus Kaupert, Fagus Pauly, Carmen Bortfeldt, Matthias Boden, Caroline König, Andreas Neumann, Jana Opitz, Robert Bußler, Toska Böhme, Tim Wende, Antonia Deckert, Karoline Schierz, Lutz Granert, Christoph Matiss, Katharina Reiche, Erik Weber, Frank Hofmann, Sabrina Karg, Charlott Kuhblank, Jana Spät, Lara Eikenbusch, Julia Zytowsk, Marietta Kahle, Nina Margies, Kirsten Münch, Jeanne Charlotte Vogt, Claudius Grieger, Julius Wirsching
+  _fieldset: text

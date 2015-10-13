@@ -1,0 +1,20 @@
+Title: Wettbewerb
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Preise
+  text: |
+    Gute Kurzfilme? Nein, wir zeigen nur die besten! Deswegen haben wir uns erneut entschlossen, unterschiedliche Genres und Filmthemen abseits von technischen Kategorien mit Preisen zu bedenken. Unsere Fachjury vergibt neben dem Preis für den besten Kurzspielfilm ebenfalls einen Preis für den besten Film aus dem Bereich Experimental, Animation und Dokumentation, wir nennen ihn ExAnDo. Die Jugendjury, bestehend aus Jenaer Schülern der Klassenstufen 10 bis 12, vergibt neben ihrem eigenen Preis, gestiftet durch Bürgermeister Schenker, gemeinsam mit der Fachjury auch den von Jenas Oberbürgermeister Dr. Albrecht Schröter gestifteten „Jenaer Filmpreis für Toleranz“, der sozial engagierte und politisch ambitionierte Wettbewerbsbeiträge auszeichnet.
+    Doch auch die Besucher des Festivals haben wieder die Möglichkeit, mit ihrer Abstimmung über die Vergabe des Publikumspreises zu entscheiden.
+    
+    Preisverleihung mit Gewinnerfilmen
+    Samstag, 25. April, 21 Uhr
+    Volksbad Jena
+  _fieldset: text

@@ -1,0 +1,65 @@
+Title: Grußworte
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Grußworte des Oberbürgermeister der Stadt Jena
+    Dr. Albrecht Schröter
+  text: |
+    Liebe Kurzfilmfreunde,
+    
+    herzlich Willkommen zum 16. cellu l’art Kurzfilmfestival, das in diesem Jahr den Länderschwerpunkt auf Irland setzt. Das Filmspektakel hat sich als feste Institution in unserer kulturellen Landschaft etabliert und blickt auf eine bewegte Geschichte zurück, in der sowohl die Zahlen der Besucher als auch der eingereichten Beiträge stetig gestiegen sind. Auch dieses Mal erwartet die Gäste wieder eine vielfältige Auswahl interessanter Kurzfilme aus den verschiedensten Genres.
+    
+    Ich freue mich besonders, dass im Rahmen des Festivals auch in diesem Jahr wieder der Jenaer Toleranzpreis vergeben wird. Die Auszeichnung, die den eindrucksvollsten Film in dieser Kategorie prämiert, würdigt in besonderer Weise das Engagement für eine offene und tolerante Gesellschaft.
+    
+    Ich danke den Veranstaltern und ehrenamtlichen Helfern für die Organisation des Festivals und wünsche den Filmautoren viel Erfolg und dem Publikum zahlreiche bewegende Filmerlebnisse.
+    
+    Dr. Albrecht Schröter
+    Oberbürgermeister der Stadt Jena
+  _fieldset: text
+- 
+  h1: |
+    Grußwort des Bürgermeisters der Stadt Jena
+    Frank Schenker
+  text: |
+    Sehr geehrte Damen und Herren,
+    
+    liebe Besucher des Internationalen Kurzfilmfestivals cellu l’art: Die Medien überschreiten Grenzen. Früher dienten sie dazu, Bilder der Wirklichkeit einzufangen, heute schaffen sie selbst soziale Wirklichkeit. Sie prägen und verändern unser Leben. Dies stellt für uns alle große Herausforderungen dar – gerade für Kinder und Jugendliche. Was ist noch wirklich und was bloße Fiktion? Wo passen „Schönheit“ und „Wahrheit“ noch zusammen?
+    
+    Gerade beim Medium Film verschwimmen Wirklichkeit und Fiktion. Daher ist ein Kurzfilmfestival wie das cellu l’art auch eine Form des Lernens, der Aneignung der Lebenswirklichkeit.
+    
+    Besonders freut, dass in diesem Jahr wieder eine Jugendjury aus Jenaer Schulen zwei Preise – den Jugendpreis und den Toleranzpreis – vergeben wird.
+    Den Teilnehmern wünsche ich viel Erfolg und allen Besuchern spannende Filme!
+    
+    Frank Schenker
+  _fieldset: text
+- 
+  h1: |
+    Grußworte der Vereinsvorsitzenden
+    Wiebke Winter
+  text: |
+    Das Leben ist zu kurz für lange Filme. Ja!
+    Aber manchmal ist es auch für kurze Filme zu kurz! Nach einem Rekordjahr von über 800 Einreichungen hat das Team des 16. cellu l’art Kurzfilmfestivals viel gesehen, unter anderem buchstäblichen „Mist“! Aber vor allem auch kurze Meisterwerke. Insgesamt 33 Filme haben es in den internationalen Wettbewerb geschafft und zeigen in ihrer ganzen Bandbreite, dass es keineswegs 90, 120 oder gar 180 Minuten bedarf, um Großes zu erzählen. Egal ob Kurzspielfilm, Dokumentation, Experimental- oder Animationsfilm; egal ob Komödie, Science-Fiction, Action oder Drama.
+    
+    Auch der diesjährige Länderschwerpunkt Irland zeigt unter anderem mit schön--schrägen bewegten Bildern, was Kurzfilm alles kann. Den feierlichen Auftakt bildet hierzu dieses Jahr der Empfang mit dem irischen Botschafter im Innenhof des Volksbades. Eine kleine Fotoausstellung im Internationalen Centrum im Haus auf der Mauer zeigt darüber hinaus die Schönheit des Landes in „stillen“ Bildern.
+    
+    Im kleinen Saal des Volksbads gibt es nicht nur irisches Programm. Neben den mittlerweile zum Klassiker gewordenen B-Sides wird es dieses Jahr ein Programm nur für Kurz-Dokumentationen und sogenannte Mockumentaries geben und ein weiteres sich den Gewinnern des Deutschen Kurzfilmpreises 2014 widmen. Der Schock-Block wurde aufgrund der großen Nachfrage in den letzten Jahren dieses Mal sogar auf zwei schaurig-schöne Programme erweitert.
+    
+    Zu einer Erweiterung kommt es erfreulicherweise auch in unserer Kooperation mit dem Jugendzentrum Polaris. Im letzten Jahr konnten in der Geschichte des cellu l’art erstmalig auch die jungen Filmfans in einem Vormittagsprogramm internationale Kurzfilme und auch ihren eigenen in einem Ferien-Workshop produzierten Film bewundern. Dieses Jahr kommt noch ein internationales Abendprogramm für Jugendliche dazu.
+    
+    Und es wird natürlich gefeiert! Den Auftakt markiert nun schon zum zwölften Mal das Open-Air am Johannistor mit Musik von „The Illustrators“ und natürlich jeder Menge Kurzfilme nach Sonnenuntergang. Am Freitagabend gibt es dann die große cellu l’art Party im Theatercafé mit den DJs Skor Rokswell und Shape. Höhepunkt wird wie jedes Jahr die Preisverleihung am Samstagabend, bei der die insgesamt fünf Preise für den besten Kurzspielfilm, den besten Film aus dem Bereich Experimental, Animation und Dokumentation – kurz ExAnDo –, den Gewinner der Jugendjury sowie der Toleranzpreis und der Publikumspreis vergeben werden. Wir sind gespannt!
+    
+    Im Namen des Vereins möchte ich mich herzlich bei Oberbürgermeister Dr. Albrecht Schröter und Bürgermeister Frank Schenker für die Stiftung des Toleranz- sowie Jugendjurypreises bedanken. Ein großes Dankeschön geht auch an alle Förderer, Sponsoren, Kooperationspartner und Freunde des Festivals, die diesjährige Fach- und Jugendjury, sowie das Volksbad, welches nun schon zum dritten Mal die Festivallocation stellt, und alle Filmemacher, durch deren Werke unser Festival erst zum Leben erweckt werden kann.
+    
+    Last but not least gilt mein persönlicher Dank dem großartigen Team, ohne das dieses Festival niemals realisiert, noch zu dem hätte werden können, was es heute ist!
+    Ich wünsche Ihnen und uns allen eine schöne Festivalwoche!
+    
+    Wiebke Winter
+  _fieldset: text

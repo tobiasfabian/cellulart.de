@@ -1,0 +1,27 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Länderschwerpunkt
+    Türkei
+  text: |
+    Die Türkei ist ein beliebtes Urlaubsziel der Deutschen, geographische Verbindung zwischen Europa und Asien und ein Land mit kultureller Vielfalt.
+    
+    Im Rahmen unseres Kurzfilmfestivals wollen wir einen Einblick in die türkische und deutsch-türkische Filmkunst geben. Im Vordergrund stehen dabei Kurzfilme türkischer Filmemacher, die sich mit der türkischen und der deutsch-türkischen Kultur auseinandersetzen.
+    
+    Die Kurzfilme des Länderschwerpunktes Türkei werden am Mittwoch, Donnerstag und Freitag in unserem Hauptspielort, der Villa am Paradies, im kleinen Saal zu sehen sein. Die Themen der einzelnen Blöcke sind dabei genauso vielfältig wie die dramaturgischen Kunstgriffe der Filmemacher selbst. Sie erzählen mal mit vielen, mal mit weniger Worten von Familie, Freundschaft,
+    
+    Liebe, Tod und Missverständnissen. Wir sehen nicht nur das Leben in türkischen und deutschen Großstädten sondern werden auch in ländliche Idyllen entführt. Die Filmemacher hinterfragen was Heimat ist und wo man sie finden kann. Neben den Filmen wird es auch eine Fotoausstellung im Foyer unterhalb des kleinen Saales geben, die eindrucksvolle Impressionen aus der türkischen Hauptstadt Istanbul zeigt. Doch nicht nur optisch sondern auch akustisch werden wir ein Stückchen Türkei nach Jena holen, mit einer deutsch-türkischen Band, die jeweils vor den Filmblöcken spielen wird. Außerdem wird es am Freitag einen Empfang mit der türkischen Generalkonsulin Frau Öztürk Çil, Vertreter der lokalen Politik und der Presse geben. Hierzu sind alle herzlich eingeladen, die sich für die Türkei interessieren.
+    
+    Den Auftakt unseres Länderschwerpunktes bildet der Film »Müll im Garten Eden« des derzeit bekanntesten deutsch-türkischen Regisseurs Fatih Akin. Sein neuester Film ist eine Dokumentation über die Auswirkungen der Globalisierung am Beispiel der Heimat seiner Vorfahren.
+    
+    (vimeo: https://vimeo.com/64050568)
+  _fieldset: text

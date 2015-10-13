@@ -1,0 +1,36 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Länderschwerpunkt
+    der indische Subkontinent
+  text: >
+    Die Außenwirkung der indischen
+    Filmszene wird noch immer dominiert von
+    Produktionen des kommerziellen
+    Hindi-Kinos. Dennoch konnte sich auf dem
+    indischen Subkontinent eine unabhängige
+    Filmszene entwickeln, die ihre eigenen
+    Themen und Stile prägt. Mit Hilfe
+    dreier Kuratoren wollen wir diese
+    unheimlich vielfältige Filmszene des
+    Subkontinents jenseits von "Bollywood"
+    in den Fokus rücken.
+  _fieldset: text
+- 
+  h1: |
+    Fotoausstellung
+    Indische Augenblicke
+  text: |
+    Der Fotograf Marco Martinelli wurde 1976 in Italien geboren und lebt wie arbeitet heute in Rom. Als freier Fotograf und auf seinen Reisen legt er seinen Schwerpunkt auf Street Photography — immer auf der Suche nach den magischen Momenten des alltäglichen Lebens.
+    
+    zu sehen vom 15. — 8. April im Foyer des Capitol
+  _fieldset: text

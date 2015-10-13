@@ -1,0 +1,23 @@
+Title: Schock Block
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Schock Block
+  text: |
+    Gänsehaut, Kribbeln und eine fast unerträgliche Stille, getragen von der Spannung der Filmszene. Wen nachts nichts aus der Fassung bringen kann, der sei eingeladen zu 90 Minuten voller Grusel, Schock und Horror.
+    
+    Erneut bekommen wir für unseren "SchockBlock" Unterstützung von unseren Kollegen vom Landshuter Kurzfilmfestival.
+    
+    (link: http://www.landshuter-kurzfilmfestival.de text: www.landshuter-kurzfilmfestival.de  popup: true)
+    
+    Schock Block
+    Donnerstag, 24. April um 21 Uhr
+    Volksbad Jena
+  _fieldset: text

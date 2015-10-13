@@ -1,0 +1,50 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Carsten Waldbauer
+  image:
+  text: freier Kameramann
+  _fieldset: jury-member
+- 
+  name: Jörg Michel
+  image:
+  text: >
+    Gründer und Art-Direktor der
+    ‚Weltlabor GbR‘
+  _fieldset: jury-member
+- 
+  name: Andrea Wink
+  image:
+  text: >
+    Gründerin des Wiesbadener Filmfestivals
+    ‚exground‘ und Kuratorin anderer
+    Festivals
+  _fieldset: jury-member
+- 
+  name: Andrè Wendler
+  image:
+  text: >
+    Wissenschaftlicher Mitarbeiter am
+    Lehrstuhl für Medienphilosophie der
+    Fakultät Medien an der
+    Bauhaus-Universität Weimar
+  _fieldset: jury-member
+- 
+  name: Detlef Suske
+  image:
+  text: >
+    freier Fotograf und Regisseur, Dozent
+    für Journalistik an der Hochschule
+    Magdeburg
+  _fieldset: jury-member

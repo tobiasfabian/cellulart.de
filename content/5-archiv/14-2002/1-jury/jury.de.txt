@@ -1,0 +1,48 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Dr. Michael Barchet
+  image:
+  text: >
+    Hochschulassistent am Lehrstuhl
+    „Geschichte und Ästhetik der
+    Medien“
+  _fieldset: jury-member
+- 
+  name: Claudia Bauer
+  image:
+  text: >
+    Regisseurin am Staatstheater Cottbus und
+    im Theaterhaus Jena
+  _fieldset: jury-member
+- 
+  name: Achim Forster
+  image:
+  text: >
+    Redakteur für Presse und Hörfunk,
+    Mitarbeiter der Berliner Filmfestspiele
+    und des Filmfests München
+  _fieldset: jury-member
+- 
+  name: Vuk Jevremovic
+  image:
+  text: freischaffender Künstler
+  _fieldset: jury-member
+- 
+  name: Dr. Siegrid Lange
+  image:
+  text: >
+    Gastprofessorin an der University of
+    California, Los Angeles und Virginia
+  _fieldset: jury-member

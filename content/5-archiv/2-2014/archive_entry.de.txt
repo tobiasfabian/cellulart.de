@@ -1,0 +1,51 @@
+Title: 2014
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Film
+  film: baghdad-messi
+- 
+  award: |
+    Bester
+    ExAnDo
+  film: not-anymore-a-story-of-revolution
+- 
+  award: |
+    Toleranz-
+    preis
+  film: she-comes-in-spring
+- 
+  award: |
+    Preis der
+    Jugendjury
+  film: baghdad-messi
+- 
+  award: |
+    Publikums-
+    preis
+  film: 97
+
+----
+
+Text: 
+
+Das cellu l’art wird 15. Wir sind also mitten in der Pubertät, ein bisschen wild und rebellisch und definitiv auf der Suche nach dem Neuen, dem Aufregenden in der Kurzfilmwelt.
+
+Mit Blick auf unsere insgesamt 15 verschiedenen Filmprogramme glaube ich, dass es uns auch dieses Mal wieder gelungen ist, dieses aufregende des Mediums aufgespürt zu haben (und euch präsentieren zu können). Im internationalen Wettbewerb bekommt ihr 38 Filme aus insgesamt 14 Ländern zu sehen, bei denen vom dramatischen Spielfilm bis zum experimentellen Musikvideo alle Genres und Stile vertreten sind.
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: cellulart_katalog_2014.pdf

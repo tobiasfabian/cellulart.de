@@ -1,0 +1,32 @@
+Title: Wettbewerb 4
+
+----
+
+Subtitle: Dreamy Death
+
+----
+
+Meta-description: 
+
+----
+
+Text: Let us take you to a land of dreams. Dreams of hope, dreams of rush, dreams full of beautiful landscapes and dreams of death.
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-24
+  time: 18:00
+- 
+  date: 2014-04-25
+  time: 22:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

@@ -1,0 +1,28 @@
+Title: Jugendspecial
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Jungenspecial
+  text: |
+    Beim Kurzfilm-Spezial im polaris sind alle Fans von bewegten Bildern zu einem spannenden Kurzfilmprogramm eingeladen. Und das Beste: Trefft waschechte Filmemacher und bombardiert die alten Hasen aus dem Filmgeschäft mit euren Fragen.
+    
+    Zum Filmabend am Freitag, den 24. April erwartet euch von 18 – 20 Uhr eine flimmernde Leinwand mit kleinen leckeren Happen und alkoholfreien Cocktails. Hier können junge Menschen ab 12 Jahre staunen, wie eine Ameise gegen einen Skateboarder antritt, was eine junge Frau auf der Breakdance-Matte alles kann und ihr könnt euch vor dem geheimnisvollen Waldschrat gruseln.
+    
+    Am Samstag, den 25. April gibt es von 11 – 13 Uhr ein buntes Programm für Jugendliche ab 10 Jahren, mit Geschichten über einen Igel, der sich in andere Tiere verwandelt, manipulierbare Wolken und Eltern, die zu Monstern werden. In einer Pause könnt ihr euch in kleinen Aktionen kreativ ausleben. Außerdem präsentieren wir euch die neusten Kurzfilme, die in den Osterferien im Rahmen der Filma­kademie „Magie&Zaubertricks“ entstanden sind. Vielleicht bekommt ihr selbst Lust und Ideen, einen eigenen Film zu drehen.
+    
+    Freitag, 24. April, 18 – 20 Uhr
+    Samstag, 25. April, 11 – 13 Uhr
+    Polaris
+    Camburger Straße 65, Jena-Nord
+    Eintritt frei
+    
+    Weiter Informationen
+    (link: http://www.polaris-jena.de text: www.polaris-jena.de)
+  _fieldset: text

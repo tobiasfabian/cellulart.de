@@ -1,0 +1,23 @@
+Title: 15 Jahre cellu l’art
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    15 Jahre
+    cellu l’art
+  text: |
+    \#DieMagiedeskurzenAugenblicks. Einige Filme haben unsere Identität als Festival entscheidend mitgeprägt. Ehemalige und aktuelle Mitglieder erzählen, warum. Wir sind mitten in der Pubertät, also lasst euch überraschen!
+    
+    Mit dabei: Sekt, Popcorn und das letzte Gründungsmitglied.
+    
+    15 Jahre cellu l’art
+    Mittwoch, 23. April um 21 Uhr
+    Volksbad Jena
+  _fieldset: text

@@ -1,0 +1,23 @@
+Title: Venue
+
+----
+
+Meta-description: From April 16 until April 21, 2013 the building located across from the Paradiesbahnhof will be host to the 14th international Shortfilm Festival
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Venue 2013
+    Villa am Paradies
+  text: |
+    The Villa am Paradies (Mansion by Paradise) can look back on an eventful history. The building, designed by the architect Ludwig Hirsch on behalf of a student fraternity, was first opened on 15th October 1911.
+    
+    In 1950 lectures on film and broadcasting were held here with according technical equipment. At this time the building was in the University’s care. From 1961 the house was headquarters of the local authority of the SED. After 1990 it was still used by several town authorities. The numerous measures of renovation, modification and alteration had by this time left their marks on the building. For this reason the mansion was put up for sale in 2008.
+    
+    After a period of uncertainty, the Villa am Paradies underwent substantial renovations and modernizations according to the rules of the preservation of historical monuments. After the reopening in 2011 the name <em>Villa am Paradies</em> became an integral part of the structure. By now the name has established as a popular venue in Jena.
+    
+    From 16th until 21st April 2013 the building located across from the Paradiesbahnhof will be host to the 14th international Shortfilm Festival cellu l’art. In two halls within the Villa short films of the international competition and the international focus Turkey will be screened for all audiences. We are looking forward to our festival in this artfully restored Art Nouveau building equipped with modern technology.
+  _fieldset: text

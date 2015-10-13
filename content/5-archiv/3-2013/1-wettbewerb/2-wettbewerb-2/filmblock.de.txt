@@ -1,0 +1,48 @@
+Title: Wettbewerb 2
+
+----
+
+Subtitle: Sweets for the Sweets
+
+----
+
+Meta-description: 
+
+----
+
+Text: Du hast ein sonniges Gemüt? Du möchtest dich bei ein paar schönen Kurzfilmen vom Stress des Alltags erholen? Oder willst du die Erlebnisse aus unserem Terrorfilmblock verarbeiten? Dann bist du hier richtig. Plüschbären, kleine Schutzengel und die Liebe wird dir den Tag versüßen. Dazu gibt‘s ein bisschen Weltuntergang.
+
+----
+
+Dates: 
+
+- 
+  date: 2013-04-17
+  time: 20:00
+- 
+  date: 2013-04-19
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Villa am Paradies
+
+----
+
+Street: Knebelstraße 3
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

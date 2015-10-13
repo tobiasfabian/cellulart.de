@@ -1,0 +1,45 @@
+Title: Länderschwerpunkt 2
+
+----
+
+Subtitle: Alt aber bissig
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-23
+  time: 20:30
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

@@ -1,0 +1,60 @@
+Title: 2009
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    1.
+    Platz
+  film: schautag
+- 
+  award: |
+    2.
+    Platz
+  film: jade
+- 
+  award: |
+    3.
+    Platz
+  film: freies-land
+- 
+  award: |
+    Sonderkategorie
+    Länderschwerpunkt
+  film: diente-por-ojo
+- 
+  award: |
+    Zuschauer-
+    preis
+  film: hundesoehne
+
+----
+
+Text: 
+
+# Jubiläum!
+
+Dem Anlass entsprechend zeigt sich cellu l'art noch vielfältiger und ausgereifter. Eröffnet wird das Spektakel mit einer grandiosen Party, zu der der eigens für den 10. Geburtstag produzierte Kurzfilm ‚cellu l’art faces’ Premiere feierte.
+
+Das traditionelle Open-Air findet in diesem Jahr ‚Under Glass’ in der Goethe-Galerie Jena statt. Daneben zeigt die Fotoausstellung 'Die Magie des kurzen Augenblicks' und eine riesige BlackBox ein buntes Potpourri aus Kurzfilmen.
+
+Eigens für das Jubiläumsfestival wird das erste Kino Jenas ‚Astoria’ renoviert und neueröffnet. Die Wahl des Länderschwerpunktes fällt in diesem Jahr auf die facettenreiche Filmlandschaft Spaniens.
+
+(link: http://www.cellulart.de/_archive/2009 text: Website 2009 popup: true)
+(link: https://www.flickr.com/photos/cellulart/collections/72157617391631530/ text: Fotos auf Flickr popup: true)
+
+(vimeo: https://vimeo.com/4199506)
+
+----
+
+Downloads: cellulart_programmheft_2009.pdf
+
+----
+
+Gallery-images: 100_1831.jpg,100_1883.jpg,img_6433.jpg,img_6439.jpg,img_6440.jpg,IMG_6443.jpg,IMG_6447.jpg,IMG_6453.jpg,IMG_6455.jpg,IMG_6458.jpg,IMG_6462.jpg,IMG_6465.jpg,IMG_6472.jpg,IMG_6502.jpg,IMG_6504.jpg,IMG_6513.jpg,IMG_6517.jpg,IMG_6521.jpg,IMG_6534.jpg,IMG_6537.jpg,IMG_6555.jpg,IMG_6556.jpg,IMG_6558.jpg,IMG_6564.jpg,IMG_6625.jpg,IMG_6626.jpg,IMG_6648.jpg,IMG_6651.jpg,IMG_6652.jpg,IMG_6654.jpg,IMG_6659.jpg,IMG_6665.jpg,IMG_6666.jpg,IMG_6667.jpg,IMG_6675.jpg,IMG_6680.jpg,IMG_6681.jpg,IMG_6690.jpg,IMG_6697.jpg,IMG_6710.jpg,IMG_6711.jpg,IMG_6725.jpg,IMG_6777.jpg,IMG_6805.jpg,IMG_6811.jpg,IMG_6831.jpg,IMG_6832.jpg,IMG_6833.jpg,IMG_6836.jpg,IMG_6837.jpg,IMG_6840.jpg,IMG_6844.jpg,IMG_6845.jpg,IMG_6850.jpg

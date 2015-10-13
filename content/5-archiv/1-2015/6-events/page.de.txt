@@ -1,0 +1,37 @@
+Title: Events
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Open-Air-Kino
+    mit The Illustrators
+  text: |
+    Die Festivalsaison beginnt bei uns mit Freiluftkino. Mit dem Open-Air am Faulloch feiern wir traditionell den Kurzfilm. Dazu wird die Indie-Elektro-Combo „The Illustrators“ ab 20 Uhr für musikalische Unterhaltung sorgen. Die vier Jungs vermitteln mit ihrem Mix aus handgemachtem Indierock und eindrucksvollen elektronischen Sounds einen einzigartig dynamischen Klang, bei dem es einem nur so in den Füßen kitzelt.
+    
+    Ab ca. 21:30 Uhr werden dann die Kurzfilme auf die große Leinwand geholt. Die Höhepunkte aus den letzten Festivals, gewürzt mit aktuellen Kurzfilmen, machen Lust auf mehr.
+    Von witzig über dramatisch bis herzzerreißend und skurril findet ihr bei uns alles. Nebenbei sorgen wir mit Getränken und Essen natürlich auch für euer leibliches Wohl. Und das Beste: Der Eintritt ist frei.
+    
+    Open-Air-Kino mit The Illustrators
+    Di, 21. April, ab 20 Uhr
+    Faulloch (am Johannistor)
+    Eintritt frei
+  _fieldset: text
+- 
+  h1: |
+    cellu l’art Party
+    Skor Rokswell & Shape
+  text: |
+    Im Anschluss an den Kurzfilmabend am Freitag wollen wir mit euch erneut die Tanzfläche des Theatercafés zum Glühen bringen! Dieses Jahr sorgen Skor Rokswell – Macher der berühmt-berüchtigten Sunday Sessions – und Shape – Mitinitiator der Chopy Wood Reihe des Kassablanca – für fette Beats. Egal, ob mit Sounds in Richtung House, Rap oder Funk, zwischen zappelnden Breakbeats und goldkettenverziertem Tunersoundtrack, die Jungs bringen jede Haxe zum Schwingen. Dabei gilt: Vinyl only!
+    
+    cellu l‘art Party mit Skor Rokswell & Shape
+    Fr, 24. April, 22 Uhr
+    Theatercafé Jena
+    5 € Eintritt (3 € mit cellu-l’art-Ticket)
+  _fieldset: text

@@ -1,0 +1,22 @@
+Title: Shock Block 1 & 2
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Shock Block
+    1 & 2
+  text: |
+    Für alle Kaltduscher, Harteier und Pappasöhnchen garantiert unser Schockblock abermals 90 Minuten Gänsehaut pur. Dieses Jahr sogar mit zwei verschiedenen Programmen. Also, klammert euch an euren Sitznachbarn, lasst das Licht im Zimmer an und kontrolliert doppelt, was unter eurem Bett so kreucht und fleucht!
+    Die Filme starten immer passend zur Geister­stunde um 22:30 Uhr. Seit rechtzeitig da – die Tickets sind heiß begehrt.
+    
+    Mittwoch, 22. April, 22:30 Uhr
+    Freitag, 24. April, 22:30 Uhr
+    Volksbad Jena
+  _fieldset: text

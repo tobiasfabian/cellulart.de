@@ -1,0 +1,21 @@
+Title: Deutscher Kurzfilmpreis
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Deutscher Kurzfilmpreis
+    Kinotournee
+  text: |
+    Die Kurzfilmtournee stoppt in Jena zum cellu l’art Festival. Seit 1956 werden jährlich die innovativsten und herausragendsten Filme aus Deutschland mit dem Deutschen Kurzfilmpreis geehrt. Die Preisträger 2014 in den Kategorien Animation, Experimental und Kurzspielfilm werden wir euch zeigen. Echte Popcornstimmung der Spitzenklasse. Dabei geht es um Jugendkultur auf Abwegen, Elefanten mit Angst vor der Dunkelheit, Missbrauch und Traumaaufarbeitung. Eine Bandbreite an Themen und stilistischen Gradwanderungen, die zum Mitfiebern einlädt.
+    
+    Deutscher Kurzfilmpreis Kinotournee
+    Freitag, 24. April, 18:30 Uhr
+    Volksbad Jena
+  _fieldset: text

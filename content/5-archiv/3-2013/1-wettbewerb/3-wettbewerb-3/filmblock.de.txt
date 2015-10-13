@@ -1,0 +1,55 @@
+Title: Wettbewerb 3
+
+----
+
+Subtitle: … und nun zu etwas Terror
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+»I’m singing, just singing, in the rain. Viddy well, little brother. Viddy well!«
+Alex (A Clockwork Orange)
+
+----
+
+Dates: 
+
+- 
+  date: 2013-04-17
+  time: 22:00
+- 
+  date: 2013-04-19
+  time: 20:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Villa am Paradies
+
+----
+
+Street: Knebelstraße 3
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/64010983

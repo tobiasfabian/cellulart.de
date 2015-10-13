@@ -1,0 +1,32 @@
+Title: Wettbewerb 3
+
+----
+
+Subtitle: Gefahrenblind
+
+----
+
+Meta-description: 
+
+----
+
+Text: Die Protagonisten dieser Filme befinden sich alle an jenem berühmten Punkt, an dem die Freiheit des eigenen Willens mit dem notwendigen Gang des Ganzen zusammenstößt. Ob ihnen das bewusst ist? Nun ja…
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-23
+  time: 22:00
+- 
+  date: 2014-04-25
+  time: 20:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

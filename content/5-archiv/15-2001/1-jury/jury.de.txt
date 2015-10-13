@@ -1,0 +1,45 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Dr. Volker Dreier
+  image:
+  text: Filmsoziologe
+  _fieldset: jury-member
+- 
+  name: Falk Heunemann
+  image:
+  text: Chefredakteur des Akrützel 1999/2000
+  _fieldset: jury-member
+- 
+  name: Caren Pfahl
+  image:
+  text: StuRa
+  _fieldset: jury-member
+- 
+  name: Stefan Höltgen
+  image:
+  text: >
+    Lektor, Buchautor und Dozent mit dem
+    Forschungsschwerpunkt Film
+  _fieldset: jury-member
+- 
+  name: Sebastian Reuter
+  image:
+  text: Fotograf
+  _fieldset: jury-member
+- 
+  name: Gernot Witzel
+  image:
+  text: Betreiber CineStar
+  _fieldset: jury-member

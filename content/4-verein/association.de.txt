@@ -1,0 +1,9 @@
+Title: Verein
+
+----
+
+Team-photo: teamfoto.jpg
+
+----
+
+Meta-description: 

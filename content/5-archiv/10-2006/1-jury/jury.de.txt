@@ -1,0 +1,44 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Dr. Oliver Fahle
+  image:
+  text: >
+    Juniorprofessor für Geschichte und
+    Theorie der Bildmedien an der
+    Bauhaus-Universität Weimar
+  _fieldset: jury-member
+- 
+  name: 'Jens Holger Linnebach '
+  image:
+  text: 'Ton- und EB-Assistent, Kameramann und Cutter u.a. für ZDF, VOX und NDR'
+  _fieldset: jury-member
+- 
+  name: Christian Werner
+  image:
+  text: >
+    Regisseur, gründete eigene
+    Produktionsfirma ‚acamara
+    filmproduktion‘ in Jena
+  _fieldset: jury-member
+- 
+  name: Karsten Wiesel
+  image:
+  text: Gründer der Flensburger Kurzfilmtage
+  _fieldset: jury-member
+- 
+  name: Gunnar Töpfer
+  image:
+  text: Redakteur und Moderator bei MDR JUMP
+  _fieldset: jury-member

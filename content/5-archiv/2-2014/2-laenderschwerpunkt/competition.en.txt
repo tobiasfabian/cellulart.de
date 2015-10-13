@@ -1,0 +1,35 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: In the context of the 15th cellu l’art in April 2014, we attempt to provide an insight to Brazilian short film
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    International Focus
+    Brazil
+  text: |
+    “God is not dead in Brazil but round. Everybody plays football everywhere all the time and is obsessed by this sport.” Stereotypically and cliché like describes Mathias Rohl (editorial staff Langeleine, Hannover) the collective Brazilian passion in his review of the football documentation “Ginga – The Soul of Brazilian Football”. The expression “Ginga” originates from Capoeira, the truly Brazilian art of a cunning dance changing back and forth between playful and aggressive. A dance which is so much a symbol for the past of the nation and for the living together of divers people in general. “Ginga”, the basic step which is naturally adjusted to the rhythm given by the “Berimbau”, mirrors symbolically the Brazilian understanding of life, the Joy of dancing and eventually the pleasure of living. 
+    
+    This slogan-like longing is contrasted by the absorbing Favela canyons in Fernando Meirelles' “City of God”: “The sun is for everybody, the beach only for those who deserve it.”, being said by cynical resigned youth gangsters. This points to the great social problems of a class society which is frozen in feudal structures. The tensions arising out of this state constitute one important pillar of content for various creative directions, starting out with Folklore like Capoeira via music to film. On the other hand they catalyse the creative working off and help Brazil to an extensive treasure of fantastic ideas. 
+    
+    That emotional, existential need and economical poverty inspire the poetic mind and creative power, is not only known since Goethe’s “Die Leiden des jungen Werther”. What is it then, that makes up Brazilian art as such?
+    
+    Through the Portuguese colonisation, the systematic deportation of African slaves and the migration of large groups of Italian, German, Japanese and other settlers the population next to the indigenous people got ethnically very divers in Brazil. The immigration of European colonists from the 19th century onwards was supported by the state and lead to the further investigation of the back land as well as to the growing of already existing cities. Furthermore it lead to an increased encounter and mixing of cultures. The political emancipation of Brazil from a Portuguese colony to a self governed monarchy (1822), to a republic in 1889 and the democratisation in 1930 fuelled the development of a cultural self understanding. On the occasion of the world exhibition 1922 in Río de Janeiro this was specified and set as deliberate orientation on the cultural origin from America, Europe and Africa. 
+    
+    The ethnically divers origin is inseparable connected to other aspects which have affected the Brazilian society and art as well: the curiosity on everything new, the open mindedness for foreign influence and the will to integrate them playfully. 
+    
+    Oscar Niemeyer, a famous architect of German origin, made himself an idol of modern architecture as he combined a progressive style and German precision with an unconventional language of form to an edgy style of its own. This kind of cultural synergy can be found in other media of art as well. Two factors helped the Brazilian film in respect to the independence of its development: on the one hand the largest home market of Latin America and on the other hand a distinctive protectionism of the culture in the 1940s and 1950s which allowed the domestic film industry to blossom. Besides, a massive government aid was given in the 1970s and 80s.
+    
+    At first many Brazilian films had been inspired by European and Hollywood productions in terms of artistic realization and content. But from 1933 onwards the “Chanchada”, a native Brazilian format, got popular. It is a mixture of carnival like folklore, musical, and farcical comedy. The most successful “Chanchada” is said to be “Alô, Alô Carnaval” from 1937. In 1953 “O Cangaceiro” was awarded as best adventure film in Cannes. It tells, in the style of a contemporary US Western and with enormous effort, the story of the mythically overrated Brazilian Outlaws against tyrannical landowners. From the middle of the 1950s onwards the Italian Neorealism came to Brazil in a specific distinctness. The kitchen-sink films of the “Cinema Novo” were low-budget productions which followed the motto “A Camera in the hand and an idea in the head” and focused on the poverty and violence in the cities. With the “Tropicalismo” during the 1960s the Brazilian films got further away from the style and content of foreign productions and focused more on specific local motives and aesthetics. 
+    
+    In 1998 Fernando Moreilles' “City of God” became known worldwide; The film irresistible unites the unconventionality, authenticity and last but not least the perceptible love of life in the best tradition of the Brazilian cinema!
+    
+    Even though the current socio-political problems cast a shadow over the Brazilian present: When the football world championship of 2014 is going to guest there, the endless enthusiasm  for new people and stories will put the whole country in an collective ecstasy. And this is already infecting! With excited anticipation the cellu l'art 2014 sets its international focus on the  host of the largest international festival of the present!
+    
+    Axé Brasil!
+  _fieldset: text

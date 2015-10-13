@@ -1,0 +1,57 @@
+Title: 2012
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Film
+  film: suiker
+- 
+  award: |
+    Bestes
+    Drehbuch
+  film: der-besuch
+- 
+  award: |
+    Beste
+    Schauspielerin
+  film: gekidnapped
+- 
+  award: |
+    Bester
+    Schauspieler
+  film: apele-tac-silent-river-2
+- 
+  award: |
+    Beste
+    Kamera
+  film: apele-tac-silent-river
+- 
+  award: |
+    Beste
+    Regie
+  film: zwei-grad
+- 
+  award: |
+    Publikums-
+    preis
+  film: maedchenabend
+
+----
+
+Text: (vimeo: https://vimeo.com/41000811)
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: 

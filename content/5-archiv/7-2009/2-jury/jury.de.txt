@@ -1,0 +1,46 @@
+Title: Jury
+
+----
+
+Meta-description: Karoline Schuch (Schauspielerin) Nico Raschick (Regisseur)
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Oliver Fahle
+  image:
+  text: |
+    Prof. Dr. Oliver Fahle Studierte Theater-, Film- und Fernsehwissenschaft in Bochum, Berlin und Paris. Anschließend erfolgten Promotion und wiss. Assistenz an der Fakultät Medien der Bauhaus-Universität Weimar, seit 2002 ist er dort Juniorprofessor.
+    Im WS 2004/05 vertrat er die Professur für Geschichte und Ästhetik der Medien an der FSU Jena. Neben zahlreichen Publikationen (u.a. Bilder der zweiten Moderne) und Herausgaben (u.a. Philosophie des Fernsehens) engagiert sich Oliver Fahle oft als Jurymitglied für den Nachwuchsfilm u. a. beim back_up Festival Weimar 2003 und beim 7. cellu lart 2006.
+  _fieldset: jury-member
+- 
+  name: Christoph Krauss
+  image:
+  text: |
+    Christoph Krauss erlernte das Kamerahandwerk an der Staatlichen Fachschule für Optik und Fototechnik in Berlin und arbeitete zunächst als Beleuchter, Kameraassistent und Operator ehe er seit 1994 als Kameramann bei zahlreichen Produktionen im In- und Ausland für die Bildgestaltung verantwortlich ist.
+    Seine Filmografie umfasst Spiel- und Fernsehfilme, Fernsehserien sowie auch Dokumentationen, Unterwasseraufnahmen, Actionsequenzen und Kunstprojekte. In Jena drehte Christoph Krauss 2006 zwei Folgen der beliebten krimi.de- Reihe. Er ist Mitglied im Bundesverband Kamera (bvk).
+  _fieldset: jury-member
+- 
+  name: Christine Haupt
+  image:
+  text: |
+    Christine Haupt studierte Film- und Fernsehproduktion an der HFF Konrad Wolf Potsdam Babelsberg. Seitdem Mitarbeit an zahlreichen Kino- und Fernsehprojekten, u. a. Produktionskoordinatorin für Das Leben der Anderen. Außerdem war sie Produktionsleiterin des Kurzfilms Funglasses, der im Wettbewerb des 8. cellu lart 2007 zu sehen war. Als Junior-Producerin war sie mehrere Jahre bei der Kinderfilm GmbH tätig und hat dort u.a. Jenaer und Erfurter KRIMI.DE Folgen und Märchen mitproduziert.
+    Im September 2008 gründete Christine Haupt die Hauptfilm PRODUKTION in Berlin. Ihre Filme liefen auf zahlreichen Festivals und gewannen viele Preise und Auszeichnungen. Aktuell arbeitet sie bei LE VISION in Leipzig als Producerin mit dem Fokus auf internationale Kinoproduktionen.
+  _fieldset: jury-member
+- 
+  name: Karoline Schuch
+  image:
+  text: |
+    Die gebürtige Jenaerin nahm bereits während ihrer Schulzeit Gesangs- und Schauspielunterricht im Kinderstudio Jena und später u. a. an der Hochschule für Schauspielkunst Ernst Busch Berlin. Im Jahr 2000 wurde sie für die Rolle der Lara in der beliebten ARD Serie Verbotene Liebe entdeckt. Seitdem spielt sie deutschlandweit in vielen Serien, Fernseh- und Kinofilmen, u. a. im Kölner Tatort, Das tapfere Schneiderlein und 7 Zwerge  Der Wald ist nicht genug.
+    2008 wurde Karoline Schuch mit dem Günter-Strack-Fernsehpreis als Beste Newcomerin ausgezeichnet.
+  _fieldset: jury-member
+- 
+  name: Nico Raschick
+  image:
+  text: 'Nico Raschick besuchte Schauspiel- und Regiekurse an der Gaeity School of Acting Dublin und absolvierte Praktika und Assistenzen beim HR, VCC/Frankfurt und DoRo/Berlin. Im Jahr 2001 nahm er sein Regiestudium an der Filmakademie Baden-Württemberg Ludwigsburg auf, welches er 2007 erfolgreich abschloss. Der gebürtige Dessauer drehte bereits zahlreiche Musikvideos, Image- und Kurzfilme, u. a. Der kleine See und das Meer, und 2006 den Dokumentarfilm Here we come über die Breakdance-Scene der ehemaligen DDR. Seitdem arbeitet Nico Raschick als freier Regisseur.'
+  _fieldset: jury-member

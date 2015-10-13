@@ -1,0 +1,41 @@
+Title: Fotowettbewerb
+
+----
+
+Meta-description: In 5. Fotowettbewerb sucht das cellu l’art nach den schönsten Fotos zu dem Thema Lebens(t)räume.
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Lebens(t)räume
+    5. cellu l'art Fotowettbewerb
+  text: |
+    Wo ist dein Raum? Wo verwirklichst du Träume? Gibt es Orte, in welchen du Träume verwirklicht siehst? Welche Träume lebst du, wo lebst du sie, und vor allem wie?
+    
+    Nur ein paar der Fragen, welche das diesjährige Motto »Lebens(t)räume« des cellu l'art Fotowettbewerbs stellt. Ob nun mit der Einwegkamera oder der teuren Spiegelreflex, ob Einzelbild oder Serie viele Fotos erreichten uns zu unserer Ausschreibung. Ausgestellt werden die  Meisterwerke im Rahmen des 14. cellu l'art Kurzfilmfestivals in den Räumlichkeiten der Villa am Paradies. Unter allen Teilnehmern werden von einer qualifizierten Fachjury insgesamt 10 Fotografen ausgewählt, deren Arbeiten als Teil der Kulturveranstaltung cellu l'art präsentiert werden. Die Top-Drei werden bei der großen Preisverleihung am Samstag Abend ab 21 Uhr geehrt.
+    
+    Weitere Informationen zur Preisverleihung findet ihr hier:
+    (link: http://facebook.com/events/130987497088150/ text: facebook.com/events/130987497088150/)
+    
+    ## Gewinner
+    ### Erster Preis
+    (image: top-1-ueber-den-daechern-dieser-stadt.jpg)
+    Erik Hölperl
+    Über den Dächern dieser Stadt,
+    Halle (Saale) 2011 – 2012
+    
+    ### Zweiter Preis
+    (image: top-2-alles-voller-leere.jpg)
+    Kati Schiemann
+    Serie: Alles voller Leere,
+    Weißwasser 2010 – 2012
+    
+    ### Dritter Preis
+    (image: top-3-blauhaie-azoren.jpg)
+    Robert Marc-Lehmann
+    Blauhai (Prionace glauca) Splitshot,
+    Azoren-Banco Condor 2012
+  _fieldset: text

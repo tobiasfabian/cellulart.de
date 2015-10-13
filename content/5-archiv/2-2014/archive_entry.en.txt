@@ -1,0 +1,51 @@
+Title: 2014
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Film
+  film: baghdad-messi
+- 
+  award: |
+    Bester
+    ExAnDo
+  film: not-anymore-a-story-of-revolution
+- 
+  award: |
+    Toleranz-
+    preis
+  film: she-comes-in-spring
+- 
+  award: |
+    Preis der
+    Jugendjury
+  film: baghdad-messi
+- 
+  award: |
+    Publikums-
+    preis
+  film: 97
+
+----
+
+Text: 
+
+----
+
+Gallery-title: 
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: cellulart-katalog-2014.pdf

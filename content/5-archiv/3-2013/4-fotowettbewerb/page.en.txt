@@ -1,0 +1,41 @@
+Title: Photo Competition
+
+----
+
+Meta-description: The cellu l'art Festival was looking for the best pictures for the subject Lebens(t)räume (living spaces/ lifelong dreams).
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Lebens(t)räume (Lifelong Dreams/ Living Spaces)
+    5th cellu l'art Photo Competition
+  text: |
+    Where is your place? Where do you realise your dreams? Are the spaces where you see your dreams come true? Which dreams do you live, where do you live them and how?
+    
+    Just a couple of questions that arise with the motto of this year’s photo comeptition »Lebens(t)räume« (lifelong dreams vs. living spaces). Shot with a disposable camera or a reflex camera, many photos of all kinds and colours reached us during the last couple of months. The masterpeices will be exhibited at the Villa am Paradies during our 14th international short film festival from April 16 until 21. From all participants the jury of experts has chosen 10 photografers’ pieces that will be displayed in the upcoming week. The top-three candiates will even be honoured as part of our grand award ceremony on saturday night.
+    
+    More information on the award ceremony here:
+    (link: http://facebook.com/events/130987497088150/ text: facebook.com/events/130987497088150/)
+    
+    ## Winners
+    ### First Price
+    (image: top-1-ueber-den-daechern-dieser-stadt.jpg)
+    Erik Hölperl
+    Über den Dächern dieser Stadt,
+    Halle (Saale) 2011 – 2012
+    
+    ### Second Price
+    (image: top-2-alles-voller-leere.jpg)
+    Kati Schiemann
+    Serie: Alles voller Leere,
+    Weißwasser 2010 – 2012
+    
+    ### Third Price
+    (image: top-3-blauhaie-azoren.jpg)
+    Robert Marc-Lehmann
+    Blauhai (Prionace glauca) Splitshot,
+    Azoren-Banco Condor 2012
+  _fieldset: text

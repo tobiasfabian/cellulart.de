@@ -1,0 +1,48 @@
+Title: 2008
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    1.
+    Platz
+  film: nachts-das-leben
+- 
+  award: |
+    2.
+    Platz
+  film: mars
+- 
+  award: |
+    3.
+    Platz
+  film: have-work
+- 
+  award: |
+    Zuschauer-
+    preis
+  film: sara
+
+----
+
+Text: 
+
+2008 verzaubert die Zuschauer unter dem Motto ‚Die Magie des kurzen Augenblicks’. Umfassender als sonst ist das Festival und größer denn je der Anspruch. Neuer Trailer, umstrukturierter Ablauf, neue Location.
+
+Nach der offiziellen Eröffnung findet das beliebte Open Air dieses Jahr auf dem Universitätscampus statt. Das Wettbewerbsprogramm mit Länderschwerpunkt Polen läuft im 'Capitol Jena', wo auch vor und nach den Festivaltagen hochaktuelle bis klassische polnische Langspielfilme zu sehen sind.
+
+(vimeo: https://vimeo.com/1887262)
+
+----
+
+Gallery-images: _bergabePreis.jpg,BehindTheScene.jpg,Block3Kinosaal1.jpg,FeierlicheEr_ffnung.jpg,FlamencoFilmCrew.jpg,Jury1.jpg,Jury2.jpg,Jury3.jpg,Jury4.jpg,Kassenm_dels.jpg,Kinosaal1Leer.jpg,KinosaalGef_llt.jpg,ModerationOpenAir.jpg,ModeratorChristoph.jpg,ModeratorMaddin.jpg,OpenAirPublikum.jpg,Pause.jpg,Polenblock.jpg,Preistr_gerin.jpg,Stimmzettelabgabe.jpg,ZwischenDenBl_cken.jpg
+
+----
+
+Downloads: cellulart_programmheft_2008.pdf

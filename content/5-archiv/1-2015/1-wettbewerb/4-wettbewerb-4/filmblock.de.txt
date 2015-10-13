@@ -1,0 +1,57 @@
+Title: Wettbewerb 4
+
+----
+
+Subtitle: still | moving
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+Pause | Stillstand | Stagnation
+Regung | Bewegung | Veränderung 
+Was bewegt – treibt uns an? Was lässt uns still stehen?
+Dieser Block zeigt die ganze Spannweite zwischen Kinetik und Stasis, zwischen Play und Pause, zwischen Aufhalten und Weitermachen, und die paradoxen Fälle, wenn uns beides gleichzeitig ergreift.
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-23
+  time: 18:00
+- 
+  date: 2015-04-24
+  time: 22:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125317963

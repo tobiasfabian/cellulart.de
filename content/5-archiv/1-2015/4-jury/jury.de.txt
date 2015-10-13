@@ -1,0 +1,127 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Fachjury
+  _fieldset: jury-title
+- 
+  name: Andreas Baltschun
+  image: andreas.jpg
+  text: >
+    Andreas Baltschun studierte an der
+    Bauhaus-Uni­versität Weimar
+    Mediengestaltung. Seine Arbeiten wurden
+    bereits zu Studienzeiten mehrfach
+    ausgezeichnet, liefen auf zahlreichen
+    Festivals, wie dem Next Generation in
+    Cannes, dem Today Award der Berlinale,
+    dem Max-Ophüls-Preis und dem DOK
+    Leipzig. Sein Debütkinofilm „Für
+    Elise“ wurde auf dem „Festival des
+    deutschen Films“ mit dem Hauptpreis,
+    dem Filmkunstpreis 2012, ausgezeichnet.
+    Baltschun ist ein Editor, für den die
+    Emotionalität im Vordergrund seiner
+    Arbeit in der Bildmontage steht. Ob das
+    Ergebnis nun non-fiktional oder
+    fiktional – 30 Sekunden oder 30
+    Stunden lang ist – für ihn zählt nur
+    die Geschichte, die erzählt wird.
+    Nebenberuflich ist er als
+    Lehrbeauftragter für Schnitt und
+    Montage an der Hochschule für Fernsehen
+    und Film München tätig.
+  _fieldset: jury-member
+- 
+  name: Babette Hnup
+  image: bh.jpg
+  text: |
+    Die gebürtige Wienerin verlagerte während ihres Studiums ihren Wohnsitz nach Paris. Aus dem geplanten Au-pair Aufenthalt wurden schließlich 15 Jahre, in denen sie als Journalistin für die deutsche Presse tätig war. Die Liebe holte sie zurück nach Deutschland und seit fünf Jahren lebt sie in Hamburg. Neben der Tätigkeit als freie Journalistin des NDR, arbeitet sie auch als Autorin und Producerin für andere öffentlich-rechtliche TV Sender, sowie für die Produktionsfirma freeeye.tv.
+    
+    Unter anderem war sie als Autorin bei der HR Reportage „Mediensucht“ (2015), sowie als Producerin der ZDF Neo Reportagenreihe „Herr Eppert sucht“ (2011/13) tätig. Als Videojournalistin dreht und schneidet sie Filmbeiträge, Imagefilme und realisiert pro Jahr einen Kurzfilm, um diesen bei diversen Festivals einzureichen. Dies geschieht zwar ohne Budget, aber mit viel Herzblut.
+  _fieldset: jury-member
+- 
+  name: Volker Traumann
+  image: volker-traumann.jpg
+  text: >
+    Volker Traumann wurde 1967 in Erlangen
+    geboren und studierte Theaterpädagogik
+    an der Universität der Künste Berlin.
+    Seit 1996 lebt er in Bamberg und
+    arbeitet dort in den Bereichen Film,
+    Theater und Zirkus. Als Schauspieler und
+    Theaterpädagoge wirkte er mehrere Jahre
+    im Ensemble der Landesbühne Oberfranken
+    und arbeitet mittlerweile selbstständig
+    als Darsteller und Moderator. Seit 2005
+    leitet er den ZIRKUS GIOVANNI in Bamberg
+    und gibt Kurse in Theater, Clownerie,
+    Artistik und „Sozialer Zirkus“. Nach
+    mehrjähriger Filmarbeit mit
+    benachteiligten Jugendlichen und eigenen
+    Filmprojekten ist er seit 2006
+    Festivalleiter der Bamberger
+    Kurzfilmtage.
+  _fieldset: jury-member
+- 
+  title: Jugendjury
+  _fieldset: jury-title
+- 
+  name: Nina Katschmarek
+  image: nina.jpg
+  text: >
+    Mein Name ist Nina und ich bin 16 Jahre
+    alt. Momentan besuche die 10. Klasse des
+    Leuchtenburg-Gymnasiums Kahla. In meiner
+    Freizeit treibe ich sehr gerne viel
+    Sport und höre gerne Musik. Ich
+    interessiere mich sehr für Filme und
+    Kurzfilme sind meiner Meinung nach etwas
+    besonderes. Sie schaffen es in kurzer
+    Zeit Menschen zu fesseln, zu schockieren
+    oder zu unterhalten. Die Faszination
+    liegt darin, dass man mit ihnen viel
+    ausdrücken kann, wie Gefühle, aber
+    auch viele Menschen erreicht.
+  _fieldset: jury-member
+- 
+  name: Lorenz Krieger
+  image: lorenz.jpg
+  text: >
+    Ich bin Lorenz, 17 Jahre alt und gehe
+    auf die Waldorfschule. Seit drei Jahren
+    spiele ich Theater im Jugendclub am
+    Theaterhaus Jena und seit dieser
+    Spielzeit auch am stellwerk weimar. Ich
+    schaue sehr gerne gute Spielfilme und
+    begeistere mich vor allem für die Filme
+    älterer Regisseure wie Hitchcock,
+    Fellini, Buñuel und Truffaut. Vor ein
+    paar Jahren habe ich selbst einige
+    Kurzfilme mit Freunden gedreht, heute
+    schaue ich sie mir lieber an.
+  _fieldset: jury-member
+- 
+  name: Nadja Sühnel
+  image: nadja.jpg
+  text: >
+    Ich heiße Nadja, bin 17 Jahre alt und
+    gehe in die 12. Klasse der
+    Jenaplan-Schule Jena. Bei Filmen
+    interessiert und begeistert mich ein gut
+    angelegtes Drehbuch am meisten,
+    ansonsten bin ich bei verschiedenen
+    Filmrichtungen nicht sehr wählerisch,
+    sondern lasse mich auf vieles ein. Was
+    ich an Kurzfilmen mag, ist, dass man
+    sich mehr Zeit lassen kann, um Momente
+    zu erzählen, die in anderen Filmen
+    wegen des Plots gekürzt werden müssen.
+  _fieldset: jury-member

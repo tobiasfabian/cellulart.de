@@ -1,0 +1,44 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Olaf Burmeister
+  image: olaf-burmeister.jpg
+  text: 'Olaf Burmeister wurde 1960 in Altentreptow geboren. Seine Ausbildung zum Schauspieler absolvierte er von 1984 bis 1988 an der Theaterhochschule „Hans Otto“ in Leipzig. Nach zahlreichen Engagements am Theater, u.a. am Schauspielhaus Leipzig, dem Staatsschauspiel Dresden und dem Deutschen Theater Berlin folgten seit 2004 Arbeiten in Film- und TV-Produktionen, u. a. in „Die Frau vom Checkpoint Charlie“, „Die Wehrmacht“, „Afrika, Mon Amour“, „Katze im Sack“ und seit 2007 in der Kinder – und Jugendserie „Schloss Einstein“.'
+  _fieldset: jury-member
+- 
+  name: Carsten Fiebeler
+  image: carsten-fiebeler.jpg
+  text: 'Carsten Fiebeler wurde 1965 in Zwickau geboren. Nach seinem Regiestudium an der Hochschule für Film und Fernsehen „Konrad Wolf“ in Potsdam arbeitete er als Werbe-, Trailer- und Imagefilmer. Neben Arbeiten für Theater- und Operninszenierungen entstanden preisgekrönte Dokumentar- und Kurzfilme, u.a. „Straßensperre“, der auf der Berlinale mit dem Panorama Kurzfilmpreis prämiert wurde und „Der Wettkampf“, der den Vienna TV Award erhielt. Seit 2002 entstanden unter seiner Regie zahlreiche Kino- und Fernsehproduktionen, u.a. „Kleinruppin Forever“ (2004), „Ostpunk - too much future“ (2006) und „Das blaue Licht“ (2010).'
+  _fieldset: jury-member
+- 
+  name: Guido Kirsten
+  image: guido-kirsten.jpg
+  text: 'Guido Kirsten wurde 1979 in Gießen geboren. Nach seinem Studium der Theater-, Film- und Fernsehwissenschaft, Soziologie und Philosophie in Köln, Paris und Berlin arbeitete Guido Kirsten von 2007 bis 2009 als wissenschaftlicher Mitarbeiter im Forschungsprojekt „Zurück zur Leinwand“ an der Friedrich-Schiller-Universität Jena. Seit Oktober 2009 ist er Mitarbeiter an der Universität Zürich mit einem Dissertationsprojekt zur Theorie und Geschichte des filmischen Realismus. Er ist Mitherausgeber der Zeitschrift „montage AV – Zeitschrift für Theorie und Geschichte audiovisueller Kommunikation“ und des Sammelbandes „Das chinesische Kino nach der Kulturrevolution“.'
+  _fieldset: jury-member
+- 
+  name: Jörg Lawerentz
+  image: joerg-lawerentz.jpg
+  text: |
+    Jörg Lawerentz wurde 1967 in Mülheim an der Ruhr geboren. Er absolvierte eine Ausbildung zum Werbefotografen und ist seit 1998 als Kameramann tätig u.a. für Produktionen wie „Alarm für Cobra 11“, „Die Rosenheim Cops“ und „Soko Leipzig“.
+    
+    2010 erhielt er den Deutschen Kamerapreis in der Kategorie Fernsehserie für die Folge „Filmriss“ aus der KiKa-Reihe KRIMI.DE
+  _fieldset: jury-member
+- 
+  name: Uwe Petzold
+  image: uwe-petzold.jpg
+  text: |
+    Uwe Petzold wurde 1956 in Prenzlau geboren. Nach Arbeiten für das Jugendtheater und Kabarett in Gera und Berlin absolvierte er 1982 bis 1986 sein Studium in den Bereichen Film-, Fernsehwirtschaft und Dramaturgie an der HFF in Potsdam Babelsberg. Danach folgten Veröffentlichungen als Autor für Hörbücher, TV-Reihen, TV-Serien und Fernsehfilme.
+    
+    Seit 1996 ist er Autor u.a. für Grundy-Ufa, Novafilm, Bavaria-Film, Studio Hamburg und Saxonia Media. Darüberhinaus arbeitete er als Gastdozent an der HFF Potsdam Babelsberg, der Deutschen Film- und Fernsehakademie Berlin und an der Universität Mannheim in den Bereichen Konzeptentwicklung für TV-Serien, Stoffentwicklung für TV-Genres, Drehbuchdramaturgie und Drehbuchentwicklung.
+  _fieldset: jury-member

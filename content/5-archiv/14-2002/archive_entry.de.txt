@@ -1,0 +1,27 @@
+Title: 2002
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    1.
+    Platz
+  film: minuten-zum-thema-tankstelle
+
+----
+
+Text: Eindeutiges Zeichen für eine professionelle Weiterentwicklung ist die Jury: erstmals setzt sie sich aus Doktoranten, Regisseuren und freien Künstlern zusammen. An zwei Tagenwerden unter dem Motto "rausch-gift" 45 Wettbewerbsfilme aus den verschiedensten Ländern der Welt gezeigt. Außerdem wird zum ersten Mal ein Zuschauerpreis verliehen. Highlight des Programms ist die Oscar-Nacht. Die Filmfestcrew scheut weder Kosten noch Mühe, um dem Publikum fünf deutsche Oscar-Gewinnerfilme zu zeigen.
+
+----
+
+Gallery-images: f1000004.jpg,f1000006.jpg,f1000007.jpg,f1000012.jpg,f1000013.jpg,f1000016.jpg,f1000025.jpg,f1000030.jpg,f1010014.jpg,f1010018.jpg,f1010019.jpg,f1020001.jpg,f1020007.jpg,f1020028.jpg,f1020032.jpg
+
+----
+
+Downloads: 

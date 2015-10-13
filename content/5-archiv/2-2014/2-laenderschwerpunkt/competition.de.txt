@@ -1,0 +1,35 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: Wir wollen im Rahmen des 15. Kurzfilmfestivals einen Einblick in die Thematik des brasilianischen Kurzfilms gewähren.
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Länderschwerpunkt
+    Brasilien
+  text: |
+    „In Brasilien ist Gott nicht tot, sondern rund. Alle Menschen spielen überall jederzeit Fußball und sind besessen von diesem Sport.“ So pointiert wie clichéhaft verortet Matthias Rohl (Redaktion Langeleine, Hannover) in seiner Rezension der Fußball-Dokumentation „Ginga – The Soul of Brazilian Football“ die kollektive brasilianische Leidenschaft. Der Begriff„Ginga“ kommt eigentlich aus der Capoeira, der wahrhaftig brasilianischen Kunst des listenreichen, zwischen verspielt und aggressiv changierenden Tanzes, der so sinnbildlich für die Vergangenheit der Nation und das Zusammenleben unterschiedlicher Menschen im Allgemeinen steht. „Ginga“, der Grundschritt, welcher organisch mit dem vom „Berimbau“ vorgegebenen Rhythmus abgestimmt  wird, spiegelt symbolisch das Lebensgefühl Brasiliens wieder, die Freude am Tanzen und letzlich die Lust am das Leben.
+    
+    Kontrast erhält diese plakative Sehnsucht in den packend unmittelbaren Favela-Schluchten von Fernando Meirelles „City of God“: "Die Sonne ist für alle da, der Strand nur für die, die es verdient haben.", aus dem Munde zynisch resignierter Jugendgangster, deutet auf die großen sozialen Verwerfungen einer in feudalen Strukturen erstarrten Klassengesellschaft hin. Die daraus resultierenden Spannungen bilden einen wichtige inhaltliche Säule unterschiedlichster künstlerischer Strömungen, von Folklore wie Capoeira über Musik bis hin zum Film. Zum anderen katalysieren sie natürlich die kreative Aufarbeitung und verhelfen Brasilien zu einem reichhaltigen Schatz phantastischer Ideen.
+    
+    Daß emotionale, existentielle Not und wirtschaftliches Elend die poetische Schaffenskraft beflügeln, ist nicht erst seit Goethes „Die Leiden des jungen Werther“ bekannt. Was also zeichnet Brasiliens Kunst als solche aus?
+    
+    Von der portugiesischen Kolonialisierung  über die systematische Deportation afrikanischer Sklaven bis zur Immigration großer Verbände italienischer, deutscher, japanischer und weiterer Siedler konzentrierten sich in Brasilien neben den Ureinwohnern unterschiedlichste Ethnien. Die staatlich geförderte Einwanderung europäischer Kolonisten ab dem 19 Jahrhundert, die neben der weiteren Erschließung des Hinterlandes auch zum Wachstum bestehender Städte beitrug, führte auch zu einer verstärkten Begegnung und Vermischung der Kulturen. Die politische Emanzipation Brasiliens von einer portugiesischen Kolonie über eine selbständigen Monarchie (1822) bis hin zur Republik ab 1889 und Demokratisierung 1930 förderte die Entwicklung eines kulturellen Selbstverständnisses, das anläßlich der Weltausstellung 1922 in Río de Janeiro programmatisch kristallisiert wurde zu einer bewußten Orientierung auf die kulturellen Ursprünge aus Amerika, Europa und Afrika.
+    
+    Der multiethnische Usprung ist untrennbar mit einem weiteren Aspekt gekoppelt, der die brasilianische Gesellschaft und damit die Kunst bis heute prägt: Die Neugier auf Neues, die Offenheit für fremde Einflüsse und die Lust, sie spielerisch zu integrieren.
+    
+    So, wie der deutschstämmige Jahrhundertarchitekt Oscar Niemeyer sich zur Ikone der architektonischen Moderne erhob, indem er fortschrittliche Bautechnologie und deutsche Präzision mit unkonventioneller Formsprache zu einem eigenständigen, markanten Stil verband, so finden diese kulturellen Synergien sich auch in den anderen Künsten wieder. Dem brasilianischen Film kamen hinsichtlich der Eigenständigkeit in seiner Entwicklung zwei Faktoren zugute: Zum einen der größte Binnenmarkt in Lateinamerika, zum anderen ein ausgeprägter Kulturprotektionismus in den 1940er und 50er Jahren, der den heimischen Filmbetrieb aufblühen ließsowie eine massive staatliche Förderung in den 1970er und 80er Jahren.
+    
+     Während anfangs noch viele brasilianische Filme künstlerisch und inhaltlich von europäischen und Hollywood-Produktionen inspiriert worden waren, wurde mit der „Chanchada“ ab 1933 ein natives brasilianisches Format populär, eine Mischung aus Karnevalsfolklore, Musical und possenhafter Komödie. Als erfolgreichste Chanchada gilt „Alô, Alô Carnaval“ von 1937. 1953 wurde „O Cangaceiro“ in Cannes als bester Abenteuerfilm ausgezeichnet, der im Stile des zeitgenössischen US-Westerns und mit enormem Aufwand die Geschichte der mythisch überhöhten brasilianischen Gesetzlosen gegen tyrannische Großgrundbesitzer erzählt. Ab Mitte der 1950er gelangte der italienische Neorealismus in spezifischer Ausprägung nach Brasilien. Die sozialkritisch ausgerichteten und minimal budgetierten Filme des „Cinema Novo“ folgten dem Motto „Mit einer Kamera in der Hand und einer Idee im Kopf“ und rückten die Not und Gewalt in den Städten in den Mittelpunkt. Mit dem „Tropicalismo“ der 1960er Jahre setzten sich die brasilianischen Filme stilistisch und inhaltlich weiter von ausländischen Produktionen ab und konzentrierten sich stärker auf spezifisch einheimische Motive und Ästhetik.
+    
+    Zu weltweiter Bekanntheit gelangte 1998 Fernando Meirelles „City of God“, der in bester Tradition des brasilianischen Kinos Unkonventionalität, Authentizität und nicht zuletzt die spürbare Lebenslust unwiderstehlich vereint!
+    
+    Auch wenn die brasilianische Gegenwart von den aktuellen, sozialpolitischen Problemen überschattet wird: Wenn dort 2014 die Fußball-Weltmeisterschaft gastiert, wird diese grenzenlose Begeisterung über neue Menschen und Geschichten das Land in einen kollektiven Rausch versetzen. Und das steckt jetzt schon an! Voller Vorfreude legt das cellu l'art 2014 seinen Länderschwerpunkt auf den Gastgeber des größten internationalen Festes der Gegenwart!
+    
+    Axé Brasil!
+  _fieldset: text

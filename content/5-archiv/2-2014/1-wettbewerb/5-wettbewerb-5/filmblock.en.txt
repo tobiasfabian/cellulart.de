@@ -1,0 +1,32 @@
+Title: Wettbewerb 5
+
+----
+
+Subtitle: Tingling Riots
+
+----
+
+Meta-description: 
+
+----
+
+Text: May it be desire, lust or boredom: now its all about people seeking for the unknown, the excitement and for freedom. And they are seeking for it until the big bang.
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-24
+  time: 20:00
+- 
+  date: 2014-04-26
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

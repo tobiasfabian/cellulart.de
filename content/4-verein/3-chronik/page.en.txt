@@ -1,0 +1,21 @@
+Title: History
+
+----
+
+Builder: 
+
+- 
+  h1: Who Are the People Behind the Scenes?
+  text: |
+    The Short Film Festival Jena was founded by a group of media science students in 1999. Back then the festival was supposed to keep film works from seminars from gathering dust in the University archives. The films were presented to the public in a short film night. The idea caught on and the „Kurzfilmfest Jena e.V.“ (Short Film Festival Jena ) was established. The aim of the organization was and is bringing national and international short films to Jena.  Since its premiere in 2000 the celu l’art festival has managed to increase in all aspects. The number of spectators is growing rapidly, so has the duration of the festival as well as the number of film entries. Even the structure of the organization and the spectrum of the festival could be diversified making the festival the largest of its kind in Thuringia.
+    
+    The by now called “cellu l’art Festival Jena e.V.”  has expanded its orientation over the last few years. Not only has the competition drawn international attention to Jena, members of the jury have been Oscar-winning celebrities. Beginning in 2004 the festival featured a national focus that provides an insight into the short film culture of one specific country. So far a number of varied nationalities such as Israel, Denmark, Australia, Poland, India, Spain, Sweden and South Korea have been part of the mix. Besides these core elements, there are and have been photo contests, the by now traditional open air at opening night and numerous parties.  The high light of the festival is and will always be the solemn award show, in which the award winning films are featured since 2010.
+    
+    From the day of its foundation the cellu l’art festival has always endeavoured to bring more attention to the short film in Jena and in Thuringia. Therefore we have worked together with numerous organizations and contributed short films to various festivals and events. The cellu l’art has in this context contributed short films to the Schmalkalder Sommerfilmnächte five times thus far. The organization also participated in the legendary Kurzfilmnacht (short film night) as part of the Kulturarena (culture arena) festival in Jena. On several occasions we have worked hand in hand with the back-up festival Wemiar. This cooperation developed over the last couple of years and will persist well into the future. Besides the festival week in April, the cellu l’art has enlarged its program to feature events throughout the year. By this time we have successfully worked together with a number of (culture) institutions in and around Jena to provide short film nights as well as the supporting film program for several cultural events.
+    
+    Members of the association are at large current or former students of the media sciences. All members share the enthusiasm for the medium short film and film in general as well as the ambition to make this passion for short film accessible to a larger audience. All members of the organization work in a voluntary capacity to make the festival and all the events possible with their devotion.
+  _fieldset: text
+
+----
+
+Url-key: history

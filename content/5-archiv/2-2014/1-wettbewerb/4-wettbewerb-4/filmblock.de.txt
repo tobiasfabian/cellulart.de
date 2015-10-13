@@ -1,0 +1,32 @@
+Title: Wettbewerb 4
+
+----
+
+Subtitle: Traum und Tod
+
+----
+
+Meta-description: 
+
+----
+
+Text: Block 4 bringt euch in eine Welt, die bestimmt ist durch Träume – die zusammenbringen, Hoffnung geben, herausfordern, wiederkehren, in einen Rausch entführen, Landschaften formen oder bis zum Wahn verfolgen – Lieder von Traum, Trance und Tod …
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-24
+  time: 18:00
+- 
+  date: 2014-04-25
+  time: 22:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

@@ -1,0 +1,27 @@
+Title: 2001
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    1.
+    Platz
+  film: endstation-paradies
+
+----
+
+Text: In Riesenschritten geht es voran. Mehr Filme. Bessere Filme. Größeres Kino. Zwei Tage Festival statt nur einem. Steigerung der Zuschauerzahlen um 200%. Es werden 26 internationale Kurzfilme von renommierten Filmhochschulen in Potsdam, Berlin und Hamburg, sowie aus China, Frankreich, den Niederlanden, Israel und Belgien gezeigt.
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: 

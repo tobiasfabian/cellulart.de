@@ -1,0 +1,45 @@
+Title: Speed Date - Gettogether
+
+----
+
+Fb-link: 
+
+----
+
+Date: 2015-10-17
+
+----
+
+Time: 16:00
+
+----
+
+Enddate: 2015-10-01
+
+----
+
+Endtime: 21:00
+
+----
+
+Text: Get to know us at our speed date with coffee and cake. We will host this teatime event in order to get to know the wonderful people working to put on this film festival. In addition, we encourage discussing our focus on Ireland while enjoying a nice cold beer. We will see you there! Cheers!
+
+----
+
+Venue: Haus auf der Mauer (großer Saal)
+
+----
+
+Venue-link: http://www.internationales-centrum-jena.de/
+
+----
+
+Street: Johannisplatz 26
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

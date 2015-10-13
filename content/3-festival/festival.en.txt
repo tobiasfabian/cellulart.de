@@ -1,0 +1,19 @@
+Title: Festival
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    cellu l’art
+    International Short Film Festival
+  text: |
+    Was erwartet dich beim internationalen Kurzfilmfestival? Vom 19. bis 24. April 2016 präsentieren wir im Volksbad Jena erstklassige Kurzfilme aller Kategorien und Genres von Filmemachern aus der ganzen Welt. Wir werden dich zum Lachen, Weinen, Tanzen und Nachdenken bringen.
+    
+    Lerne Regisseure und Produzenten kennen! Und das Beste: Du entscheidest, wer gewinnt. Neben den Preisen der fachkundigen Jurys wird erneut unser beliebter Publikumspreis vergeben. Wenn du Interesse am Filmland Finnland hast, komm zu unserem diesjährigen Länderschwerpunkt. Als Auftakt gibt es wieder unser beliebtes Open-Air am Johannistor. Der krönende Abschluss unserer Festivaltage ist die Preisverleihung, garniert mit den besten Kurzfilmen und unserer legendären After-Show-Party.
+  _fieldset: text
+
+----
+
+Meta-description: 

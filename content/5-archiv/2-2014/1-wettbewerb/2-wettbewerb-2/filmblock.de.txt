@@ -1,0 +1,32 @@
+Title: Wettbewerb 2
+
+----
+
+Subtitle: Tatsächlich Liebe?
+
+----
+
+Meta-description: 
+
+----
+
+Text: Was ist das eigentlich – das uns glücklich und traurig, verzweifelt und hoffnungsvoll, übermütig und ängstlich, aggressiv und zärtlich, leidenschaftlich und lethargisch, träumerisch und selten auch mal realistisch werden lässt?  Ganz genau – wir haben keine Ahnung!
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-23
+  time: 20:00
+- 
+  date: 2014-04-25
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

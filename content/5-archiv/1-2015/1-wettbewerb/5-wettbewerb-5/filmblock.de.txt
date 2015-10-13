@@ -1,0 +1,52 @@
+Title: Wettbewerb 5
+
+----
+
+Subtitle: Perspektivenwechsel
+
+----
+
+Meta-description: 
+
+----
+
+Text: In der Tristesse des Alltags ertappen sich die Protagonisten dabei in festen Ordnungen und Handlungsweisen stecken zubleiben. Wir erhalten Einblick in unvorstellbare Realitäten, die Denkanstöße und neue Blickwinkel für uns bereithalten. Wir müssen nur lernen über den Tellerrand zu schauen – unsere Perspektive zu wechseln…
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-23
+  time: 20:00
+- 
+  date: 2015-04-25
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125367148

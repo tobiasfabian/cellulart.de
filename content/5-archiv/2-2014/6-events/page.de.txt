@@ -1,0 +1,48 @@
+Title: Events
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Open-Air-Kino im
+    Faulloch
+  text: |
+    Ostern ist vorbei - wir legen los! Und wie?  Passend zu unserem Länderschwerpunkt Brasilien werden uns die Capoeira-Tänzer des Capoeira Ibeca Jena e.V. in die richtige Stimmung für einen Kurzfilmabend unter freiem Himmel am Johannisplatz bringen. Als musikalischer Leckerbissen wird die Band „Orkidheart“ mit ihren poprockigen Songs uns ordentlich in Schwung bringen. Bei Einbruch der Dunkelheit nehmen wir euch dann mit auf eine Reise durch die wunderbare Welt des Kurzfilms. Ob witzig, skurril, träumerisch oder regional klassisch - hier ist für jeden Geschmack etwas dabei. Für das leibliche Wohl wird es heiße Suppe, leckere Waffeln und natürlich wieder einen Getränkestand geben. Dem perfekten Festivalauftakt steht also Nichts mehr im Weg!
+    
+    Open-Air-Kino mit Orkidheart und 
+    Capoeira Ibeca Jena e.V.
+    Samstag, 22. April um 20 Uhr
+    Faulloch
+  _fieldset: text
+- 
+  h1: |
+    cellu l’art Party
+    Oliver Goldt
+  text: |
+    Im Anschluss an den Kurzfilmabend folgt eine Nacht voller Musik und „Freude am Tanzen“ mit  Oliver Goldt. Seine musikalische Vielseitigkeit und sein feines Gespür für mitreißende Klänge lassen so manches Musiker- und Tänzerherz höher schlagen. Sein Fokus liegt dabei auf der elektronischen Musik – mit all ihren unterschiedlichen Facetten – aber auch andere Genres wie Funk, Experimental oder Jazz finden genug Platz in seiner Plattensammlung. Die einzigartigen Räumlichkeit des Volksbads erzeugt zusätzlich eine außergewöhnliche Atmosphäre, in der sowohl das Kurzfilm-Schauen als auch das anschließende Feiern besonders viel Freude bereitet.
+    
+    (link: http://soundcloud.com/oliver-goldt text: soundcloud.com/oliver-goldt popup: true)
+    
+    cellu l’art Party mit Oliver Goldt
+    Freitag, 25. April ab 23:30 Uhr
+    Volksbad Jena
+  _fieldset: text
+- 
+  h1: |
+    After-Show-Party
+    Tourist & Baccara
+  text: |
+    Nach der alljährlich samstagabendlichen Preisverleihung, vielen sehenswerten und aufregenden Kurzfilmen, neigt sich das  15. Jenaer cellu l'art Kurzfilmfestival allmählich dem Ende zu. Also Projektor aus und alle ab ins Bett? Nichts da! Wir lassen die Korken knallen und feiern mit euch eine wilde Aftershow-Party im Theatercafé Jena. Dort könnt ihr bei einem leckeren Drink das Festival Revue passieren lassen und auf dem Dancefloor zu den elektronischen Sounds der DJs Tourist & Baccara eure müden Beine wieder in Schwung bringen.
+    
+    (link: http://soundcloud.com/touristofficial text: soundcloud.com/touristofficial popup: true)
+    
+    After-Show-Party mit Tourist & Baccara
+    Samstag, 26. April um 23 Uhr (Einlass 22 Uhr)
+    Theatercafé Jena
+  _fieldset: text

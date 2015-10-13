@@ -1,0 +1,52 @@
+Title: Wettbewerb 5
+
+----
+
+Subtitle: Tierisch bekloppt
+
+----
+
+Meta-description: 
+
+----
+
+Text: Benimmt man sich wie ein Tier, schlägt man meist über die Stränge, verlässt das, was als gesellschaftlich akzeptierte Verhaltensebene gilt. Aber ist das Verhalten von Tieren tatsächlich so schlimm oder sind es nicht eher die Menschen selbst, die wider die Natur handeln? Wettbewerb V unternimmt einen Streifzug durch Reihenhaussiedlungen, Wälder und sogar Fleischwarenfachgeschäfte, um dieser Frage nachzugehen. Denn: Sind wir nicht alle auch Tiere?
+
+----
+
+Dates: 
+
+- 
+  date: 2013-04-18
+  time: 20:00
+- 
+  date: 2013-04-20
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Villa am Paradies
+
+----
+
+Street: Knebelstraße 3
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/64055445

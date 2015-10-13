@@ -1,0 +1,66 @@
+Title: Team
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Team
+  text: |
+    ## Vorsitzender
+    Christoph Matiss
+    
+    ## Stellvertretende Vorsitzende
+    Wiebke Winter
+    
+    ## Finanzen
+    Susan Kuhne
+    
+    ## Location Management
+    Andreas Neumann
+    Matthias Boden
+    
+    ## Jury- und Gästebetreuung
+    Fagus Pauly
+    Susanne Berghoff
+    
+    ## Shuttle
+    Sebastian Kratz
+    
+    ## Wettbewerb
+    Manuela Lindig
+    Tilman Schreiber
+    Florian Goldmann
+    
+    ## Länderschwerpunkt Brasilien
+    Matthias Boden
+    
+    ## Presse / PR
+    Lutz Granert
+    Bettina Siebert
+    Elisabeth Wenk
+    Sebastian Holz
+    Steffi Großer
+    Julia Garbe
+    
+    ## Moderation
+    Elisabeth Wenk
+    Sebastian Holz
+    
+    ## Partys und Events
+    Laura Plewe
+    
+    ## Technik
+    André Meier
+    Julius Wirsching
+    Manuela Lindig
+    Sebastian Altmann
+    Alexander Roth
+    
+    ## Gestaltung & Website
+    Tobias Wolf
+  _fieldset: text

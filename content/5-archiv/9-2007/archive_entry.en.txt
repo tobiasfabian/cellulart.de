@@ -1,0 +1,42 @@
+Title: 2007
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    1.
+    Platz
+  film: hilda-und-karl
+- 
+  award: |
+    2.
+    Platz
+  film: rauskommen
+- 
+  award: |
+    3.
+    Platz
+  film: ein-zwei-dinge
+- 
+  award: |
+    Zuschauer-
+    preis
+  film: achterbahn
+
+----
+
+Text: 2007 biete ein Festival, das die Weichen hin zu den aktuellen Strukturen des cellu l’art stellt. Das traditionsreiche 'Capitol-Kino' wird zum Partner und so kommt der Film wieder dahin, wo er hingehört: ins Kino. Facettenreich wie das Land selbst sind die Beiträge des Länderschwerpunkts Australien – eine Genre-Vielfalt wie bei bisher keinem anderen Land. Die Preisträger zeigen wie gut aber auch der junge deutsche Film ist.
+
+----
+
+Gallery-images: hg4x8173.jpg,hg4x8176.jpg,hg4x8192.jpg,hg4x8198.jpg,hg4x8203.jpg,hg4x8209.jpg,hg4x8219.jpg,hg4x8222.jpg,hg4x8241.jpg,hg4x8265.jpg,hg4x8270.jpg,hg4x8273.jpg,hg4x8284.jpg,hg4x8289.jpg,hg4x8300.jpg,hg4x8306.jpg,hg4x8314.jpg,hg4x8318.jpg,hg4x8325.jpg,hg4x8327.jpg,hg4x8331.jpg,hg4x8334.jpg,hg4x8339.jpg,hg4x8353.jpg,hg4x8359.jpg,hg4x8361.jpg,hg4x8717.jpg,hg4x8719.jpg,hg4x8734.jpg,hg4x8771.jpg,hg4x8775.jpg,hg4x8776.jpg,hg4x8781.jpg,hg4x8791.jpg,hg4x8792.jpg,hg4x8819.jpg,hg4x8830.jpg,hg4x8831.jpg,hg4x8834.jpg,hg4x8835.jpg,hg4x8839.jpg,hg4x8843.jpg,hg4x8852.jpg,hg4x8858.jpg,hg4x8875.jpg,hg4x8878.jpg,hg4x8899.jpg,img_0897.jpg,img_0902.jpg,img_0906.jpg,img_0907.jpg,img_0912.jpg,img_0916.jpg,img_0926.jpg,img_0928.jpg,img_0943.jpg,img_0949.jpg,img_0951.jpg,img_0984.jpg,img_0991.jpg,img_0998.jpg,img_1007.jpg,img_1011.jpg,img_1018.jpg,img_1027.jpg,img_1028.jpg,img_1030.jpg,img_1033.jpg,img_1038.jpg,img_1044.jpg,img_1070.jpg,img_1080.jpg,img_1096.jpg,img_1102.jpg,img_1104.jpg,img_1105.jpg,img_1112.jpg,img_1113.jpg,img_1142.jpg,img_1146.jpg,img_1151.jpg,img_1155.jpg,img_1159.jpg,img_1168.jpg,img_1169.jpg,img_1186.jpg,img_1196.jpg,img_1207.jpg,img_1209.jpg,img_1216.jpg,img_1218.jpg,img_1236.jpg,img_1239.jpg,img_1268.jpg,img_1275.jpg,img_1320.jpg,img_1325.jpg,img_1326.jpg,img_1327.jpg,img_1328.jpg,img_1337.jpg,img_1364.jpg,img_1378.jpg,img_1379.jpg,img_1381.jpg,img_1387.jpg,img_1388.jpg,img_1394.jpg,img_1403.jpg,img_1413.jpg,img_1414.jpg,img_1416.jpg,img_1425.jpg,img_1430.jpg,img_1440.jpg,img_1443.jpg,img_1452.jpg,img_1455.jpg,img_1459.jpg,img_1473.jpg,img_1475.jpg,img_1477.jpg,img_1480.jpg,img_1488.jpg,img_1498.jpg,img_1505.jpg,img_1508.jpg,img_1509.jpg,img_1514.jpg,img_1515.jpg,img_1516.jpg,img_1517.jpg,img_1518.jpg,img_1519.jpg,img_1523.jpg,img_1524.jpg,img_1529.jpg,img_1534.jpg,img_1535.jpg,img_1546.jpg,img_1547.jpg,img_1548.jpg,img_1554.jpg,img_1556.jpg,img_1562.jpg,img_1568.jpg,img_1575.jpg,img_1579.jpg,img_1581.jpg,img_1582.jpg,img_1584.jpg,img_1585.jpg,img_1586.jpg,img_1594.jpg,img_1595.jpg,img_1602.jpg,img_1608.jpg,img_1614.jpg,img_1617.jpg,img_1619.jpg,img_1622.jpg,img_1630.jpg,img_1632.jpg,img_1634.jpg,img_1637.jpg,img_1640.jpg,img_1642.jpg,img_1646.jpg,img_1653.jpg,img_1655.jpg,img_1657.jpg
+
+----
+
+Downloads: cellulart_programmheft_2007.pdf

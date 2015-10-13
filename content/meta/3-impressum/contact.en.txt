@@ -1,0 +1,34 @@
+Title: Imprint
+
+----
+
+Text: 
+
+cellu l’art – Festival Jena e.V.
+Oberlauengasse 2
+07743 Jena
+
+## E-Mail
+(email: info@cellulart.de text: info@cellulart.de)
+
+## Responsible for Content
+Nadine Katschmarek
+
+## Entry at The Register of Associations
+Registergericht: Amtsgericht Jena
+Registernummer: 1194
+
+## Corporate Design
+Robin Weißenborn
+
+## Webdesign
+(link: https://tobiaswolf.me text: Tobias Wolf popup: true)
+
+Font: Franklin Gothic Medium, CMS: Kirby, JavaScript Library: Underscore.js
+
+## Privacy Notice
+This website uses the web analytics service Google Analytics. Google Analytics uses Cookies, that enable an analysis of the usage of this website.  For this purpose the data acquired by the Cookie is transferred to a server and saved for further usage analysis. During this process the IP-address is immediately anonymised. The data acquired in this process will of course not be forwarded to third parties. The use of Cookies can be prevented with certain settings on your browser.
+
+----
+
+Meta-description: 

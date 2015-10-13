@@ -1,0 +1,65 @@
+Title: 2011
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Film
+  film: interview
+- 
+  award: |
+    Bestes
+    Drehbuch
+  film: the-cow-who-wanted-to-be-a-hamburger
+- 
+  award: |
+    Beste
+    Schauspielerin
+  film: mi-otra-mitad
+- 
+  award: |
+    Bester
+    Schauspieler
+  film: interview-2
+- 
+  award: |
+    Beste
+    Kamera
+  film: pentatones-the-devils-hands
+- 
+  award: |
+    Beste
+    Regie
+  film: mi-otra-mitad-2
+- 
+  award: Publikumspreis
+  film: interview
+
+----
+
+Downloads: cellulart-programmheft-2011.pdf
+
+----
+
+Gallery-images: 
+
+----
+
+Text: 
+
+Neben den festen Programmpunkten internationaler Wettbewerbsfilme und Kurzfilme des diesjährigen Länderschwerpunkts haben wir uns 2011 zwei ganz besondere Highlights überlegt:
+
+„Thüringen: Kinderkurzfilmland“ bietet erstmals auch unseren kleinen Festivalbesuchern ein buntes Programm an Animations- und Spielfilmen. Daneben ist die Liste der Filmemacher aus Thüringen, die unser Festival schon seit vielen Jahren begleiten und bereichern, so lang, dass wir mit „Thüringen im Fokus“ eben diesen einen eigenen Programmpunkt widmen werden.
+
+Im Rahmen unserer Fotoausstellung werden wir in diesem Jahr erneut unser ausgewähltes Partnerland nicht nur in bewegten Bildern, sondern auch mittels bewegender Bilder von zwei begabten Fotografen präsentieren.
+
+Um einen genaueren Eindruck unseres bisherigen Schaffens zu gewinnen, findet ihr in unserer Chronik jeweils eine kurze Zusammenfassung der vergangenen Festivals.
+
+(link: http://www.cellulart.de/_archive/2011/ text: Website 2011)

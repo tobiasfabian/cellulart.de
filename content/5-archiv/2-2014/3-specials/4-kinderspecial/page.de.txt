@@ -1,0 +1,30 @@
+Title: Kinderspecial
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Kinderspecial
+    Zappzarapp – kurz & knapp
+  text: |
+    Beim Kinderspecial im polaris sind alle kleinen Fans von bewegten Bildern eingeladen, die Welt der Filmemacher kennenzulernen. Ob bunte animierte Szenen, die mit einem Augenzwinkern zu verstehen sind oder wahre Geschichten für Herz und Seele – wir haben das Archiv durchstöbert und phantasiereiche Happen zum Thema Freundschaft, Mut und Träumerei zusammengestellt.
+    Staunt und diskutiert über die Geschichte einer Kuh, die nicht mehr allein sein wollte. Verfolgt den rasanten Alltag einer Schnecke und geht mit einem Igel auf die Suche nach Freunden. Außerdem präsentieren wir euch „Game Over“, einen frischen Film aus Jena, der beim vergangen Kurzfilmworkshop in den Winterferien im Polaris entstanden ist.
+    Was natürlich nicht fehlen darf ist Popcorn! Zudem gibt es die Möglichkeit euren eigenen Jutebeutel mit verschiedenen Motiven rund ums Thema Film zu gestalten. Also - nichts wie hin!
+    
+    Eintritt frei
+    Alter 9 – 14 Jahre
+    
+    Kinderspecial
+    Samstag, 26. April um 10 Uhr
+    Polaris, Camburger Straße 65, Jena-Nord
+    (link: http://www.polaris-jena.de text: www.polaris-jena.de popup: true)
+    
+    Mit freundlicher unterstützung von
+    Drudel 11 & Polars
+  _fieldset: text

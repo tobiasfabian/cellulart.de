@@ -1,0 +1,13 @@
+Title: Homepage
+
+----
+
+Text: Das cellu l’art – Kurzfilmfestival Jena findet vom 19. bis 24. April 2016 zum 17. Mal statt
+
+----
+
+Teaserimage: teaser.jpg
+
+----
+
+Teaservideo: teaser.mp4

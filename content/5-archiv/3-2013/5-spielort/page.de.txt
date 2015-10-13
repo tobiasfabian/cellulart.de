@@ -1,0 +1,23 @@
+Title: Spielort
+
+----
+
+Meta-description: Das zentral gegenüber dem Paradiesbahnhof gelegene Bauwerk wird im April 2013 das 14. cellu l’art – Kurzfilmfestival Jena beheimaten.
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Spielort
+    Villa am Paradies
+  text: |
+    Die Villa am Paradies kann auf eine bewegte Geschichte zurück blicken. Das von Architekt Ludwig Hirsch im Auftrag einer Burschenschaft entworfene Gebäude wurde am 15. Oktober 1911 erstmals eröffnet.
+    
+    1950 wurden hier Film- und Funkvorlesungen mit entsprechender technischer Ausstattung abgehalten. Zu dieser Zeit befand sich das Gebäude in der Obhut der Universität. Ab 1961 fand sich in dem Haus der Sitz der SED-Kreisleitung. Auch nach 1990 befand sich hier der Sitz verschiedener Ämter und Veranstaltungsinstanzen. Die häufigen Umbaumaßnahmen und Zweckanpassungen zehrten deutlich an der Substanz des Gebäudes. Daher wurde es im Jahr 2008 öffentlich zum Verkauf ausgeschrieben.
+    
+    Nach einer Phase der Ungewissheit wurden an der Villa am Paradies 2010 bis 2011 umfangreiche Sanierungen unter Denkmalschutzaspekten vorgenommen. Nach der Neueröffnung wurde auch der neue Name ›Villa am Paradies‹ Teil des Hauses. Dieser hat sich in Jena mittlerweile erfolgreich etabliert.
+    
+    Das zentral gegenüber dem Paradiesbahnhof gelegene Bauwerk wird im April 2013 das 14. Internationale Kurzfilmfestival beheimaten. In zwei Sälen im Inneren des Hauses werden die Filme des internationalen Wettbewerbs und die des Länderschwerpunktes Türkei auf Leinwand projiziert werden. Dabei freuen wir uns auf ein kunstvoll restauriertes Jugendstil-Ambiente ausgestattet mit modernster Technik.
+  _fieldset: text

@@ -1,0 +1,32 @@
+Title: Wettbewerb 3
+
+----
+
+Subtitle: Danger|Blind
+
+----
+
+Meta-description: 
+
+----
+
+Text: Danger is everywhere: sometimes just a thought, sometimes waiting for you around the corner. Sometimes danger makes you laugh and sometimes danger makes you go blind.
+
+----
+
+Dates: 
+
+- 
+  date: 2014-04-23
+  time: 22:00
+- 
+  date: 2014-04-25
+  time: 20:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 

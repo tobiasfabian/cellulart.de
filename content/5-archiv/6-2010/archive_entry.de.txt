@@ -1,0 +1,65 @@
+Title: 2010
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Film
+  film: stiller-see
+- 
+  award: |
+    Bestes
+    Drehbuch
+  film: fliegen-2
+- 
+  award: |
+    Beste
+    Schauspielerin
+  film: hinter-dem-vorhang
+- 
+  award: |
+    Beste
+    Schauspieler
+  film: fliegen
+- 
+  award: |
+    Beste
+    Kamera
+  film: when-the-hurlyburlys-done
+- 
+  award: |
+    Beste
+    Regie
+  film: nur-eine-nacht
+- 
+  award: |
+    Publikums-
+    preis
+  film: leerfahrt
+
+----
+
+Text: 
+
+# Klappe die Elfte
+
+Vom 15. - 18. April 2010 fand das nunmehr elfte cellu l’art Kurzfilmfestival im geschichtsträchtigen Capitol-Kino in Jena statt. Und es war ein Festival der Superlative: Besucherrekorde wurden gebrochen, über 40 der tollsten Kurzfilme gezeigt und bis in die frühen Morgenstunden mit einem illustren Musik-Programm gefeiert, was die Beine hergaben. Ein besonderes Highlight war unser diesjähriger Länderschwerpunkt Indien, welchen wir mit drei gut besuchten Blöcken würdigen konnten. Eine Neuerung war hierbei unsere Zusammenarbeit mit drei fachkundigen Kuratoren, die uns diese verführerischen indischen Spezialitäten noch versüßen konnten und die Zuschauer auf eine Reise in dieses facettenreiche Paradies mitnahmen. Das Eröffnungs-Open Air am Johannistor zog trotz finsteren Wetters unzählige Kurzfilmfans in den Bann.
+
+Auch in diesem Jahr setzten wir wieder auf fotografische Arbeiten zur visuellen Verschönerung unseres altehrwürdigen Spielortes und so konnten wir neben den Fotografien unserer Fotowettbewerbsteilnehmer die Arbeiten des italienischen Fotografen Marco Martinelli mit dem Themenschwerpunkt Indien ausstellen.
+
+(link: http://www.cellulart.de/_archive/2010/ text: Website 2010 popup: true)
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: 

@@ -1,0 +1,58 @@
+Title: Wettbewerb 1
+
+----
+
+Subtitle: Leben, Sterben und der ganze Rest
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+Entscheidungen
+Konsequenzen
+... bestimmen unseren Weg
+vom Anfang bis zum Ende
+Leben, Sterben ... und der ganze Rest
+
+----
+
+Dates: 
+
+- 
+  date: 2013-04-17
+  time: 18:00
+- 
+  date: 2013-04-18
+  time: 22:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Villa am Paradies
+
+----
+
+Street: Knebelstraße 3
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/64048589

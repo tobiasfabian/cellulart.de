@@ -1,0 +1,21 @@
+Title: B-Sides
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: B-Sides
+  text: |
+    Wir haben nur fünf Programme für unseren Wettbewerb – aber deutlich mehr herausragende Filme. Was tun? Zum mittlerweile vierten Mal beantworten wir diese Frage mit unseren „B-Sides“. 
+    
+    Ob Bäume, die zu Freunden werden, skurriler Split-Screen-Film-noir oder schräge Ernst-Jandl-Verfilmung - hier geht's fernab vom Mainstream richtig zur Sache.
+    
+    B-Sides
+    Freitag, 25. April um 21 Uhr
+    Volksbad Jena
+  _fieldset: text

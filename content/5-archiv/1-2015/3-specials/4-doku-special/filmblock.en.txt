@@ -1,0 +1,45 @@
+Title: Doku Special
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: Aufregender als Fiktion ist nur die Realität. Die kleinen und großen Geschichten dieser Welt einzufangen, das haben sich die Menschen schon seit jeher zur Aufgabe gemacht. Diese internationalen Kurz-Dokumentationen aus den letzten zehn Jahren, führen uns an unbekannte Orte und stellen ungewöhnliche Menschen aus aller Welt vor. Wir treffen dabei auf ganz besondere Tiere und blicken hinter die Vorhänge von verborgenen Welten. Freut euch gemeinsam mit uns auf den ganz normalen Wahnsinn und außergewöhnliche Banalitäten.
+
+----
+
+Dates: 
+
+- 
+  date: 2015-04-23
+  time: 18:30
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

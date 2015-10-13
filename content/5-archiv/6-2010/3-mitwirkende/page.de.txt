@@ -1,0 +1,24 @@
+Title: Mitwirkende
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Mitwirkende
+  text: >
+    Robert Bußler, Marcus Kaupert, Antonia
+    Unger, Christin Renz, Christoph Matiss,
+    Ellen Thießen, Erik Weber, Fagus Pauly,
+    Frank Hofmann, Hanna Tamm, Jeanne
+    Charlotte Vogt, Julius Wirsching,
+    Katharina Reiche, Karoline Schierz,
+    Manuela Lindig, Martin Schneider, Nina
+    Margies, Sarah-Madeleine Diedrich, Sue
+    Kuhne, Susann Knot, Tilo Ullrich, Tim
+    Wende
+  _fieldset: text

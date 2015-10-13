@@ -1,0 +1,47 @@
+Title: 2013
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Film
+  film: saloperie-de-pruneaux
+- 
+  award: |
+    Bester
+    ExAnDo
+  film: the-pub
+- 
+  award: |
+    Toleranz-
+    preis
+  film: terminal
+- 
+  award: |
+    Preis der
+    Jugendjury
+  film: school-shooting
+- 
+  award: |
+    Publikums-
+    preis
+  film: stufe-drei
+
+----
+
+Text: (vimeo: https://vimeo.com/125472531)
+
+----
+
+Gallery-images: 
+
+----
+
+Downloads: cellulart-katalog-2013.pdf

@@ -1,0 +1,42 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Jury
+  _fieldset: jury-title
+- 
+  name: Sebastian Kutzlir
+  image:
+  text: Freier EB-Assistent und Tontechniker
+  _fieldset: jury-member
+- 
+  name: Dr. Hedwig Wagner
+  image:
+  text: >
+    wissenschaftliche Mitarbeiterin am
+    Lehrstuhl für Geschichte und Ästhetik
+    der Medien der Friedrich
+    Schiller-Universität Jena
+  _fieldset: jury-member
+- 
+  name: 'Caren Pfahl '
+  image:
+  text: StuRa
+  _fieldset: jury-member
+- 
+  name: Andreas Stein
+  image:
+  text: Festivalmanager Filmfestival Cottbus
+  _fieldset: jury-member
+- 
+  name: Daniel Bickermann
+  image:
+  text: "Redaktionsleiter der Filmzeitschrift 'Schnitt'"
+  _fieldset: jury-member
