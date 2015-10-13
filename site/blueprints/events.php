@@ -5,7 +5,6 @@ pages:
   template:
     - events_entry
   num:  date
-  sort: flip
 preview: parent
 files: false
 fields:

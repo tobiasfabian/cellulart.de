@@ -25,7 +25,7 @@
     </header>
     <div class="more">
       <?= !$item->text()->isEmpty() ? $item->text()->kirbytext() : null ?>
-      <?= !$item->fb_link()->isEmpty() ? '<a itemprop="sameAs" href="'.$item->fb_link().'" class="button invert" taget="_blank">FB-Event</a>' : null ?>
+      <?= !$item->fb_link()->isEmpty() ? '<a itemprop="sameAs" href="'.$item->fb_link().'" class="button invert" target="_blank">FB-Event</a>' : null ?>
       <a href="<?=$item->url()?>" class="button invert" download>iCal</a>
     </div>
   </article>
