@@ -35,6 +35,9 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
+RewriteCond %{HTTP_HOST} !^cellulart.de$ [NC]
+RewriteRule ^(.*)$ http://cellulart.de/$1 [L,R=301]
+
 </IfModule>
 
 # Additional recommended values
