@@ -9,16 +9,16 @@
 /site/config/config.cellulart.de.php
 /site/config/config.www.cellulart.de.php
 
-BingSiteAuth.xml
-google528c7c7784687219.html
-config.codekit
+/BingSiteAuth.xml
+/google528c7c7784687219.html
+/config.codekit
 
-.gitignore
-_archive
-_backups
-_info.php
-_offline
-_uploads
-logs
-piwik
-usage
+/.gitignore
+/_archive
+/_backups
+/_info.php
+/_offline
+/_uploads
+/logs
+/piwik
+/usage
