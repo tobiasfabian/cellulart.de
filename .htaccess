@@ -3,6 +3,9 @@
 # rewrite rules
 <IfModule mod_rewrite.c>
 
+RewriteCond %{HTTP_HOST} !^cellulart.de$ [NC]
+RewriteRule ^(.*)$ http://cellulart.de/$1 [L,R=301]
+
 # enable awesome urls. i.e.:
 # http://yourdomain.com/about-us/team
 RewriteEngine on
@@ -35,9 +38,6 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
-RewriteCond %{HTTP_HOST} !^cellulart.de$ [NC]
-RewriteRule ^(.*)$ http://cellulart.de/$1 [L,R=301]
-
 </IfModule>
 
 # Additional recommended values
@@ -46,7 +46,6 @@ RewriteRule ^(.*)$ http://cellulart.de/$1 [L,R=301]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
-
 
 
 
