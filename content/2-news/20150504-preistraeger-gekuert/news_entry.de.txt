@@ -17,5 +17,9 @@ Publikumspreis: Reality + – Coralie Fargeat, Frankreich
 Jugendjurypreis: Lausche nicht dem Wasser – Jonas Hartung, Deutschland
 Toleranzpreis: Take Me to the Front – Stefano Pietrocola, UK
 
-Wie sehr sich die Preisträger freuen, zeigen sie in ihren (link: https://vimeo.com/cellulart text: kleinen Videobotschaften). 
+Wie sehr sich die Preisträger freuen, zeigen sie in ihren (link: https://vimeo.com/cellulart text: kleinen Videobotschaften popup: true). 
 Wir gratulieren den Gewinnern herzlich.
+
+----
+
+Text-continue: 
