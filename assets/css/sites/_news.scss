@@ -55,6 +55,21 @@
           img {
             max-width: 100%;
           }
+          &.video {
+            iframe {
+              width: 100%;
+              height: 14.5em;
+              @media (max-width: $max-width) {
+                height: 21vw;
+              }
+              @media (max-width: $max-width/12*11) {
+                height: 26vw;
+              }
+              @media (max-width: $max-width/12*7) {
+                height: calc((100vw - 32px - 70px) / 16 * 9);
+              }
+            }
+          }
         }
       }
       .pagination {
