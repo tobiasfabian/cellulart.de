@@ -16,6 +16,9 @@ fields:
   text:
     label: Text
     type:  textarea
+    buttons:
+      - link
+      - email
   photo:
     label: Photo
     type:  selector

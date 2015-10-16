@@ -44,6 +44,10 @@ h3 {
 p {
   margin-bottom: 1em;
 }
+strong, em {
+  font-weight: 400;
+  font-style: normal;
+}
 h1, h2, h3, p {
   &:last-child {
     margin-bottom: 0;
