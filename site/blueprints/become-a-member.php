@@ -23,7 +23,13 @@ fields:
   infobox:
     label: Infobox
     type:  textarea
+    buttons:
+      - link
+      - email
   text:
     label: Text
     type:  textarea
     required: true
+    buttons:
+      - link
+      - email
