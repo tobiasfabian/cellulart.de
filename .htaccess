@@ -62,8 +62,32 @@ RewriteRule ^(.*) index.php [L]
 
   ExpiresByType application/font-woff "modification plus 1 year"
   ExpiresByType image/svg+xml "modification plus 1 year"
+  ExpiresByType image/jpeg "modification plus 1 year"
+  ExpiresByType image/png "modification plus 1 year"
   ExpiresByType application/vnd.ms-fontobject "modification plus 1 year"
   ExpiresByType application/x-font-ttf "modification plus 1 year"
   ExpiresByType application/x-font-truetype "modification plus 1 year"
   ExpiresByType application/x-font-opentype "modification plus 1 year"
+  ExpiresByType application/octet-stream "modification plus 1 year"
+  ExpiresByType image/x-icon "modification plus 1 year"
+</IfModule>
+
+
+
+<IfModule mod_deflate.c>
+
+  <IfModule mod_setenvif.c>
+    <IfModule mod_headers.c>
+      SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+      RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+    </IfModule>
+  </IfModule>
+
+  <IfModule mod_filter.c>
+    AddOutputFilterByType DEFLATE image/svg+xml \
+                                  image/x-icon \
+                                  application/octet-stream \
+                                  text/plain
+  </IfModule>
+
 </IfModule>
