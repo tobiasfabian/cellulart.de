@@ -10,3 +10,5 @@ l::set('Music Video', 'Music Video');
 l::set('Mockumentary', 'Mockumentary');
 
 l::set('read more','read more');
+
+l::set('apply now','apply now');

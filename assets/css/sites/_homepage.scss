@@ -59,6 +59,7 @@
         }
         .cellu, .lart {
           position: absolute;
+          opacity: 0;
           transition: $default-duration/2;
         }
         .cellu {
@@ -125,12 +126,13 @@
       }
       .date, .venue {
         position: absolute;
-        font-size: 3.8em;
+        font-size: 3.2em;
         line-height: 0.8em;
         letter-spacing: -1px;
+        opacity: 0;
         transition: $default-duration/2;
-        @media (max-width: $max-width) {
-          font-size: 3.5em;
+        @media (max-width: $max-width/12*10) {
+          font-size: 2.8em;
         }
         @media (max-width: $max-width/12*7)  {
           font-size: 2em;
@@ -140,34 +142,61 @@
         }
       }
       .date {
-        top: 1.45em;
+        left: $default-padding;
+        bottom: 0.61em;
+        @media (max-width: $max-width/12*7)  {
+          bottom: 0;
+        }
+        @media (max-width: $max-width/12*4)  {
+          left: $default-padding/2;
+          bottom: 2em;
+        }
+      }
+      .venue {
+        left: $default-padding * 12;
+        bottom: 0.61em;
+        @media (max-width: $max-width) {
+          left: $default-padding * 12;
+        }
+        @media (max-width: $max-width/12*10)  {
+          left: $default-padding * 10;
+        }
+        @media (max-width: $max-width/12*7)  {
+          bottom: 0em;
+          left: $default-padding*7;
+        }
+        @media (max-width: $max-width/12*4)  {
+          left: $default-padding/2;
+        }
+      }
+      .call-for-entries {
+        position: absolute;
         right: 0;
+        top: $default-padding * 4;
+        background: none;
+        opacity: 0;
+        transition-duration: 1s;
         @media (max-width: $max-width) {
           right: $default-padding*2;
         }
         @media (max-width: $max-width/12*7)  {
-          top: 1em;
-          right: $default-padding;
+          display: none;
         }
-        @media (max-width: $max-width/12*4)  {
-          right: $default-padding/2;
+        h2 {
+          margin: 0 0 0.2em;
+          font-size: 3.2em;
         }
-      }
-      .venue {
-        left: $default-padding;
-        bottom: 0.61em;
-        @media (max-width: $max-width) {
-          left: $default-padding*4;
-        }
-        @media (max-width: $max-width/12*7)  {
-          bottom: 3.8em;
-          left: $default-padding;
-        }
-        @media (max-width: $max-width/12*7) {
-          bottom: 0em;
-        }
-        @media (max-width: $max-width/12*4)  {
-          left: $default-padding/2;
+        .button {
+          color: white;
+          border-color: white;
+          border-width: 2px;
+          font-size: 1.1em;
+          padding-bottom: 0.3em;
+          background-color: $red;
+          &:focus, &:hover {
+            color: $red;
+            background-color: white;
+          }
         }
       }
     }
@@ -183,6 +212,9 @@
     @media (max-width: $max-width/12*7) and (max-height: 40em) {
       position: relative;
       margin-top: 2em;
+    }
+    .logo {
+      opacity: 0;
     }
   }
 }

@@ -20,6 +20,10 @@
         <?=str_replace(' ','<br>',$site->venue())?>
       </div>
       <?php endif ?>
+      <div class="call-for-entries">
+        <h2>Call <span>for</span> entries</h2>
+        <a href="<?=url('festival/call-for-entries')?>" class="button"><?=l::get('apply now')?></a>
+      </div>
     </div>
   </main>
 </div>
