@@ -1,5 +1,6 @@
 <div class="events">
-  <?php foreach(page('news/events')->children()->visible() as $item) : ?>
+  <?php $events = page('news/events')->children()->visible()->filterBy('date', '>', time()) ?>
+  <?php foreach($events as $item) : ?>
   <article itemscope itemtype="http://schema.org/Event">
     <header>
       <time itemprop="startDate" datetime="<?=$item->date('c')?>"><?=strftime('%e.<br>%b',$item->date('U'))?></time>
