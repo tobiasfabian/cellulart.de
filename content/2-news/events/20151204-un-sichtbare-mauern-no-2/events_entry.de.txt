@@ -1,4 +1,4 @@
-Title: (un)sichtbare Mauern No.1
+Title: (un)sichtbare Mauern No.2
 
 ----
 
@@ -6,7 +6,7 @@ Fb-link:
 
 ----
 
-Date: 2015-12-03
+Date: 2015-12-04
 
 ----
 
@@ -14,7 +14,7 @@ Time: 19:00
 
 ----
 
-Enddate: 2015-12-03
+Enddate: 2015-12-04
 
 ----
 
@@ -29,7 +29,7 @@ Eintritt: 2€
 
 ----
 
-Venue: Lichthauskino Weimar
+Venue: Lichthaus Kino Weimar
 
 ----
 
