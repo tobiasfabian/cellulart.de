@@ -3,12 +3,16 @@
   <?php foreach($events as $item) : ?>
   <article itemscope itemtype="http://schema.org/Event">
     <header>
-      <time itemprop="startDate" datetime="<?=$item->date('c')?>"><?=strftime('%e.<br>%b',$item->date('U'))?></time>
+      <?php $startdate = strtotime($item->startdate()); ?>
+      <time itemprop="startDate" datetime="<?=date('c',$startdate)?>"><?=strftime('%e.<br>%b',$startdate)?></time>
+      <?php if (!$item->startdate()->isEmpty()): ?>
+      <time hidden itemprop="endDate" datetime="<?=date('c',strtotime($item->enddate()))?>"></time>
+      <?php endif ?>
       <h1 itemprop="name"><?=$item->title()->html()?></h1>
       <?php if (!$item->time()->isEmpty()) : ?>
       <span class="time"><?=$item->time()->html()?></span>
       <?php endif ?>
-      <?php if (!$item->time()->isEmpty() AND !$item->venue()->isEmpty()) : ?>
+      <?php if (!$item->venue()->isEmpty()) : ?>
       –
       <?php endif ?>
       <?php if (!$item->venue()->isEmpty()) : ?>

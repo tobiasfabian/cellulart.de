@@ -19,9 +19,11 @@ SUMMARY:<?=$page->title()?>
 
 DESCRIPTION:<?=$page->text()?>
 CLASS:PUBLIC
-DTSTART:<?=$page->date('Ymd')?>T<?=str_replace(':','',$page->time())?>00
-<?php if(!$page->enddate()->isEmpty() AND !$page->endtime()->isEmpty()): ?>
-DTEND:<?=date('Ymd',strtotime($page->enddate()))?>T<?=str_replace(':','',$page->endtime())?>00
+DTSTART:<?=date('Ymd\THis',strtotime($page->startdate()))?>
+<?php if(!$page->enddate()->isEmpty()): ?>
+
+DTEND:<?=date('Ymd\THis',strtotime($page->enddate()))?>
+
 <?php endif ?>
 END:VEVENT
 END:VCALENDAR

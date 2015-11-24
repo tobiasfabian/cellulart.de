@@ -11,28 +11,17 @@ fields:
   fb-link:
     label: FB Link
     type:  url
-  date:
-    label: Date
-    type:  date
-    default: today
-    width: 1/2
-  time:
-    label: Time
-    type:  time
-    default: 21:00
-    interval: 15
-    width: 1/2
+  startdate:
+    label: Start Date
+    type:  datetime
+    required: true
+    time:
+      interval: 15
   enddate:
     label: End Date
-    type:  date
-    default: today
-    width: 1/2
-  endtime:
-    label: End Time
-    type:  time
-    default: 21:00
-    interval: 15
-    width: 1/2
+    type:  datetime
+    time:
+      interval: 15
   text:
     label: Text (short)
     type:  textarea

@@ -14,7 +14,7 @@ Time: 20:00
 
 ----
 
-Enddate: 
+Enddate: 2016-01-19 22:00:00
 
 ----
 
@@ -46,3 +46,7 @@ City: Jena
 ----
 
 Venue-link: https://rosenkeller.org
+
+----
+
+Startdate: 2016-01-19 20:00:00

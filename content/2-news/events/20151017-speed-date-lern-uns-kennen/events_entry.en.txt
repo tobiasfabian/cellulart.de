@@ -2,7 +2,7 @@ Title: Speed Date - Gettogether
 
 ----
 
-Fb-link: 
+Fb-link: https://www.facebook.com/events/523810137772164/
 
 ----
 
@@ -14,7 +14,7 @@ Time: 16:00
 
 ----
 
-Enddate: 2015-10-01
+Enddate: 2015-10-17 20:00:00
 
 ----
 
@@ -43,3 +43,7 @@ Zip: 07743
 ----
 
 City: Jena
+
+----
+
+Startdate: 2015-10-17 16:00:00

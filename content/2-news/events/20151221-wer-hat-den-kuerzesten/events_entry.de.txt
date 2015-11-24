@@ -14,7 +14,7 @@ Time: 20:00
 
 ----
 
-Enddate: 
+Enddate: 2015-12-21 22:00:00
 
 ----
 
@@ -46,3 +46,7 @@ City: Jena
 ----
 
 Venue-link: http://www.wagnerverein-jena.de
+
+----
+
+Startdate: 2015-12-21 20:00:00
