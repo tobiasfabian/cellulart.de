@@ -39,3 +39,4 @@ fields:
           text:
             label: Text
             type:  textarea
+            buttons: false
