@@ -14,7 +14,7 @@ Time: 20:00
 
 ----
 
-Enddate: 
+Enddate: 2015-11-02 22:45:00
 
 ----
 
@@ -48,3 +48,7 @@ City: Jena
 ----
 
 Venue-link: 
+
+----
+
+Startdate: 2015-11-02 20:00:00

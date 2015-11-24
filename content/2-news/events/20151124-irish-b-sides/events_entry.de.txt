@@ -6,22 +6,6 @@ Fb-link: https://www.facebook.com/events/911596178876111/
 
 ----
 
-Date: 2015-10-17
-
-----
-
-Time: 20:00
-
-----
-
-Enddate: 
-
-----
-
-Endtime: 
-
-----
-
 Text: 
 
 Der Länderschwerpunkt Irland war beim 16. cellu l’art Kurzfilmfestival ein großer Erfolg. Anlässlich der Irischen Tage wollen wir euch erneut in die facettenreiche Kulturlandschaft der grünen Insel entführen. Kommt vorbei und genießt mit uns die Leckerbissen der irischen Kurzfilmszene. 
@@ -46,3 +30,11 @@ City: Jena
 ----
 
 Venue-link: http://www.internationales-centrum-jena.de
+
+----
+
+Startdate: 2015-10-17 20:00:00
+
+----
+
+Enddate: 2015-10-17 22:00:00
