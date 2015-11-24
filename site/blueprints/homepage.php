@@ -30,4 +30,4 @@ fields:
   info:
     type:  info
     text: >
-      Startdate, Enddate and Venue can be changed at *(link: #/metatags text: Site options)*.
+      Startdate, Enddate and Venue can be changed at *(link: /panel/options text: Site options)*.
