@@ -1,5 +1,8 @@
 <div class="events">
-  <?php $events = page('news/events')->children()->visible()->filterBy('date', '>', time()) ?>
+  <?php $events = page('news/events')->children()->visible()->filter(function($event) {
+    return strtotime($event->enddate()) > time();
+  });
+  ?>
   <?php foreach($events as $item) : ?>
   <article itemscope itemtype="http://schema.org/Event">
     <header>

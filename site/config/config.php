@@ -84,6 +84,9 @@ c::set('languages', array(
 ));
 
 
+c::set('timezone','CET');
+
+
 kirby()->hook('panel.page.update', function($page) {
   $site = site();
   if ($page->parent()->template() === 'filmblock' AND false) {
