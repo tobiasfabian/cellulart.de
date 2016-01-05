@@ -1,9 +1,7 @@
-<?php if(!defined('KIRBY')) exit ?>
-
-title: Member
+title: Archive
 pages:
   template:
-    - member_entry
+    - archive_entry
 files: false
 fields:
   title:

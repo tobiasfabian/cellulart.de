@@ -1,6 +1,4 @@
-<?php if(!defined('KIRBY')) exit ?>
-
-title: Film
+title: Film (Award)
 pages: false
 preview: parent
 files:
@@ -8,6 +6,9 @@ files:
     - image
     - video
 fields:
+  subtitle:
+    label: Actor/DoP (who whon the award)
+    type:  text
   title:
     label: Title
     type:  text
@@ -42,7 +43,7 @@ fields:
   country:
     label: Country
     type:  multiselect
-    default: false
+    default: Germany
     options:
       Germany: Germany
       France: France
@@ -79,8 +80,8 @@ fields:
   year:
     label: Year
     type:  number
-    default: 2015
     placeholder: YYYY
+    default: false
     width: 1/2
   duration:
     label: Duration

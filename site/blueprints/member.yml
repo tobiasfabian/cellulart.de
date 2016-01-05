@@ -1,11 +1,7 @@
-<?php if(!defined('KIRBY')) exit ?>
-
-title: News
+title: Member
 pages:
   template:
-    - news_entry
-  num:  date
-  sort: flip
+    - member_entry
 files: false
 fields:
   title:

@@ -1,6 +1,4 @@
-<?php if(!defined('KIRBY')) exit ?>
-
-title: Page
+title: Festival
 pages:
   template:
     - page
@@ -33,6 +31,8 @@ fields:
           h1:
             label: Title
             type: textarea
+            buttons:
+              - link
           text:
             label: Text
             type: textarea
@@ -48,3 +48,7 @@ fields:
             autoselect: all
             types:
               - image
+  info:
+    type:  info
+    text: >
+      Startdate, Enddate and Venue can be changed at *(link: /panel/options text: Site options)*.

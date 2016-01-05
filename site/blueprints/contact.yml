@@ -1,9 +1,5 @@
-<?php if(!defined('KIRBY')) exit ?>
-
-title: Archive
-pages:
-  template:
-    - archive_entry
+title: Contact
+pages: false
 files: false
 fields:
   title:
@@ -12,3 +8,9 @@ fields:
   meta_description:
     label: Meta Description
     type:  text
+  text:
+    label: Text
+    type:  textarea
+    buttons:
+      - link
+      - email
