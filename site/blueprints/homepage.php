@@ -6,6 +6,12 @@ files:
   type:
     - image
     - video
+  sortable: true
+  fields:
+    media:
+      label: media
+      type:  text
+      placeholder: max-width:480px
 fields:
   title:
     label: Title
@@ -25,7 +31,8 @@ fields:
     type:  selector
     types:
       - video
-    help:  Video must be 16/9 aspect ratio.
+    mode:  multiple
+    help:  Video must be 16/9 aspect ratio. Different video formats, same video.
     width: 1/2
   info:
     type:  info

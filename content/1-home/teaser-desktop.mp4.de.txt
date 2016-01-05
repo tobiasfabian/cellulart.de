@@ -1,0 +1,9 @@
+Media-query: orientation: landscape
+
+----
+
+Media: all and (orientation: landscape)
+
+----
+
+Sort: 1

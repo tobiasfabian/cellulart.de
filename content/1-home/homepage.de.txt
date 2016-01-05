@@ -10,4 +10,4 @@ Teaserimage:
 
 ----
 
-Teaservideo: 
+Teaservideo: teaser-desktop.mp4,teaser-mobile.mp4

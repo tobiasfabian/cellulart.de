@@ -8,8 +8,8 @@
     <div class="overlay">
       <h1>
         <span hidden>cellu l’art</span>
-        <img src="<?=url('assets/images/cellu.svg')?>" class="cellu" alt="cellu">
-        <img src="<?=url('assets/images/lart.svg')?>" class="lart" alt="lart">
+        <img src="<?=url('assets/images/cellu.svg')?>" class="cellu" alt="">
+        <img src="<?=url('assets/images/lart.svg')?>" class="lart" alt="">
       </h1>
       <time class="date">
         <?=$site->date('j','startdate')?>–<?=$site->date('j','enddate')?><br>
@@ -20,10 +20,29 @@
         <?=str_replace(' ','<br>',$site->venue())?>
       </div>
       <?php endif ?>
-      <div class="call-for-entries">
-        <h2>Call <span>for</span> entries</h2>
-        <a href="<?=url('festival/call-for-entries')?>" class="button"><?=l::get('apply now')?></a>
-      </div>
+    </div>
+    <div class="teaser">
+      <?php if (!$page->teaservideo()->isEmpty()): ?>
+        <video poster="<?=!$page->teaserimage()->isEmpty() ? $page->teaserimage()->toFile()->url() : null ?>" autoplay loop>
+          <?php
+          // Transform the comma-separated list of filenames into a file collection
+          $filenames = $page->teaservideo()->split(',');
+          if(count($filenames) < 2) $filenames = array_pad($filenames, 2, '');
+          $files = call_user_func_array(array($page->files(), 'find'), $filenames);
+
+          // Use the file collection
+          foreach($files->sortBy('sort','asc') as $file) :
+            $media = !$file->media()->isEmpty() ? ' media="'.$file->media().'"' : null;
+          ?>
+          <source src="<?=$file->url()?>" type="<?=$file->mime()?>"<?=$media?>>
+          <?php
+          endforeach;
+          ?>
+        </video>
+      <?php endif ?>
+      <?php if (!$page->teaserimage()->isEmpty()): ?>
+        <img src="<?=$page->teaserimage()->toFile()->url()?>">
+      <?php endif ?>
     </div>
   </main>
 </div>
