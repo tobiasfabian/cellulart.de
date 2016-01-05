@@ -23,7 +23,7 @@
     </div>
     <div class="teaser">
       <?php if (!$page->teaservideo()->isEmpty()): ?>
-        <video poster="<?=!$page->teaserimage()->isEmpty() ? $page->teaserimage()->toFile()->url() : null ?>" autoplay loop>
+        <video poster="<?=!$page->teaserimage()->isEmpty() ? $page->teaserimage()->toFile()->url() : null ?>" autoplay>
           <?php
           // Transform the comma-separated list of filenames into a file collection
           $filenames = $page->teaservideo()->split(',');

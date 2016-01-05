@@ -6,22 +6,30 @@ function homepage() {
   var dateElement = overlayElement.querySelector('.date');
   var venueElement = overlayElement.querySelector('.venue');
   var logoElement = document.querySelector('.mainfooter .logo');
+  var videoElement = document.querySelector('.teaser video');
 
-  setTimeout(function(){
-    celluElement.style.opacity = '1';
-    lartElement.style.opacity = '1';
-  },1*1000);
-  setTimeout(function(){
-    dateElement.style.opacity = '1';
-  },2.5*1000);
-  setTimeout(function(){
-    venueElement.style.opacity = '1';
-  },2.7*1000);
-  setTimeout(function(){
-    logoElement.style.transition = '1s';
-    logoElement.offsetWidth;
-    logoElement.style.opacity = '1';
-  },2.9*1000);
+  videoElement.addEventListener('canplaythrough',function(){
+    this.play();
+    console.log('canplaythrough');
+  });
+  videoElement.addEventListener('timeupdate',function(){
+    if (this.currentTime > 1.4) {
+      dateElement.style.opacity = '1';
+    }
+    if (this.currentTime > 2) {
+      venueElement.style.opacity = '1';
+    }
+    if (this.currentTime > 4.8) {
+      celluElement.style.opacity = '1';
+      lartElement.style.opacity = '1';
+    }
+    if (this.currentTime > 6.8) {
+      logoElement.style.transition = '1s';
+      logoElement.offsetWidth;
+      logoElement.style.opacity = '1';
+    }
+    console.log(this.currentTime);
+  });
 
 }
 
