@@ -2,8 +2,8 @@ Media-query: orientation: portrait
 
 ----
 
-Media: all and (orientation: portrait)
+Media: all and (orientation:portrait)
 
 ----
 
-Sort: 2
+Sort: 1
