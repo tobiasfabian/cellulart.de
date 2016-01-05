@@ -10,7 +10,6 @@ function homepage() {
 
   videoElement.addEventListener('canplaythrough',function(){
     this.play();
-    console.log('canplaythrough');
   });
   videoElement.addEventListener('timeupdate',function(){
     if (this.currentTime > 1.4) {
@@ -28,7 +27,18 @@ function homepage() {
       logoElement.offsetWidth;
       logoElement.style.opacity = '1';
     }
-    console.log(this.currentTime);
+  });
+  videoElement.addEventListener('ended',function(){
+    console.log('ended');
+    setTimeout(function(){
+      videoElement.currentTime = 0;
+      videoElement.play();
+      dateElement.style.opacity = null;
+      venueElement.style.opacity = null;
+      celluElement.style.opacity = null;
+      lartElement.style.opacity = null;
+      logoElement.style.opacity = null;
+    },4000)
   });
 
 }
