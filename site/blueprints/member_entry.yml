@@ -8,6 +8,7 @@ fields:
   title:
     label: Title
     type:  text
+    translate: false
   assignment:
     label: Assignment
     type:  text

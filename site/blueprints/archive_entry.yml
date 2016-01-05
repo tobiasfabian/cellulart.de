@@ -16,12 +16,14 @@ fields:
   title:
     label: Title
     type:  text
+    translate: false
   meta_description:
     label: Meta Description
     type:  text
   awards:
     label: Awards
     type:  structure
+    translate: false
     entry: >
       {{award}}: {{film}}
     fields:
@@ -49,6 +51,7 @@ fields:
     type:  selector
     mode:  multiple
     autoselect: all
+    translate: false
     types:
       - image
   headline-downloads:
@@ -58,6 +61,7 @@ fields:
     label: Downloads
     type:  selector
     mode:  multiple
+    translate: false
     types:
       - document
       - archive

@@ -9,15 +9,18 @@ fields:
   fb-link:
     label: FB Link
     type:  url
+    translate: false
   startdate:
     label: Start Date
     type:  datetime
     required: true
+    translate: false
     time:
       interval: 15
   enddate:
     label: End Date
     type:  datetime
+    translate: false
     time:
       interval: 15
   text:
@@ -35,18 +38,22 @@ fields:
     label: Vanue Link
     type:  url
     validate: url
+    translate: false
   street:
     label: Street
     type:  text
     width: 1/3
+    translate: false
   zip:
     label: ZIP
     type:  text
     default: 07743
     width: 1/3
     validate: num
+    translate: false
   city:
     label: City
     type:  text
     default: Jena
     width: 1/3
+    translate: false

@@ -17,6 +17,7 @@ fields:
     type:  selector
     mode:  single
     autoselect: first
+    translate: false
     width: 1/2
     types:
       - image
@@ -25,6 +26,7 @@ fields:
     type:  selector
     mode:  single
     autoselect: first
+    translate: false
     width: 1/2
     types:
       - video
@@ -39,6 +41,7 @@ fields:
       Mockumentary: Mockumentary
       Experimental: Experimental
       Music Video: Music Video
+    translate: false
     width: 1/2
   country:
     label: Country
@@ -76,33 +79,40 @@ fields:
       Afghanistan: Afghanistan
       Croatia: Croatia
       Poland: Poland
+    translate: false
     width: 1/2
   year:
     label: Year
     type:  number
     placeholder: YYYY
     default: false
+    translate: false
     width: 1/2
   duration:
     label: Duration
     type:  text
     placeholder: M:SS
+    translate: false
     width: 1/2
   book:
     label: Book
     type:  text
+    translate: false
     width: 1/2
   direction:
     label: Direction
     type:  text
+    translate: false
     width: 1/2
   camera:
     label: Camera
     type:  text
+    translate: false
     width: 1/2
   animation:
     label: Animation
     type:  text
+    translate: false
     width: 1/2
   text:
     label: Text

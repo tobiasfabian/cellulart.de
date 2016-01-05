@@ -9,14 +9,17 @@ fields:
   title:
     label: Title
     type:  text
-    width: 3/4
+    width: 1/2
   date:
     label: Date
-    type:  date
+    type:  datetime
     format: DD.MM.YYYY
-    default: today
     required: true
-    width: 1/4
+    default: now
+    time:
+    	interval: 1
+    width: 1/2
+    translate: false
   text:
     label: Text (short)
     type:  textarea
