@@ -2,8 +2,8 @@
 
 // ini_set('max_execution_time', 300); //300 seconds = 5 minutes
 
-function createArchiveEntries() {
-  for($i = 0; $i < 864; $i++) {
+function createArchiveEntries($page) {
+  for($i = 0; $i < 10; $i++) {
     $uri = str::random();
     $template = 'film-archive-entry';
     $data = array(
@@ -20,14 +20,18 @@ function createArchiveEntries() {
   }
 }
 
+// createArchiveEntries($page);
 
-function showArchiveEntries($children) {
+
+function showArchiveEntries($page) {
+
+  $children = $page->children();
 
   // FILTER
-  // $children = $children->limit(500);
-  // $children = $children->filter(function($child){
-  //   return str::contains($child->text(),'ab');
-  // });
+  // $children = $children->limit(10000);
+  $children = $children->filter(function($child){
+    return str::contains($child->text(),'ab');
+  });
 
   // create JSON
   $json = array('count',$children->count());
@@ -53,4 +57,4 @@ function showArchiveEntries($children) {
 }
 
 
-echo showArchiveEntries($page->children());
+echo showArchiveEntries($page);
