@@ -1,5 +1,7 @@
 <?php
 
+header::type('application/json', 'UTF-8');
+
 // ini_set('max_execution_time', 300); //300 seconds = 5 minutes
 
 function createArchiveEntries($page) {
@@ -46,7 +48,7 @@ function showArchiveEntries($page) {
       'year' => $child->year()->value(),
       'duration' => $child->duration()->value(),
       'director' => $child->director()->value(),
-      'text' => str::utf8($child->text()->html())
+      'text' => $child->text()->value()
     );
     $element = array($child->uid() => $content);
     array_push($elements, $element);
