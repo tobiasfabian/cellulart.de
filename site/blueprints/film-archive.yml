@@ -1,5 +1,7 @@
 title: Film Archive
-pages: film-archive-entry
+pages:
+  template: film-archive-entry
+  num: zero
 files: false
 fields:
   title:

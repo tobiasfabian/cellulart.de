@@ -25,13 +25,14 @@ function createArchiveEntries($page) {
 
 function showArchiveEntries($page) {
 
-  $children = $page->children();
 
   // FILTER
   // $children = $children->limit(10000);
-  $children = $children->filter(function($child){
-    return str::contains($child->text(),'ab');
-  });
+  if (get('q')) {
+    $children = $page->search(get('q'));
+  } else {
+    $children = $page->children();
+  }
 
   // create JSON
   $json = array('count',$children->count());
