@@ -2,8 +2,8 @@ Media-query: orientation: landscape
 
 ----
 
-Media: all and (orientation:landscape)
+Media: 
 
 ----
 
-Sort: 1
+Sort: 3
