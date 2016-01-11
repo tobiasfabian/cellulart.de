@@ -1,0 +1,31 @@
+title: Film Archive Entry
+pages: false
+files:
+  type:
+    - image
+    - video
+fields:
+  title:
+    label: Title
+    type:  text
+  still:
+    label: Still
+    type:  text
+  type:
+    label: Type
+    type:  text
+  country:
+    label: Country
+    type:  text
+  year:
+    label: Year
+    type:  text
+  duration:
+    label: Duration
+    type:  text
+  director:
+    label: Director
+    type:  text
+  text:
+    label: Text
+    type:  textarea
