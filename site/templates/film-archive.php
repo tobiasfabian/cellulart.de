@@ -35,6 +35,7 @@ function showArchiveEntries($page) {
   } else {
     $children = $page->children();
   }
+  $children = $children->paginate(1000);
 
   // create JSON
   $json = array('count',$children->count());
