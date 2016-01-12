@@ -1,30 +1,24 @@
 <?php
 
-require_once('database.php');
+require_once('db.php');
 
-$db = new Database();
+$db = new Db();
 
 kirby()->hook('panel.page.create', function($page) {
   if ($page->template() == 'film-archive-entry') {
-    $archive->insert($page);
-    $page->update(array(
-      'text' => 'Some text'
-    ));
+    $db = new Db();
+    $db->insert($page);
   }
 });
 kirby()->hook('panel.page.update', function($page) {
   if ($page->template() == 'film-archive-entry') {
-    try {
-      $page->update(array(
-        'type' => 'Some text'
-      ));
-    } catch (Exception $e) {
-      return $e->getMessage();
-    }
+    $db = new Db();
+    $db->update($page);
   }
 });
 kirby()->hook('panel.page.delete', function($page) {
   if ($page->template() == 'film-archive-entry') {
-
+    $db = new Db();
+    $db->delete($page);
   }
 });

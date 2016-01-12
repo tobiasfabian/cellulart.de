@@ -1,2 +1,5 @@
-<h1><?=$page->title()?></h1>
-<p><?=$page->director()?></p>
+<?php
+
+$db = new Db();
+$db->insert($page);
+print_r($db->films->all());
