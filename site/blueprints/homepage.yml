@@ -17,6 +17,13 @@ fields:
   text:
     label: Meta Description
     type:  text
+  teaserimage-mobile:
+    label: Teaser Image (Mobile)
+    type:  selector
+    help: This image will be shown on mobile devices only.
+    types:
+      - image
+    help:  Image must be 16/9 aspect ratio.
   teaserimage:
     label: Teaser Image
     type:  selector

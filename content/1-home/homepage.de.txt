@@ -10,4 +10,8 @@ Teaserimage: poster.jpg
 
 ----
 
-Teaservideo: teaser-desktop.mp4,teaser-mobile.mp4
+Teaservideo: teaser-desktop.mp4
+
+----
+
+Teaserimage-mobile: teaser-mobile.jpg
