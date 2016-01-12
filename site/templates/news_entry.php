@@ -21,10 +21,14 @@
     </article>
     <nav class="pagination">
       <?php if($page->hasPrevVisible()): ?>
-      <a class="previous" href="<?= $page->prevVisible()->url() ?>"></a>
+      <a class="previous" href="<?= $page->prevVisible()->url() ?>">
+        <span><?=$page->prevVisible()->title()?></span>
+      </a>
       <?php endif ?>
       <?php if($page->hasNextVisible()): ?>
-      <a class="next" href="<?= $page->nextVisible()->url() ?>"></a>
+      <a class="next" href="<?= $page->nextVisible()->url() ?>">
+        <span><?=$page->nextVisible()->title()?></span>
+      </a>
       <?php endif ?>
     </nav>
   </main>

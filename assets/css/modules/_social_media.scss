@@ -35,9 +35,15 @@
       position: relative;
       width: 5em;
       padding-top: 0.3em;
+      @media (max-width: $max-width/12*6) {
+        width: 4.5em;
+      }
     }
     &.bildflimmern {
       width: 4em;
+      @media (max-width: $max-width/12*6) {
+        width: 3.5em;
+      }
     }
   }
 }
