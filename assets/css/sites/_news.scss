@@ -10,6 +10,7 @@
       }
       @media (max-width: $max-width/12*7) {
         width: auto;
+        padding-right: 0;
       }
       article {
         padding: 2.5em 0 2em;
@@ -74,20 +75,44 @@
       }
       .pagination {
         .previous, .next {
-          display: block;
-          width: 2em;
+          display: inline-block;
+          width: auto;
+          max-width: 50%;
           height: 1em;
           background: no-repeat;
           border: none;
+          span {
+            display: inline-block;
+            margin-top: 0px;
+            opacity: 0;
+            line-height: 1.15;
+            text-transform: lowercase;
+            transition-duration: $default-duration;
+          }
+          &:focus, &:hover {
+            span {
+              opacity: 1;
+              transform: translate(0);
+            }
+          }
         }
         .next {
           float: right;
           background-position: center right;
           background-image: url(../images/button-next-arrow.svg);
+          span {
+            transform: translate(0.2em);
+            padding-right: 1.3em;
+          }
         }
         .previous {
+          float: left;
           background-position: center left;
           background-image: url(../images/button-previous-arrow.svg);
+          span {
+            transform: translate(-0.2em);
+            padding-left: 1.3em;
+          }
         }
       }
     }
@@ -107,6 +132,7 @@
       @media (max-width: $max-width/12*6) {
         margin: 0 0 3em;
         width: auto;
+        max-width: 24em;
       }
       .events {
         margin-bottom: 0.5em;

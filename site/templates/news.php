@@ -9,7 +9,7 @@
     <?php snippet('social_media') ?>
   </aside>
   <main>
-    <?php $items = $page->children()->visible()->flip()->paginate(20); ?>
+    <?php $items = $page->children()->visible()->flip()->paginate(4); ?>
     <?php foreach($items as $item) : ?>
     <article itemscope itemtype="http://schema.org/Article">
       <header>
@@ -27,10 +27,14 @@
     <?php if($items->pagination()->hasPages()): ?>
     <nav class="pagination">
       <?php if($items->pagination()->hasNextPage()): ?>
-      <a class="previous" href="<?= $items->pagination()->nextPageURL() ?>"></a>
+      <a class="previous" href="<?= $items->pagination()->nextPageURL() ?>">
+        <span><?=l::get('next page')?></span>
+      </a>
       <?php endif ?>
       <?php if($items->pagination()->hasPrevPage()): ?>
-      <a class="next" href="<?= $items->pagination()->prevPageURL() ?>"></a>
+      <a class="next" href="<?= $items->pagination()->prevPageURL() ?>">
+        <span><?=l::get('previous page')?></span>
+      </a>
       <?php endif ?>
     </nav>
     <?php endif ?>

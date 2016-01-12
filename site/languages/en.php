@@ -12,3 +12,6 @@ l::set('Mockumentary', 'Mockumentary');
 l::set('read more','read more');
 
 l::set('apply now','apply now');
+
+l::set('next page','next page');
+l::set('previous page','previous page');
