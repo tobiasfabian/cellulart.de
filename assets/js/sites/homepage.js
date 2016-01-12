@@ -61,7 +61,10 @@ function homepage() {
         venueElement.style.opacity = null;
         celluElement.style.opacity = null;
         lartElement.style.opacity = null;
+        logoElement.style.transitionDuration = '150ms';
         logoElement.style.opacity = null;
+        logoElement.offsetWidth;
+        logoElement.style.transitionDuration = null;
       },4000);
     });
   } else {
