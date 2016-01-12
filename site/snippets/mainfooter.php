@@ -16,6 +16,7 @@
 <?php
 // snippet('raster');
 ?>
+<?php if (url::host() !== 'localhost'): ?>
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
@@ -31,3 +32,4 @@
 </script>
 <noscript><img src="//cellulart.de/piwik/piwik.php?idsite=1" alt=""></noscript>
 <!-- End Piwik Code -->
+<?php endif; ?>
