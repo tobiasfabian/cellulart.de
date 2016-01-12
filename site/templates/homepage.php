@@ -40,8 +40,8 @@
           ?>
         </video>
       <?php endif ?>
-      <?php if (!$page->teaserimage()->isEmpty()): ?>
-        <img src="<?=$page->teaserimage()->toFile()->url()?>">
+      <?php if (!$page->teaserimage_mobile()->isEmpty()): ?>
+        <img src="<?=$page->teaserimage_mobile()->toFile()->url()?>">
       <?php endif ?>
     </div>
   </main>
