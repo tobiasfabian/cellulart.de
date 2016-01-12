@@ -7,9 +7,11 @@ function homepage() {
   var venueElement = overlayElement.querySelector('.venue');
   var logoElement = document.querySelector('.mainfooter .logo');
   var videoElement = document.querySelector('.teaser video');
+  var imgElement = document.querySelector('.teaser img');
 
   function showElementsWithTimeouts() {
-    console.log('hello world');
+    videoElement.style.display = 'none';
+    imgElement.style.display = 'block';
     setTimeout(function(){
       celluElement.style.opacity = '1';
       lartElement.style.opacity = '1';
@@ -60,9 +62,10 @@ function homepage() {
         celluElement.style.opacity = null;
         lartElement.style.opacity = null;
         logoElement.style.opacity = null;
-      },4000)
+      },4000);
     });
   } else {
+    showElementsWithTimeouts();
   }
 
 
