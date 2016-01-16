@@ -35,7 +35,7 @@ if ($search = get('search')) {
                  ->orWhere('production',     'LIKE', '%'.$search.'%')
                  ->orWhere('composer',       'LIKE', '%'.$search.'%')
                  ->orWhere('music',          'LIKE', '%'.$search.'%')
-                 ->orWhere('cast',           'LIKE', '%'.$search.'%')
+                 ->orWhere('actors',         'LIKE', '%'.$search.'%')
                  ->orWhere('section',        'LIKE', '%'.$search.'%')
                  ->orWhere('festival_year',  'LIKE', '%'.$search.'%')
                  ->orWhere('awards',         'LIKE', '%'.$search.'%')
@@ -48,7 +48,8 @@ if ($search = get('search')) {
                  ->orWhere('website',        'LIKE', '%'.$search.'%');
 }
 
-$films = $films->order('uri ASC')->page($page, 100);
+$films = $films->order('title ASC')->page($page, 100);
+// print_r($films);
 $pagination = $films->pagination();
 $pagination->nextPageURL();
 

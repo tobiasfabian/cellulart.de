@@ -169,8 +169,8 @@ fields:
     width: 1/2
     buttons: false
     icon:  music
-  cast:
-    label: Cast
+  actors:
+    label: Actors
     type:  text
     translate: false
     placeholder: James Stewart, Grace Kelly, Thelma Ritter

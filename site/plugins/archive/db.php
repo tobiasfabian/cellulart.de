@@ -34,7 +34,7 @@ class Db {
       'production'     => $page->production()->value(),
       'composer'       => $page->composer()->value(),
       'music'          => $page->music()->value(),
-      'cast'           => $page->cast()->value(),
+      'actors'         => $page->actors()->value(),
       'section'        => $page->section()->value(),
       'festival_year'  => $page->festival_year()->value(),
       'awards'         => $page->awards()->value(),
@@ -71,7 +71,7 @@ class Db {
       'production'     => $page->production()->value(),
       'composer'       => $page->composer()->value(),
       'music'          => $page->music()->value(),
-      'cast'           => $page->cast()->value(),
+      'actors'         => $page->actors()->value(),
       'section'        => $page->section()->value(),
       'festival_year'  => $page->festival_year()->value(),
       'awards'         => $page->awards()->value(),
@@ -194,7 +194,7 @@ class Db {
         'type' => 'text',
         'key'  => 'index',
       ),
-      'cast' => array(
+      'actors' => array(
         'type' => 'text',
         'key'  => 'index',
       ),
