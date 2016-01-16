@@ -3,12 +3,13 @@
 # rewrite rules
 <IfModule mod_rewrite.c>
 
-RewriteCond %{HTTP_HOST} !^cellulart.de$ [NC]
-RewriteRule ^(.*)$ http://cellulart.de/$1 [L,R=301]
-
 # enable awesome urls. i.e.:
 # http://yourdomain.com/about-us/team
 RewriteEngine on
+
+# redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 # make sure to set the RewriteBase correctly
 # if you are running the site in a subfolder.
