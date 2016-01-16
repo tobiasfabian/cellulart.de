@@ -16,8 +16,8 @@ $films = $db->films;
 if ($search = get('search')) {
   $films = $films->where(  'uri',            'LIKE', '%'.$search.'%')
                  ->orWhere('title',          'LIKE', '%'.$search.'%')
-                 ->orWhere('title_en',       'LIKE', '%'.$search.'%')
                  ->orWhere('title_de',       'LIKE', '%'.$search.'%')
+                 ->orWhere('title_en',       'LIKE', '%'.$search.'%')
                  ->orWhere('genre',          'LIKE', '%'.$search.'%')
                  ->orWhere('category',       'LIKE', '%'.$search.'%')
                  ->orWhere('tags',           'LIKE', '%'.$search.'%')

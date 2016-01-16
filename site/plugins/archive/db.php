@@ -52,8 +52,8 @@ class Db {
     $this->films->where('key', '=', $page->key()->value())->update(array(
       'uri'            => $page->uri(),
       'title'          => $page->title()->value(),
-      'title_en'       => $page->title_en()->value(),
       'title_de'       => $page->title_de()->value(),
+      'title_en'       => $page->title_en()->value(),
       'genre'          => $page->genre()->value(),
       'category'       => $page->category()->value(),
       'tags'           => $page->tags()->value(),
@@ -118,11 +118,11 @@ class Db {
         'type' => 'text',
         'key'  => 'index',
       ),
-      'title_en' => array(
+      'title_de' => array(
         'type' => 'text',
         'key'  => 'index',
       ),
-      'title_de' => array(
+      'title_en' => array(
         'type' => 'text',
         'key'  => 'index',
       ),
