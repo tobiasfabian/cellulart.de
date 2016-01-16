@@ -1,0 +1,190 @@
+Title: Film Archive
+
+----
+
+Langs: 
+
+- 
+  iso_639_1: de
+  german: Deutsch
+  english: German
+- 
+  iso_639_1: en
+  german: Englisch
+  english: English
+- 
+  iso_639_1: es
+  german: Spanisch
+  english: Spanish
+- 
+  iso_639_1: fr
+  german: Französisch
+  english: French
+- 
+  iso_639_1: el
+  german: Griechisch
+  english: Greek
+- 
+  iso_639_1: ga
+  german: Irisch
+  english: Irish
+- 
+  iso_639_1: it
+  german: Italienisch
+  english: Italien
+- 
+  iso_639_1: pt
+  german: Portugisisch
+  english: Portuguese
+- 
+  iso_639_1: ru
+  german: Russisch
+  english: Russian
+- 
+  iso_639_1: sv
+  german: Schwedisch
+  english: Swedish
+
+----
+
+Countries: 
+
+- 
+  iso_3166_1: DE
+  german: Deutschland
+  english: Germany
+- 
+  iso_3166_1: ES
+  german: Spanien
+  english: Spain
+- 
+  iso_3166_1: GB
+  german: Großbritannien
+  english: Great Britain
+- 
+  iso_3166_1: US
+  german: USA
+  english: USA
+- 
+  iso_3166_1: UA
+  german: Ukraine
+  english: Ukraine
+
+----
+
+Genres: 
+
+- 
+  german: Action
+  english: Action
+- 
+  german: Horror
+  english: Horror
+- 
+  german: Dokumentation
+  english: Documentation
+- 
+  german: Experimental
+  english: Experimental
+- 
+  german: Lust und Liebe
+  english: Lust and Love
+
+----
+
+Categories: 
+
+- 
+  german: Spielfilm
+  english: Feature Film
+- 
+  german: Animation
+  english: Animation
+- 
+  german: Dokumentation
+  english: Documentation
+- 
+  german: Experimental
+  english: Experimental
+- 
+  german: Filmessay
+  english: Filmessay
+
+----
+
+Awards: 
+
+- 
+  german: Bester Kurzfilm
+  english: Best Short Film
+- 
+  german: Bester ExAnDo
+  english: Best ExAnDo
+- 
+  german: Publikumspreis
+  english: Audience Award
+- 
+  german: Toleranzpreis
+  english: Tolerance Award
+- 
+  german: Bestes Drehbuch
+  english: Best Screenplay
+- 
+  german: Bester Schauspieler
+  english: Best Actor
+- 
+  german: Beste Schauspielerin
+  english: Best Actress
+- 
+  german: Beste Kamera
+  english: Best Camera
+- 
+  german: Beste Regie
+  english: Best Director
+- 
+  german: Erster Platz
+  english: First Place
+- 
+  german: Zweiter Platz
+  english: Second Place
+- 
+  german: Dritter Platz
+  english: Third Place
+
+----
+
+Sections: 
+
+- 
+  german: Wettbewerb
+  english: competition
+- 
+  german: Special
+  english: Special
+- 
+  german: B-Side
+  english: B-Side
+- 
+  german: Länderschwerpunkt
+  english: Country Focus
+- 
+  german: Außer Konkurrenz
+  english: Uncontested
+- 
+  german: Einzelfilm / keine Festivalbeteiligung
+  english: Single Film
+
+----
+
+Formats: 
+
+- 
+  format: MP4
+- 
+  format: DCP
+- 
+  format: Blu-Ray
+- 
+  format: MOV
+- 
+  format: PAL

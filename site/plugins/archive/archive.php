@@ -6,6 +6,9 @@ $db = new Db();
 
 kirby()->hook('panel.page.create', function($page) {
   if ($page->template() == 'film-archive-entry') {
+    $page->update(array(
+      'key' => str::random(16)
+    ));
     $db = new Db();
     $db->insert($page);
   }

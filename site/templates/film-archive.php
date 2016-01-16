@@ -14,15 +14,38 @@ if (array_key_exists('page',url::params())) {
 $films = $db->films;
 
 if ($search = get('search')) {
-  $films = $films->where(  'uri',      'LIKE', '%'.$search.'%')
-                 ->orWhere('title',    'LIKE', '%'.$search.'%')
-                 ->orWhere('still',    'LIKE', '%'.$search.'%')
-                 ->orWhere('type',     'LIKE', '%'.$search.'%')
-                 ->orWhere('country',  'LIKE', '%'.$search.'%')
-                 ->orWhere('year',     'LIKE', '%'.$search.'%')
-                 ->orWhere('duration', 'LIKE', '%'.$search.'%')
-                 ->orWhere('director', 'LIKE', '%'.$search.'%')
-                 ->orWhere('text',     'LIKE', '%'.$search.'%');
+  $films = $films->where(  'uri',            'LIKE', '%'.$search.'%')
+                 ->orWhere('title',          'LIKE', '%'.$search.'%')
+                 ->orWhere('title_en',       'LIKE', '%'.$search.'%')
+                 ->orWhere('title_de',       'LIKE', '%'.$search.'%')
+                 ->orWhere('genre',          'LIKE', '%'.$search.'%')
+                 ->orWhere('category',       'LIKE', '%'.$search.'%')
+                 ->orWhere('tags',           'LIKE', '%'.$search.'%')
+                 ->orWhere('duration',       'LIKE', '%'.$search.'%')
+                 ->orWhere('year',           'LIKE', '%'.$search.'%')
+                 ->orWhere('country',        'LIKE', '%'.$search.'%')
+                 ->orWhere('language',       'LIKE', '%'.$search.'%')
+                 ->orWhere('subtitles',      'LIKE', '%'.$search.'%')
+                 ->orWhere('synposis_de',    'LIKE', '%'.$search.'%')
+                 ->orWhere('synposis_en',    'LIKE', '%'.$search.'%')
+                 ->orWhere('direction',      'LIKE', '%'.$search.'%')
+                 ->orWhere('screenplay',     'LIKE', '%'.$search.'%')
+                 ->orWhere('cinematography', 'LIKE', '%'.$search.'%')
+                 ->orWhere('editing',        'LIKE', '%'.$search.'%')
+                 ->orWhere('production',     'LIKE', '%'.$search.'%')
+                 ->orWhere('composer',       'LIKE', '%'.$search.'%')
+                 ->orWhere('music',          'LIKE', '%'.$search.'%')
+                 ->orWhere('cast',           'LIKE', '%'.$search.'%')
+                 ->orWhere('section',        'LIKE', '%'.$search.'%')
+                 ->orWhere('festival_year',  'LIKE', '%'.$search.'%')
+                 ->orWhere('awards',         'LIKE', '%'.$search.'%')
+                 ->orWhere('formats',        'LIKE', '%'.$search.'%')
+                 ->orWhere('location',       'LIKE', '%'.$search.'%')
+                 ->orWhere('contact',        'LIKE', '%'.$search.'%')
+                 ->orWhere('address',        'LIKE', '%'.$search.'%')
+                 ->orWhere('email',          'LIKE', '%'.$search.'%')
+                 ->orWhere('phone',          'LIKE', '%'.$search.'%')
+                 ->orWhere('website',        'LIKE', '%'.$search.'%');
 }
 
 $films = $films->order('uri ASC')->page($page, 100);

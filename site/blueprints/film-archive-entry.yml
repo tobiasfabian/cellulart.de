@@ -5,27 +5,259 @@ files:
     - image
     - video
 fields:
+
+  film_tab:
+    label: Film
+    type:  tabs
   title:
-    label: Title
+    label: Original Title
     type:  text
-  still:
-    label: Still
+    translate: false
+    width: 1/2
+    placeholder: Rear Window
+  key:
+    label: Key
     type:  text
-  type:
-    label: Type
+    translate: false
+    width: 1/2
+    readonly: true
+  title_en:
+    label: English Title
     type:  text
-  country:
-    label: Country
+    translate: false
+    width: 1/2
+    icon:  font
+    placeholder: Rear Window
+  title_de:
+    label: German Title
     type:  text
+    translate: false
+    width: 1/2
+    icon:  font
+    placeholder: Das Fenster zum Hof
+  genre:
+    label: Genre
+    type: multiselect
+    search: false
+    required: true
+    options: http://cellulart.de/content/film-archive/genres.en.json
+    translate: false
+    width: 1/2
+  category:
+    label: Category
+    type: multiselect
+    search: false
+    required: true
+    options: http://cellulart.de/content/film-archive/categories.en.json
+    translate: false
+    width: 1/2
+  tags:
+    label: Tags
+    type:  tags
+    index: siblings
+    translate: false
+  duration:
+    label: Duration (in minutes)
+    required: true
+    type:  number
+    translate: false
+    width: 1/4
+    icon:  clock-o
+    placeholder: 112
+    validate:
+      max: 720
+      - num
   year:
     label: Year
-    type:  text
-  duration:
-    label: Duration
-    type:  text
-  director:
-    label: Director
-    type:  text
-  text:
-    label: Text
+    required: true
+    type:  number
+    translate: false
+    width: 1/4
+    icon:  calendar-o
+    placeholder: 2016
+    validate:
+      min: 1900
+      max: 2100
+      - num
+  country:
+    label: Country
+    type:  multiselect
+    search: true
+    options: http://cellulart.de/content/film-archive/countries.en.json
+    translate: false
+    width: 1/2
+    icon:  globe
+  language:
+    label: Language
+    required: true
+    type:  multiselect
+    search: true
+    options: http://cellulart.de/content/film-archive/languages.en.json
+    translate: false
+    width: 1/2
+  subtitles:
+    label: Subtitle(s)
+    required: true
+    type:  multiselect
+    search: true
+    options: http://cellulart.de/content/film-archive/languages.en.json
+    translate: false
+    width: 1/2
+  synposis_de:
+    label: Synopsis (de)
     type:  textarea
+    buttons: false
+    translate: false
+    width: 1/2
+  synposis_en:
+    label: Synopsis (en)
+    type:  textarea
+    buttons: false
+    translate: false
+    width: 1/2
+
+  cast_tab:
+    label: Cast/Crew
+    type:  tabs
+
+  direction:
+    label: Direction
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  bullhorn
+    placeholder: Alfred Hitchcock
+  screenplay:
+    label: Screenplay
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  book
+    placeholder: John Michael Hayes
+  cinematography:
+    label: Cinematography
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  video-camera
+    placeholder: Robert Burks
+  editing:
+    label: Editing
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  scissors
+    placeholder: George Tomasini
+  production:
+    label: Production
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  usd
+    placeholder: Alfred Hitchcock (Paramount Pictures)
+  composer:
+    label: Composer/Soundtrack
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  music
+    placeholder: Franz Waxman
+  music:
+    label: Music
+    type:  text
+    translate: false
+    width: 1/2
+    buttons: false
+    icon:  music
+  cast:
+    label: Cast
+    type:  text
+    translate: false
+    placeholder: James Stewart, Grace Kelly, Thelma Ritter
+
+  festival_tab:
+    label: Festival
+    type:  tabs
+
+  festival_year:
+    label: Year
+    type:  number
+    translate: false
+    width: 1/2
+    icon:  calendar-o
+    placeholder: 2016
+    validate:
+      min: 1990
+      max: 2100
+      - num
+  section:
+    label: Section
+    type: multiselect
+    search: false
+    options: http://cellulart.de/content/film-archive/categories.en.json
+    translate: false
+    width: 1/2
+  awards:
+    label: Awards
+    type: multiselect
+    search: false
+    options: http://cellulart.de/content/film-archive/awards.en.json
+    translate: false
+    width: 1/2
+    icon: trophy
+
+  formats_tab:
+    label: Formats/Location
+    type:  tabs
+
+  formats:
+    label: Formats
+    required: true
+    type: multiselect
+    search: false
+    options: http://cellulart.de/content/film-archive/formats.json
+    translate: false
+    width: 1/2
+    icon: file
+  location:
+    label: Location (Harddrive, Rack)
+    required: true
+    type:  text
+    translate: false
+    width: 1/2
+    icon:  archive
+
+  contact_tab:
+    label: Contact
+    type:  tabs
+  contact:
+    label: Contact Person
+    required: true
+    type:  text
+    icon:  user
+    translate: false
+  address:
+    label: Address
+    type:  textarea
+    buttons: false
+    translate: false
+  email:
+    label: E-Mail
+    required: true
+    type:  email
+    translate: false
+    width: 1/2
+    validate: email
+  phone:
+    label: Phone
+    type:  number
+    translate: false
+    width: 1/2
+    icon:  phone
+    placeholder: '+4915205605412'
+  website:
+    label: Website
+    type:  url
+    translate: false
+    width: 1/2
+    placeholder: www.cellulart.de

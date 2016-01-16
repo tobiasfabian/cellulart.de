@@ -35,3 +35,6 @@ fields:
   venue:
     label: Venue
     type:  text
+  test:
+    label: Test
+    type:  text

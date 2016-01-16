@@ -22,6 +22,12 @@ c::set('cache.ignore', array(
 
 c::set('routes', array(
   array(
+    'pattern' => 'site/languages',
+    'action'  => function() {
+      go('news');
+    }
+  ),
+  array(
     'pattern' => 'news/festival',
     'action'  => function() {
       go('news');
