@@ -6,14 +6,14 @@ kirby()->hook('panel.page.create', function($page) {
 });
 kirby()->hook('panel.page.update', function($page) {
   if ($page->template() == 'film-archive') {
-    $root = kirby()->roots()->content() . DS . 'film-archiv' . DS;
-    $genres     = site()->page('film-archiv')->genres()->yaml();
-    $categories = site()->page('film-archiv')->categories()->yaml();
-    $awards     = site()->page('film-archiv')->awards()->yaml();
-    $sections   = site()->page('film-archiv')->sections()->yaml();
-    $languages  = site()->page('film-archiv')->langs()->yaml();
-    $countries  = site()->page('film-archiv')->countries()->yaml();
-    $formats    = site()->page('film-archiv')->formats()->yaml();
+    $root = kirby()->roots()->content() . DS . 'film-archive' . DS;
+    $genres     = site()->page('film-archive')->genres()->yaml();
+    $categories = site()->page('film-archive')->categories()->yaml();
+    $awards     = site()->page('film-archive')->awards()->yaml();
+    $sections   = site()->page('film-archive')->sections()->yaml();
+    $languages  = site()->page('film-archive')->langs()->yaml();
+    $countries  = site()->page('film-archive')->countries()->yaml();
+    $formats    = site()->page('film-archive')->formats()->yaml();
 
     try {
       $array = array();
