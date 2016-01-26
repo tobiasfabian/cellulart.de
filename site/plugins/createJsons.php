@@ -17,7 +17,7 @@ kirby()->hook('panel.page.update', function($page) {
 
     try {
       $array = array();
-      foreach(a::sort($genres,'english','ASC') as $genre) {
+      foreach($genres as $genre) {
         $array[str::slug($genre['english'])] = $genre['english'];
       }
       f::write($root.'genres.en.json',json_encode($array));
@@ -26,7 +26,7 @@ kirby()->hook('panel.page.update', function($page) {
     }
     try {
       $array = array();
-      foreach(a::sort($categories,'english','ASC') as $category) {
+      foreach($categories as $category) {
         $array[str::slug($category['english'])] = $category['english'];
       }
       f::write($root.'categories.en.json',json_encode($array));
@@ -35,7 +35,7 @@ kirby()->hook('panel.page.update', function($page) {
     }
     try {
       $array = array();
-      foreach(a::sort($awards,'english','ASC') as $awards) {
+      foreach($awards as $awards) {
         $array[str::slug($awards['english'])] = $awards['english'];
       }
       f::write($root.'awards.en.json',json_encode($array));
@@ -44,10 +44,10 @@ kirby()->hook('panel.page.update', function($page) {
     }
     try {
       $array = array();
-      foreach(a::sort($sections,'english','ASC') as $section) {
+      foreach($sections as $section) {
         $array[str::slug($section['english'])] = $section['english'];
       }
-      f::write($root.'section.en.json',json_encode($array));
+      f::write($root.'sections.en.json',json_encode($array));
     } catch(Exception $e) {
       echo $e->getMessage();
     }
@@ -71,7 +71,7 @@ kirby()->hook('panel.page.update', function($page) {
     }
     try {
       $array = array();
-      foreach(a::sort($formats,'english','ASC') as $format) {
+      foreach($formats as $format) {
         $array[str::slug($format['format'])] = $format['format'];
       }
       f::write($root.'formats.json',json_encode($array));

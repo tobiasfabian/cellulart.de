@@ -59,14 +59,12 @@ fields:
   duration:
     label: Duration (in minutes)
     required: true
-    type:  number
+    type:  text
     translate: false
     width: 1/4
     icon:  clock-o
-    placeholder: 112
-    validate:
-      max: 720
-      - num
+    placeholder: 12:34
+    validate: date
   year:
     label: Year
     required: true
@@ -194,7 +192,7 @@ fields:
     label: Section
     type: multiselect
     search: false
-    options: http://cellulart.de/content/film-archive/categories.en.json
+    options: http://cellulart.de/content/film-archive/sections.en.json
     translate: false
     width: 1/2
   awards:

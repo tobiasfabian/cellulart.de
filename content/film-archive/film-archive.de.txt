@@ -157,7 +157,7 @@ Sections:
 
 - 
   german: Wettbewerb
-  english: competition
+  english: Competition
 - 
   german: Special
   english: Special
