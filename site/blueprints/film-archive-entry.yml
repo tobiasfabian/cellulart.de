@@ -64,7 +64,8 @@ fields:
     width: 1/4
     icon:  clock-o
     placeholder: 12:34
-    validate: date
+    validate:
+      match: .:.
   year:
     label: Year
     required: true
