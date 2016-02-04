@@ -2,15 +2,11 @@ Film-tab:
 
 ----
 
-Title: Rear Window
+Title: Harry Potter
 
 ----
 
-Key: P37Bgb8ROUy4WUEL
-
-----
-
-Title-en: 
+Key: Hwaf8R0xUXaeICxz
 
 ----
 
@@ -18,23 +14,27 @@ Title-de:
 
 ----
 
-Genre: horror, action
+Title-en: 
 
 ----
 
-Category: feature-film
+Genre: 
 
 ----
 
-Tags: Hitchcock,Crime
+Category: 
 
 ----
 
-Duration: 90:35
+Tags: 
 
 ----
 
-Year: 1962
+Duration: 
+
+----
+
+Year: 
 
 ----
 
@@ -42,11 +42,11 @@ Country:
 
 ----
 
-Language: en
+Language: 
 
 ----
 
-Subtitles: de
+Subtitles: 
 
 ----
 
@@ -106,7 +106,7 @@ Section:
 
 ----
 
-Awards: best-short-film, best-exando
+Awards: 
 
 ----
 
@@ -114,11 +114,11 @@ Formats-tab:
 
 ----
 
-Formats: mp4, dcp, blu-ray, mov, pal
+Formats: 
 
 ----
 
-Location: C 38
+Location: 
 
 ----
 
@@ -126,7 +126,7 @@ Contact-tab:
 
 ----
 
-Contact: Alfred Hitchcock
+Contact: 
 
 ----
 
@@ -134,7 +134,7 @@ Address:
 
 ----
 
-Email: alfred@hollywood.de
+Email: 
 
 ----
 

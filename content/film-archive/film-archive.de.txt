@@ -75,11 +75,11 @@ Countries:
 Genres: 
 
 - 
-  german: Action
-  english: Action
-- 
   german: Horror
   english: Horror
+- 
+  german: Action
+  english: Action
 - 
   german: Dokumentation
   english: Documentation
@@ -87,28 +87,55 @@ Genres:
   german: Experimental
   english: Experimental
 - 
-  german: Lust und Liebe
-  english: Lust and Love
+  german: Komödie
+  english: Comedy
+- 
+  german: Romantik
+  english: Romance
+- 
+  german: Fantasy
+  english: Fantasy
+- 
+  german: Science-Fiction
+  english: Science-Fiction
+- 
+  german: Thriller
+  english: Thriller
+- 
+  german: Musikfilm / Musical
+  english: Musical
+- 
+  german: Drama
+  english: Drama
+- 
+  german: Historienfilm
+  english: History
+- 
+  german: Western
+  english: Western
+- 
+  german: Musikvideo
+  english: Musical clip
 
 ----
 
 Categories: 
 
 - 
-  german: Spielfilm
-  english: Feature Film
-- 
   german: Animation
   english: Animation
+- 
+  german: Spielfilm
+  english: Feature Film
 - 
   german: Dokumentation
   english: Documentation
 - 
-  german: Experimental
-  english: Experimental
-- 
   german: Filmessay
   english: Filmessay
+- 
+  german: Experimental
+  english: Experimental
 
 ----
 
@@ -162,6 +189,9 @@ Sections:
   german: Special
   english: Special
 - 
+  german: Einzelfilm / keine Festivalbeteiligung
+  english: Single Film
+- 
   german: B-Side
   english: B-Side
 - 
@@ -170,9 +200,6 @@ Sections:
 - 
   german: Außer Konkurrenz
   english: Uncontested
-- 
-  german: Einzelfilm / keine Festivalbeteiligung
-  english: Single Film
 
 ----
 
