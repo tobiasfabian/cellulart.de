@@ -30,11 +30,11 @@ Tags: Hitchcock
 
 ----
 
-Duration: 12:35
+Duration: 95:35
 
 ----
 
-Year: 2015
+Year: 2016
 
 ----
 
@@ -42,7 +42,7 @@ Country:
 
 ----
 
-Language: en
+Language: de
 
 ----
 

@@ -1,0 +1,2 @@
+function Header(){function e(e){e.preventDefault(),a.classList.contains("expanded")?(this.classList.remove("collapse"),a.classList.remove("expanded"),d.classList.remove("header-expanded")):(this.classList.add("collapse"),a.classList.add("expanded"),d.classList.add("header-expanded"))}var a=document.getElementById("header"),d=document.querySelector("main"),s=a.querySelector(".toggle-header");s.addEventListener("click",e)}new Header;
+//# sourceMappingURL=./script-film_archive-min.js.map

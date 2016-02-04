@@ -1,0 +1,13 @@
+$red: #EA564B;
+$black: hsl(0,0%,5%);
+$font: 'FranklinGothicURW-Med', 'Franklin Gothic', Helvetica, sans-serif;
+$max-width: 1130px;
+$default-padding: 20px;
+$default-duration: 150ms;
+$raster-width: 100% / 12;
+
+@import 'reset';
+@import 'fonts';
+@import 'raster';
+
+@import 'sites/film_archive';
