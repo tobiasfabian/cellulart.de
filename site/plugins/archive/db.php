@@ -139,7 +139,7 @@ class Db {
         'type' => 'text'
       ),
       'duration' => array(
-        'type' => 'timestamp'
+        'type' => 'int'
       ),
       'year' => array(
         'type' => 'text'
