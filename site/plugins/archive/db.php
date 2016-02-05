@@ -8,7 +8,7 @@ class Db {
     $this->createDb();
     $this->createTable();
     $this->films = $this->database->table('films');
-    $this->insertExisiting();
+    // $this->insertExisiting();
   }
 
   function insert($page) {
