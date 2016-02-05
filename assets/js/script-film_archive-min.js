@@ -1,6 +1,27 @@
+function Selection(selectElement) {
+
+  function checkStatus(){
+    if (selectElement.selectedIndex === 0) {
+      selectElement.classList.remove('selected');
+    } else {
+      selectElement.classList.add('selected');
+    }
+  }
+  checkStatus();
+
+  selectElement.addEventListener('change',checkStatus);
+
+}
+
+var selectElements = document.getElementById('header').querySelectorAll('select');
+for(var i = 0; i < selectElements.length; i++) {
+  new Selection(selectElements[i]);
+}
+
+
 function Header() {
   var headerElement = document.getElementById('header');
-  var mainElement = document.querySelector('main');
+  var filmsElement = document.getElementById('films');
   var toggleHeaderElement = headerElement.querySelector('.toggle-header');
 
   function toggleHeader(e) {
@@ -8,11 +29,11 @@ function Header() {
     if (headerElement.classList.contains('expanded')) {
       this.classList.remove('collapse');
       headerElement.classList.remove('expanded');
-      mainElement.classList.remove('header-expanded');
+      filmsElement.classList.remove('header-expanded');
     } else {
       this.classList.add('collapse');
       headerElement.classList.add('expanded')
-      mainElement.classList.add('header-expanded');
+      filmsElement.classList.add('header-expanded');
     }
   }
 
