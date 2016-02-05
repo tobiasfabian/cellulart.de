@@ -201,10 +201,11 @@
         width: 40%;
       }
       &.images {
-        width: 90%;
-        width: calc(100% - 10px);
+        margin: 0 -10px -10px;
+        width: calc(100% - 20px);
+        padding: 0 20px;
         &-container {
-          padding: 0;
+          width: auto;
           min-height: 0;
           display: flex;
           img {
@@ -242,6 +243,12 @@
         border-bottom: 0;
       }
     }
+    a {
+      color: $black;
+      &:focus, &:hover {
+        border-bottom-color: $black;
+      }
+    }
     &:hover {
       background: lighten($black,92);
     }
@@ -258,13 +265,16 @@
           padding: 0;
         }
         &.images {
+          clear: both;
+          float: none;
           box-sizing: content-box;
-          min-height: 200px;
+          min-height: 250px;
           overflow: auto;
+          padding-bottom: 18px;
           &-container {
             padding: 0;
             img {
-              height: 200px;
+              height: 250px;
             }
           }
         }

@@ -59,7 +59,7 @@ if (get('category')) {
   $films = $films->where('category','LIKE','%'.get('category').'%');
 }
 if (get('duration')) {
-  // $films = $films->where('category','LIKE','%'.get('category').'%');
+  // $films = $films->where('duration','LIKE','%'.get('duration').'%');
 }
 if (get('year')) {
   $films = $films->where('year','LIKE','%'.get('year').'%');
@@ -277,7 +277,7 @@ $results = $films->order('title ASC')
   <ol id="films" class="center">
     <?php
       foreach($results as $film): ?>
-    <li data-id="<?=$film->key()?>">
+    <li data-id="<?=$film->key()?>" data-uri="<?=$film->uri()?>">
       <div class="title">
         <h2>Original Title</h2>
         <em><?=$film->title()?$film->title():'–'?></em>
@@ -411,21 +411,6 @@ $results = $films->order('title ASC')
         <?php $website = str_replace('http://','',$film->website()); ?>
         <em><?=$film->website()?'<a href="'.$film->website().'">'.$website.'</a>':'–'?></em>
       </div>
-      <div class="clear"></div>
-      <?php
-        $filmPage = $page->children()->find($film->uri());
-        if ($filmPage->hasImages()):
-      ?>
-      <div class="images">
-        <div class="images-container">
-          <?php
-          foreach($filmPage->images() as $image) {
-            echo '<img src="'.$image->url().'">';
-          }
-          ?>
-        </div>
-      </div>
-      <?php endif ?>
       <div class="clear"></div>
     </li>
     <?php endforeach ?>

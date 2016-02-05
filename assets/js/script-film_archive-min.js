@@ -47,12 +47,44 @@ new Header();
 
 function Film(filmElement) {
 
+  var images;
+
   function toggleFilm() {
     if (filmElement.classList.contains('expanded')) {
       filmElement.classList.remove('expanded');
     } else {
       filmElement.classList.add('expanded');
+      if (typeof images === 'undefined') {
+        SearchImages();
+      }
     }
+  }
+
+  function SearchImages() {
+    var request = new XMLHttpRequest();
+    var url = location.protocol+'//'+location.host+location.pathname+'/'+filmElement.dataset.uri;
+    request.onreadystatechange = function() {
+      if (request.readyState === 4 && request.status === 200) {
+        try {
+          images = JSON.parse(request.responseText);
+          var imagesElement = document.createElement('div');
+          imagesElement.className = 'images';
+          var imagesContainerElement = document.createElement('div');
+          imagesContainerElement.className = 'images-container';
+          for(var i = 0; i < images.length; i++) {
+            var imgElement = document.createElement('img');
+            imgElement.src = images[i];
+            imagesContainerElement.appendChild(imgElement);
+          }
+          imagesElement.appendChild(imagesContainerElement);
+          filmElement.appendChild(imagesElement);
+        } catch(e) {
+          images = null;
+        }
+      }
+    };
+    request.open('GET',url,true);
+    request.send();
   }
 
   filmElement.addEventListener('click',toggleFilm);
