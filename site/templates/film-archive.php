@@ -178,9 +178,10 @@ $results = $films->order('title ASC')
 <body class="film-archive">
 
 <header id="header">
-  <div>
+  <div class="center">
     <h1><a href="<?=$page->url()?>"><?=$site->title()->html().' '.strtolower($page->title()->html())?></a></h1>
-    <form class="center">
+    <a href="<?=$site->url()?>" class="back">cellulart.de</a>
+    <form>
       <div class="row">
         <input name="title" type="text" placeholder="Title" value="<?=get('title')?>">
         <select name="genre">
@@ -277,23 +278,27 @@ $results = $films->order('title ASC')
       <button class="toggle-header">
         <img src="<?=url('assets/images/button-dropdown-black.svg')?>">
       </button>
+      <a href="<?=$page->url()?>" class="clear_filter">clear filter</a>
     </form>
-    <div class="table-head">
-      <div class="center">
-        <span class="title">Original Title</span>
-        <span class="genre">Genre</span>
-        <span class="category">Category</span>
-        <span class="duration">Duration</span>
-        <span class="year">Year</span>
-        <span class="country">Country</span>
-        <span class="language">Language</span>
-        <div class="clear"></div>
-      </div>
+  </div>
+  <div class="table-head">
+    <?php if ($results->count() > 0): ?>
+    <div class="center">
+      <span class="title">Original Title</span>
+      <span class="genre">Genre</span>
+      <span class="category">Category</span>
+      <span class="duration">Duration</span>
+      <span class="year">Year</span>
+      <span class="country">Country</span>
+      <span class="language">Language</span>
+      <div class="clear"></div>
     </div>
+    <?php endif ?>
   </div>
 </header>
-<main>
-  <ol id="films" class="center">
+<main class="center">
+  <?php if ($results->count() > 0): ?>
+  <ol id="films">
     <?php
       foreach($results as $film):
         if ($film->duration()) {
@@ -443,6 +448,28 @@ $results = $films->order('title ASC')
     </li>
     <?php endforeach ?>
   </ol>
+  <div class="info">
+    <p><?=$results->count()?> <?=$results->count()==1?'film':'films'?> found</p>
+  </div>
+  <?php
+    else:
+      $errors = [];
+      array_push($errors,'First principles, Clarice. Simplicity. Read Marcus Aurelius. Of each particular thing ask: what is it in itself? What is its nature? What does he do, this man you seek?');
+      array_push($errors,'You talkin’ to me?');
+      array_push($errors,'Elementary, my dear Watson. Purely elementary.');
+      array_push($errors,'Frankly, my dear. I don’t give a damn.');
+      array_push($errors,'There’s no place like home.');
+      array_push($errors,'You hear me talkin’, hillbilly boy?.');
+      $error = a::first(a::shuffle($errors));
+
+  ?>
+  <div class="info">
+    <p><?=$results->count()?> <?=$results->count()==1?'film':'films'?> found. <a href="<?=$page->url()?>">clear filter</a></p>
+    <p>
+      <?=$error?>
+    </p>
+  </div>
+  <?php endif; ?>
 </main>
 
 <!-- <?php snippet('raster') ?> -->
