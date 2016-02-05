@@ -34,11 +34,11 @@ Duration: 95:35
 
 ----
 
-Year: 2016
+Year: 2015
 
 ----
 
-Country: 
+Country: GB
 
 ----
 
@@ -98,11 +98,11 @@ Festival-tab:
 
 ----
 
-Festival-year: 
+Festival-year: 2001
 
 ----
 
-Section: 
+Section: competition, country-focus
 
 ----
 
@@ -142,4 +142,4 @@ Phone:
 
 ----
 
-Website: 
+Website: http://hollywood.de

@@ -1,4 +1,5 @@
 title: Film Archive Entry
+preview: parent
 pages: false
 files:
   type:
@@ -259,4 +260,4 @@ fields:
     type:  url
     translate: false
     width: 1/2
-    placeholder: www.cellulart.de
+    placeholder: http://www.cellulart.de

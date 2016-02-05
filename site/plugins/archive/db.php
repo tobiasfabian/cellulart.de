@@ -8,13 +8,13 @@ class Db {
     $this->createDb();
     $this->createTable();
     $this->films = $this->database->table('films');
-    // $this->insertExisiting();
+    $this->insertExisiting();
   }
 
   function insert($page) {
     $this->films->insert(array(
       'key'            => $page->key()->value(),
-      'uri'            => $page->uri(),
+      'uri'            => $page->uid(),
       'title'          => $page->title()->value(),
       'title_en'       => $page->title_en()->value(),
       'title_de'       => $page->title_de()->value(),
@@ -51,7 +51,7 @@ class Db {
 
   function update($page) {
     $this->films->where('key', '=', $page->key()->value())->update(array(
-      'uri'            => $page->uri(),
+      'uri'            => $page->uid(),
       'title'          => $page->title()->value(),
       'title_de'       => $page->title_de()->value(),
       'title_en'       => $page->title_en()->value(),
@@ -91,6 +91,7 @@ class Db {
   }
 
   function insertExisiting() {
+    $this->films->delete();
     foreach(page('film-archive')->children() as $page) {
       $this->insert($page);
     }

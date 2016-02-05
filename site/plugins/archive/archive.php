@@ -5,7 +5,7 @@ require_once('db.php');
 $db = new Db();
 
 kirby()->hook('panel.page.create', function($page) {
-  if ($page->parent()->template() == 'film-archive') {
+  if ($page->intendedTemplate() == 'film-archive-entry') {
     $page->update(array(
       'key' => str::random(16)
     ));
@@ -14,11 +14,11 @@ kirby()->hook('panel.page.create', function($page) {
   }
 });
 kirby()->hook('panel.page.update', function($page) {
-  if ($page->parent()->template() == 'film-archive') {
+  if ($page->intendedTemplate() == 'film-archive-entry') {
     $db = new Db();
     $db->update($page);
   }
-  if ($page->template() == 'film-archive') {
+  if ($page->intendedTemplate() == 'film-archive') {
     $root = kirby()->roots()->content() . DS . 'film-archive' . DS;
     $genres     = site()->page('film-archive')->genres()->yaml();
     $categories = site()->page('film-archive')->categories()->yaml();

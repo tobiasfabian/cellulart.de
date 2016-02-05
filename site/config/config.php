@@ -16,7 +16,8 @@ c::set('cache',true);
 c::set('cache.ignore', array(
   'news',
   'news/*',
-  'film-archiv'
+  'film-archive',
+  'film-archive/*'
 ));
 
 

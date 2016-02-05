@@ -18,11 +18,11 @@ Title-en:
 
 ----
 
-Genre: 
+Genre: documentation
 
 ----
 
-Category: 
+Category: filmessay
 
 ----
 
@@ -30,11 +30,11 @@ Tags:
 
 ----
 
-Duration: 
+Duration: 14:42
 
 ----
 
-Year: 
+Year: 2015
 
 ----
 
@@ -42,11 +42,11 @@ Country:
 
 ----
 
-Language: 
+Language: el
 
 ----
 
-Subtitles: 
+Subtitles: el
 
 ----
 
@@ -114,11 +114,11 @@ Formats-tab:
 
 ----
 
-Formats: 
+Formats: mp4
 
 ----
 
-Location: 
+Location: Regal
 
 ----
 
@@ -126,7 +126,7 @@ Contact-tab:
 
 ----
 
-Contact: 
+Contact: Maria Mustermann
 
 ----
 
@@ -134,7 +134,7 @@ Address:
 
 ----
 
-Email: 
+Email: maria@musterhaus.de
 
 ----
 

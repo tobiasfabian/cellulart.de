@@ -21,3 +21,24 @@ function Header() {
 }
 
 new Header();
+
+
+
+function Film(filmElement) {
+
+  function toggleFilm() {
+    if (filmElement.classList.contains('expanded')) {
+      filmElement.classList.remove('expanded');
+    } else {
+      filmElement.classList.add('expanded');
+    }
+  }
+
+  filmElement.addEventListener('click',toggleFilm);
+
+}
+
+var films = document.getElementById('films').children;
+for(var i = 0; i < films.length; i++) {
+  new Film(films[i]);
+}

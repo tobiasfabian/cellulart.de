@@ -22,7 +22,7 @@ Genre: horror, action
 
 ----
 
-Category: feature-film
+Category: animation
 
 ----
 
@@ -30,7 +30,7 @@ Tags: Hitchcock,Crime
 
 ----
 
-Duration: 12:35
+Duration: 12:36
 
 ----
 
@@ -38,7 +38,7 @@ Year: 1962
 
 ----
 
-Country: 
+Country: DE
 
 ----
 
@@ -114,7 +114,7 @@ Formats-tab:
 
 ----
 
-Formats: mp4, dcp, blu-ray, mov, pal
+Formats: mp4, dcp, mov, pal
 
 ----
 

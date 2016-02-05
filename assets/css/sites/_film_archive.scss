@@ -1,14 +1,15 @@
 .center {
   padding: 0;
-  min-height: initial;
+  min-height: 0;
 }
 
 #header {
+  z-index: 1;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  background: lighten($black,90);
+  background: lighten($black,92);
   .center {
     position: relative;
   }
@@ -20,6 +21,7 @@
   }
   form {
     position: relative;
+    padding-bottom: 5px;
     .row {
       display: flex;
       padding-right: 130px;
@@ -39,8 +41,11 @@
       line-height: 2;
       border-radius: 0;
       appearance: textfield;
-      border: 1px solid lighten($black,80);
+      border: 1px solid lighten($black,70);
       outline: none;
+    }
+    select {
+      color: lighten($black,70);
     }
     input[type=submit] {
       position: absolute;
@@ -85,7 +90,7 @@
       -moz-appearance:textfield;
     }
     input::placeholder {
-      color: lighten($black,80);
+      color: lighten($black,70);
       text-transform: lowercase;
     }
   }
@@ -98,83 +103,171 @@
   }
   .table-head {
     background: white;
-    color: lighten($black,80);
+    color: lighten($black,70);
     border-top: 1px solid $red;
     .center {
-      border-bottom: 1px solid lighten($black,80);
+      padding: 0 10px;
+      border-bottom: 1px solid lighten($black,70);
     }
     span {
-      display: inline-block;
+      display: block;
+      float: left;
       text-transform: lowercase;
-      padding: 10px 20px 8px;
-      &:nth-of-type(1) { // Orignal Title
+      padding: 10px 10px 8px;
+      &.title {
+        width: 20%;
+      }
+      &.genre {
         width: 15%;
       }
-      &:nth-of-type(2) { // Genre
+      &.category {
         width: 15%;
       }
-      &:nth-of-type(3) { // Category
-        width: 15%;
+      &.duration {
+        width: 10%;
       }
-      &:nth-of-type(4) { // Duration
-        width: 7.5%;
+      &.year {
+        width: 10%;
       }
-      &:nth-of-type(5) { // Year
-        width: 7.5%;
-      }
-      &:nth-of-type(6) { // Country
+      &.country {
         width: 12.5%;
       }
-      &:nth-of-type(7) { // Language
+      &.language {
         width: 12.5%;
       }
     }
   }
 }
 
-main {
-  ol.center {
-    padding-top: 140px;
-    transition: $default-duration;
-    li {
-      line-height: 1.5;
-      border-bottom: 1px solid lighten($black,80);
-      div {
+#films {
+  margin-bottom: 145px;
+  padding-top: 145px;
+  transition: $default-duration;
+  li {
+    position: relative;
+    padding: 5px 10px;
+    line-height: 1.5;
+    border-bottom: 1px solid lighten($black,70);
+    div {
+      float: left;
+      display: block;
+      width: 20%;
+      padding: 5px 10px 3px;
+      cursor: pointer;
+      transition: $default-duration;
+      &.title {
+        width: 20%;
+      }
+      &.genre {
+        width: 15%;
+      }
+      &.category {
+        width: 15%;
+      }
+      &.duration {
+        width: 10%;
+      }
+      &.year {
+        width: 10%;
+      }
+      &.country {
+        width: 12.5%;
+      }
+      &.language {
+        width: 12.5%;
+      }
+      &.title_de {
+        width: 20%;
+      }
+      &.title_en {
+        width: 20%;
+      }
+      &.tags {
+        width: 30%;
+      }
+      &.subtitles {
+        width: 15%;
+      }
+      &.actors {
+        width: 60%;
+      }
+      &.synopsis {
+        width: 40%;
+      }
+      &.images {
+        width: 90%;
+        width: calc(100% - 10px);
+        &-container {
+          padding: 0;
+          min-height: 0;
+          display: flex;
+          img {
+            margin-right: 20px;
+            flex: 0 0 auto;
+          }
+        }
+      }
+      &:nth-of-type(n+8) {
+        height: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        overflow: hidden;
+      }
+      h2 {
+        height: 0;
+        margin: 0;
+        overflow: hidden;
+        color: lighten($red, 15);
+        font-size: 1em;
+        transition: $default-duration;
+      }
+      em {
         display: inline-block;
-        padding: 10px 20px 8px;
-        &:nth-of-type(1) { // Orignal Title
-          width: 15%;
+      }
+    }
+    a.edit {
+      position: absolute;
+      top: 0;
+      right: 0;
+      float: right;
+      padding: 15px 20px 13px;
+      &:focus, &:hover {
+        border-bottom: 0;
+      }
+    }
+    &:hover {
+      background: lighten($black,92);
+    }
+    &.expanded {
+      background: lighten($black,92);
+      div {
+        padding-top: 10px;
+        padding-bottom: 8px;
+        min-height: 58px;
+        &.clear {
+          min-height: initial;
+          padding: 0;
         }
-        &:nth-of-type(2) { // Genre
-          width: 15%;
-        }
-        &:nth-of-type(3) { // Category
-          width: 15%;
-        }
-        &:nth-of-type(4) { // Duration
-          width: 7.5%;
-        }
-        &:nth-of-type(5) { // Year
-          width: 7.5%;
-        }
-        &:nth-of-type(6) { // Country
-          width: 12.5%;
-        }
-        &:nth-of-type(7) { // Language
-          width: 12.5%;
+        &.images {
+          box-sizing: content-box;
+          min-height: 200px;
+          overflow: auto;
+          &-container {
+            padding: 0;
+            img {
+              height: 200px;
+            }
+          }
         }
         h2 {
-          display: none;
-          margin: 0;
-          color: lighten($red, 20);
-          font-size: 1em;
+          height: 1em;
         }
       }
     }
   }
-  &.header-expanded {
-    ol.center {
-      padding-top: 380px;
-    }
+}
+&.header-expanded {
+  ol.center {
+    padding-top: 380px;
   }
 }
