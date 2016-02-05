@@ -8,10 +8,13 @@ class Db {
     $this->createDb();
     $this->createTable();
     $this->films = $this->database->table('films');
-    $this->insertExisiting();
+    // $this->insertExisiting();
   }
 
   function insert($page) {
+    $minutes = strstr($page->duration()->value(),':',true);
+    $seconds = substr(strstr($page->duration()->value(),':'),1);
+    $seconds = $minutes*60+$seconds;
     $this->films->insert(array(
       'key'            => $page->key()->value(),
       'uri'            => $page->uid(),
@@ -21,7 +24,7 @@ class Db {
       'genre'          => $page->genre()->value(),
       'category'       => $page->category()->value(),
       'tags'           => $page->tags()->value(),
-      'duration'       => $page->duration()->value(),
+      'duration'       => $seconds,
       'year'           => $page->year()->value(),
       'country'        => $page->country()->value(),
       'language'       => $page->language()->value(),
@@ -50,6 +53,9 @@ class Db {
   }
 
   function update($page) {
+    $minutes = strstr($page->duration()->value(),':',true);
+    $seconds = substr(strstr($page->duration()->value(),':'),1);
+    $seconds = $minutes*60+$seconds;
     $this->films->where('key', '=', $page->key()->value())->update(array(
       'uri'            => $page->uid(),
       'title'          => $page->title()->value(),
@@ -58,7 +64,7 @@ class Db {
       'genre'          => $page->genre()->value(),
       'category'       => $page->category()->value(),
       'tags'           => $page->tags()->value(),
-      'duration'       => $page->duration()->value(),
+      'duration'       => $seconds,
       'year'           => $page->year()->value(),
       'country'        => $page->country()->value(),
       'language'       => $page->language()->value(),
@@ -109,136 +115,103 @@ class Db {
   function createTable() {
     $this->database->createTable('films', array(
       'key' => array(
-        'type' => 'text',
-        'key'  => 'unique',
+        'type' => 'text'
       ),
       'uri' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'title' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'title_de' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'title_en' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'genre' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'category' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'tags' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'duration' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'timestamp'
       ),
       'year' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'country' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'language' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'subtitles' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'synposis_de' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'synposis_en' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'direction' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'screenplay' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'cinematography' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'editing' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'production' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'composer' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'music' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'actors' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'section' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'festival_year' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'awards' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'formats' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'location' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'contact' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'address' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'email' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'phone' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       ),
       'website' => array(
-        'type' => 'text',
-        'key'  => 'index',
+        'type' => 'text'
       )
     ));
   }

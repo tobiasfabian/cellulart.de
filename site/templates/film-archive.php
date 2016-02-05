@@ -59,7 +59,26 @@ if (get('category')) {
   $films = $films->where('category','LIKE','%'.get('category').'%');
 }
 if (get('duration')) {
-  // $films = $films->where('duration','LIKE','%'.get('duration').'%');
+  $films = $films->where('duration','>','0');
+  if (get('duration') == '0-5') {
+    $duration = 5*60;
+    $films = $films->where('duration', '<', $duration);
+  } else if (get('duration') == '5-10') {
+    $duration1 = 5*60;
+    $duration2 = 10*60;
+    $films = $films->where('duration', '>=', $duration1)->where('duration', '<', $duration2);
+  } else if (get('duration') == '10-15') {
+    $duration1 = 10*60;
+    $duration2 = 15*60;
+    $films = $films->where('duration', '>=', $duration1)->where('duration', '<', $duration2);
+  } else if (get('duration') == '15-30') {
+    $duration1 = 15*60;
+    $duration2 = 30*60;
+    $films = $films->where('duration', '>=', $duration1)->where('duration', '<', $duration2);
+  } else if (get('duration') == '30-') {
+    $duration = 30*60;
+    $films = $films->where('duration', '>=', $duration);
+  }
 }
 if (get('year')) {
   $films = $films->where('year','LIKE','%'.get('year').'%');
@@ -276,7 +295,16 @@ $results = $films->order('title ASC')
 <main>
   <ol id="films" class="center">
     <?php
-      foreach($results as $film): ?>
+      foreach($results as $film):
+        if ($film->duration()) {
+          $duration = $film->duration();
+          $minutes = floor($duration/60);
+          $seconds = $duration-$minutes*60;
+          $duration = $minutes.':'.$seconds;
+        } else {
+          $duration = '–';
+        }
+    ?>
     <li data-id="<?=$film->key()?>" data-uri="<?=$film->uri()?>">
       <div class="title">
         <h2>Original Title</h2>
@@ -292,7 +320,7 @@ $results = $films->order('title ASC')
       </div>
       <div class="duration">
         <h2>Duration</h2>
-        <em><?=$film->duration()?$film->duration():'–'?></em>
+        <em data-duration="<?=$film->duration()?>"><?=$duration?></em>
       </div>
       <div class="year">
         <h2>Year</h2>

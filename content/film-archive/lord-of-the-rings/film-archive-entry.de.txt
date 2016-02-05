@@ -2,15 +2,15 @@ Film-tab:
 
 ----
 
-Title: Lord of the Rings
+Title: Lord Of The Rings
 
 ----
 
-Key: B8XN2GDjZOxEkzs2
+Key: z5M0DD1xxZEI7khV
 
 ----
 
-Title-de: 
+Title-de: Herr der Ringe
 
 ----
 
@@ -18,11 +18,11 @@ Title-en:
 
 ----
 
-Genre: documentation
+Genre: fantasy
 
 ----
 
-Category: filmessay
+Category: feature-film
 
 ----
 
@@ -30,11 +30,11 @@ Tags:
 
 ----
 
-Duration: 14:42
+Duration: 4:21
 
 ----
 
-Year: 2015
+Year: 2000
 
 ----
 
@@ -42,11 +42,11 @@ Country:
 
 ----
 
-Language: el
+Language: en
 
 ----
 
-Subtitles: el
+Subtitles: de
 
 ----
 
@@ -126,7 +126,7 @@ Contact-tab:
 
 ----
 
-Contact: Maria Mustermann
+Contact: Frodo Beutlin
 
 ----
 
@@ -134,7 +134,7 @@ Address:
 
 ----
 
-Email: maria@musterhaus.de
+Email: frodo@auenland.de
 
 ----
 
