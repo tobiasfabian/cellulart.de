@@ -23,20 +23,27 @@ function outputArray($array1,$array2) {
 }
 
 
+// Database
+$database = new Db();
+$films = $database->films;
+
+
 // array from json
 $genres = arrayFromJsonFile('genres');
 $categories = arrayFromJsonFile('categories');
-$tags = arrayFromJsonFile('tags');
 $countries = arrayFromJsonFile('countries');
 $languages = arrayFromJsonFile('languages');
 $sections = arrayFromJsonFile('sections');
 $awards = arrayFromJsonFile('awards');
 $formats = arrayFromJsonFile('formats');
-
-
-// Database
-$database = new Db();
-$films = $database->films;
+$tags = [];
+foreach($films->select(array('tags')) ->order('tags DESC')->all() as $tag) {
+  $_tags = $tag->tags;
+  foreach(explode(',',$_tags) as $tag) {
+    array_push($tags,$tag);
+  }
+}
+$tags = array_filter(array_unique($tags));
 
 
 // Filter
@@ -52,7 +59,7 @@ if (get('category')) {
   $films = $films->where('category','LIKE','%'.get('category').'%');
 }
 if (get('duration')) {
-  // $films = $films->where('category','LIKE','%'.get('category').'%');
+  // $films = $films->where('duration','LIKE','%'.get('duration').'%');
 }
 if (get('year')) {
   $films = $films->where('year','LIKE','%'.get('year').'%');
@@ -111,11 +118,11 @@ if (get('festival_year')) {
 if (get('section')) {
   $films = $films->where('section','LIKE','%'.get('section').'%');
 }
-if (get('awards')) {
-  $films = $films->where('awards','LIKE','%'.get('awards').'%');
+if (get('award')) {
+  $films = $films->where('awards','LIKE','%'.get('award').'%');
 }
-if (get('formats')) {
-  $films = $films->where('formats','LIKE','%'.get('formats').'%');
+if (get('format')) {
+  $films = $films->where('formats','LIKE','%'.get('format').'%');
 }
 if (get('location')) {
   $films = $films->where('location','LIKE','%'.get('location').'%');
@@ -158,36 +165,36 @@ $results = $films->order('title ASC')
       <div class="row">
         <input name="title" type="text" placeholder="Title" value="<?=get('title')?>">
         <select name="genre">
-          <option value="" disabled selected>Genre</option>
+          <option value="">genre</option>
           <?php foreach($genres as $key => $value): ?>
-          <option value="<?=$key?>"><?=$value?></option>
+          <option value="<?=$key?>"<?=get('genre')===$key?' selected':null?>><?=$value?></option>
           <?php endforeach; ?>
         </select>
         <select name="category">
-          <option value="" disabled selected>Category</option>
+          <option value="">category</option>
           <?php foreach($categories as $key => $value): ?>
-          <option value="<?=$key?>"><?=$value?></option>
+          <option value="<?=$key?>"<?=get('category')===$key?' selected':null?>><?=$value?></option>
           <?php endforeach; ?>
         </select>
         <select name="duration">
-          <option value="" disabled selected>Duration</option>
-          <option value="">&lt; 5 min</option>
-          <option value="">5-10 min</option>
-          <option value="">10-15 min</option>
-          <option value="">15-30 min</option>
-          <option value="">&gt; 30 min</option>
+          <option value="">duration</option>
+          <option value="0-5"<?=get('duration')==='0-5'?' selected':null?>>&lt; 5 min</option>
+          <option value="5-10"<?=get('duration')==='5-10'?' selected':null?>>5-10 min</option>
+          <option value="10-15"<?=get('duration')==='10-15'?' selected':null?>>10-15 min</option>
+          <option value="15-30"<?=get('duration')==='15-30'?' selected':null?>>15-30 min</option>
+          <option value="30-"<?=get('duration')==='30-'?' selected':null?>>&gt; 30 min</option>
         </select>
         <input name="year" type="number" placeholder="Year" min="1900" max="2100" value="<?=get('year')?>">
         <select name="country">
-          <option value="" disabled selected>Country</option>
+          <option value="">country</option>
           <?php foreach($countries as $key => $value): ?>
-          <option value="<?=$key?>"><?=$value?></option>
+          <option value="<?=$key?>"<?=get('country')===$key?' selected':null?>><?=$value?></option>
           <?php endforeach; ?>
         </select>
         <select name="language">
-          <option value="" disabled selected>Language</option>
+          <option value="">language</option>
           <?php foreach($languages as $key => $value): ?>
-          <option value="<?=$key?>"><?=$value?></option>
+            <option value="<?=$key?>"<?=get('language')===$key?' selected':null?>><?=$value?></option>
           <?php endforeach; ?>
         </select>
       </div>
@@ -195,15 +202,15 @@ $results = $films->order('title ASC')
         <input name="title_de" type="text" placeholder="German Title" value="<?=get('title_de')?>">
         <input name="title_en" type="text" placeholder="English Title" value="<?=get('title_en')?>">
         <select name="tag">
-          <option value="" disabled selected>Tag</option>
-          <?php foreach($tags as $key => $value): ?>
-          <option value="<?=$key?>"><?=$value?></option>
+          <option value="">tag</option>
+          <?php foreach($tags as $value): ?>
+          <option value="<?=$value?>"<?=get('tag')===$value?' selected':null?>><?=$value?></option>
           <?php endforeach; ?>
         </select>
         <select name="subtitle">
-          <option value="" disabled selected>Subtitle</option>
+          <option value="">subtitle</option>
           <?php foreach($languages as $key => $value): ?>
-          <option value="<?=$key?>"><?=$value?></option>
+          <option value="<?=$key?>"<?=get('subtitle')===$key?' selected':null?>><?=$value?></option>
           <?php endforeach; ?>
         </select>
       </div>
@@ -224,10 +231,20 @@ $results = $films->order('title ASC')
         <input name="actors" type="text" placeholder="Actors" value="<?=get('actors')?>">
       </div>
       <div class="row">
-        <input name="festival_year" type="number" placeholder="Festival Year" min="1900" max="2100" value="<?=get('festival_year')?>">
+        <input name="festival_year" type="number" placeholder="Festival Year" min="2000" max="<?=date('Y')+5?>" value="<?=get('festival_year')?>">
         <input name="section" type="text" placeholder="Section" value="<?=get('section')?>">
-        <input name="award" type="text" placeholder="Award" value="<?=get('award')?>">
-        <input name="format" type="text" placeholder="Format" value="<?=get('format')?>">
+        <select name="award">
+          <option value="">award</option>
+          <?php foreach($awards as $key => $value): ?>
+          <option value="<?=$key?>"<?=get('award')===$key?' selected':null?>><?=$value?></option>
+          <?php endforeach; ?>
+        </select>
+        <select name="format">
+          <option value="">format</option>
+          <?php foreach($formats as $key => $value): ?>
+          <option value="<?=$key?>"<?=get('format')===$key?' selected':null?>><?=$value?></option>
+          <?php endforeach; ?>
+        </select>
         <input name="location" type="text" placeholder="Location" value="<?=get('location')?>">
       </div>
       <div class="row">
@@ -260,7 +277,7 @@ $results = $films->order('title ASC')
   <ol id="films" class="center">
     <?php
       foreach($results as $film): ?>
-    <li data-id="<?=$film->key()?>">
+    <li data-id="<?=$film->key()?>" data-uri="<?=$film->uri()?>">
       <div class="title">
         <h2>Original Title</h2>
         <em><?=$film->title()?$film->title():'–'?></em>
@@ -393,17 +410,6 @@ $results = $films->order('title ASC')
         <h2>Website</h2>
         <?php $website = str_replace('http://','',$film->website()); ?>
         <em><?=$film->website()?'<a href="'.$film->website().'">'.$website.'</a>':'–'?></em>
-      </div>
-      <div class="clear"></div>
-      <div class="images">
-        <div class="images-container">
-          <?php
-          $filmPage = $page->children()->find($film->uri());
-          foreach($filmPage->images() as $image) {
-            echo '<img src="'.$image->url().'">';
-          }
-          ?>
-        </div>
       </div>
       <div class="clear"></div>
     </li>
