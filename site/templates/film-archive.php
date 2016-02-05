@@ -61,20 +61,20 @@ if (get('category')) {
 if (get('duration')) {
   $films = $films->where('duration','>','0');
   if (get('duration') == '0-5') {
-    $duration = 5*60;
-    $films = $films->where('duration', '<', $duration);
+    $duration = 5*60+59;
+    $films = $films->where('duration', '<=', $duration);
   } else if (get('duration') == '5-10') {
     $duration1 = 5*60;
-    $duration2 = 10*60;
-    $films = $films->where('duration', '>=', $duration1)->where('duration', '<', $duration2);
+    $duration2 = 10*60+59;
+    $films = $films->where('duration', '>=', $duration1)->where('duration', '<=', $duration2);
   } else if (get('duration') == '10-15') {
     $duration1 = 10*60;
-    $duration2 = 15*60;
-    $films = $films->where('duration', '>=', $duration1)->where('duration', '<', $duration2);
+    $duration2 = 15*60+59;
+    $films = $films->where('duration', '>=', $duration1)->where('duration', '<=', $duration2);
   } else if (get('duration') == '15-30') {
     $duration1 = 15*60;
-    $duration2 = 30*60;
-    $films = $films->where('duration', '>=', $duration1)->where('duration', '<', $duration2);
+    $duration2 = 30*60+50;
+    $films = $films->where('duration', '>=', $duration1)->where('duration', '<=', $duration2);
   } else if (get('duration') == '30-') {
     $duration = 30*60;
     $films = $films->where('duration', '>=', $duration);
@@ -300,7 +300,7 @@ $results = $films->order('title ASC')
           $duration = $film->duration();
           $minutes = floor($duration/60);
           $seconds = $duration-$minutes*60;
-          $duration = $minutes.':'.$seconds;
+          $duration = $minutes.':'.sprintf("%02d",$seconds);
         } else {
           $duration = '–';
         }
