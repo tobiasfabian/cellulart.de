@@ -12,13 +12,9 @@
       <time hidden itemprop="endDate" datetime="<?=date('c',strtotime($item->enddate()))?>"></time>
       <?php endif ?>
       <h1 itemprop="name"><?=$item->title()->html()?></h1>
-      <?php if (!$item->time()->isEmpty()) : ?>
-      <span class="time"><?=$item->time()->html()?></span>
-      <?php endif ?>
+      <span class="time"><?=date('H:i',$startdate)?></span>
       <?php if (!$item->venue()->isEmpty()) : ?>
       –
-      <?php endif ?>
-      <?php if (!$item->venue()->isEmpty()) : ?>
       <span itemprop="location" itemscope itemtype="http://schema.org/Place"">
         <?= !$item->venue_link()->isEmpty() ? '<a href="'.$item->venue_link().'" target="_blank">' : null ?>
           <span itemprop="name"><?=$item->venue()?></span>
