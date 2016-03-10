@@ -3,6 +3,9 @@ l::set('awards', 'Awards');
 l::set('minutes', 'minutes');
 l::set('direction', 'direction');
 
+l::set('sponsors', 'Sponsors');
+l::set('patronizer', 'Patronizer');
+
 l::set('Feature Film', 'Feature Film');
 l::set('Animation', 'Animation');
 l::set('Documentation', 'Documentation');

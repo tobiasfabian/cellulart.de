@@ -10,8 +10,28 @@ fields:
   meta_description:
     label: Meta Description
     type:  text
-  logos:
-    label: Logos
+  patronizer:
+    label: Patronizer (Förderer)
+    type:  structure
+    translate: false
+    modalsize: large
+    style: table
+    fields:
+      logo:
+        label: Logo
+        type:  selector
+        mode:  single
+        required: true
+        help:  The height of the image should be 144 pixels
+        types:
+          - image
+      url:
+        label: URL
+        type:  url
+        validate:
+        - url
+  sponsors:
+    label: Sponsors
     type:  structure
     translate: false
     modalsize: large

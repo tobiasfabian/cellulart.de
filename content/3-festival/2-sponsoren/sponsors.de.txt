@@ -6,7 +6,18 @@ Meta-description:
 
 ----
 
-Logos: 
+Patronizer: 
+
+- 
+  logo: zeiss.jpg
+  url: http://www.zeiss.de
+- 
+  logo: sparkassenstiftung.jpg
+  url: 'https://www.s-jena.de/module/sparkassenstiftung/index.php?n=%2Fmodule%2Fmstiftung%2F'
+
+----
+
+Sponsors: 
 
 - 
   logo: seat-fischer-logo.jpg
@@ -21,7 +32,7 @@ Logos:
   logo: fahner-frucht.jpg
   url: http://www.fahner-frucht.de
 - 
-  logo: jenawohnen_rgb.jpg
+  logo: jenawohnen.jpg
   url: http://www.jenawohnen.de
 - 
   logo: meierteicherlogo.jpg
@@ -36,13 +47,7 @@ Logos:
   logo: omega.jpg
   url: http://www.omega-weimar.de
 - 
-  logo: zeiss.jpg
-  url: http://www.zeiss.de
-- 
-  logo: sparkassenstiftung.jpg
-  url: 'https://www.s-jena.de/module/sparkassenstiftung/index.php?n=%2Fmodule%2Fmstiftung%2F'
-- 
-  logo: bioscience.jpg
+  logo: jena-bioscience.jpg
   url: http://www.jenabioscience.com
 - 
   logo: saxonia.jpg
@@ -50,3 +55,6 @@ Logos:
 - 
   logo: jules-mumm.jpg
   url: http://www.julesmumm.de
+- 
+  logo: jenoptik.jpg
+  url: http://www.jenoptik.com
