@@ -58,3 +58,21 @@ Sponsors:
 - 
   logo: jenoptik.jpg
   url: http://www.jenoptik.com
+- 
+  logo: burger-store.jpg
+  url: ""
+- 
+  logo: tecart.jpg
+  url: http://www.tecart.de/
+- 
+  logo: biomarkt.jpg
+  url: http://www.biomarkt.de/
+- 
+  logo: tecart.jpg
+  url: http://www.tecart.de/
+- 
+  logo: merkurbank.jpg
+  url: https://www.merkur-bank.de/
+- 
+  logo: hertz.jpg
+  url: http://www.hertz.de

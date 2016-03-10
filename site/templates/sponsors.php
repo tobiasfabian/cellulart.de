@@ -11,7 +11,7 @@
       <?php foreach($page->patronizer()->toStructure() as $logo): ?>
       <li>
         <?php if(!$logo->url()->isEmpty()): ?>
-        <a href="<?=$logo->url()?>">
+        <a href="<?=$logo->url()?>" target="_blank">
         <?php else: ?>
         <div>
         <?php endif ?>
@@ -29,7 +29,7 @@
       <?php foreach($page->sponsors()->toStructure() as $logo): ?>
       <li>
         <?php if(!$logo->url()->isEmpty()): ?>
-        <a href="<?=$logo->url()?>">
+        <a href="<?=$logo->url()?>" target="_blank">
         <?php else: ?>
         <div>
         <?php endif ?>
