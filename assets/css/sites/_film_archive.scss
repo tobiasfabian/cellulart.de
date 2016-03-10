@@ -1,0 +1,348 @@
+$gray: lighten($black,70);
+
+.center {
+  padding: 0;
+  min-height: 0;
+}
+
+#header {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: lighten($black,92);
+  border-bottom: 1px solid $red;
+  .center {
+    position: relative;
+  }
+  h1 {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+    color: $red;
+  }
+  .back {
+    position: absolute;
+    top: 6px;
+    left: 20px;
+    display: block;
+    padding-left: 17px;
+    color: $black;
+    line-height: 0.8;
+    background: url(../images/button-previous-arrow-black.svg) left center no-repeat;
+    transition: $default-duration;
+    &:focus, &:hover {
+      border-bottom-color: transparent;
+      padding-left: 19px;
+      margin-left: -2px;
+    }
+  }
+  form {
+    position: relative;
+    .row {
+      display: flex;
+      padding-right: 130px;
+      &:not(:first-of-type) {
+        height: 0;
+        overflow: hidden;
+        transition: $default-duration;
+      }
+    }
+    input, select {
+      margin: 0 10px 10px 0;
+      height: 30px;
+      padding: 0 10px;
+      flex: 0 1 calc(25% - 10px);
+      font-family: $font;
+      font-size: 1em;
+      line-height: 2;
+      border-radius: 0;
+      appearance: textfield;
+      border: 1px solid $gray;
+      outline: none;
+      &:focus {
+        border-color: lighten($black,50);
+        box-shadow: 0 0 4px lighten($black,80);
+      }
+    }
+    [name="title"] {
+      flex: 0 0 calc(25% - 10px);
+    }
+    [name="year"] {
+      flex-basis: 12%;
+    }
+    select {
+      background: url(../images/button-dropdown-gray.svg) right 0.7em no-repeat white;
+      background-origin: content-box;
+      color: $gray;
+      &.selected {
+        color: $black;
+      }
+    }
+    input[type=submit] {
+      position: absolute;
+      margin: 0;
+      right: 0;
+      top: 0;
+      width: 90px;
+      padding: 0 14px 0 13px;
+      cursor: pointer;
+      text-align: left;
+      color: white;
+      border: none;
+      background: url(../images/button-submit.svg) right center no-repeat $red;
+      background-origin: content-box;
+      transition: $default-duration;
+      &:focus, &:hover {
+        padding-right: 12px;
+      }
+    }
+    .toggle-header {
+      position: absolute;
+      top: 0;
+      right: 100px;
+      width: 30px;
+      height: 30px;
+      padding: 2px 0 0;
+      cursor: pointer;
+      text-align: center;
+      background: transparent;
+      border: none;
+      appearance: none;
+      img {
+        margin: 0 auto;
+        transition: $default-duration;
+      }
+      &.collapse img {
+        transform: rotate(-180deg);
+      }
+    }
+    .clear_filter {
+      position: absolute;
+      right: 9px;
+      top: 50px;
+      color: $gray;
+      &:focus, &:hover {
+        border-bottom-color: $gray;
+      }
+    }
+    input[type=number]::-webkit-outer-spin-button,
+    input[type=number]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+    input[type=number] {
+      -moz-appearance:textfield;
+    }
+    input::placeholder {
+      color: $gray;
+      text-transform: lowercase;
+    }
+  }
+  &.expanded {
+    form {
+      padding-bottom: 5px;
+      .row {
+        height: 40px;
+      }
+    }
+  }
+  .table-head {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -42px;
+    min-height: 41px;
+    background: white;
+    color: $gray;
+    .center {
+      padding: 0 10px;
+      border-bottom: 1px solid $gray;
+    }
+    span {
+      display: block;
+      float: left;
+      text-transform: lowercase;
+      padding: 10px 10px 8px;
+      &.title {
+        width: 20%;
+      }
+      &.genre {
+        width: 15%;
+      }
+      &.category {
+        width: 15%;
+      }
+      &.duration {
+        width: 10%;
+      }
+      &.year {
+        width: 10%;
+      }
+      &.country {
+        width: 12.5%;
+      }
+      &.language {
+        width: 12.5%;
+      }
+    }
+  }
+}
+
+main.center {
+  margin-top: 160px;
+  margin-bottom: 70px;
+  transition: $default-duration;
+  &.header-expanded {
+    margin-top: 405px;
+  }
+  .info {
+    margin: 0 20px;
+    max-width: 600px;
+    padding-top: 10px;
+    p {
+      margin-bottom: 5px;
+      color: $gray;
+      a {
+        color: $gray;
+        &:focus, &:hover {
+          border-color: $gray;
+        }
+      }
+    }
+  }
+}
+
+#films {
+  transition: $default-duration;
+  li {
+    position: relative;
+    padding: 5px 10px;
+    line-height: 1.5;
+    border-bottom: 1px solid $gray;
+    div {
+      float: left;
+      display: block;
+      width: 20%;
+      padding: 5px 10px 3px;
+      cursor: pointer;
+      transition: $default-duration;
+      &.genre {
+        width: 15%;
+      }
+      &.category {
+        width: 15%;
+      }
+      &.duration {
+        width: 10%;
+      }
+      &.year {
+        width: 10%;
+      }
+      &.country {
+        width: 12.5%;
+      }
+      &.language {
+        width: 12.5%;
+      }
+      &.tags {
+        width: 30%;
+      }
+      &.subtitles {
+        width: 15%;
+      }
+      &.actors {
+        width: 60%;
+      }
+      &.synopsis {
+        width: 40%;
+      }
+      &.images {
+        margin: 0 -10px -10px;
+        width: calc(100% - 20px);
+        padding: 0 20px;
+        &-container {
+          width: auto;
+          min-height: 0;
+          display: flex;
+          img {
+            margin-right: 20px;
+            flex: 0 0 auto;
+          }
+        }
+      }
+      &:nth-of-type(n+8) {
+        height: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        overflow: hidden;
+      }
+      h2 {
+        height: 0;
+        margin: 0;
+        overflow: hidden;
+        color: lighten($red, 15);
+        font-size: 1em;
+        transition: $default-duration;
+      }
+      em {
+        display: inline-block;
+      }
+    }
+    a.edit {
+      position: absolute;
+      top: 0;
+      right: 0;
+      float: right;
+      padding: 15px 20px 13px;
+      transition: $default-duration;
+      &:focus, &:hover {
+        border-bottom: 0;
+      }
+    }
+    a {
+      color: $black;
+      &:focus, &:hover {
+        border-bottom-color: $black;
+      }
+    }
+    &:hover {
+      background: lighten($black,92);
+    }
+    &.expanded {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background: lighten($black,92);
+      div {
+        padding-top: 10px;
+        padding-bottom: 8px;
+        min-height: 58px;
+        &.clear {
+          min-height: initial;
+          padding: 0;
+        }
+        &.images {
+          clear: both;
+          float: none;
+          box-sizing: content-box;
+          min-height: 250px;
+          overflow: auto;
+          padding-bottom: 18px;
+          &-container {
+            padding: 0;
+            img {
+              height: 250px;
+            }
+          }
+        }
+        h2 {
+          height: 1em;
+        }
+      }
+      a.edit {
+        top: 10px;
+      }
+    }
+  }
+}

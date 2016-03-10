@@ -5,6 +5,7 @@ pages:
     - filmblock
     - competition
     - jury
+    - sponsors
 files:
   sortable: true
   fields:

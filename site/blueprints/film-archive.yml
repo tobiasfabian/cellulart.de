@@ -1,0 +1,114 @@
+title: Film Archive
+pages:
+  template: film-archive-entry
+  num: zero
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  genres:
+    label: Genres
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    fields:
+      german:
+        label: German
+        type:  text
+      english:
+        label: English
+        type:  text
+  categories:
+    label: Categories
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    fields:
+      german:
+        label: German
+        type:  text
+      english:
+        label: English
+        type:  text
+  awards:
+    label: Awards
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    fields:
+      german:
+        label: German
+        type:  text
+      english:
+        label: English
+        type:  text
+  sections:
+    label: Sections
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    fields:
+      german:
+        label: German
+        type:  text
+      english:
+        label: English
+        type:  text
+  langs:
+    label: Languages
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    help: >
+      <a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes" target="_blank">List of ISO 639-1 codes</a>
+    fields:
+      iso_639_1:
+        label: ISO 639-1
+        type: text
+      german:
+        label: German
+        type:  text
+      english:
+        label: English
+        type:  text
+  countries:
+    label: Countries
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    help: >
+      <a href="https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste" target="_blank">ISO-3166-1-Kodierliste</a>/ <a href="https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes" target="_blank">ISO 3166-1 Current codes</a>
+    fields:
+      iso_3166_1:
+        label: ISO 3166-1
+        type: text
+      german:
+        label: German
+        type:  text
+      english:
+        label: English
+        type:  text
+  formats:
+    label: Formats
+    type:  structure
+    style: table
+    translate: false
+    modalsize: small
+    width: 1/2
+    fields:
+      format:
+        label: Format
+        type:  text

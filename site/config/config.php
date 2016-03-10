@@ -12,15 +12,22 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
-
 c::set('cache',true);
 c::set('cache.ignore', array(
   'news',
-  'news/*'
+  'news/*',
+  'film-archive',
+  'film-archive/*'
 ));
 
 
 c::set('routes', array(
+  array(
+    'pattern' => 'site/languages',
+    'action'  => function() {
+      go('news');
+    }
+  ),
   array(
     'pattern' => 'news/festival',
     'action'  => function() {
@@ -85,18 +92,3 @@ c::set('languages', array(
 
 
 c::set('timezone','CET');
-
-
-kirby()->hook('panel.page.update', function($page) {
-  $site = site();
-  if ($page->parent()->template() === 'filmblock' AND false) {
-    if ($site->language()->code() === 'de') {
-      $pageOtherLanguage = $page->content('en');
-    } else {
-      $pageOtherLanguage = $page->content('de');
-    }
-    $pageOtherLanguage->update(array(
-      'direction' => $page->direction()
-    ));
-  }
-});

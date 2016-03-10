@@ -1,0 +1,41 @@
+Title: Open Air
+
+----
+
+Fb-link: 
+
+----
+
+Startdate: 2016-04-19 20:00:00
+
+----
+
+Enddate: 2016-04-19 23:00:00
+
+----
+
+Text: "The Panjabys" + Kurzfilmprogramm
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Faulloch (Johannistor) Jena
+
+----
+
+Venue-link: 
+
+----
+
+Street: 
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

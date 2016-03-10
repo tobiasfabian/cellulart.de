@@ -2,7 +2,9 @@ title: Events
 pages:
   template:
     - events_entry
-  num:  date
+  num:
+    mode: date
+    field: enddate
 preview: parent
 files: false
 fields:

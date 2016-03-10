@@ -20,6 +20,7 @@ fields:
   enddate:
     label: End Date
     type:  datetime
+    required: true
     translate: false
     time:
       interval: 15
