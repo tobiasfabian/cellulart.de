@@ -13,17 +13,20 @@ fields:
   logos:
     label: Logos
     type:  structure
-    entry: >
-      {{logo}}<br>
-      {{url}}
+    translate: false
+    modalsize: large
+    style: table
     fields:
       logo:
         label: Logo
         type:  selector
         mode:  single
         required: true
+        help:  The height of the image should be 144 pixels
         types:
           - image
       url:
         label: URL
         type:  url
+        validate:
+        - url
