@@ -19,7 +19,7 @@
       –
       <?php endif ?>
       <?php if (!$item->venue()->isEmpty()) : ?>
-      <span itemprop="location" itemscope itemtype="http://schema.org/Place"">
+      <span itemprop="location" itemscope itemtype="http://schema.org/Place">
         <?= !$item->venue_link()->isEmpty() ? '<a href="'.$item->venue_link().'" target="_blank">' : null ?>
           <span itemprop="name"><?=$item->venue()?></span>
         <?= !$item->venue_link()->isEmpty() ? '</a>' : null ?>
