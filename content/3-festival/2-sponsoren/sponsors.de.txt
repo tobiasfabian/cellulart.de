@@ -35,10 +35,13 @@ Sponsors:
   logo: jenawohnen.jpg
   url: http://www.jenawohnen.de
 - 
+  logo: jenoptik.jpg
+  url: http://www.jenoptik.com
+- 
   logo: meierteicherlogo.jpg
   url: http://www.show-veranstaltungsservice.de
 - 
-  logo: rewe_logo_weiss.jpg
+  logo: rewe-weiss.jpg
   url: http://www.rewe.de
 - 
   logo: stadtwerke.jpg
@@ -55,6 +58,3 @@ Sponsors:
 - 
   logo: jules-mumm.jpg
   url: http://www.julesmumm.de
-- 
-  logo: jenoptik.jpg
-  url: http://www.jenoptik.com
