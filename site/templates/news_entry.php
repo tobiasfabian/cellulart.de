@@ -18,6 +18,7 @@
         <?= $page->text()->kirbytext() ?>
         <?= $page->text_continue()->kirbytext() ?>
       </div>
+      <?php snippet('share', array('item' => $page)) ?>
     </article>
     <nav class="pagination">
       <?php if($page->hasPrevVisible()): ?>

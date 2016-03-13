@@ -1,0 +1,29 @@
+.share {
+  display: flex;
+  margin-top: 2em;
+  height: $default-padding * 0.9;
+  color: $red;
+  strong {
+    padding: 0 0.5em;
+    line-height: 1.4;
+    font-size: 0.75em;
+    border: 1px solid $red;
+    border-right: none;
+  }
+  a {
+    display: block;
+    width: $default-padding * 0.9;
+    height: $default-padding * 0.9;
+    border: 1px solid $red;
+    background-color: $red;
+    svg {
+      fill: white;
+    }
+    &:focus, &:hover {
+      background-color: white;
+      svg {
+        fill: $red;
+      }
+    }
+  }
+}

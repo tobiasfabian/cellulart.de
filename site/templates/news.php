@@ -22,6 +22,7 @@
         <?= $item->text()->kirbytext() ?>
       </div>
       <?= !$item->text_continue()->isEmpty() ? '<a href="'.$item->url().'">'.l::get('read more').'</a>' : null ?>
+      <?php snippet('share', array('item' => $item)) ?>
     </article>
     <?php endforeach ?>
     <?php if($items->pagination()->hasPages()): ?>
