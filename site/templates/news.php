@@ -27,12 +27,12 @@
     <?php if($items->pagination()->hasPages()): ?>
     <nav class="pagination">
       <?php if($items->pagination()->hasNextPage()): ?>
-      <a class="previous" href="<?= $items->pagination()->nextPageURL() ?>">
+      <a class="next" href="<?= $items->pagination()->nextPageURL() ?>">
         <span><?=l::get('next page')?></span>
       </a>
       <?php endif ?>
       <?php if($items->pagination()->hasPrevPage()): ?>
-      <a class="next" href="<?= $items->pagination()->prevPageURL() ?>">
+      <a class="previous" href="<?= $items->pagination()->prevPageURL() ?>">
         <span><?=l::get('previous page')?></span>
       </a>
       <?php endif ?>

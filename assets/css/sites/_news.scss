@@ -1,6 +1,10 @@
 .news {
   .center {
     padding-top: 6.125em;
+    padding-bottom: 13em;
+    @media (max-width: $max-width/12*7) {
+      padding-bottom: 6em;
+    }
     main {
       margin-left: $raster-width;
       width: $raster-width * 5;
@@ -44,8 +48,11 @@
             margin-bottom: 0.5em;
           }
         }
-        p {
+        h2, p, ul, ol {
           margin-bottom: 1em;
+        }
+        ul, ol {
+          list-style: initial;
         }
         figure {
           margin-bottom: 1em;
@@ -117,6 +124,9 @@
       }
     }
     aside {
+      position: sticky;
+      top: 6.125em;
+      bottom: 13em;
       float: right;
       width: $raster-width * 4;
       @media (max-width: $max-width) {
@@ -125,6 +135,7 @@
         width: $raster-width * 4;
       }
       @media (max-width: $max-width/12*7) {
+        position: static;
         float: none;
         margin: 0 auto 6em;
         width: $raster-width*10;
@@ -182,6 +193,14 @@
           }
         }
       }
+    }
+  }
+  .mainfooter {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    @media (max-width: $max-width/12*7) {
+      position: relative;
     }
   }
 }

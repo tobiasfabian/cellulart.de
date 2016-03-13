@@ -16,6 +16,7 @@ fields:
     autoselect: first
     translate: false
     width: 1/2
+    help:  <b>Size</b> 476 x 268 (16/9), if it’s bigger, it will be cropped.
     types:
       - image
   video:
@@ -25,6 +26,7 @@ fields:
     autoselect: first
     translate: false
     width: 1/2
+    help:  <b>Size</b> 236 x 134 (16/9)<br><b>Format</b> mp4, H.264 (~3 MBit/s, no audio).
     types:
       - video
   type:

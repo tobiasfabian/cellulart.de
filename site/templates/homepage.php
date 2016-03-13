@@ -13,7 +13,7 @@
       </h1>
       <time class="date">
         <?=$site->date('j','startdate')?>–<?=$site->date('j','enddate')?><br>
-        <?=strftime('%B',$site->date(null,'enddate'))?>
+        <?=strftime('%B ’%y',$site->date(null,'enddate'))?>
       </time>
       <?php if (!$site->venue()->isEmpty()) :?>
       <div class="venue">

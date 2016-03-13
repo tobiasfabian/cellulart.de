@@ -8,9 +8,14 @@ pages:
 files:
   sortable: true
   fields:
+    alt:
+      label: Alt-Attribut
+      type:  text
+      help:  This text should describe the image. It is important for blind people and search engines.
     caption:
       label: Caption
       type:  text
+      help:  This text will appear below the image. It could be used to name the photographer of a picture.
 fields:
   title:
     label: Title

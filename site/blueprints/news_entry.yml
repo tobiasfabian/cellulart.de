@@ -2,9 +2,14 @@ title: news entry
 pages: false
 files:
   fields:
+    alt:
+      label: Alt-Attribut
+      type:  text
+      help:  This text should describe the image. It is important for blind people and search engines.
     caption:
       label: Caption
       type:  text
+      help:  This text will appear below the image. It could be used to name the photographer of a picture.
 fields:
   title:
     label: Title
@@ -17,7 +22,7 @@ fields:
     required: true
     default: now
     time:
-    	interval: 1
+      interval: 1
     width: 1/2
     translate: false
   text:
@@ -25,11 +30,13 @@ fields:
     type:  textarea
     required: true
     buttons:
+      - bold
       - link
       - email
   text_continue:
     label: Text (continue)
     type:  textarea
     buttons:
+      - bold
       - link
       - email

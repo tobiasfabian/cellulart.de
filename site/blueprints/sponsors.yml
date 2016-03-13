@@ -21,6 +21,7 @@ fields:
         label: Logo
         type:  selector
         mode:  single
+        size:  7
         required: true
         help:  The height of the image should be 144 pixels
         types:

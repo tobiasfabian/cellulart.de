@@ -1,24 +1,31 @@
 .homepage {
   background-color: $black;
   .mainnav {
-    .nav-1 a, .nav-2 a {
-      color: white;
-      border-color: white;
-      background-color: transparent;
+    background-color: transparent;
+    .nav-1, .nav-2 {
+      a {
+        color: white;
+        background-color: transparent;
+        border-color: white;
+      }
       svg {
         fill: white;
       }
-      &:focus, &:hover {
+      li:focus, li:hover {
         z-index: 1;
-        color: $red;
-        background-color: white;
+        > a {
+          color: $red;
+          background-color: white;
+        }
         svg {
           fill: $red;
         }
       }
-      &.active {
-        background-color: transparent;
-        &:focus, &:hover {
+      li.active {
+        > a {
+          background-color: transparent;
+        }
+        a:focus, &:hover > a {
           background-color: white;
         }
       }
@@ -31,28 +38,31 @@
         }
       }
       &.open {
+        background-color: white;
         background-position: left top;
       }
-      .nav-1 a, .nav-2 a {
-        border-color: $red;
-        color: $red;
-        &:focus, &:hover, &.active {
+      .nav-1, .nav-2 {
+        a {
+          border-color: $red;
+          color: $red;
+        }
+        li > a:focus, li:hover a, li.active a {
           color: white;
           background-color: $red;
           svg {
             fill: white;
           }
         }
-        &.active {
+        li.active {
           background-color: white;
           svg {
             fill: $red;
           }
-          &:focus, &:hover {
-            background-color: $red;
-            svg {
-              fill: white;
-            }
+        }
+        li > a:focus, li:hover > a {
+          background-color: $red;
+          svg {
+            fill: white;
           }
         }
       }
@@ -191,17 +201,14 @@
         }
       }
       .venue {
-        left: $default-padding * 12;
+        left: $default-padding * 14;
         bottom: 0.61em;
-        @media (max-width: $max-width) {
-          left: $default-padding * 12;
-        }
         @media (max-width: $max-width/12*10)  {
-          left: $default-padding * 10;
+          left: $default-padding * 12;
         }
         @media (max-width: $max-width/12*7)  {
           bottom: 0em;
-          left: $default-padding*7;
+          left: $default-padding*8;
         }
         @media (max-width: $max-width/12*5)  {
           left: $default-padding/2;

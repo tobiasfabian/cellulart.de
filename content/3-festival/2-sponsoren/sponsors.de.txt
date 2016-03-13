@@ -9,11 +9,25 @@ Meta-description:
 Patronizer: 
 
 - 
-  logo: zeiss.jpg
-  url: http://www.zeiss.de
+  logo: studentenwerk-thueringen.jpg
+  url: http://www.stw-thueringen.de
+- 
+  logo: jena-kultur.jpg
+  url: https://www.jenakultur.de
+- 
+  logo: >
+    kulturstiftung-des-freistaats-thueringen.jpg
+  url: http://www.kulturstiftung-thueringen.de
+- 
+  logo: staatskanzlei-freistaat-thueringen.jpg
+  url: >
+    https://www.thueringen.de/th1/tsk/index.aspx
 - 
   logo: sparkassenstiftung.jpg
   url: 'https://www.s-jena.de/module/sparkassenstiftung/index.php?n=%2Fmodule%2Fmstiftung%2F'
+- 
+  logo: zeiss.jpg
+  url: http://www.zeiss.de
 
 ----
 
