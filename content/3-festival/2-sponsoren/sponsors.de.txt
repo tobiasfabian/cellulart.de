@@ -1,4 +1,4 @@
-Title: Sponsoren
+Title: Förderer/Sponsoren
 
 ----
 
@@ -58,3 +58,9 @@ Sponsors:
 - 
   logo: jules-mumm.jpg
   url: http://www.julesmumm.de
+- 
+  logo: kirscht.jpg
+  url: http://www.fahrrad-kirscht.de
+- 
+  logo: apotheker-nollendorfer.jpg
+  url: http://www.apo-noho.de
