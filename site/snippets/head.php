@@ -10,7 +10,11 @@
   <?php endif; ?>
   <meta property="og:title" content="<?=$page->title()?>">
   <meta property="og:site_name" content="<?=$site->title()?>">
+  <?php if ($page->template() == 'news_entry' AND $page->hasImages()): ?>
+  <meta property="og:image" content="<?=$page->image()->url()?>">
+  <?php else: ?>
   <meta property="og:image" content="<?=url('assets/images/fb-share-image.jpg')?>">
+  <?php endif; ?>
   <meta property="og:url" content="<?=$page->url()?>">
 <?php if($site->language()->code() == 'en') : ?>
   <meta property="og:locale" content="<?=$site->language('en')->locale()?>">
