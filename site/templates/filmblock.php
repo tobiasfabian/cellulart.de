@@ -5,11 +5,6 @@
 <?php snippet('mainnav') ?>
 
 <div class="center">
-  <?php
-  $page->content('en')->update(array(
-    'direction'         => 'n1ce'
-  ));
-  ?>
   <?php snippet('subnav') ?>
   <main itemscope itemtype="http://schema.org/MovieSeries">
     <header>
