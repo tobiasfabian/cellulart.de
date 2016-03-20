@@ -7,7 +7,7 @@ files:
     - video
 fields:
   subtitle:
-    label: Actor/DoP (who whon the award)
+    label: Actor/DoP (who won the award)
     type:  text
   title:
     label: Title
