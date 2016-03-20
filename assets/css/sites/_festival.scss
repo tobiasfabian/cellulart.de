@@ -5,7 +5,7 @@
       z-index: 1;
       position: fixed;
       left: 50%;
-      top: 6.5em;
+      top: 8em;
       margin-left: - $max-width / 2 + $default-padding * 2;
       transform: rotate(-45deg);
       transform-origin: 0 0;
@@ -16,6 +16,9 @@
         left: $default-padding;
         margin-left: 0;
       }
+      .date {
+        margin-bottom: 0.5em;
+      }
       time {
         display: block;
         margin-bottom: 0.25em;
@@ -25,8 +28,14 @@
         left: auto;
         margin-left: 0;
         right: 1.7em;
-        top: 2.8em;
+        top: 3.4em;
+        .venue {
+          margin-left: 2.3em;
+        }
       }
+    }
+    @media (max-width: $max-width/12*7) {
+      padding-top: 9em;
     }
   }
 }

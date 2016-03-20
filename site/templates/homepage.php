@@ -12,8 +12,8 @@
         <img src="<?=url('assets/images/lart.svg')?>" class="lart" alt="">
       </h1>
       <time class="date">
-        <?=$site->date('j','startdate')?>–<?=$site->date('j','enddate')?><br>
-        <?=strftime('%B ’%y',$site->date(null,'enddate'))?>
+        <?=$site->date('j.','startdate')?>–<?=$site->date('j.','enddate')?><br>
+        <?=strftime('%B %Y',$site->date(null,'enddate'))?>
       </time>
       <?php if (!$site->venue()->isEmpty()) :?>
       <div class="venue">

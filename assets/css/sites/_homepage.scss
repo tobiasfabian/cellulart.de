@@ -195,22 +195,22 @@
         @media (max-width: $max-width/12*7)  {
           bottom: 0;
         }
-        @media (max-width: $max-width/12*5)  {
+        @media (max-width: $max-width/12*6)  {
           left: $default-padding/2;
           bottom: 2em;
         }
       }
       .venue {
-        left: $default-padding * 14;
+        left: $default-padding * 15;
         bottom: 0.61em;
         @media (max-width: $max-width/12*10)  {
           left: $default-padding * 12;
         }
         @media (max-width: $max-width/12*7)  {
           bottom: 0em;
-          left: $default-padding*8;
+          left: $default-padding*9;
         }
-        @media (max-width: $max-width/12*5)  {
+        @media (max-width: $max-width/12*6)  {
           left: $default-padding/2;
         }
       }

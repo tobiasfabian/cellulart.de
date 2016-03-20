@@ -10,8 +10,8 @@
   <meta itemprop="endDate" content="<?=$site->date('c','enddate')?>">
   <header>
     <div class="date">
-      <?=$site->date('j','startdate')?>–<?=$site->date('j','enddate')?><br>
-      <?=strftime('%B',$site->date(null,'enddate'))?>
+      <?=$site->date('j.','startdate')?>–<?=$site->date('j.','enddate')?><br>
+      <?=strftime('%B %Y',$site->date(null,'enddate'))?>
     </div>
     <div class="venue" itemprop="location">
       <?=str_replace(' ','<br>',$site->venue())?>
