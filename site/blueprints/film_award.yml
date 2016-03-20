@@ -86,9 +86,9 @@ fields:
     type:  text
     placeholder: YYYY
     translate: false
+    width: 1/2
     validate:
       - num
-    width: 1/2
   duration:
     label: Duration
     type:  text

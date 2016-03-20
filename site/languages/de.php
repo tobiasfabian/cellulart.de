@@ -11,6 +11,7 @@ l::set('Animation', 'Animation');
 l::set('Documentation', 'Dokumentation');
 l::set('Music Video', 'Musikvideo');
 l::set('Mockumentary', 'Mockumentary');
+l::set('Experimental', 'Experimental');
 
 l::set('read more', 'weiterlesen');
 

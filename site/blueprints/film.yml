@@ -83,7 +83,6 @@ fields:
   year:
     label: Year
     type:  text
-    default: 2015
     placeholder: YYYY
     translate: false
     width: 1/2
