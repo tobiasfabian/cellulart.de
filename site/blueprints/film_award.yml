@@ -83,10 +83,11 @@ fields:
     width: 1/2
   year:
     label: Year
-    type:  number
+    type:  text
     placeholder: YYYY
-    default: false
     translate: false
+    validate:
+      - num
     width: 1/2
   duration:
     label: Duration

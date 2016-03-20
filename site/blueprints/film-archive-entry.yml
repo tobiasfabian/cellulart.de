@@ -70,14 +70,12 @@ fields:
   year:
     label: Year
     required: true
-    type:  number
+    type:  text
     translate: false
     width: 1/4
     icon:  calendar-o
     placeholder: 2016
     validate:
-      min: 1900
-      max: 2100
       - num
   country:
     label: Country
