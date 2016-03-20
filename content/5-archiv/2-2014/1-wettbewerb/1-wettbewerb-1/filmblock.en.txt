@@ -1,4 +1,4 @@
-Title: Wettbewerb 1
+Title: Competition 1
 
 ----
 
@@ -30,3 +30,7 @@ Blockimage:
 ----
 
 Blockvideo: 
+
+----
+
+Venue: 

@@ -1,0 +1,26 @@
+Title: Youth special
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Youth special
+  text: |
+    Every fan of moving pictures is invited to watch an exciting programme of short films within the short film special at Polaris. And the best thing about it: Meet real filmmakers and ask the old hands as many questions as you like.
+    
+    On Friday the 24th of April from 6-8 pm there will be a shimmering canvas and little delicious snacks and mocktails. Young people over 12 years can marvel at ants competing against a skateboarder, at the skills of a young woman on a break-dance mat and get scared of the mysterious forest goblin.
+    
+    On Saturday the 25th of April from 11am-1pm there will be a programme for kids over 10 years with stories about a hedgehog who transforms into different animals, manipulable clouds and parents that become monsters. During the break you can get creatively involved. And we will also present the most recent short film that has been made during Easter holidays within the film academy “Magie&Zaubertricks”. Maybe you’ll even want to make your own film after that.
+    
+    Friday, 24th April, 6 – 8 pm
+    Saturday, 25th April, 11am – 1pm
+    Polaris
+    Camburger Straße 65, Jena-Nord
+    admissions free
+    More information: (link: http://www.polaris-jena.de text: www.polaris-jena.de)
+  _fieldset: text

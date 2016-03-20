@@ -1,0 +1,21 @@
+Title: venue
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    venue
+    Volksbad Jena
+  text: |
+    The Volksbad has a moving history. It was built between 1907 and 1909 and quickly became a meeting place for the population of Jena and a popular place for cultural exchange, because of its swimming pool, saunas and medical baths. Following the closure of the listed building in 2001, it had an uncertain future. But then it was rebuilt, reopened in 2007 and became a popular venue for events for Jena’s cultural scene. After 2012 the short film festival cellu l’art takes place for the second time in this traditional location.
+    
+    Volksbad Jena
+    Knebelstraße 10, Jena
+    (link: http://www.volksbad-jena.de text: www.volksbad-jena.de popup: true)
+  _fieldset: text

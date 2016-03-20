@@ -1,0 +1,66 @@
+Title: Greetings
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Greetings of Lord Mayor of Jena
+    Dr. Albrecht Schröter
+  text: |
+    Dear short film friends,
+    
+    Welcome to the 16th cellu l’art short film festival that has its country focus on Ireland this year. This film spectacle has established itself as an institution in our cultural landscape and can already look back on an eventful history in which both numbers of visitors and submitted films have increased steadily. Once again our guests can expect a diverse selection of interesting short films from different genres.
+    
+    I am particularly pleased that within this festival the tolerance price will be awarded again. The award, which honours the most impressive film in this category, recognizes the commitment to an open and tolerant society in a very special way.
+    
+    I would like to say thank you to all organizers and volunteers of the festival and wish the filmmakers lots of success and the audience numerous moving film experiences.
+    
+    Dr. Albrecht Schröter Lord Mayor of Jena
+  _fieldset: text
+- 
+  h1: |
+    Greetings of the Mayor of Jena
+    Frank Schenker
+  text: |
+    Dear Sir and Madam,
+    
+    dear visitors of the international short film festival cellu l’art: the media crosses lines. In the past it served to capture images of reality, today it even creates social reality. It shapes and changes our lives. All of that is a big challenge for us – especially for children and adolescents. What is real and what is mere fiction? Where do “beauty“ and “truth“ even fit together anymore?
+    
+    Especially in the film industry reality and fiction often blur into one. Therefore, a short film festival like the cellu l’art is a way of learning the acquisition of real life.
+    
+    I am particularly pleased that a youth jury from schools in Jena will award two prices again – the youth price and the tolerance price.
+    
+    Every participant the most of success and all visitors exciting movies!
+    
+    Frank Schenker
+  _fieldset: text
+- 
+  h1: |
+    Greetings of club chairman
+    Wiebke Winter
+  text: |
+    Life is too short for long movies. Yes!
+    
+    But sometimes it’s even too short for short films! After a record year of more than 800 submissions, the team of the cellu l’art short film festival has seen a lot, among others literally „rubbish“! But above all short masterpieces. A total of 33 films have made it into the international competition and show an entire diversity that doesn’t need 90, 120 or even 180 minutes to tell great things. Whether short fiction, documentary, Experimental or animation; whether comedy, science-fiction, action or drama.
+    
+    This year’s country focus on Ireland also shows with beautiful and bizarre moving images what can be done with short films. The ceremony kicks off with the reception of the Irish ambassador in the courtyard of the Volksbad. A small photo exhibition in the International Centre of the Haus auf der Mauer also shows the beauty of the country in “still” images.
+    
+    In the small hall of the Volksbad there will not just be an Irish programme. This year, in addition to the by now classic “b-sides“ there will be a programme only for short documentaries and so called mockumentaries and another one that will be devoted to the winners of the German Short Film Awards of 2014. The ShockBlock has been extended this year because of the high demand of the last years and will now have two more eerily beautiful programmes.
+    
+    Fortunately, there will be another extension with our cooperation with the youth centre Polaris. Last year, for the first time in the history of cellu l’art, young film fans were able to admire international short films and also their own short film, created during a holiday-workshop, in a morning programme. This year an international evening programme for adolescents will be added.
+    
+    And of course we will celebrate! For the twelfth time now, we will kick off with an open-air at Johanisstor with music from “The Illustrators“ and naturally lots of short films after sunset. On Friday evening there will the the big cellu l’art party at Theatercafé with DJs Skor Rokswell and Shape. The highlight as every year will be the award ceremony on Saturday evening in which the total of five awards for Best Short Film, Best film in the fields Experimental, Animation and Documentary – short ExAnDo - , the winner of the Youth Jury, the tolerance price and the audience price will be awarded. We are excited!
+    
+    On behalf of the association, I would like to thank Lord Mayor Dr. Albrecht Schröter and Mayor Frank Schenker for the donation of the tolerance and youth price. A big thank you also goes to all the promotors, sponsors, partners and friends of the festival, this year’s expert and youth jury and also the Volksbad which provides the location for the festival for the third time now, and all filmmakers. It’s their work that brings life into the festival
+    
+    Last but not least; I would personally like to thank our great team. Without them we couldn’t have made this festival happen nor would it be what it is now!
+    I wish you and us all a wonderful festival week!
+    
+    Wiebke Winter
+  _fieldset: text

@@ -1,0 +1,92 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Expert Jury
+  _fieldset: jury-title
+- 
+  name: Nils Dettmann
+  image: nils-dettmann.jpg
+  text: |
+    Nils Dettmann is a director, born in Schleswig-Holstein who lives in Berlin.
+    He studied media technology in Hamburg and began to work for film and TV in 2000. His versatile technical knowledge and almost 10 years of experience working as an assistant director for national and international TV- and big picture productions enrich his work as a filmmaker. He most recently directed the children series „Schloss Einstein“ in Erfurt. Since 2011 he has his own production company “Koivu Pictures“ and has produced several short films and is currently preparing a documentary in Finland.
+  _fieldset: jury-member
+- 
+  name: Sabine Krätzschmar
+  image: sabine-kraetzschmar.jpg
+  text: |
+    Sabine Krätschmar, born in 1979, studied political science and journalism at Universität Leipzig. Between 2006 and 2007 she completed a traineeship in broadcasting at Mitteldeutscher Rundfunk and was a director for the sectors Print and TV at MDR amongst others.
+    In the publishing house „Ch. Links Verlag“ she and Thomas Spanier published the contemporary book „Ankunft im gelobten Land - Das erste Mal im Westen“. She is a freelancer at Kinderkanal for formats like „Erde an Zukunft” and the cultural reportage series “Schnitzeljagd”.
+  _fieldset: jury-member
+- 
+  name: Sidney Martins
+  image: sidney078.jpg
+  text: >
+    Sidney Martins was born in 1967 in São
+    Gonçalo R. J. He is an actor,
+    Capoeirista and cultural manager. From
+    1982 till 1990 he worked as in actor in
+    different theatre, TV and film
+    productions in Rio de Janeiro. He was a
+    Capoeira and theatre teacher for the
+    Brazilian cultural institute till the
+    end of 1997. He’s been in living in
+    Berlin since 1998. In 2005 he founded
+    CINEMANEGRO that organises numerous
+    events that highlight Afro-Brazilian
+    culture. His first documentary series
+    “Fazenda São José“ has been
+    recognised as a memorial for the
+    Afro-Brazilian culture by the UNESCO in
+    1999.
+  _fieldset: jury-member
+- 
+  title: Youth jury
+  _fieldset: jury-title
+- 
+  name: Alina Sonnefeld
+  image: alina-sonnefeld.jpg
+  text: >
+    My name is Alina and I’m 16 years old.
+    I am in 10th grade at Jenaplanschule in
+    Jena. Short films fascinate me because
+    they are so versatile and convertible.
+    You can express a lot and reach out to
+    many people. These are some of the
+    reasons why you can find me anywhere
+    with a camera in my hands.
+  _fieldset: jury-member
+- 
+  name: Lisa Schmohl
+  image: lisa-schmohl.jpg
+  text: >
+    My name in Lisa, I am 18 years old and
+    I’m currently completing my Abitur at
+    the Christian Secondary School in Jena.
+    During my free time I spend a lot of
+    time with my friends and I like to
+    listen to good music. The thing that
+    particularly interests me about cellu
+    l’art are the backgrounds and history
+    of the scripts and the intentions of the
+    director.
+  _fieldset: jury-member
+- 
+  name: Nicolas Koerrenz
+  image: nicolas-koerrenz.jpg
+  text: >
+    My name is Nicolas and I am 16 years
+    old. I am in 12th grade of the Christian
+    Secondary School in Jena. I like to
+    watch English crime series best. Films
+    interest me because of the political
+    messages that are conveyed and their
+    realisation in the film.
+  _fieldset: jury-member

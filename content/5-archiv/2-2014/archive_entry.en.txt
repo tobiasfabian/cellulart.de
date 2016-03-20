@@ -38,6 +38,10 @@ Awards:
 
 Text: 
 
+The cellu l’art festival is turning 15. So we are in the midst of puberty, a little wild and rebellious and definitely on the lookout for something new and exciting in the world of short films.
+	
+I believe, with our total of 15 different film programmes, we once again managed to find that special something that this medium has to offer and we’re able to present it to you. In the International competition you will get to see 38 films from 14 different countries where all genres and styles are represented, from dramatic feature film to experimental music videos.
+
 ----
 
 Gallery-title: 
@@ -48,4 +52,4 @@ Gallery-images:
 
 ----
 
-Downloads: cellulart-katalog-2014.pdf
+Downloads: cellulart_katalog_2014.pdf

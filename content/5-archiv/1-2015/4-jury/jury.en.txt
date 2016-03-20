@@ -1,0 +1,118 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Expert Jury
+  _fieldset: jury-title
+- 
+  name: Andreas Baltschun
+  image: andreas.jpg
+  text: >
+    Andreas Baltschun went to college at
+    Bauhaus Universität Weimar, majoring in
+    media design. His works have been
+    awarded several times, ran at numerous
+    festivals like the Next Generation in
+    Cannes, the Today Award of the
+    Berlinale, the Max-Ophüls-Preis and the
+    DOK Leipzig. His debut film „Für
+    Elise“ was awarded the main price (The
+    Art of Film Award 2012) at the
+    “Festival of German Films”.
+    Baltschun is an editor who puts emotion
+    into the main focus of his work. It is
+    the story that is being told, whether
+    the result is fictional or non-fictional
+    – 30 seconds or 30 hours long. He is a
+    part-time lecturer in editing and
+    montage at the University of Television
+    and Film Munich.
+  _fieldset: jury-member
+- 
+  name: Babette Hnup
+  image: bh.jpg
+  text: |
+    She was born in Vienna and moved to Paris during her course of studies. The originally planned stay as an Au-Pair turned into 15 years in which she worked as a journalist for the German press. Love brought her back to Germany and she’s been living in Hamburg for five years now. In addition to her work as a freelanced journalist for the NDR, she works as an author and producer for other public TV stations and also for the production company freeeye.tv.
+    
+    Among other things, she was an author for the HR report “Mediensucht” (2015), as well as a producer for ZDF report series “Herr Eppert sucht” (2011/13). As a video journalist she makes and cuts film clips and image films and makes one short film a year, which she submits to various festivals. She does these things without a budget but with lots of passion.
+  _fieldset: jury-member
+- 
+  name: Volker Traumann
+  image: volker-traumann.jpg
+  text: >
+    Volker Traumann was born in 1967 in
+    Erlangen und studied theatre pedagogy at
+    the Universität der Künste Berlin.
+    Since 1996 he’s been living in Bamberg
+    and works in the fields of film, theatre
+    and circus. As an actor and pedagogue
+    for theatres he worked in the ensemble
+    of the Landesbühne Oberfranken for
+    several years. He now works as an
+    independent actor and host. Since 2005
+    he manages the ZIRKUS GIOVANNI in
+    Bamberg and teaches courses in theatre,
+    clowning, artistic and “Social
+    circus”. After several years of film
+    work with disadvantaged young people and
+    his own film projects, he started
+    working as a Festival Director of the
+    Bamberger Kurzfilmtage in 2006.
+  _fieldset: jury-member
+- 
+  title: Youth jury
+  _fieldset: jury-title
+- 
+  name: Nina Katschmarek
+  image: nina.jpg
+  text: >
+    My name is Nina and I am 16 years old. I
+    am in 10th grade at Leuchtenburg
+    Gymnasium in Kahla. During my spare time
+    I like to do sports and listen to music.
+    I’m interested in films and I think
+    short films are very special. They are
+    able to capture, to shock and to
+    entertain people within a short period
+    of time. The fascination is that you can
+    express lots of things, like feelings,
+    but also reach out to many people.
+  _fieldset: jury-member
+- 
+  name: Lorenz Krieger
+  image: lorenz.jpg
+  text: >
+    I am Lorenz, 17 years old and visit the
+    Waldorfschule. For three years now
+    I’ve been a member of the theatre in
+    the youth club at Theaterhaus Jena and
+    from this season on also at Stellwerk
+    Weimar. I really like to watch good
+    movies and especially enjoy movies of
+    older directors like Hitchcock, Fellini,
+    Buñuel and Truffaut. A few years ago I
+    made some short films with friends of
+    mine; today I’d rather watch them.
+  _fieldset: jury-member
+- 
+  name: Nadja Sühnel
+  image: nadja.jpg
+  text: >
+    My name is Nadja, I am 17 years old and
+    in 12th grade at Jenaplanschule. I
+    appreciate a good script the most;
+    otherwise I am not very picky about the
+    different movie genres. I like to engage
+    myself into many genres. The thing I
+    like about short films is the fact that
+    you can take your time in creating
+    moments that have to be cut out in other
+    films because of their plots.
+  _fieldset: jury-member

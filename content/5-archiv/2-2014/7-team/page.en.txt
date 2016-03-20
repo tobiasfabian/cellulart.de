@@ -1,0 +1,66 @@
+Title: Team
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Team
+  text: |
+    ## Chairman
+    Christoph Matiss
+    
+    ## Vice Chairman
+    Wiebke Winter
+    
+    ## Finance
+    Susan Kuhne
+    
+    ## Location Management
+    Andreas Neumann
+    Matthias Boden
+    
+    ## Jury- and Hospitality service
+    Fagus Pauly
+    Susanne Berghoff
+    
+    ## Shuttle
+    Sebastian Kratz
+    
+    ## Competition
+    Manuela Lindig
+    Tilman Schreiber
+    Florian Goldmann
+    
+    ## Country Focus Brazil
+    Matthias Boden
+    
+    ## Press / PR
+    Lutz Granert
+    Bettina Siebert
+    Elisabeth Wenk
+    Sebastian Holz
+    Steffi Großer
+    Julia Garbe
+    
+    ## Hosts
+    Elisabeth Wenk
+    Sebastian Holz
+    
+    ## Parties and Events
+    Laura Plewe
+    
+    ## Technology
+    André Meier
+    Julius Wirsching
+    Manuela Lindig
+    Sebastian Altmann
+    Alexander Roth
+    
+    ## Design & Website
+    Tobias Wolf
+  _fieldset: text

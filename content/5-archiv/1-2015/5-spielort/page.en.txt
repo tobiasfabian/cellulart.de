@@ -13,7 +13,7 @@ Builder:
     Venue
     Volksbad Jena
   text: |
-    Das Volksbad hat eine bewegte Geschichte. Zwischen 1907 und 1909 erbaut, wurde es mit seinem Schwimmbecken, den Saunen und medizinischen Bädern schnell zu einer Begegnungsstätte der Jenaer Bevölkerung und zu einem beliebten Ort des kulturellen Austauschs. Nach der Schließung des denkmalgeschützten Hauses im Jahre 2001 drohte ihm eine ungewisse Zukunft. Doch dann wurde es umgebaut, 2007 wiedereröffnet und zu einem beliebten Veranstaltungsort der Jenaer Kulturszene. Nach 2012 & 2013 findet das Kurzfilmfestival cellu l’art nun das dritte Mal in dieser traditionsreichen Location statt.
+    The Volksbad has a moving history. It was built between 1907 and 1909 and quickly became a meeting place for the population of Jena and a popular place for cultural exchange, because of its swimming pool, saunas and medical baths. Following the closure of the listed building in 2001, it had an uncertain future. But then it was rebuilt, reopened in 2007 and became a popular venue for events for Jena’s cultural scene. After 2012 & 2014 the short film festival cellu l’art takes place for the third time in this traditional location.
     
     (link: http://www.volksbad-jena.de text: www.volksbad-jena.de)
   _fieldset: text

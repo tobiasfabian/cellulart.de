@@ -1,0 +1,27 @@
+Title: Country Focus
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Country Focus
+    Turkey
+  text: |
+    Turkey is a popular holiday destination for Germans, it is the geographical link between Europe and Asia and a country with cultural diversity.
+    
+    As a part of our short film festival we want to give an insight into the Turkish and German-Turkish cinematography. The focus is on short films by Turkish filmmakers, who deal with Turkish and German-Turkish culture.
+    
+    The short films of focus country Turkey are presented on Wednesday, Thursday and Friday in our main venue, the Villa am Paradies, in the small hall. The topics of the individual blocks are just as diverse as the dramaturgical tricks of the filmmakers themselves. They tell the stories of families, friendship, love, death and misunderstandings, sometimes with lots of words and sometimes less.
+    
+    We don’t just get to see the life in Turkish and German cities but also rural idylls. The filmmakers question what home is and where to find it. In addition to the films, there will also be a photo exhibition in the foyer below the small hall showing spectacular impressions of Istanbul. And we will not only bring a bit of Turkey to Jena optically but also acoustically with a Turkish-German band that will play just before each film block. There will also be a reception with the Turkish Consul General Ms. Öztürk Çil, local government officials and the press on Friday. Everyone interested in Turkey is invited to come.
+    
+    The film „Müll im Garten Edens“ of well-known Turkish-German director Fatih Akin kicks off our local focus. His newest film is a documentary about the effects/impacts of globalisation. As an example he uses his ancestral home.
+    
+    (vimeo: https://vimeo.com/64050568)
+  _fieldset: text

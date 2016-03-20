@@ -12,8 +12,8 @@ Meta-description:
 
 Text: 
 
-„Grober Unfug: früher geltender Straftatbestand, der nunmehr durch §118 Ordnungswidrigkeitengesetz erfasst ist.“ – Bundeszentrale für politische Bildung.
-Die Störung der Ordnung – das steht im Zentrum dieser Filme. Ob die Menschen in absurde Situationen geraten oder selber welche verursachen: Sie setzen sich über die bestehende Ordnung hinweg. Und betreten damit eine andere Welt.
+„Grave nonsense, once an applicable offense and is now recognized by §118 as an administrative violation” Federal Agency for Civic Education. 
+The disturbance of order – that is the main focus of these films. Whether people happen to be caught in absurd situations or cause them themselves: They ignore the established order. And thus enter into another world.
 
 ----
 
@@ -49,3 +49,7 @@ Zip: 07743
 ----
 
 City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125179360

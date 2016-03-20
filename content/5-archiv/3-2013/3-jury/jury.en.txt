@@ -1,0 +1,97 @@
+Title: Jury
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  title: Expert Jury
+  _fieldset: jury-title
+- 
+  name: Timo Becker
+  image: regisseur_timo_becker.jpg
+  text: >
+    Timo Becker studied direction at
+    renowned American Film Institute in Los
+    Angeles and received a degree in
+    audio-visual media at Hochschule der
+    Medien in Stuttgart. Besides his work as
+    a director and author, he worked in
+    almost every field of film and media
+    productions. His short film
+    “Mädchenabend” was awarded best
+    short film by the audience at Festival
+    Max Ophüls Preis in 2012 and at the
+    13th cellu l’art. He currently works
+    on his debut in long film “Zwei
+    Schwestern” and works as a director,
+    cameraman, cutter and lecturer.
+  _fieldset: jury-member
+- 
+  name: Germaine Paulus
+  image: germainepaulus.jpg
+  text: 'After graduating from Hochschule der Bildenden Künste Saar Germaine Paulus (* 1972 in Saarlouis)she worked as a lyricist and columnist for several magazines. Their shared love for fantasy film brought her to Andreas Peter and Yazid Benfeghoul und their independent magazine “Gory News”. After 4 years of working together Paulus, Peter and Benfeghoul founded “Deadline – das Filmmagazin” in the end of 2006. She has been part of the editorial staff since then. Germaine Paulus lives and works in Saarbücken.'
+  _fieldset: jury-member
+- 
+  name: Jonas Zipf
+  image: jonas-zipf.jpg
+  text: >
+    Jonas Zipf studied psychology at FU
+    Berlin and direction for spoken and
+    music theatre at „August Everding“,
+    a bavarian academy for theatre. He
+    worked on various productions as a
+    freelanced dramaturge, author and
+    director (e.g. Théâtre Alfortville
+    Paris, kampnagel Hamburg, tacheles
+    Berlin, Schauspielhaus Zürich). Most
+    recently he staged the premiere of
+    “Flüchtlinge” at Thalia Theatre in
+    Hamburg. Since autumn 2010 he is doing
+    is doctorate at HfBK Hamburg in urban
+    art. He is currently member of the
+    artistic direction at Theaterhaus Jena.
+  _fieldset: jury-member
+- 
+  title: Youth jury
+  _fieldset: jury-title
+- 
+  name: Lukas Spantzel
+  image: lukas.jpg
+  text: >
+    I am Lukas, 18 years old and currently
+    doing my Abitur at Angergymnasium in
+    Jena. In my spare time I like to hang
+    out with my friends, listen to music and
+    watch films. I’m interested in the
+    cellu l’art film festival because
+    I’ve been involved in doing a short
+    film.
+  _fieldset: jury-member
+- 
+  name: Arabella Vogel
+  image: arabella.jpg
+  text: >
+    My name is Arabella, I am 16 years old.
+    I’m in 11th grade at the Christian
+    Gymnasium in Jena. I like to watch the
+    old Sherlock Holmes detective stories.
+    I’m mostly interested in the
+    development of the script, the story and
+    the dialogues of the protagonists.
+  _fieldset: jury-member
+- 
+  name: Dennis König
+  image: dennis.jpg
+  text: >
+    I am Dennis and 18 years old. I am
+    currently doing my Abitur at
+    Angergymnasium in Jena. I like films
+    that are critical of society best. I
+    prefer German movies to
+    Hollywood-productions.
+  _fieldset: jury-member

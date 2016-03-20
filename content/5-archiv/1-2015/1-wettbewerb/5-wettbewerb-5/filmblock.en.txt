@@ -10,7 +10,7 @@ Meta-description:
 
 ----
 
-Text: In der Tristesse des Alltags ertappen sich die Protagonisten dabei in festen Ordnungen und Handlungsweisen stecken zubleiben. Wir erhalten Einblick in unvorstellbare Realitäten, die Denkanstöße und neue Blickwinkel für uns bereithalten. Wir müssen nur lernen über den Tellerrand zu schauen – unsere Perspektive zu wechseln…
+Text: In the dreariness of everyday life the protagonists catch themselves to be stuck in fixed systems and behaviours. We get an insight into unimaginable realities that give thought-provoking impulses and new perspectives on things. We only have to learn to think outside the box – to change our perspectives….
 
 ----
 
@@ -46,3 +46,7 @@ Zip: 07743
 ----
 
 City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125367148

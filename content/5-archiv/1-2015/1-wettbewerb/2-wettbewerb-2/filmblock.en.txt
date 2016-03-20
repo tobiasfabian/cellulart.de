@@ -10,7 +10,7 @@ Meta-description:
 
 ----
 
-Text: Probleme und Konflikte kommen in den besten Familien vor. Nicht immer ist alles eitel Sonnenschein. Tragödien passieren, Rebellionen entstehen und Trennungen sind meist kompliziert. Und doch, in schweren Situationen hängen wir an unseren Familien.
+Text: Problems and conflicts occur in the best of families. It’s not always well and good and everything. Tragedies happen, rebellions arise and separations are usually complicated. And yet, in difficult situations, we depend on our families.
 
 ----
 
@@ -46,3 +46,7 @@ Zip: 07743
 ----
 
 City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125178235

@@ -1,0 +1,23 @@
+Title: 15 years cellu l’art
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    15 Years
+    cellu l’art
+  text: |
+    \#DieMagiedeskurzenAugenblicks. Some films helped to shape our identity as a festival decisively. Former and current members tell us why. We are in the middle of puberty, so be ready for a surprise!
+    
+    There will be sparkling wine, popcorn and the last founding member.
+    
+    15 years cellu l’art
+    Wednesday, 23rd April at 9 pm
+    Volksbad Jena
+  _fieldset: text

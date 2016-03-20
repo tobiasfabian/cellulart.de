@@ -1,0 +1,37 @@
+Title: Events
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Open-Air-Cinema
+    with The Illustrators
+  text: |
+    The festival season starts with an open-air cinema. We will traditionally celebrate the short film at Faulloch. The Indie-Rock-Band „The Illustrators” will provide for musical entertainment from 8 pm on. The four boys convey a unique dynamic sound with their mix out of indie-rock and electronical, which will tickle your feet.
+    
+    At 9:30 pm the short films will be brought onto the big screen. The highlights of the last festivals, seasoned with current short films make you want more.
+    From funny and dramatic to heartbreaking and bizarre, you will find everything. And we will also provide food and beverages for your dining pleasure. The best part: The admission is free.
+    
+    Open-Air-Kino with The Illustrators
+    Tu, 21st April, from 8 pm
+    Faulloch (at Johannistor)
+    Admission free
+  _fieldset: text
+- 
+  h1: |
+    cellu l’art Party
+    Skor Rokswell & Shape
+  text: |
+    Following the short film evening on Friday we want heat up the dancefloor at Theatercafé with you! This year Skor Rokswell – creators of the infamous Sunday Sessions – and Shape – one of the initiators of the Chopy Wood series of Kasablanca – will ensure awesome music. Whether with sounds of House, Rap or Funk, between wriggling break beats and tuner soundtracks decorated with gold chains, the boys will bring every leg to vibrate. And: Vinyl only!
+    
+    cellu l‘art Party with Skor Rokswell & Shape
+    Fr, 24th April, 10 pm
+    Theatercafé Jena
+    5 € admission(3 € with cellu-l’art-Ticket)
+  _fieldset: text

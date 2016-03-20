@@ -1,4 +1,4 @@
-Title: Länderschwerpunkt 3
+Title: Country Focus 3
 
 ----
 
@@ -15,6 +15,10 @@ Text:
 ----
 
 Dates: 
+
+- 
+  date: 2015-04-24
+  time: 20:30
 
 ----
 

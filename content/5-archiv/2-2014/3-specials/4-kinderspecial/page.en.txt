@@ -1,0 +1,31 @@
+Title: Special for kids
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Special for kids
+    zappzarapp – kurz & knapp
+  text: |
+    All of our small fans of moving pictures are invited to the special of kids at Polaris to get to know the world of filmmakers. Whether colourful animated scenes, that are to be understood with a wink in the eye or true stories for the heart and soul – we have ransacked our archives and put together fanciful bits about friendship, courage and reverie.
+    Marvel and discuss the story of a cow who no longer wanted to be alone. Trace the hasty everyday life of a snail and join a hedgehog on its search for friends. We also present you „Game Over“ a brand new film from Jena that was created at the short film workshop during the last winter break at Polaris.
+    
+    Of course, there will be popcorn and you will have the opportunity to create your own cotton bag with different motives surrounding the topic of filmmaking. So – go for it!
+    
+    Free admission
+    Ages 9 - 14
+    
+    Special for kids
+    Saturday, 26th April at 10 am
+    Polaris, Camburger Straße 65, Jena-Nord
+    (link: http://www.polaris-jena.de text: www.polaris-jena.de popup: true)
+    
+    with support of
+    Drudel 11 & Polars
+  _fieldset: text

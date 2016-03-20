@@ -1,0 +1,21 @@
+Title: German Short Film Award
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    German Short Film Award:
+    Short film tour
+  text: |
+    The short film tour makes a stop at the cellu l’art festival in Jena. Since 1956 the most innovative and outstanding films from Germany get honoured with the German Short Film Award. We will present the winners of 2014 in the categories Animation, Experimental and Short film. Truly top notch to munch on your popcorn. They are about youth culture gone astray, elephants that are scared of the darkness, abuse and dealing with trauma. A range of themes and a stylistic balancing act that invite you to immerse into the atmosphere.
+    
+    German Short Film Award: short film tour
+    Friday, 24th April, 6:30 pm
+    Volksbad Jena
+  _fieldset: text

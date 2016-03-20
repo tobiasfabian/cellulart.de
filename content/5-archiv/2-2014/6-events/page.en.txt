@@ -1,0 +1,47 @@
+Title: Events
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Open-Air-Cinema at
+    Faulloch
+  text: |
+    Easter is over – now we’re starting! How? Blending perfectly to our country focus on Brazil there will be Capoeira dancers from Capoeira Ibeca Jena e.V. who will liven up the open air evening full of short films on Johannisplatz. As a musical treat the band “Orkidheart” will put us in the right mood with their pop-rock songs. At nightfall we will take you on a journey through the wonderful world of short films. Whether funny, whimsical, dreamy or regional classic – there will be something for everybody. In case you get hungry there will be hot soup, delicious waffles and of course refreshment stands. So there is nothing in the way for a great festival kick-off!
+    
+    Open-Air-Kino with Orkidheart and Capoeira Ibeca Jena e.V.
+    Saturday, 22nd April at 8 pm
+    Faulloch
+  _fieldset: text
+- 
+  h1: |
+    cellu l’art Party with
+    Oliver Goldt
+  text: |
+    Following the short film evening there will be a night full of music and “Freude am Tanzen” with Oliver Goldt. His musical versatility and his fine sense for sweeping sounds will make any heart of music and dance lovers beat faster. He focuses on electronic music with all its different facets but genres like Funk, Experimental or Jazz have their place in his record collection as well. The unique location of the Volksbad adds to the extraordinary atmosphere that provides a great deal of satisfaction while watching short films and partying afterwards.
+    
+    (link: http://soundcloud.com/oliver-goldt text: soundcloud.com/oliver-goldt popup: true)
+    
+    cellu l’art Party with Oliver Goldt
+    Friday, 25th April starts at 11:30pm
+    Volksbad Jena
+  _fieldset: text
+- 
+  h1: |
+    After-Show-Party with
+    Tourist & Baccara
+  text: |
+    After the annual award ceremony on Saturday and lots of worth seeing and exciting short films, the 15th cellu l’art short film festival is gradually coming to an end. Does that mean to turn off the projector and to go to bed? Of course not! We will pop open the champagne corks and will enjoy a wild after show party at Theatercafé Jena. You can reminisce about the festival whilst having a drink and bring back some circulation into your tired legs on the dancefloor to the electronic sounds from the DJs Tourist & Baccara.
+    
+    (link: http://soundcloud.com/touristofficial text: soundcloud.com/touristofficial popup: true)
+    
+    After-Show-Party with Tourist & Baccara
+    Saturday, 26th April at 11 pm (doors open at 10pm)
+    Theatercafé Jena
+  _fieldset: text

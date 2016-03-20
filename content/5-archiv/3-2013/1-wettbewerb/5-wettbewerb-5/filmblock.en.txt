@@ -1,0 +1,52 @@
+Title: Competition 5
+
+----
+
+Subtitle: Tierisch bekloppt
+
+----
+
+Meta-description: 
+
+----
+
+Text: When you behave like an animal you kick over the traces and leave behind the socially accepted behavioural level. But is the behaviour of animals in fact as bad or are people the ones that act against nature? Competition V is a stroll through estates of terraced houses, forests and even through a butcher’s shops to answer that question. Because: Aren’t we all animals?
+
+----
+
+Dates: 
+
+- 
+  date: 2013-04-18
+  time: 20:00
+- 
+  date: 2013-04-20
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Villa am Paradies
+
+----
+
+Street: Knebelstraße 3
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/64055445

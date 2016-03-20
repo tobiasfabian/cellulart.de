@@ -12,10 +12,10 @@ Meta-description:
 
 Text: 
 
-Pause | Stillstand | Stagnation
-Regung | Bewegung | Veränderung 
-Was bewegt – treibt uns an? Was lässt uns still stehen?
-Dieser Block zeigt die ganze Spannweite zwischen Kinetik und Stasis, zwischen Play und Pause, zwischen Aufhalten und Weitermachen, und die paradoxen Fälle, wenn uns beides gleichzeitig ergreift.
+pause | standstill | stagnation
+impulse | movement| change
+What moves us – what drives us? What lets us stand still?
+This section portrays the whole span between kinetics and stasis, between play and pause, between stopping and carrying on and the paradoxical cases when both happen at the same time.
 
 ----
 
@@ -51,3 +51,7 @@ Zip: 07743
 ----
 
 City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125317963

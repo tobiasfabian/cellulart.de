@@ -1,0 +1,23 @@
+Title: Shock Block 1 & 2
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Shock Block
+    1 & 2
+  text: |
+    For all you cold-nosed, intrepid and fearless fellows, our shockBlock guarantees 90 minutes of goose bumps. This year there will even be two different programmes. So cling to your neighbour, leave the lights on and double check whatever creeps and crawls under your bed!
+    
+    The films always start right at witching hour at 10:30pm. Be there on time since the tickets are highly demanded.
+    
+    Wednesday, 22nd April, 10:30 pm
+    Friday, 24th April, 10:30 pm
+    Volksbad Jena
+  _fieldset: text

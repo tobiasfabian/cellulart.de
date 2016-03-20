@@ -1,0 +1,48 @@
+Title: Competition 2
+
+----
+
+Subtitle: Sweets for the Sweets
+
+----
+
+Meta-description: 
+
+----
+
+Text: You are a cheerful spirit? You want to recover from the stress of everyday life with a few short films? Or maybe you want to process the experiences you made with our terror film block. Then you came to the right place. Plush teddy bears, little guardian angels and love will sweeten your day. In addition to that you’ll get a bit of Armageddon.
+
+----
+
+Dates: 
+
+- 
+  date: 2013-04-17
+  time: 20:00
+- 
+  date: 2013-04-19
+  time: 18:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Venue: Villa am Paradies
+
+----
+
+Street: Knebelstraße 3
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

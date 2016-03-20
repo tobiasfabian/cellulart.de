@@ -11,10 +11,9 @@ Builder:
 - 
   h1: Awards
   text: |
-    Gute Kurzfilme? Nein, wir zeigen nur die besten! Deswegen haben wir uns erneut entschlossen, unterschiedliche Genres und Filmthemen abseits von technischen Kategorien mit Preisen zu bedenken. Unsere Fachjury vergibt neben dem Preis für den besten Kurzspielfilm ebenfalls einen Preis für den besten Film aus dem Bereich Experimental, Animation und Dokumentation, wir nennen ihn ExAnDo. Die Jugendjury, bestehend aus Jenaer Schülern der Klassenstufen 10 bis 12, vergibt neben ihrem eigenen Preis, gestiftet durch Bürgermeister Schenker, gemeinsam mit der Fachjury auch den von Jenas Oberbürgermeister Dr. Albrecht Schröter gestifteten „Jenaer Filmpreis für Toleranz“, der sozial engagierte und politisch ambitionierte Wettbewerbsbeiträge auszeichnet.
-    Doch auch die Besucher des Festivals haben wieder die Möglichkeit, mit ihrer Abstimmung über die Vergabe des Publikumspreises zu entscheiden.
+    Good short films? No, we only present you the best! That’s why we once again decided to consider conferring prices to different genres and film themes apart from technical categories. Next to the award for best short film, our jury will additionally give a price to the film in the fields Experimental, Animation and Documentation, which we called ExAnDo. The youth jury, consisting of pupils from Jena from grades 10-12, will award their own price sponsored by mayor Schenker and will also, in cooperation with the jury of experts, award the tolerance price “Jenaer Filmpreis für Toleranz”, sponsored by Lord Mayor Dr. Albrecht Schröter. It honours socially engaged and political ambitious contributions to the competition. And even the visitors of the festival have the opportunity to vote for the audience price.
     
-    Preisverleihung mit Gewinnerfilmen
-    Samstag, 25. April, 21 Uhr
+    Award ceremony and winner films
+    Saturday, 25th April, 9 pm
     Volksbad Jena
   _fieldset: text

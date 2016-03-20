@@ -1,0 +1,21 @@
+Title: B-Sides
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: B-Sides
+  text: |
+    We only have five programmes for our competition – but significantly more outstanding films. What to do about it? For the fourth time now we answer this question with our “b-sides”.
+    
+    Be it trees that become friends, bizarre split-screen-film-noir or quirky Ernst-Jandl screen adaptations – we’re getting into the thick of things far away from mainstream.
+    
+    B-Sides
+    Friday, 25th April at 9 pm
+    Volksbad Jena
+  _fieldset: text

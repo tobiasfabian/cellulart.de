@@ -1,0 +1,23 @@
+Title: Shock Block
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Shock Block
+  text: |
+    Goosebumps, creeps and an almost unbearable silence supported by the tension of the film scene. Whoever doesn’t get agitated during night-time is welcome to join the 90 minutes full of creeps, jolts and horror.
+    
+    Once again our colleagues of the Landshuter short film festival are supporting us with our “shockBlock”.
+    
+    (link: http://www.landshuter-kurzfilmfestival.de text: www.landshuter-kurzfilmfestival.de  popup: true)
+    
+    Shock Block
+    Thursday, 24th April at 9 pm
+    Volksbad Jena
+  _fieldset: text

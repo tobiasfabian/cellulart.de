@@ -10,7 +10,7 @@ Meta-description:
 
 ----
 
-Text: Die Zukunft wartet auf uns! Wir tauchen ein in das Social-Media-Netz und entdecken, was das Morgen für uns bereithält. Neue Technologien versprechen, unser Leben einfacher zu machen – sorgen aber auch für ungeahnte Probleme.
+Text: The future awaits us! We’re diving into the social media network and discover what will await us tomorrow. New technologies promise to make our lives easier – but also create unexpected problems.
 
 ----
 
@@ -46,3 +46,7 @@ Zip: 07743
 ----
 
 City: Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/125164932

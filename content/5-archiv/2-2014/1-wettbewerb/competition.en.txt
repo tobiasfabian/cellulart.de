@@ -1,0 +1,19 @@
+Title: Competition
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: Awards
+  text: |
+    Good short films? No, we only present you the best! That’s why we once again decided to consider conferring prices to different genres and film themes apart from technical categories. Next to the award for best short film, our jury will additionally give a price to the film in the fields Experimental, Animation and Documentation, which we called ExAnDo. The youth jury, consisting of pupils from Jena from grades 10-12, will award their own price sponsored by mayor Schenker and will also, in cooperation with the jury of experts, award the tolerance price “Jenaer Filmpreis für Toleranz”, sponsored by Lord Mayor Dr. Albrecht Schröter. It honours socially engaged and political ambitious contributions to the competition. And even the visitors of the festival have the opportunity to vote for the audience price.
+    
+    Award ceremony and winner films
+    Saturday, 26th April, 9 pm
+    Volksbad Jena
+  _fieldset: text
