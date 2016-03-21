@@ -18,11 +18,11 @@ Country: Germany
 
 ----
 
-Year: 
+Year: 2007
 
 ----
 
-Duration: 
+Duration: 15:57
 
 ----
 
@@ -30,4 +30,20 @@ Direction: Julia Schwarz
 
 ----
 
-Text: 
+Text: Eine ganz normale Nacht in dem Leben vier ganz normaler Menschen – von denen zwei das wohl Schlimmste erlebt haben, das einem Menschen passieren kann: den Verlust des eigenen Kindes. Sagenhaftes Drama um Scherz und Schuld.
+
+----
+
+Type: Feature Film
+
+----
+
+Book: Julia Schwarz
+
+----
+
+Camera: Jenny Bräuer
+
+----
+
+Animation: 

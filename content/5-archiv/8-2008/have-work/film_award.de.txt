@@ -18,11 +18,11 @@ Country: Germany
 
 ----
 
-Year: 
+Year: 2008
 
 ----
 
-Duration: 
+Duration: 3:00
 
 ----
 
@@ -30,4 +30,20 @@ Direction: Jasmin Siddiqui
 
 ----
 
-Text: 
+Text: Zehn Frauen mit individuellen Bedürfnissen sehnen sich nach den verschiedensten Veränderungen ihres Arbeitslebens. Doch ein Wunsch ist allen gemein: „Ich wünschte ich könnte ich selbst sein und trotzdem Arbeit haben.“
+
+----
+
+Type: Animation
+
+----
+
+Book: Jasmin Siddiqui
+
+----
+
+Camera: 
+
+----
+
+Animation: Jasmin Siddiqui und Doreen Bendzulla

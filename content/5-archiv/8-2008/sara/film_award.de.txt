@@ -18,11 +18,11 @@ Country: Germany
 
 ----
 
-Year: 
+Year: 2007
 
 ----
 
-Duration: 
+Duration: 20:28
 
 ----
 
@@ -30,4 +30,20 @@ Direction: Basia Baumann
 
 ----
 
-Text: 
+Text: Im Bosnien-Krieg verliert die junge Sara auf brutale Weise ihre Familie. Traumatisiert irrt sie durch die Stadt und schließt sich einer Jugendbande an. Als sich die Gelegenheit ergibt, rächt sich Sara kaltblütig an den Mördern, aber ihre innere Stimme fragt sich: Darf ich Gleiches mit Gleichem vergelten?
+
+----
+
+Type: Feature Film
+
+----
+
+Book: Basia Baumann
+
+----
+
+Camera: Philipp Kirsamer
+
+----
+
+Animation: 

@@ -14,11 +14,11 @@ Video:
 
 ----
 
-Year: 
+Year: 2007
 
 ----
 
-Duration: 
+Duration: 15:57
 
 ----
 
@@ -26,8 +26,24 @@ Direction: Marcus Richardt
 
 ----
 
-Text: 
+Text: Coming-of-Age-Geschichte über die ungewöhnliche Freundschaft zwischen Lilly, der sechzehnjährigen Anführerin einer Mädchengang, und Anna, die sich ihr selbstbewusst entgegenstellt. Portrait einer Generation
 
 ----
 
 Country: Germany
+
+----
+
+Type: Feature Film
+
+----
+
+Book: Marcus Richardt
+
+----
+
+Camera: Sin Huh
+
+----
+
+Animation: 
