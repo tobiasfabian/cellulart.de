@@ -28,7 +28,6 @@ fields:
   awards:
     label: Awards
     type:  structure
-    translate: false
     entry: >
       {{award}}: {{film}}
     fields:

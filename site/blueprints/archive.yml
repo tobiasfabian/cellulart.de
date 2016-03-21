@@ -7,6 +7,3 @@ fields:
   title:
     label: Title
     type:  text
-  meta_description:
-    label: Meta Description
-    type:  text

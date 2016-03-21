@@ -1,4 +1,3 @@
-
 Title: İstanbul Çöpçülerİ
 
 ----
@@ -7,11 +6,11 @@ Still: istanbul-coepcueleri.jpg
 
 ----
 
-Type: Dokumentation
+Type: Documentation
 
 ----
 
-Country: Türkei
+Country: Turkey
 
 ----
 
@@ -27,9 +26,11 @@ Direction: Lukas Löffler & Cenk Özbakır
 
 ----
 
-Text: Neben den von der Stadt Angestellten gibt es in Istanbul zahlreiche inoffizielle Müllmänner, die Nachts den Abfall sortieren und alles Recyclebare in ihren Handkarren zu den illegalen Depots transportieren.
+Text: 
+
+Neben den von der Stadt Angestellten gibt es in Istanbul zahlreiche inoffizielle Müllmänner, die Nachts den Abfall sortieren und alles Recyclebare in ihren Handkarren zu den illegalen Depots transportieren.
 Die Kurz-Doku „İstanbul Çöpçüleri“ („Die Müllmänner von Istanbul“) begleitet sie eine Nacht lang bei ihrer Arbeit und gibt einen Einblick in ihr Leben und ihre Hintergründe.
 
 ----
 
-Video:
+Video: 
