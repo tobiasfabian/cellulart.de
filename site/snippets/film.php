@@ -11,15 +11,15 @@
     <?php endif ?>
   </header>
   <div class="thumbnail">
-    <?php if (!$film->video()->isEmpty()): ?>
+  <?php if (!$film->video()->isEmpty()): ?>
     <video src="<?= !$film->video()->isEmpty() ? $film->video()->toFile()->url() : null?>" <?=!$film->still()->isEmpty() ? 'poster="'.$film->still()->toFile()->url().'"' : null?> loop muted autoplay>
     </video>
     <?php if (!$film->still()->isEmpty() AND $film->still()->toFile() !== null): ?>
-    <link filmprop="image" href="<?=thumb($film->still()->toFile(),array('width' => 646, 'height' => 364))->url()?>">
+    <link itemprop="image" href="<?=thumb($film->still()->toFile(),array('width' => 646, 'height' => 364))->url()?>">
     <?php endif ?>
   <?php elseif (!$film->still()->isEmpty() AND $film->still()->toFile() !== null): ?>
-      <img filmprop="image" src="<?=thumb($film->still()->toFile(),array('width' => 323, 'height' => 182))->url()?>" srcset="<?=thumb($film->still()->toFile(),array('width' => 646, 'height' => 364))->url()?>">
-    <?php endif ?>
+    <img itemprop="image" src="<?=thumb($film->still()->toFile(),array('width' => 323, 'height' => 182))->url()?>" srcset="<?=thumb($film->still()->toFile(),array('width' => 646, 'height' => 364))->url()?>">
+  <?php endif ?>
   </div>
   <div class="info">
     <?= !$film->type()->isEmpty() ? '<span itemprop="genre">'.l::get($film->type()->value()).'</span>, ' : null ?><?= !$film->country()->isEmpty() ? $film->country()->translateCountry($site->language()) : null ?><?= !$film->year()->isEmpty() ? ', <time itemprop="datePublished" datetime="'.$film->year()->value().'">'.$film->year()->value().'</time>' : null ?><br>
@@ -31,5 +31,7 @@
     <span itemprop="director"><?=$film->direction()->html()?></span>
   </div>
   <?php endif ?>
+  <div itemprop="description">
   <?=$film->text()->kirbytext()?>
+  </div>
 </article>
