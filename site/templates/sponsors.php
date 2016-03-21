@@ -15,7 +15,7 @@
         <?php else: ?>
         <div>
         <?php endif ?>
-          <img src="<?=thumb($logo->logo()->toFile(),array('width' => 142, 'height' => 72))->url()?>" srcset="<?=thumb($logo->logo()->toFile(),array('width' => 284, 'height' => 144))->url()?> 2x">
+          <img src="<?=thumb($logo->logo()->toFile(),array('width' => 142, 'height' => 72))->url()?>" srcset="<?=thumb($logo->logo()->toFile(),array('width' => 284, 'height' => 144))->url()?> 2x" alt="<?=$logo->logo()->toFile()->alt()?>">
         <?php if(!$logo->url()->isEmpty()): ?>
         </a>
         <?php else: ?>
@@ -33,7 +33,7 @@
         <?php else: ?>
         <div>
         <?php endif ?>
-          <img src="<?=thumb($logo->logo()->toFile(),array('width' => 142, 'height' => 72))->url()?>" srcset="<?=thumb($logo->logo()->toFile(),array('width' => 284, 'height' => 144))->url()?> 2x">
+          <img src="<?=thumb($logo->logo()->toFile(),array('width' => 142, 'height' => 72))->url()?>" srcset="<?=thumb($logo->logo()->toFile(),array('width' => 284, 'height' => 144))->url()?> 2x" alt="<?=$logo->logo()->toFile()->alt()?>">
         <?php if(!$logo->url()->isEmpty()): ?>
         </a>
         <?php else: ?>

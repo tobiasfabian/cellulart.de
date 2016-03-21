@@ -3,6 +3,11 @@ pages: false
 files:
   type:
     - image
+  fields:
+    alt:
+      label: Alt-Attribut
+      type:  text
+      help:  This text should describe the image. It is important for blind people and search engines.
 fields:
   title:
     label: Title

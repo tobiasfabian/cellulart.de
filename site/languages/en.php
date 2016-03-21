@@ -13,6 +13,8 @@ l::set('Music Video', 'Music Video');
 l::set('Mockumentary', 'Mockumentary');
 l::set('Experimental', 'Experimental');
 
+l::set('film still', 'film still');
+
 l::set('read more', 'read more');
 
 l::set('apply now', 'apply now');
