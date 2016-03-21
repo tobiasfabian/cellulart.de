@@ -37,6 +37,21 @@
 
   <script src="<?=url('assets/js/script.js')?>" defer></script>
 
-  <title><?= !$page->isHomePage() ? strtolower($page->title()->html()).' - ' : null ?><?=$site->title()->html()?></title>
+  <?php
+  $title;
+  if ($page->isHomePage()) {
+    $title = $site->title()->html();
+  } else if ($page->template() == 'archive_entry') {
+    $year = $page->title()->html();
+    $title = $site->title()->html() . ' ' . $year;
+  } else if ($page->parents()->filterBy('template', 'archive_entry')->first()) {
+    $year = $page->parents()->filterBy('template', 'archive_entry')->first()->title()->html();
+    $title = $page->title()->html() . ' - ' . $site->title()->html() . ' ' . $year;
+  } else {
+    $title = $page->title()->html() . ' - ' . $site->title()->html();
+  }
+  ?>
+
+  <title><?= strtolower($title) ?></title>
 
 </head>
