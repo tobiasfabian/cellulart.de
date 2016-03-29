@@ -20,18 +20,18 @@ Awards:
   film: oripeaux
 - 
   award: |
-    Publikums-
-    preis
+    Audience
+    award
   film: reality
 - 
   award: |
-    Jugendjury-
-    preis
+    Youth jury
+    award
   film: lausche-nicht-dem-wasser
 - 
   award: |
-    Toleranz-
-    preis
+    Tolerance
+    award
   film: take-me-to-the-front
 
 ----

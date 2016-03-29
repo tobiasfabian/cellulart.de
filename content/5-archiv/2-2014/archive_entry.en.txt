@@ -10,29 +10,29 @@ Awards:
 
 - 
   award: |
-    Bester
-    Film
+    Best
+    Shortfilm
   film: baghdad-messi
 - 
   award: |
-    Bester
+    Best
     ExAnDo
   film: not-anymore-a-story-of-revolution
 - 
   award: |
-    Toleranz-
-    preis
+    Tolerance
+    award
   film: she-comes-in-spring
 - 
   award: |
-    Preis der
-    Jugendjury
+    Youth jury
+    award
   film: baghdad-messi
 - 
   award: |
-    Publikums-
-    preis
-  film: 97
+    Audience
+    award
+  film: "97"
 
 ----
 

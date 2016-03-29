@@ -1,0 +1,19 @@
+Title: Spenden
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    Spende
+    für das cellu l’art
+  text: |
+    Das cellu l’art ist ein Festival das von ehrenamtlichen Mitgliedern. Bitte hilf uns ein tolles Festival zu gestalten.
+    
+    (link: https://www.paypal.me/tobiasfwolf/ text: paypal.me/tobiasfwolf popup: true)
+  _fieldset: text

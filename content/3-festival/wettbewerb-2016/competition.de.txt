@@ -1,4 +1,4 @@
-Title: Wettbewerb (Beispiel)
+Title: Wettbewerb 2016
 
 ----
 
@@ -9,11 +9,11 @@ Builder:
     Wettbewerb
     Lorem Ipsum
   text: |
-    Das cellu l’art wird 15. Wir sind also mitten in der pubertät, ein bisschen wild und rebellisch und definitiv auf der Suche nach dem Neuen, dem aufregenden in der Kurzfilmwelt.
+    Dieser Teil ist nicht fertig. Das cellu l’art wird 15. Wir sind also mitten in der pubertät, ein bisschen wild und rebellisch und definitiv auf der Suche nach dem Neuen, dem aufregenden in der Kurzfilmwelt.
     
     Mit Blick auf unsere insgesamt 15 verschiede- nen Filmprogramme glaube ich, dass es uns auch dieses Mal wieder gelungen ist, dieses aufregende des Mediums aufgespürt zu haben (und euch präsentieren zu können). im interna- tionalen Wettbewerb bekommt ihr 38 Filme aus insgesamt 14 ländern zu sehen, bei denen vom dramatischen Spielfilm bis zum experimentellen Musikvideo alle genres und Stile vertreten sind. ich danke oberbürgermeister Dr. Schröter, dass er erneut die Schirmherrschaft für den „Jenaer Filmpreis für toleranz“ übernimmt und Bürger- meister Schenker für die Schirmherrschaft des Jugendjurypreises.
   _fieldset: text
 
 ----
 
-Meta-description: 
+Meta-description: Die Wettbewerbsfilme des 17. cellu l'art Kurzfilmfestival auf einem Blick. 19. - 24. April 2016.

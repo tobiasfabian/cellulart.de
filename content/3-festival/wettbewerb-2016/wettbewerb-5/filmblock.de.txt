@@ -1,0 +1,52 @@
+Title: Wettbewerb 5
+
+----
+
+Subtitle: erstarrt
+
+----
+
+Text: Einer schaut voraus ins Ungewisse. Eine schaut zur Seite und findet welche, um die sie sich kümmern muss. Einer schaut zurück und will nichts loslassen. So ein Leben ist lang und hat viele Stufen. Manchmal kann man die leicht nehmen. Manchmal nicht.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-22
+  time: 18:00
+- 
+  date: 2016-04-23
+  time: 19:00
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Meta-description: Menschliche Schicksale, erstarrt vom eigenen, zu erstarrt um zu handeln, zu helfen? cellu l'art Kurzfilmfestival | 19. - 24. April
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

@@ -21,4 +21,5 @@ fields:
       - email
   downloads:
     label: Downloads
+    mode:  multiple
     type:  selector
