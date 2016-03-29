@@ -28,6 +28,9 @@ field::$methods['translateCountry'] = function($field, $language) {
     Russia: Russland
     Croatia: Kroatien
     Poland: Polen
+    Israel: Israel
+    Iceland: Island
+    Mexico: Mexico
   ');
   if ($language->code() === 'de') {
     $field = strtr($field->value, $translate);
