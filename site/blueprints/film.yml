@@ -81,6 +81,10 @@ fields:
       Israel: Israel
       Iceland: Iceland
       Mexico: Mexico
+      Argentina: Argentina
+      Chile: Chile
+      Russia: Russia
+      Sweden: Sweden
     translate: false
     width: 1/2
   year:
