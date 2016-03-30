@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: Sonntagabend im verschneiten Deutschland, kurz vor dem Tatort. Im Fernsehen laufen die gewohnten Nachrichten über Flüchtlingskatastrophen an der Küste Italiens, in der Küche wird Sushi auf einer Platte gestapelt. Ein Pärchen freut sich auf einen gemütlichen Abend zu zweit, doch plötzlich klingelt ein Fremder, dem es draußen zu kalt ist. Es entbrennt ein Streit darüber, was man nun tun könnte, sollte oder müsste… Ein bissig-komödiantisches Kammerspiel.
+Text: Ein romantischer Tatort-Abend wird durch das Türklingeln zerstört. Am Hörer bittet ein Fremder, ihn reinzulassen. Erstarren. Was sollen sie nur tun? Riskieren oder sich um die eigene Liebesbeziehung kümmern?

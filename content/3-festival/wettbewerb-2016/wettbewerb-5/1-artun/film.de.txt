@@ -14,7 +14,7 @@ Type: Feature Film
 
 ----
 
-Country: Denmark
+Country: Denmark, Iceland
 
 ----
 
@@ -22,7 +22,7 @@ Year: 2014
 
 ----
 
-Duration: 21:00
+Duration: 21:18
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: Gudmundur Arnar
+Direction: Guðmundur Arnar Guðmundsson
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: Arnar, ein Junge aus einer Kleinstadt, hat noch nie ein Mädchen geküsst. Seine besten Freunde erzählen ihnen von den Mädchen in der Stadt, die vom Zigaretten rauchen high werden und dann einfach zu küssen sind. Arnar zweifelt an der Geschichte, aber entscheidet sich dann mit ihnen zu gehen, um seine eigenen Erfahrungen zu machen.
+Text: Drei Teenager fahren in die Hauptstadt und erproben Punk-Frisur, Rauchen und Flirten. Gleichzeitig ist das eine Reise zu sich selbst. Jeder stellt sich die Fragen: Was passiert mit mir? Meinem Körper? Letztlich bekommen sie mehr, als sie erwartet hatten.

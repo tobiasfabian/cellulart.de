@@ -2,7 +2,7 @@ Title: Wettbewerb 1
 
 ----
 
-Blockimage: wb1.png
+Blockimage: 
 
 ----
 

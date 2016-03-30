@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Feature Film
 
 ----
 
-Country: false
+Country: Mexico
 
 ----
 
-Year: 
+Year: 2015
 
 ----
 
-Duration: 
+Duration: 15:05
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Davek Carrizosa
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Alleinerziehend, am Rande des Lebens, aber jung und schön. Leona versucht, einen Weg zu finden, ihren Kindern eine Zukunft zu geben – auch wenn sie viel opfern muss.

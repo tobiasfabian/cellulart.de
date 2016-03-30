@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Animation
 
 ----
 
-Country: false
+Country: Israel
 
 ----
 
-Year: 
+Year: 2014
 
 ----
 
-Duration: 
+Duration: 9:22
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Niv Shpigel, Robert Moreno
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Wie viel wiegt die Vergangenheit? Für einen alten Mann in einem Schlauchboot in jedem Falle sehr viel.
