@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Animation
 
 ----
 
-Country: false
+Country: Russia
 
 ----
 
-Year: 
+Year: 2014
 
 ----
 
-Duration: 
+Duration: 15:00
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Konstantin Bronzit
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Eine schwerelose Freundschaft zwischen Traum und Realität.

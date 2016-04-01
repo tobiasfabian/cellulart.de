@@ -1,0 +1,53 @@
+Title: Länderschwerpunkt 1
+
+----
+
+Subtitle: gemeinsam einsam
+
+----
+
+Meta-description: Finnland Länderschwerpunkt 1 - gemeinsam einsam | 17. internationales Kurzfilmfestival cellu l'art
+
+----
+
+Text: Die Protagonisten dieser Filme vereint eines: Sie sind einsam, isoliert und auf der Suche nach Kontakt. Dabei müssen sie Hindernisse überwinden, gegen innere und äußere Barrieren ankämpfen und sich selbst erkunden. Der Ausgang ist ungewiss.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-20
+  time: 22:15
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

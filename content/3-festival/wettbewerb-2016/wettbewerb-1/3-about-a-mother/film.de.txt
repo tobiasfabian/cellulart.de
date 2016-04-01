@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Animation
 
 ----
 
-Country: false
+Country: Russia
 
 ----
 
-Year: 
+Year: 2015
 
 ----
 
-Duration: 
+Duration: 7:20
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Dina Velikovskaya
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Liebe einer Mutter: Selbst wenn sie sich den Unmut anderer zuzieht, ist eine Mutter immer für ihre Kinder da. Ob klein, ob groß – haarige Angelegenheiten gibt es immer zu lösen.

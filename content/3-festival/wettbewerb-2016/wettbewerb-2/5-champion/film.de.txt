@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Feature Film
 
 ----
 
-Country: false
+Country: Sweden
 
 ----
 
-Year: 
+Year: 2015
 
 ----
 
-Duration: 
+Duration: 19:24
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Måns Berthas
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Ein kalter Wintertag. Eine kalte Liebe. Da bringt der Besuch einer verloren geglaubten Leidenschaft alte Gefühle zurück. Ein wortloser Kampf beginnt, bis sich das ewige Dreieck für immer auflöst.
