@@ -202,6 +202,8 @@
   }
 }
 
-.invert .mainnav:not('open') {
-  background-color: transparent;
+.invert .mainnav {
+  @media (min-width: $max-width/12*7) {
+    background-color: transparent;
+  }
 }
