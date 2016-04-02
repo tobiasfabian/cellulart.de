@@ -117,6 +117,9 @@
     .direction {
       padding: 0.25em 0;
       text-transform: lowercase;
+      span {
+        text-transform: none;
+      }
     }
     p {
       padding: 0.25em 0;

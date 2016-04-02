@@ -29,7 +29,7 @@ function homepage() {
     },2.9*1000);
   }
 
-  var videoTimeout = setTimeout(showElementsWithTimeouts,2*1000);
+  var videoTimeout = setTimeout(showElementsWithTimeouts,3*1000);
 
   if (videoElement.offsetWidth !== 0) {
     videoElement.addEventListener('canplaythrough',function(){

@@ -80,7 +80,7 @@ function returnEvent($event, $faulloch) {
 <div class="center">
   <main>
     <div class="table">
-      <div class="hours">
+      <aside class="hours">
         <span>17:00</span>
         <span class="black">17:15</span>
         <span>18:00</span>
@@ -95,13 +95,15 @@ function returnEvent($event, $faulloch) {
         <span class="black">22:15</span>
         <span>23:00</span>
         <span>00:00</span>
+      </aside>
+      <div class="days">
+        <?= returnDay('2016-04-19', $faulloch = true) ?>
+        <?= returnDay('2016-04-20') ?>
+        <?= returnDay('2016-04-21') ?>
+        <?= returnDay('2016-04-22') ?>
+        <?= returnDay('2016-04-23') ?>
+        <?= returnDay('2016-04-24') ?>
       </div>
-      <?= returnDay('2016-04-19', $faulloch = true) ?>
-      <?= returnDay('2016-04-20') ?>
-      <?= returnDay('2016-04-21') ?>
-      <?= returnDay('2016-04-22') ?>
-      <?= returnDay('2016-04-23') ?>
-      <?= returnDay('2016-04-24') ?>
     </div>
     <footer>
       <?php if(!$page->footer_1()->empty()): ?>

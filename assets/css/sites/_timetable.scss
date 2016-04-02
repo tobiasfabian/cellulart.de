@@ -1,20 +1,35 @@
 .timetable {
   background-color: $red;
+  .center {
+    @media (max-width: $max-width) {
+      margin: 0 $default-padding;
+      width: auto;
+    }
+    @media (max-width: $max-width/12*10) {
+      margin-right: 0;
+      padding-right: 0;
+    }
+    @media (max-width: $max-width/12*7) {
+      margin-left: 0;
+      padding-left: 0;
+    }
+  }
   .table {
     position: relative;
-    display: flex;
+    height: 35em;
     margin-bottom: 4em;
-    height: 33em;
-    padding-left: 3rem;
     .hours {
       color: white;
       span {
         position: absolute;
         right: 0;
         left: 0;
-        padding-right: 100%;
+        padding-right: calc(100% - 3rem);
         text-align: right;
         transform: translateY(-0.6em);
+        @media (max-width: $max-width/12*7) {
+          padding-right: calc(100% - 3rem);
+        }
         &::after {
           position: absolute;
           top: 0.6em;
@@ -22,6 +37,9 @@
           right: 0;
           border-bottom: 2px solid white;
           content: '';
+          @media (max-width: $max-width/12*7) {
+            left: 3.5rem;
+          }
         }
         &.black {
           color: black;
@@ -34,12 +52,42 @@
         }
       }
     }
+    .days {
+      position: relative;
+      display: flex;
+      height: 100%;
+      margin-left: 4rem;
+      overflow: auto;
+      -webkit-overflow-scrolling: touch;
+      @media (max-width: $max-width/12*7) {
+        margin-left: 3.5rem;
+      }
+    }
     .day {
       position: relative;
       margin: 0 1em;
       flex: 0 1 16%;
       &:last-of-type {
         margin-right: 0;
+      }
+      &:first-of-type {
+        margin-left: 0;
+      }
+      @media (max-width: $max-width) {
+        margin: 0 0.5em;
+      }
+      @media (max-width: $max-width/12*10) {
+        min-width: 9em;
+        &:last-of-type {
+          min-width: calc(9em + 20px);
+          padding-right: $default-padding;
+          .event {
+            width: calc(50% - 10px);
+            &.black {
+              left: calc(50% - 10px);
+            }
+          }
+        }
       }
       header {
         h1 {
@@ -81,6 +129,9 @@
         color: black;
         background-color: white;
         border-bottom: 0;
+        @media (max-width: $max-width/12*10) {
+          padding: 0.25em;
+        }
         p {
           margin: auto;
           hyphens: auto;
@@ -103,15 +154,26 @@
     }
   }
   main footer {
-    margin-bottom: -2em;
+    margin-bottom: 0;
     padding-left: 4em;
     display: flex;
+    @media (max-width: $max-width/12*10) {
+      margin-right: $default-padding;
+    }
+    @media (max-width: $max-width/12*7) {
+      padding-left: 3.5em;
+    }
     .footer_1 {
+      margin-bottom: 1em;
       flex-grow: 1;
       flex-basis: 12em;
     }
     .footer_2 {
+      margin-bottom: 1em;
       flex-grow: 2;
+    }
+    @media (max-width: $max-width/12*10) {
+      display: block;
     }
   }
 }
