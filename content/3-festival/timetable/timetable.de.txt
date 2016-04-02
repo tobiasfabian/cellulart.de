@@ -84,3 +84,136 @@ Events:
   link: ""
   black: 'true'
   span: 'false'
+- 
+  name: |
+    WB
+    5
+  datetime: 2016-04-22 18:00:00
+  duration: "1.5"
+  link: festival/wettbewerb/wettbewerb-5
+  black: 'false'
+  span: 'false'
+- 
+  name: |
+    WB
+    1
+  datetime: 2016-04-22 18:15:00
+  duration: "1.5"
+  link: festival/wettbewerb/wettbewerb-1
+  black: 'true'
+  span: 'false'
+- 
+  name: |
+    WB
+    2
+  datetime: 2016-04-22 20:15:00
+  duration: "1.5"
+  link: festival/wettbewerb/wettbewerb-2
+  black: 'true'
+  span: 'false'
+- 
+  name: |
+    WB
+    3
+  datetime: 2016-04-22 22:15:00
+  duration: "1.5"
+  link: festival/wettbewerb/wettbewerb-3
+  black: 'true'
+  span: 'false'
+- 
+  name: |
+    LSP
+    2
+  datetime: 2016-04-22 20:00:00
+  duration: "1.5"
+  link: >
+    festival/laenderschwerpunkt/laenderschwerpunkt-2
+  black: 'false'
+  span: 'false'
+- 
+  name: 'Schock&shy;block'
+  datetime: 2016-04-22 22:00:00
+  duration: "1.5"
+  link: ""
+  black: 'false'
+  span: 'false'
+- 
+  name: |
+    WB
+    4
+  datetime: 2016-04-23 17:00:00
+  duration: "2"
+  link: festival/wettbewerb/wettbewerb-4
+  black: 'true'
+  span: 'false'
+- 
+  name: |
+    WB
+    5
+  datetime: 2016-04-23 19:00:00
+  duration: "2"
+  link: festival/wettbewerb/wettbewerb-5
+  black: 'true'
+  span: 'false'
+- 
+  name: 'Preisverleihung & Gewinnerfilme'
+  datetime: 2016-04-23 21:00:00
+  duration: "2"
+  link: ""
+  black: 'false'
+  span: 'true'
+- 
+  name: Gewinnerfilme
+  datetime: 2016-04-24 18:00:00
+  duration: "2"
+  link: ""
+  black: 'false'
+  span: 'false'
+- 
+  name: |
+    LSP
+    3
+  datetime: 2016-04-24 17:00:00
+  duration: "2"
+  link: >
+    festival/laenderschwerpunkt/laenderschwerpunkt-3
+  black: 'true'
+  span: 'false'
+- 
+  name: B-Sides
+  datetime: 2016-04-24 19:00:00
+  duration: "2"
+  link: ""
+  black: 'true'
+  span: 'false'
+
+----
+
+Footer-1: 
+
+WB = Wettbewerb
+LSP = Länderschwerpunkt
+
+----
+
+Footer-2: 
+
+Alle Filme laufen in Originalfassung und werden in deutscher oder englischer Sprache untertitelt.
+Außer Dienstag ist der Veranstaltungsort das Volksbad in Jena, Knebelstraße 10.
+After-Show-Party bei Filia – Freitag, 22. April 2016, 23:00 Uhr im Kassablanca, Gleis 1.
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

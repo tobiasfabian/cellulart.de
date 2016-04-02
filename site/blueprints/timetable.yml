@@ -49,3 +49,35 @@ fields:
         text:  yes/no
         default: no
         width: 1/2
+  footer_1:
+    label: Footer 1
+    type:  textarea
+    buttons: false
+  footer_2:
+    label: Footer 2
+    type:  textarea
+    buttons: false
+  venueHeadline:
+    label: Venue
+    type:  headline
+    help:  Important for search engines
+  venue:
+    label: Venue Name
+    type:  text
+  street:
+    label: Street
+    type:  text
+    translate: false
+    width: 1/3
+  zip:
+    label: ZIP
+    type:  text
+    default: 07743
+    translate: false
+    width: 1/3
+  city:
+    label: City
+    type:  text
+    default: Jena
+    translate: false
+    width: 1/3
