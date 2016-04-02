@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Feature Film
 
 ----
 
-Country: false
+Country: Denmark, Finland
 
 ----
 
-Year: 
+Year: 2014
 
 ----
 
-Duration: 
+Duration: 12:54
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Hamy Ramezan & Rungano Nyoni
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Polizeistation Kopenhagen. Eine Burka tragende Frau sucht nach Hilfe. Doch sie ist Sprachbarrieren und ungleichen Machtverhältnissen ausgeliefert.

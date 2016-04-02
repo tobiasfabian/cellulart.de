@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Feature Film
 
 ----
 
-Country: false
+Country: Finland
 
 ----
 
-Year: 
+Year: 2012
 
 ----
 
-Duration: 
+Duration: 22:29
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Tommi Seitajoki
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Ylva lebt ein trostloses Leben in einem Mietshaus und beobachtet heimlich und sehnsüchtig ihren Nachbarn. Am „Tag der Tiere“ ist die Zeit reif für den Schritt nach draußen.

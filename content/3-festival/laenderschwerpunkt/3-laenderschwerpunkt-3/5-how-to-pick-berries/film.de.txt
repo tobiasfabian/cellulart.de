@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Documentation
 
 ----
 
-Country: false
+Country: Finland
 
 ----
 
-Year: 
+Year: 2010
 
 ----
 
-Duration: 
+Duration: 18:59
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Elina Talvensaari
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: In den nordfinnischen Sümpfen erscheinen Besucher aus der Ferne. Sie wühlen etwas in den Einwohnern auf. Der Film erkundet die finnische Mentalität und enthüllt die Absurditäten des globalisierten Kapitalismus.

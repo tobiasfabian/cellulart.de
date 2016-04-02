@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Animation
 
 ----
 
-Country: false
+Country: Finland
 
 ----
 
-Year: 
+Year: 2014
 
 ----
 
-Duration: 
+Duration: 3:21
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Markus Tervola
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Einem Büroangestellten steigt der Alltagsstress zu Kopf. Der kann ihm nur noch platzen. Oder?

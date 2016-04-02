@@ -10,19 +10,19 @@ Video:
 
 ----
 
-Type: false
+Type: Feature Film
 
 ----
 
-Country: false
+Country: Finland
 
 ----
 
-Year: 
+Year: 2006
 
 ----
 
-Duration: 
+Duration: 14:21
 
 ----
 
@@ -30,7 +30,7 @@ Book:
 
 ----
 
-Direction: 
+Direction: Sami Korjus
 
 ----
 
@@ -42,4 +42,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Anja lebt mit ihrem Mann und ihren beiden Söhnen auf dem Land. Während sie auf dem Feld schuftet, sitzt er faul herum, trinkt und nörgelt. Eines Tages platzt ihr der Kragen.
