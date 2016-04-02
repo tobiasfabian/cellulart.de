@@ -23,53 +23,11 @@ c::set('cache.ignore', array(
 
 c::set('routes', array(
   array(
-    'pattern' => 'site/languages',
+    'pattern' => 'tickets',
     'action'  => function() {
-      go('news');
+      go('festival/tickets');
     }
   ),
-  array(
-    'pattern' => 'news/festival',
-    'action'  => function() {
-      go('news');
-    }
-  ),
-  array(
-    'pattern' => 'index_en.html',
-    'action'  => function() {
-      go('en');
-    }
-  ),
-  array(
-    'pattern' => 'contact',
-    'action'  => function() {
-      go('meta/kontakt');
-    }
-  ),
-  array(
-    'pattern' => 'downloads/programmheft_cellulart_2008.pdf',
-    'action'  => function() {
-      go('content/5-archiv/8-2008/cellulart_programmheft_2008.pdf');
-    }
-  ),
-  array(
-    'pattern' => 'downloads/programmheft_cellulart_2007.pdf',
-    'action'  => function() {
-      go('content/5-archiv/9-2007/cellulart_programmheft_2007.pdf');
-    }
-  ),
-  array(
-    'pattern' => 'en/contact/press',
-    'action'  => function() {
-      go('en/meta/presse');
-    }
-  ),
-  array(
-    'pattern' => 'archiv/2010/index.html',
-    'action'  => function() {
-      go('archiv/2010');
-    }
-  )
 ));
 
 

@@ -7,3 +7,35 @@ Meta-description:
 ----
 
 Builder: 
+
+- 
+  h1: Preise
+  text: |
+    ## Block-Ticket
+    Wettbewerb, Länderschwerpunkt, Specialprogramme, Preisverleihung & Gewinnerfilme
+    6,50 Euro (5,50 Euro)
+    
+    ## Festival-Ticket
+    namensgebunden 50 Euro (40 Euro)
+  _fieldset: text
+- 
+  h1: Vorverkauf
+  text: |
+    Jena Tourist-Information
+    Markt 16
+    07743 Jena
+    sowie an allen VVK-Stellen von JenaKultur
+    
+    ## VVK-Sonderangebot
+    0,50 Euro Rabatt auf alle Tickets an den folgenden VVK-Stellen:
+    
+    Mensa Ernst-Abbe-Platz
+    12.–14. April, 18.–20. April, 11:30–13:30 Uhr
+    
+    Open-Air am Johannistor
+    19\. April, 20:00 Uhr
+  _fieldset: text
+- 
+  h1: ""
+  text: 'Die Wettbewerbs- und Specialprogramme sind generell für Zuschauer ab 18 Jahren empfohlen. Hiervon ausgenommen ist das Programm Teen-Shorts.'
+  _fieldset: text
