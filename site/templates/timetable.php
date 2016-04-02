@@ -21,25 +21,29 @@ function returnDay($day, $faulloch = false) {
     return $field->date('d.m.y', 'datetime') == date('d.m.y', $day);
   });
   foreach($events as $event) {
-    $html .= returnEvent($event);
+    $html .= returnEvent($event, $faulloch);
   };
   $html .= '</div>';
   return $html;
 }
-function returnEvent($event) {
+function returnEvent($event, $faulloch) {
   $element;
   if ($event->link()->isEmpty()) {
     $element = new Brick('div');
+    $element->append('<meta itemprop="name" content="' . $event->name() . '">');
   } else {
     $element = new Brick('a');
     $page = page($event->link());
+    $title = $page->title() . ' – ' . $page->subtitle();
     $element->attr('href', $page->url());
+    $element->append('<meta itemprop="name" content="' . $title . '">');
     if ($page->subtitle()) {
-      $element->attr('title', $page->title() . ' – ' . $page->subtitle());
+      $element->attr('title', $title);
     }
   }
-  $element->attr('itemscope');
+  $element->attr('itemscope', ' ');
   $element->attr('itemtype', 'http://schema.org/Event');
+  $element->append('<meta itemprop="startDate" content="' . $event->date('c', 'datetime') . '">');
   $element->addClass('event');
   if ($event->black()->bool()) {
     $element->addClass('black');
@@ -49,9 +53,9 @@ function returnEvent($event) {
   }
   $element->data('time', $event->date('H:i', 'datetime'));
   $element->data('duration', $event->duration());
-  $element->html($event->name()->kt());
+  $element->append($event->name()->kt());
   $element->append('<meta itemprop="organizer" content="' . site()->title() . '">');
-  if (!page()->venue()->isEmpty()) {
+  if (!page()->venue()->isEmpty() and !$faulloch) {
     $elementLocation = new Brick('span');
     $elementLocation->attr('itemprop', 'location');
     $elementLocation->attr('itemscope', ' ');
