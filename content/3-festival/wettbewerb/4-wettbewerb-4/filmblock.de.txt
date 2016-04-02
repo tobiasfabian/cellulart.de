@@ -15,9 +15,15 @@ Dates:
 - 
   date: 2016-04-21
   time: 22:00
+  datetime: 2016-04-21 22:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717004
 - 
   date: 2016-04-23
   time: 17:00
+  datetime: 2016-04-23 17:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717012
 
 ----
 

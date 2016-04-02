@@ -17,30 +17,39 @@
           <?=$page->text()->kirbytextRaw()?>
         </p>
         <p class="meta">
-          <?php foreach($page->dates()->toStructure() as $item) :?>
-          <span itemscope itemtype="http://schema.org/Event">
+        <?php foreach($page->dates()->toStructure() as $item) :?>
+          <span class="event" itemscope itemtype="http://schema.org/Event">
             <meta itemprop="name" content="<?=$page->title().' – '.$page->subtitle()?>">
             <meta itemprop="organizer" content="<?=$site->title()?>">
-            <?php if(!$page->venue()->isEmpty()): ?>
+          <?php if(!$page->venue()->isEmpty()): ?>
             <span itemprop="location" itemscope itemtype="http://schema.org/Place">
               <meta itemprop="name" content="<?=$page->venue()?>">
-              <?php if(!$page->street()->isEmpty() AND !$page->zip()->isEmpty() AND !$page->city()->isEmpty()): ?>
+            <?php if(!$page->street()->isEmpty() AND !$page->zip()->isEmpty() AND !$page->city()->isEmpty()): ?>
               <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
                 <meta itemprop="streetAddress" content="<?=$page->street()?>">
                 <meta itemprop="postalCode" content="<?=$page->zip()?>">
                 <meta itemprop="addressLocality" content="<?=$page->city()?>">
               </span>
-              <?php endif ?>
-            </span>
             <?php endif ?>
-            <link itemprop="workPerformed" href="<?=$page->url()?>">
-            <time itemprop="startDate" datetime="<?=$item->date('c')?>"><?=strftime('%A, %e. %B %Y',$item->date('U'))?>, <?=$item->time()?></time><br>
-          </span>
-          <?php endforeach ?>
-          <?php if(!$page->venue()->isEmpty()): ?>
-          <span><?=$page->venue()->html()?></span>
+            </span>
           <?php endif ?>
+            <link itemprop="workPerformed" href="<?=$page->url()?>">
+          <?php if(!$item->datetime()->isEmpty()): ?>
+            <time itemprop="startDate" datetime="<?=$item->date('c', 'datetime')?>"><?=strftime('%A, %e. %B %Y',$item->date('U', 'datetime'))?>, <?=$item->date('H:i', 'datetime')?></time>
+          <?php else: ?>
+            <time itemprop="startDate" datetime="<?=$item->date('c')?>"><?=strftime('%A, %e. %B %Y',$item->date('U'))?>, <?=$item->time()?></time>
+          <?php endif; ?>
+          <?php if(!$item->tickets_url()->isEmpty()) : ?>
+            <a href="<?= $item->tickets_url() ?>" target="_blank" class="button black small">Tickets</a>
+          <?php endif; ?>
+            <br>
+          </span>
+        <?php endforeach ?>
+        <?php if(!$page->venue()->isEmpty()): ?>
+          <span><?=$page->venue()->html()?></span>
+        <?php endif ?>
         </p>
+        <?php snippet('share', array('item' => $page)) ?>
       </div>
       <div class="video" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
         <?php if (!$page->blockvideo()->isEmpty()): ?>

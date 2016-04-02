@@ -1,0 +1,47 @@
+.timetable {
+  background-color: $red;
+  .table {
+    display: flex;
+    .hours {
+      position: absolute;
+    }
+    .day {
+      position: relative;
+      margin: 0 1em;
+      flex: 0 1 16%;
+      header {
+
+      }
+      .event {
+        position: absolute;
+        display: flex;
+        width: 50%;
+        box-sizing: border-box;
+        padding: 1em;
+        line-height: 1.4em;
+        text-align: center;
+        color: black;
+        background-color: white;
+        border-bottom: 0;
+        p {
+          margin: auto;
+          hyphens: auto;
+        }
+        &.black {
+          left: 50%;
+          color: white;
+          background-color: black;
+        }
+        &.span {
+          width: 100%;
+          left: 0;
+        }
+      }
+      a.event {
+        &:focus, &:hover {
+          color: $red;
+        }
+      }
+    }
+  }
+}

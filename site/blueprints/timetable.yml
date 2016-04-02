@@ -1,0 +1,51 @@
+title: Timetable
+pages: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  meta_description:
+    label: Meta Description
+    type:  text
+    required: true
+  events:
+    label: Events
+    type:  structure
+    style: table
+    modalsize: large
+    help:  The order of this table does not matter.
+    fields:
+      name:
+        label: Name
+        type:  textarea
+        buttons: false
+        required: true
+      datetime:
+        label: Date/Time
+        type:  datetime
+        time:
+          interval: 15
+        required: true
+      duration:
+        label: Duration (in h)
+        type:  number
+        default: 1.5
+        required: true
+      link:
+        label: Link
+        type: page
+      black:
+        label: Black?
+        help:  Black will always show on the right (Kleiner Saal)
+        type:  toggle
+        text:  yes/no
+        default: no
+        width: 1/2
+      span:
+        label: Span?
+        help:  Event will span over whole width
+        type:  toggle
+        text:  yes/no
+        default: no
+        width: 1/2

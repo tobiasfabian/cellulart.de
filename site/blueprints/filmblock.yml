@@ -32,19 +32,18 @@ fields:
     label: Dates
     type: structure
     entry: >
-      {{date}} {{time}}
+      {{datetime}}
     fields:
-      date:
-        label: date
-        type:  date
-        width: 1/2
+      datetime:
+        label: date/time
+        type:  datetime
+        time:
+          interval: 15
         required: true
-      time:
-        label: time
-        type:  time
-        interval: 15
-        width: 1/2
-        required: true
+      tickets_url:
+        label: Tickets URL
+        type:  url
+        validate: url
     translate: false
   blockimage:
     label: Block Image

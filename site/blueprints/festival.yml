@@ -6,6 +6,7 @@ pages:
     - competition
     - jury
     - sponsors
+    - timetable
 files:
   sortable: true
   fields:

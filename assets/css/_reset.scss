@@ -87,6 +87,14 @@ a {
         background-color: white;
       }
     }
+    &.black {
+      color: black;
+      border-color: black;
+      &:focus, &:hover {
+        color: white !important;
+        background-color: black;
+      }
+    }
     &:focus, &:hover {
       color: white;
       background-color: $red;

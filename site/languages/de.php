@@ -23,3 +23,5 @@ l::set('next page', 'nächste Seite');
 l::set('previous page', 'vorherige Seite');
 
 l::set('share', 'teilen');
+
+l::set('buy tickets', 'Tickets kaufen');

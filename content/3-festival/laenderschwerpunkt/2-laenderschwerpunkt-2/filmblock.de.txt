@@ -19,6 +19,9 @@ Dates:
 - 
   date: 2016-04-22
   time: 20:00
+  datetime: 2016-04-22 20:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717008
 
 ----
 
