@@ -54,23 +54,19 @@ RewriteRule ^(.*) index.php [L]
 <IfModule mod_expires.c>
   ExpiresActive On
 
-  ExpiresByType text/html "modification plus 1 hour"
-  ExpiresByType text/css "modification plus 1 year"
-  ExpiresByType text/javascript "modification plus 1 year"
-  ExpiresByType text/plain "modification plus 1 year"
-  ExpiresByType application/javascript "modification plus 1 year"
-  ExpiresByType application/x-javascript "modification plus 1 year"
+  ExpiresByType text/html "access plus 1 hour"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType text/plain "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType application/x-javascript "access plus 1 month"
 
-  ExpiresByType application/font-woff "modification plus 1 year"
-  ExpiresByType image/svg+xml "modification plus 1 year"
-  ExpiresByType image/jpeg "modification plus 1 year"
-  ExpiresByType image/png "modification plus 1 year"
-  ExpiresByType application/vnd.ms-fontobject "modification plus 1 year"
-  ExpiresByType application/x-font-ttf "modification plus 1 year"
-  ExpiresByType application/x-font-truetype "modification plus 1 year"
-  ExpiresByType application/x-font-opentype "modification plus 1 year"
-  ExpiresByType application/octet-stream "modification plus 1 year"
-  ExpiresByType image/x-icon "modification plus 1 year"
+  ExpiresByType application/font-woff "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 year"
+
 </IfModule>
 
 
