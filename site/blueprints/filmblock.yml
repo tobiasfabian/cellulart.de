@@ -31,8 +31,6 @@ fields:
   dates:
     label: Dates
     type: structure
-    entry: >
-      {{datetime}}
     fields:
       datetime:
         label: date/time
@@ -40,6 +38,10 @@ fields:
         time:
           interval: 15
         required: true
+      facebook_event:
+        label: Facebook Event
+        type:  url
+        validate: url
       tickets_url:
         label: Tickets URL
         type:  url

@@ -1,14 +1,16 @@
 <div class="gallery">
-  <nav>
-    <a class="previous"></a>
-    <a class="next"></a>
-  </nav>
   <?php
     $filenames = $section->images()->split(',');
     if(count($filenames) < 2) $filenames = array_pad($filenames, 2, '');
     $files = call_user_func_array(array($page->files(), 'find'), $filenames);
     $files = $files->sortBy('sort', 'asc');
   ?>
+  <?php if(count($section->images()->split(',')) > 1): ?>
+  <nav>
+    <a class="previous"></a>
+    <a class="next"></a>
+  </nav>
+  <?php endif; ?>
   <ul>
   <?php foreach($files as $file) : ?>
     <li>

@@ -39,6 +39,9 @@
           <?php else: ?>
             <time itemprop="startDate" datetime="<?=$item->date('c')?>"><?=strftime('%A, %e. %B %Y',$item->date('U'))?>, <?=$item->time()?></time>
           <?php endif; ?>
+          <?php if(!$item->facebook_event()->isEmpty()) : ?>
+            <a href="<?= $item->facebook_event() ?>" target="_blank" class="button black small">FB Event</a>
+          <?php endif; ?>
           <?php if(!$item->tickets_url()->isEmpty()) : ?>
             <a href="<?= $item->tickets_url() ?>" target="_blank" class="button black small">Tickets</a>
           <?php endif; ?>
@@ -51,19 +54,19 @@
         </p>
         <?php snippet('share', array('item' => $page)) ?>
       </div>
+      <?php if (!$page->blockvideo()->isEmpty()): ?>
       <div class="video" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
-        <?php if (!$page->blockvideo()->isEmpty()): ?>
           <svg class="play" viewBox="0 0 52 52">
             <path d="M0,0 L52,0 L52,36 L36,52 L0,52 L0,0 Z M17,38 L38,26 L17,14 L17,38 Z"></path>
           </svg>
-          <video src="<?= $page->blockvideo()->toFile()->url() ?>" <?= !$page->blockimage()->isEmpty() ? 'poster="'.$page->blockimage()->toFile()->url().'"' : null ?> preload="auto"></video>
-          <?= $page->blockimage()->toFile() !== null ? '<link itemprop="thumbnailUrl" href="'.$page->blockimage()->toFile()->url().'">' : null ?>
-        <?php elseif (!$page->blockimage()->isEmpty() AND $page->blockimage()->toFile() !== null): ?>
-          <img src="<?=$page->blockimage()->toFile()->url()?>">
-        <?php elseif (!$page->bockvideo_vimeo()->isEmpty()): ?>
-          <?= embed::vimeo($page->bockvideo_vimeo()) ?>
-        <?php endif ?>
+          <video src="<?= $page->blockvideo()->toFile()->url() ?>" <?= !$page->blockimage()->isEmpty() ? 'poster="'.$page->blockimage()->toFile()->resize(505, null, 80)->url().'"' : null ?> preload="auto"></video>
+          <?= !$page->blockimage()->isEmpty() ? '<link itemprop="thumbnailUrl" href="'.$page->blockimage()->toFile()->resize(505 * 2, null, 80)->url().'">' : null ?>
       </div>
+      <?php elseif (!$page->blockimage()->isEmpty() AND $page->blockimage()->toFile() !== null): ?>
+        <img class="image" src="<?=$page->blockimage()->toFile()->resize(505, null, 80)->url()?>" srcset="<?=$page->blockimage()->toFile()->resize(505 * 2, null, 80)->url()?> 2x">
+      <?php elseif (!$page->bockvideo_vimeo()->isEmpty()): ?>
+        <?= embed::vimeo($page->bockvideo_vimeo()) ?>
+      <?php endif ?>
       <div class="clear"></div>
     </header>
     <?php if ($page->hasVisibleChildren()): ?>

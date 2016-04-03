@@ -9,9 +9,9 @@ Meta-description: Am 23. April findet die große Preisverleihung des cellu l'art
 Builder: 
 
 - 
-  h1: >
-    Große Preisverleihung am Samstag, 23.
-    April
+  h1: |
+    Große Preisverleihung
+    am Samstag, 23. April
   text: |
     Der Höhepunkt des cellu l'art Festivals ist die Prämierung der Gewinnerfilme aus den Wettbewerbsblöcken. Eine Fach- und
     Jugendjury küren die Crème de la Crème der diesjährigen Filmeinreichungen und cellu l'art zeigt an diesem Abend alle Gewinnerfilme noch einmal in voller Länge in einem Block.
@@ -25,5 +25,5 @@ Builder:
     Volksbad Jena
   _fieldset: text
 - 
-  images: ""
+  images: cellulart_preisverleihung.jpg
   _fieldset: gallery

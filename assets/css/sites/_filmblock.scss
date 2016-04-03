@@ -13,8 +13,10 @@
           }
           .meta {
             // line-height: 1.6em;
+            time {
+              margin-right: 0.2em;
+            }
             .button {
-              margin-left: 0.2em;
               height: auto;
               padding: 2px 2px 1px;
               font-size: 0.8em;
@@ -22,7 +24,7 @@
               color: white;
               border-color: transparent;
               background-color: $red;
-              transform: translateY(0px);
+              transform: translateY(-1px);
               &:focus, &:hover {
                 border-color: $red;
                 color: $red !important;
@@ -44,11 +46,20 @@
             padding: 0;
           }
         }
-        .video {
+        .video, .image {
           position: relative;
           float: right;
           width: $raster-width * 6;
           padding: 0 $default-padding;
+          @media (max-width: $max-width/12*7) {
+            float: none;
+            width: 100%;
+          }
+          @media (max-width: $max-width/12*6) {
+            padding: 0;
+          }
+        }
+        .video {
           cursor: pointer;
           .play {
             position: absolute;
@@ -82,13 +93,6 @@
             @media (max-width: $max-width/12*6) {
               height: calc((100vw - 32px) / 16 * 9);
             }
-          }
-          @media (max-width: $max-width/12*7) {
-            float: none;
-            width: 100%;
-          }
-          @media (max-width: $max-width/12*6) {
-            padding: 0;
           }
         }
       }
