@@ -49,7 +49,7 @@ Events:
   name: Teen-Shorts
   datetime: 2016-04-21 18:15:00
   duration: "1.5"
-  link: ""
+  link: festival/specials/teen-shorts
   black: 'true'
   span: 'false'
 - 
@@ -65,7 +65,7 @@ Events:
   name: Green-Block
   datetime: 2016-04-21 20:15:00
   duration: "1.5"
-  link: ""
+  link: festival/specials/green-block
   black: 'true'
   span: 'false'
 - 
@@ -78,10 +78,10 @@ Events:
   black: 'false'
   span: 'false'
 - 
-  name: 'Queer&shy;block'
+  name: Queer­block
   datetime: 2016-04-21 22:15:00
   duration: "1.5"
-  link: ""
+  link: festival/specials/queer-block
   black: 'true'
   span: 'false'
 - 
@@ -131,10 +131,10 @@ Events:
   black: 'false'
   span: 'false'
 - 
-  name: 'Schock&shy;block'
+  name: Schock­block
   datetime: 2016-04-22 22:00:00
   duration: "1.5"
-  link: ""
+  link: festival/specials/shock-block
   black: 'false'
   span: 'false'
 - 
@@ -183,7 +183,7 @@ Events:
   name: B-Sides
   datetime: 2016-04-24 19:00:00
   duration: "2"
-  link: ""
+  link: festival/specials/b-sides
   black: 'true'
   span: 'false'
 
