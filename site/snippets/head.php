@@ -2,21 +2,21 @@
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <?php if ($page->template() == 'news_entry'): ?>
+<?php if ($page->template() == 'news_entry'): ?>
   <meta name="desciption" content="<?= $page->text()->excerpt(140) ?>">
   <meta property="og:description" content="<?= $page->text()->excerpt(420) ?>">
-  <?php else: ?>
+<?php else: ?>
   <meta name="desciption" property="og:description" content="<?= !$page->meta_description()->isEmpty() ? $page->meta_description() : $site->meta_description() ?>">
-  <?php endif; ?>
+<?php endif; ?>
   <meta property="og:title" content="<?=$page->title()?>">
   <meta property="og:site_name" content="<?=$site->title()?>">
-  <?php if ($page->template() == 'news_entry' AND $page->hasImages()): ?>
+<?php if ($page->template() == 'news_entry' AND $page->hasImages()): ?>
   <meta property="og:image" content="<?=$page->image()->url()?>">
-  <?php elseif ($page->template() == 'filmblock' AND !$page->blockimage()->isEmpty()): ?>
+<?php elseif ($page->template() == 'filmblock' AND !$page->blockimage()->isEmpty()): ?>
   <meta property="og:image" content="<?=$page->blockimage()->toFile()->resize(505 * 2, null, 80)->url()?>">
-  <?php else: ?>
+<?php else: ?>
   <meta property="og:image" content="<?=url('assets/images/fb-share-image.jpg')?>">
-  <?php endif; ?>
+<?php endif; ?>
   <meta property="og:url" content="<?=$page->url()?>">
 <?php if($site->language()->code() == 'en') : ?>
   <meta property="og:locale" content="<?=$site->language('en')->locale()?>">
@@ -24,7 +24,20 @@
 <?php else: ?>
   <meta property="og:locale" content="<?=$site->language('de')->locale()?>">
   <meta property="og:locale:alternate" content="<?=$site->language('en')->locale()?>">
-<?php endif ?>
+<?php endif; ?>
+
+<?php if ($page->template() == 'filmblock'): ?>
+<?php if (!$page->blockimage()->isEmpty()): ?>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="<?= $page->blockimage()->toFile()->resize(505 * 2, null, 80)->url() ?>">
+  <meta name="twitter:creator" content="@cellulart_">
+<?php else: ?>
+  <meta name="twitter:card" content="summary">
+<?php endif; ?>
+  <meta name="twitter:site" content="@cellulart_">
+  <meta name="twitter:title" content="<?= $page->title()->html() .' – '. $page->subtitle()->html() ?>">
+  <meta name="twitter:description" content="<?= $page->text()->html() ?>.">
+<?php endif; ?>
 
   <link rel="stylesheet" href="<?=url('assets/css/style.css')?>">
 <?php if($site->language()->code() == 'de') : ?>
