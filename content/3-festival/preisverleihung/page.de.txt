@@ -1,9 +1,29 @@
-Title: Preisverleihung
+Title: Preisverleihung | cellu l'art Kurzfilmfestival 2016
 
 ----
 
-Meta-description: 
+Meta-description: Am 23. April findet die große Preisverleihung des cellu l'art Kurzfilmfestivals im Jenaer Volksbad statt. Alle Gewinnerfilme werden in voller Länge gezeigt.
 
 ----
 
 Builder: 
+
+- 
+  h1: >
+    Große Preisverleihung am Samstag, 23.
+    April
+  text: |
+    Der Höhepunkt des cellu l'art Festivals ist die Prämierung der Gewinnerfilme aus den Wettbewerbsblöcken. Eine Fach- und
+    Jugendjury küren die Crème de la Crème der diesjährigen Filmeinreichungen und cellu l'art zeigt an diesem Abend alle Gewinnerfilme noch einmal in voller Länge in einem Block.
+    
+    Die großen mit jeweils EUR 1.000,- dotierten Preise „Bester Spielfilm“ und „Bester ExAnD“ (Experimental, Animation & Dokumentation) werden um den „Teen-Shorts- Award“, den „Jenaer Filmpreis für Toleranz“ sowie den Publikumspreis und den Preis der Jugendjury ergänzt.
+    
+    Für die passende Atmosphäre sorgen ein Sektempfang und musikalische Umrahmung.
+    
+    **Preisverleihung**
+    23.04.2016 um 20:30 Uhr
+    Volksbad Jena
+  _fieldset: text
+- 
+  images: ""
+  _fieldset: gallery

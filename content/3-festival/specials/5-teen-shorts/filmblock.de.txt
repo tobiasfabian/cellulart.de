@@ -1,0 +1,58 @@
+Title: Teen-Shorts
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+Unter dem Motto „Kurzfilme mal selber machen“ wird in der Festivalwoche der Teen-Shorts-Filmabend für alle Jugendlichen ab 14 Jahren eingeläutet. Am Donnerstag, den 21. April könnt ihr ab 18:15 Uhr zunächst eine Gruppe von Jugendlichen mit Fragen darüber löchern, was es heißt, ein Filmemacher zu sein. Natürlich dürft ihr einige ihrer Werke, die im Rahmen eines Drehbuch-Workshops entstanden sind, auch bestaunen. Im Anschluss daran könnt ihr euch auf ein tolles, abwechslungsreiches Kurzfilmprogramm freuen: Ihr erfahrt, was andere in eurem Alter denken, warum Smartphones und Co. uns offensichtlich zu Zombies machen und könnt mitfiebern, wenn es darum geht, ums Überleben zu kämpfen.
+
+Der von Jena Bioscience gesponserte Teen-Shorts-Award wird in diesem Rahmen zum ersten Mal verliehen. An dieser Stelle seid ihr gefragt: Denn ihr, das Publikum, könnt entscheiden, welcher Film den Preis von 250 Euro mit nach Hause nehmen darf!
+Also lasst euch diese Chance nicht entgehen, denn ihr könnt sicher sein: Es erwarten euch noch weitere aufregende Gäste und Überraschungen.
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-21 18:15:00
+  tickets_url: ""
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

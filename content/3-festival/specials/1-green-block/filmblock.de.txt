@@ -1,0 +1,53 @@
+Title: Green-Block
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: Wandertouren sind beliebter als Pauschalurlaub am Strand und vegetarische Ernährung ist in. Dieser Block warnt uns davor blauäugig in eine scheinbar rosige Zukunft gehen.
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-21 20:15:00
+  tickets_url: ""
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

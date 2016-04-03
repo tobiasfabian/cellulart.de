@@ -1,0 +1,56 @@
+Title: B-Sides
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+Nicht alle Highlights haben sich im Wettbewerb unterbringen lassen. Aber abseits ... abseits des Weges findet man die schönen Blumen!
+Das ist auch beim Kurzfilm nicht anders: Die B-Sides sind ein bisschen abseitiger und damit alles – außer gewöhnlich.
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-24 19:00:00
+  tickets_url: ""
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

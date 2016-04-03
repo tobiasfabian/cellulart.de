@@ -1,9 +1,19 @@
-Title: Spielort
+Title: Volksbad Jena | Spielort des cellu l'art Kurzfimfestivals 2016
 
 ----
 
-Meta-description: 
+Meta-description: Erlebe das 17. cellu l'art Kurzfilm Festival im Volksbad Jena.
 
 ----
 
 Builder: 
+
+- 
+  h1: |
+    Spielort 2016
+    Volksbad Jena
+  text: |
+    Das Volksbad in Jena besitzt eine umfangreiche Vergangenheit. Es wurde bereits zwischen 1907 und 1909 erbaut und avancierte mit Saunen, Schwimmbecken und medizinischen Badkuren schnell zu einem zentralen Treffpunkt kulturellen Austauschs in Jena.  Nach dem Jahrtausendwechsel wurde das unter Denkmalschutz stehende Gebäude vorrübergehend geschlossen. Ein Umbau ermöglichte jedoch die Fortführung der langen Tradition des Hauses. Seit 2007 ist das Volksbad ein beliebter und oft besuchter Veranstaltungsort. Das cellu l'art Kurzfilm Festival findet 2016 bereits zum vierten mal in der geschichtsträchtigen Location des Volksbads statt.
+    
+    http://www.volksbad-jena.de
+  _fieldset: text
