@@ -12,6 +12,8 @@
   <meta property="og:site_name" content="<?=$site->title()?>">
 <?php if ($page->template() == 'news_entry' AND $page->hasImages()): ?>
   <meta property="og:image" content="<?=$page->image()->url()?>">
+<?php elseif ($page->template() == 'association' AND !$page->team_photo()->isEmpty()): ?>
+  <meta property="og:image" content="<?=$page->team_photo()->toFile()->resize(908 * 2, null, 80)->url()?>">
 <?php elseif ($page->template() == 'filmblock' AND !$page->blockimage()->isEmpty()): ?>
   <meta property="og:image" content="<?=$page->blockimage()->toFile()->resize(505 * 2, null, 80)->url()?>">
 <?php else: ?>
