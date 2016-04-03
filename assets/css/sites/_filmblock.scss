@@ -12,24 +12,8 @@
             margin-top: 0;
           }
           .meta {
-            // line-height: 1.6em;
             time {
-              margin-right: 0.2em;
-            }
-            .button {
-              height: auto;
-              padding: 2px 2px 1px;
-              font-size: 0.8em;
-              letter-spacing: 0.02em;
-              color: white;
-              border-color: transparent;
-              background-color: $red;
-              transform: translateY(-1px);
-              &:focus, &:hover {
-                border-color: $red;
-                color: $red !important;
-                background-color: transparent;
-              }
+              margin-right: 0.1em;
             }
             .event {
               display: block;

@@ -159,14 +159,14 @@ Events:
   name: 'Preisverleihung & Gewinnerfilme'
   datetime: 2016-04-23 21:00:00
   duration: "2"
-  link: ""
+  link: festival/preisverleihung
   black: 'false'
   span: 'true'
 - 
   name: Gewinnerfilme
   datetime: 2016-04-24 18:00:00
   duration: "2"
-  link: ""
+  link: festival/preisverleihung
   black: 'false'
   span: 'false'
 - 

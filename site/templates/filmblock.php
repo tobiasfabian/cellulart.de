@@ -35,15 +35,15 @@
           <?php endif ?>
             <link itemprop="workPerformed" href="<?=$page->url()?>">
           <?php if(!$item->datetime()->isEmpty()): ?>
-            <time itemprop="startDate" datetime="<?=$item->date('c', 'datetime')?>"><?=strftime('%A, %e. %B %Y',$item->date('U', 'datetime'))?>, <?=$item->date('H:i', 'datetime')?></time>
+            <time itemprop="startDate" datetime="<?=$item->date('c', 'datetime')?>"><?=strftime('%a, %e. %B %Y',$item->date('U', 'datetime'))?>, <?=$item->date('H:i', 'datetime'), ' ', l::get('o’clock')?></time>
           <?php else: ?>
             <time itemprop="startDate" datetime="<?=$item->date('c')?>"><?=strftime('%A, %e. %B %Y',$item->date('U'))?>, <?=$item->time()?></time>
           <?php endif; ?>
           <?php if(!$item->facebook_event()->isEmpty()) : ?>
-            <a href="<?= $item->facebook_event() ?>" target="_blank" class="button black small">FB Event</a>
+            <a href="<?= $item->facebook_event() ?>" target="_blank" class="button small">FB Event</a>
           <?php endif; ?>
           <?php if(!$item->tickets_url()->isEmpty()) : ?>
-            <a href="<?= $item->tickets_url() ?>" target="_blank" class="button black small">Tickets</a>
+            <a href="<?= $item->tickets_url() ?>" target="_blank" class="button small">Tickets</a>
           <?php endif; ?>
             <br>
           </span>

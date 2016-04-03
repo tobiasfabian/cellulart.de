@@ -20,8 +20,12 @@ Builder:
     
     Für die passende Atmosphäre sorgen ein Sektempfang und musikalische Umrahmung.
     
-    **Preisverleihung**
-    23.04.2016 um 20:30 Uhr
+    **Preisverleihung & Gewinnerfilme**
+    23\. April 2016, 20:30 Uhr (link: http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717014 text: Tickets class: button small popup: true)
+    Volksbad Jena
+    
+    **Gewinnerfilme**
+    24\. April 2016, 18:00 Uhr (link: http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717014 text: Tickets class: button small popup: true)
     Volksbad Jena
   _fieldset: text
 - 

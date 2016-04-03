@@ -1,0 +1,47 @@
+.button {
+  display: inline-block;
+  padding: 0.4em 0.3em 0.2em;
+  color: $red;
+  font-size: 0.9em;
+  line-height: 1em;
+  letter-spacing: 0.04em;
+  text-transform: lowercase;
+  border: 1.5px solid $red;
+  &.invert {
+    color: white;
+    border-color: white;
+    &:focus, &:hover {
+      color: $red !important;
+      background-color: white;
+    }
+  }
+  &.black {
+    color: black;
+    border-color: black;
+    &:focus, &:hover {
+      color: white !important;
+      background-color: black;
+    }
+  }
+  &.red-fill {
+    color: white;
+    border-color: transparent;
+    background-color: $red;
+    &:focus, &:hover {
+      border-color: $red;
+      color: $red !important;
+      background-color: transparent;
+    }
+  }
+  &.small {
+    height: auto;
+    padding: 2px 2px 1px;
+    font-size: 0.8em;
+    letter-spacing: 0.02em;
+    transform: translateY(-1px);
+  }
+  &:focus, &:hover {
+    color: white;
+    background-color: $red;
+  }
+}

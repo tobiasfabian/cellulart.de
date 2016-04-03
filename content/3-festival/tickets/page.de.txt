@@ -19,6 +19,10 @@ Builder:
     namensgebunden 50 Euro (40 Euro)
   _fieldset: text
 - 
+  h1: Onlinetickets
+  text: 'Blocktickets können dieses Jahr auch online gekauft werden. Einfach über den (link: festival/timetable text: Timetable) den Filmblock auswählen. Anschließend auf der Filmblock-Seite auf den Ticket-Button klicken. Der Online-Ticketverkauf läuft über JenaKultur.'
+  _fieldset: text
+- 
   h1: Vorverkauf
   text: |
     Jena Tourist-Information

@@ -9,6 +9,8 @@ $raster-width: 100% / 12;
 @import 'reset';
 @import 'fonts';
 
+@import 'components/button';
+
 @import 'modules/mainnav';
 @import 'modules/subnav';
 @import 'modules/mainfooter';

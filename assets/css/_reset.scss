@@ -70,36 +70,6 @@ a {
   &:focus, &:hover, &.active {
     border-color: $red;
   }
-  &.button {
-    display: inline-block;
-    padding: 0.4em 0.3em 0.2em;
-    color: $red;
-    font-size: 0.9em;
-    line-height: 1em;
-    letter-spacing: 0.04em;
-    text-transform: lowercase;
-    border: 1.5px solid $red;
-    &.invert {
-      color: white;
-      border-color: white;
-      &:focus, &:hover {
-        color: $red !important;
-        background-color: white;
-      }
-    }
-    &.black {
-      color: black;
-      border-color: black;
-      &:focus, &:hover {
-        color: white !important;
-        background-color: black;
-      }
-    }
-    &:focus, &:hover {
-      color: white;
-      background-color: $red;
-    }
-  }
 }
 .center {
   margin: 0 auto;

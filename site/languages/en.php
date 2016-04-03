@@ -25,3 +25,5 @@ l::set('previous page', 'previous page');
 l::set('share', 'share');
 
 l::set('buy tickets', 'buy tickets');
+
+l::set('o’clock', '');
