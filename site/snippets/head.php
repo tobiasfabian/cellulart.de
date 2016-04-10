@@ -3,10 +3,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <?php if ($page->template() == 'news_entry'): ?>
-  <meta name="desciption" content="<?= $page->text()->excerpt(140) ?>">
+  <meta name="description" content="<?= $page->text()->excerpt(140) ?>">
   <meta property="og:description" content="<?= $page->text()->excerpt(420) ?>">
 <?php else: ?>
-  <meta name="desciption" property="og:description" content="<?= !$page->meta_description()->isEmpty() ? $page->meta_description() : $site->meta_description() ?>">
+  <meta name="description" property="og:description" content="<?= !$page->meta_description()->isEmpty() ? $page->meta_description() : $site->meta_description() ?>">
 <?php endif; ?>
   <meta property="og:title" content="<?=$page->title()?>">
   <meta property="og:site_name" content="<?=$site->title()?>">
