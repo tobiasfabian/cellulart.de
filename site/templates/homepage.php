@@ -49,7 +49,7 @@
       </video>
     <?php endif ?>
     <?php if (!$page->teaserimage_mobile()->isEmpty()): ?>
-      <img src="<?=$page->teaserimage_mobile()->toFile()->url()?>">
+      <img src="<?=$page->teaserimage_mobile()->toFile()->url()?>" alt="Teaser">
     <?php endif ?>
   </div>
 </main>

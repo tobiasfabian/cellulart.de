@@ -7,15 +7,18 @@
   <ul class="nav-1">
     <?php foreach ($pages->visible() as $item): ?>
     <li<?php ecco($item->isOpen(),' class="active"') ?>>
-      <a href="<?=$item->url()?>">
-        <?php if ($item->isHomePage()) : ?>
+    <?php if ($item->isHomePage()) : ?>
+      <a href="<?=$item->url()?>" title="<?= $item->title() ?>">
         <svg viewBox="0 0 20 20">
+          <title><?= $item->title() ?></title>
           <path d="M18,0 L10.2857791,0 L0,10.2857791 L0,18 L7.71431163,18 L18,7.71422092 L18,0 Z"></path>
         </svg>
-        <?php else: ?>
-        <span><?=$item->title()->html()?></span>
-        <?php endif ?>
       </a>
+      <?php else: ?>
+      <a href="<?=$item->url()?>">
+        <span><?=$item->title()->html()?></span>
+      </a>
+      <?php endif ?>
       <?php if ($item->hasVisibleChildren() && $item->id() != 'news'): ?>
       <ul>
         <?php foreach($item->children()->visible() as $item): ?>
