@@ -10,7 +10,7 @@ Video: my-enemy-my-brother.mp4
 
 ----
 
-Type: Documentation
+Type: Documentary
 
 ----
 

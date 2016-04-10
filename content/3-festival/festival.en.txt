@@ -5,10 +5,9 @@ Title: Festival
 Builder: 
 
 - 
-  h1: >
-    19–24 April Volksbad Jena – cellu
-    l’art International Short Film
-    Festival
+  h1: |
+    cellu l’art
+    International Short Film Festival
   text: |
     What to expect at the International Short Film Festival? From 19th to 24th April we will be presenting top-notch short films of all genres and categories from filmmakers from all over world in Volksbad Jena. We will make you laugh, cry, dance and reflect.
     

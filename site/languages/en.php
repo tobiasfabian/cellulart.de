@@ -6,9 +6,9 @@ l::set('direction', 'direction');
 l::set('sponsors', 'Sponsors');
 l::set('patronizer', 'Patronizer');
 
-l::set('Feature Film', 'Feature Film');
+l::set('Fiction', 'Fiction');
 l::set('Animation', 'Animation');
-l::set('Documentation', 'Documentation');
+l::set('Documentary', 'Documentary');
 l::set('Music Video', 'Music Video');
 l::set('Mockumentary', 'Mockumentary');
 l::set('Experimental', 'Experimental');

@@ -1,28 +1,29 @@
-Title: Wettbewerb 1
+Title: Wettbewerb 2
 
 ----
 
-Subtitle: LΦve
+Subtitle: partners in crime
 
 ----
 
-Text: 
-
-Liebe ist … nicht nur, wenn
-zwei einander gefunden
-haben. Das auch, aber
-sie umfasst mehr. Sie gibt
-dem Leben Sinn und
-Inhalt. Sie lässt uns die
-großen und kleinen Dinge
-erfassen, die schönen
-Momente, die intensiven
-und intimen. Darin gleicht
-sie dem Kurzfilm.
+Text: Liebe ist … nicht nur, wenn zwei einander gefunden haben. Das auch, aber sie reicht weiter und geht tiefer. Sie gibt dem Leben Sinn und Inhalt. Sie lässt uns die großen und kleinen Dinge erfassen, die schönen Momente, die intensiven und intimen. Darin gleicht sie dem Kurzfilm.
 
 ----
 
 Dates: 
+
+- 
+  date: 2016-04-21
+  time: 18:00
+  datetime: 2016-04-21 18:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717002
+- 
+  date: 2016-04-22
+  time: 20:15
+  datetime: 2016-04-22 20:15:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717015
 
 ----
 
@@ -34,8 +35,24 @@ Blockvideo:
 
 ----
 
-Meta-description: Muss zum Ausspielen erlaubt werden
+Meta-description: Freundschaften auf der Probe und Irrungen und Wirrungen der Liebe gibt es in diesem Wettbewerb zu bestaunen. cellu l'art Kurzfilmfestival | 19. – 24. April
 
 ----
 
-Venue: fdgdfg
+Venue: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

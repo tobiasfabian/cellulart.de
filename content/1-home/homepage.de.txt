@@ -15,3 +15,18 @@ Teaservideo: teaser-desktop.mp4
 ----
 
 Teaserimage-mobile: teaser-mobile.jpg
+
+----
+
+Meta-description: Vom 19. bis 24. April 2016 präsentieren das cellu l’art im Volksbad Jena erstklassige Kurzfilme aller Kategorien und Genres von Filmemachern aus der ganzen Welt.
+
+----
+
+Quicklinks: 
+
+- 
+  name: timetable
+  url: festival/timetable
+- 
+  name: Tickets
+  url: festival/tickets

@@ -14,9 +14,22 @@ fields:
   title:
     label: Title
     type:  text
-  text:
+  meta_description:
     label: Meta Description
     type:  text
+  quicklinks:
+    label: Quick Links
+    type:  structure
+    style: table
+    fields:
+      name:
+        label: Name
+        type:  text
+        required: true
+      url:
+        label: URL
+        type:  url
+        required: true
   teaserimage-mobile:
     label: Teaser Image (Mobile)
     type:  selector

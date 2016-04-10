@@ -34,7 +34,7 @@ Country: Germany
 
 ----
 
-Type: Feature Film
+Type: Fiction
 
 ----
 

@@ -69,10 +69,57 @@
     }
   }
   .center {
+    position: relative;
     padding-top: 0;
     min-height: 0;
     @media (max-width: $max-width/12*7) {
       padding: 0;
+    }
+    .quicklinks {
+      z-index: 2;
+      position: absolute;
+      top: 8em;
+      right: 0;
+      .button {
+        position: relative;
+        margin-bottom: -2px;
+        width: 100%;
+        padding: 0.6em 3.6em 0.54em 1.2em;
+        line-height: 1.15;
+        font-size: 1rem;
+        letter-spacing: 0.04em;
+        border-width: 2px;
+        &::after {
+          position: absolute;
+          right: 1.2em;
+          top: calc(50% - 5px);
+          display: block;
+          width: 13px;
+          height: 10px;
+          content: '';
+          background: url(../images/button-next-arrow-white.svg);
+        }
+        &:focus, &:hover {
+          &::after {
+            background-image: url(../images/button-next-arrow-red.svg);
+          }
+        }
+      }
+      @media (max-width: $max-width) {
+        right: $default-padding;
+      }
+      @media (max-height: 800px) {
+        top: 5em;
+      }
+      @media (max-width: $max-width/12*7) {
+        .button {
+          padding-right: 2.4em;
+          padding-left: 0.8em;
+          &::after {
+            right: 0.8em;
+          }
+        }
+      }
     }
     .overlay {
       z-index: 1;
@@ -113,7 +160,8 @@
         }
         .cellu {
           left: -$default-padding/2;
-          top: 4em;
+          top: 5em;
+          width: 20em;
           @media (min-width: $max-width*1.1) {
             left: -4em;
           }
@@ -143,12 +191,13 @@
         .lart {
           right: -$default-padding/2;
           bottom: 8em;
+          width: 20em;
           @media (min-width: $max-width*1.1) {
             right: -4em;
-            bottom: 9em;
+            bottom: 3em;
           }
           @media (min-width: $max-width*1.2) {
-            right: -8em;
+            right: -1em;
           }
           @media (max-width: $max-width) {
             right: $default-padding;

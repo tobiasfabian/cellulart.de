@@ -34,4 +34,4 @@ Text: Juri ist zehn Jahre alt  und schon der Mann im Haus. Er hilft seiner Mut
 
 ----
 
-Type: Feature Film
+Type: Fiction

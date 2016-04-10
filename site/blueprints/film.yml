@@ -34,9 +34,9 @@ fields:
     type:  select
     default: false
     options:
-      Feature Film: Feauture Film
+      Ficton: Ficton
       Animation: Animation
-      Documentation: Documentation
+      Documentary: Documentary
       Mockumentary: Mockumentary
       Experimental: Experimental
       Music Video: Music Video

@@ -34,7 +34,7 @@ Country: Great Britain
 
 ----
 
-Type: Feature Film
+Type: Fiction
 
 ----
 

@@ -12,7 +12,7 @@
   </header>
   <div class="thumbnail">
   <?php if (!$film->video()->isEmpty()): ?>
-    <video src="<?= !$film->video()->isEmpty() ? $film->video()->toFile()->url() : null?>" <?=!$film->still()->isEmpty() ? 'poster="'.$film->still()->toFile()->url().'"' : null?> loop muted autoplay>
+    <video src="<?= !$film->video()->isEmpty() ? $film->video()->toFile()->url() : null?>" <?=!$film->still()->isEmpty() ? 'poster="'.$film->still()->toFile()->url().'"' : null?> loop muted autoplay webkit-playsinline>
     </video>
     <?php if (!$film->still()->isEmpty() AND $film->still()->toFile() !== null): ?>
     <link itemprop="image" href="<?=thumb($film->still()->toFile(),array('width' => 646, 'height' => 364))->url()?>">

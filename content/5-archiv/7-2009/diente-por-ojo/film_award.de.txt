@@ -34,7 +34,7 @@ Country: Spain
 
 ----
 
-Type: Feature Film
+Type: Fiction
 
 ----
 

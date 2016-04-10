@@ -24,6 +24,9 @@ fields:
   vimeo:
     label: Vimeo Link
     type:  url
+  instagram:
+    label: Instagram Link
+    type:  url
   startdate:
     label: Start Date
     type:  date

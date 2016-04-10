@@ -30,7 +30,7 @@ Text: Ein arbeitsloser Schauspieler tritt in immer wieder neuen Rollen in der U-
 
 ----
 
-Type: Feature Film
+Type: Fiction
 
 ----
 
