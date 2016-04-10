@@ -1,5 +1,5 @@
 <footer class="mainfooter">
-  <a href="<?=$site->homePage()->url()?>" class="logo"></a>
+  <a href="<?=$site->homePage()->url()?>" class="logo" title="<?= $site->homePage()->title() ?>"></a>
   <?php if ($site->language()->code() === 'de') : ?>
   <a href="<?=$page->url('en')?>" lang="en" class="langswitch"><?=$site->language('en')->name()?></a>
   <?php else: ?>
