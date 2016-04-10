@@ -19,7 +19,7 @@
       <img src="<?=url('assets/images/cellu.svg')?>" class="cellu" alt="">
       <img src="<?=url('assets/images/lart.svg')?>" class="lart" alt="">
     </h1>
-    <time class="date">
+    <time class="date" datetime="<?=$site->date('c','startdate')?>">
       <?=$site->date('j.','startdate')?>–<?=$site->date('j.','enddate')?><br>
       <?=strftime('%B %Y',$site->date(null,'enddate'))?>
     </time>
