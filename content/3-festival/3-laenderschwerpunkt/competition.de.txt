@@ -1,0 +1,24 @@
+Title: Länderschwerpunkt
+
+----
+
+Meta-description: 13. Länderschwerpunkt Finnland | 17. internationales Kurzfilmfestival cellu l'art in Jena
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    13. Länderschwerpunkt
+    Finnland
+  text: |
+    Finnland – das Land der tausend Seen, der Sauna und der Nordlichter. Diese Klischeebilder kennt man. Doch was wissen wir sonst über dieses Land an der nordosteuropäischen Peripherie? Viele Jahrhunderte lang war es Teil des schwedischen Königreichs, bevor es als autonomes Großfürstentum dem Russischen Reich einverleibt wurde. 1917 errang Finnland endlich die Unabhängigkeit, die sich 2017 zum 100. Mal jähren wird.
+    
+    Damit ist Finnlands Kinogeschichte sogar länger als seine Unabhängigkeit – 1896 lief die erste Filmvorführung! In der Vergangenheit musste die finnische Filmindustrie einige Krisen überstehen, aber mittlerweile feiert das finnische Kino wieder Erfolge: Im letzten Jahr wurden finnische Filme in ihrem Produktionsland 2.560.000-mal angeschaut – ein neuer Rekord (Quelle: www.ses.fi/en/). Klaus Harös Drama „The Fencer“ wurde für den Golden Globe nominiert und befand sich auf der Shortlist für den Besten fremdsprachigen Film der 88. Academy Awards®. Taneli Mustonens Komödie „Reunion“ wurde zum Kassenschlager und Filme wie „2 Nights till Morning“ von Mikko Kuparinen und „The Girl King“ von Mika Kaurismäki feierten Erfolge auf internationalen Filmfestivals.
+    Und wie sieht es mit Kurzfilmen aus? Auch hier lassen sich spannende Entwicklungen beobachten. So war Selma Vilhunens Kurzkomödie „Do I Have to Take Care of Everything?“ 2014 der erste finnische Oscar-Anwärter für den Besten Kurzfilm. Die finnisch-dänische Koproduktion „Listen“ von Hamy Ramezan und Rungano Nyoni lief auf zahlreichen Festivals und erhielt mehrere Preise. Und dann wäre da noch das Tampere Film Festival: Neben den Internationalen Kurzfilmtagen Oberhausen und dem Festival du Court-Métrage de Clermont-Ferrand zählt es zu den bedeutendsten europäischen Kurzfilmfestivals und ist außerdem das älteste Kurzfilmfestival Nordeuropas (erste Ausgabe: 1970).
+    
+    Die finnischen Kurzfilme zeichnen sich nicht selten durch einen lakonischen, oft schwarzen Humor aus, der die Absurditäten und Skurrilitäten des Alltags auf beinahe nebensächliche Art und Weise vorführt. Das scheinbar banale Alltägliche wird so zur Quelle subtilen Humors und feinfühliger Beobachtungen. Die Finnen können aber auch nachdenklich: Ihren Filmen wohnt oft eine stille Melancholie inne, die Freiraum lässt für eigene Reflexionen und Assoziationen. Die Suche nach Sinn und Zwischenmenschlichkeit ist das Bindeglied vieler der im Länderschwerpunkt gezeigten Filme. Auch vor gesellschaftskritischen Fragestellungen und sozialen Problematiken schrecken die Filmemacher nicht zurück: Wie reflektieren finnische Kurzfilmmacher den Umgang mit anderen Kulturen? Welche Auswirkungen hat der globalisierte Kapitalismus auf ihr Bewusstsein von nationaler Identität? Und nicht zuletzt: Wie steht es um die Rolle der Frau in einer Gesellschaft, die in Sachen Gleichberechtigung als Vorreiter gilt – und dennoch mit gewalttätigen Übergriffen auf Frauen ein ernstes Problem hat?
+    
+    Mit dem Länderschwerpunkt Finnland will das cellu l’art Kurzfilmfestival Jena einen breitgefächerten Einblick in die spannende finnische Kurzfilmszene geben. Euch erwartet ein interessantes und abwechslungsreiches Programm. In diesem Sinne: Tervetuloa Suomeen – Willkommen in Finnland!
+  _fieldset: text

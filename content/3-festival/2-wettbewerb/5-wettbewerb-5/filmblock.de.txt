@@ -1,0 +1,58 @@
+Title: Wettbewerb 5
+
+----
+
+Subtitle: erstarrt
+
+----
+
+Text: Einer schaut nach vorn und weiß nicht, was auf ihn zukommt. Eine schaut zur Seite und findet welche, um die sie sich kümmern muss. Einer schaut zurück und will nichts loslassen. So ein Leben ist lang und hat viele Stufen. Manchmal kann man die leicht nehmen. Manchmal nicht.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-22
+  time: 18:00
+  datetime: 2016-04-22 18:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717007
+- 
+  date: 2016-04-23
+  time: 19:00
+  datetime: 2016-04-23 19:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717013
+
+----
+
+Blockimage: 
+
+----
+
+Blockvideo: 
+
+----
+
+Meta-description: Menschliche Schicksale, erstarrt vom eigenen, zu erstarrt um zu handeln, zu helfen? cellu l'art Kurzfilmfestival | 19. - 24. April
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
