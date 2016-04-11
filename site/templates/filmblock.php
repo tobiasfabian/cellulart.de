@@ -65,7 +65,13 @@
       <?php elseif (!$page->blockimage()->isEmpty() AND $page->blockimage()->toFile() !== null): ?>
         <img class="image" src="<?=$page->blockimage()->toFile()->resize(505, null, 80)->url()?>" srcset="<?=$page->blockimage()->toFile()->resize(505 * 2, null, 80)->url()?> 2x">
       <?php elseif (!$page->bockvideo_vimeo()->isEmpty()): ?>
-        <?= embed::vimeo($page->bockvideo_vimeo(), ['class' => 'video']) ?>
+        <?php
+          $vimeo_id;
+          if(preg_match("/(https?:\/\/)?(www\.)?(player\.)?vimeo\.com\/([a-z]*\/)*([0-9]{6,11})[?]?.*/", $page->bockvideo_vimeo()->html(), $output_array)) {
+            $vimeo_id = $output_array[5];
+          }
+        ?>
+        <iframe src="https://player.vimeo.com/video/<?= $vimeo_id ?>?color=EA564B&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
       <?php endif ?>
       <div class="clear"></div>
     </header>
