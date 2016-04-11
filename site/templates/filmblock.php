@@ -65,7 +65,7 @@
       <?php elseif (!$page->blockimage()->isEmpty() AND $page->blockimage()->toFile() !== null): ?>
         <img class="image" src="<?=$page->blockimage()->toFile()->resize(505, null, 80)->url()?>" srcset="<?=$page->blockimage()->toFile()->resize(505 * 2, null, 80)->url()?> 2x">
       <?php elseif (!$page->bockvideo_vimeo()->isEmpty()): ?>
-        <?= embed::vimeo($page->bockvideo_vimeo()) ?>
+        <?= embed::vimeo($page->bockvideo_vimeo(), ['class' => 'video']) ?>
       <?php endif ?>
       <div class="clear"></div>
     </header>

@@ -66,17 +66,17 @@
           img, video, iframe {
             width: 100%;
           }
-          iframe {
-            height: 17.8em;
-            @media (max-width: $max-width) {
-              height: calc((50vw - 40px) / 16 * 9);
-            }
-            @media (max-width: $max-width/12*7) {
-              height: calc((100vw - 72px) / 16 * 9);
-            }
-            @media (max-width: $max-width/12*6) {
-              height: calc((100vw - 32px) / 16 * 9);
-            }
+        }
+        iframe.video {
+          height: 17.8em;
+          @media (max-width: $max-width) {
+            height: calc((50vw - 40px) / 16 * 9);
+          }
+          @media (max-width: $max-width/12*7) {
+            height: calc((100vw - 72px) / 16 * 9);
+          }
+          @media (max-width: $max-width/12*6) {
+            height: calc((100vw - 32px) / 16 * 9);
           }
         }
       }
