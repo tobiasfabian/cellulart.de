@@ -5,12 +5,14 @@
       $pages = $page->children();
     } else if ($page->parent() and $page->parent()->template() === 'competition') {
       $pages = $page->siblings();
+    } else if ($page->depth() == 3 and $page->template() === 'filmblock') {
+      $pages = $page->siblings();
     } else if ($page->parent()->parent() and $page->parent()->parent()->template() === 'archive') {
       $pages = $page->children();
     } else if ($page->parent()->parent()->parent() and $page->parent()->parent()->parent()->template() === 'archive') {
       $pages = $page->siblings();
     } else {
-      $pages = false;
+      $pages = $page->children();
     }
   ?>
   <?php
