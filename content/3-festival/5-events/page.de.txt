@@ -1,0 +1,17 @@
+Title: Events
+
+----
+
+Meta-description: Events | 17. internationales Kurzfilmfestival cellu l'art in Jena
+
+----
+
+Builder: 
+
+- 
+  h1: Events
+  text: |
+    Neben den unzähligen Festival-Filmblöcken bietet das cellu l'art auch spannende Events, die ihr euch nicht entgehen lassen solltet!<br>
+    Das Open-Air zur Eröffnung des Festivals ist jedes Jahr ein besonders Schmankerl für alle Kurzfilmfreunde und Frischluftliebhaber.<br>
+    Im Kassablanca ist das cellu l'art zu Gast bei unseren Freunden von Filia: Heraus kommt eine exzellente After-Show-Party mit Kurzfilmeinlagen!
+  _fieldset: text
