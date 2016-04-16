@@ -22,6 +22,8 @@ Dates:
   datetime: 2016-04-20 22:15:00
   tickets_url: >
     http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717001
+  room: Kleiner Saal
+  facebook_event: ""
 
 ----
 

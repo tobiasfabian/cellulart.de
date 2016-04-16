@@ -22,6 +22,8 @@ Dates:
   datetime: 2016-04-22 20:00:00
   tickets_url: >
     http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717008
+  room: Großer Saal
+  facebook_event: ""
 
 ----
 

@@ -38,6 +38,9 @@ fields:
         time:
           interval: 15
         required: true
+      room:
+        label: Room (Saal)
+        type:  text
       facebook_event:
         label: Facebook Event
         type:  url

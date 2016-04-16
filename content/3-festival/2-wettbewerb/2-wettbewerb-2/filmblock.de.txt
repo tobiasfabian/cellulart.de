@@ -18,16 +18,20 @@ Dates:
   datetime: 2016-04-21 18:00:00
   tickets_url: >
     http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717002
+  room: Großer Saal
+  facebook_event: ""
 - 
   date: 2016-04-22
   time: 20:15
   datetime: 2016-04-22 20:15:00
   tickets_url: >
     http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717015
+  room: Kleiner Saal
+  facebook_event: ""
 
 ----
 
-Blockimage: 
+Blockimage: wb_2.jpg
 
 ----
 
