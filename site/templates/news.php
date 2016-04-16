@@ -5,6 +5,7 @@
 <?php snippet('mainnav') ?>
 <div class="center">
   <aside>
+    <?php snippet('mini_timetable') ?>
     <?php snippet('events') ?>
     <?php snippet('social_media') ?>
   </aside>

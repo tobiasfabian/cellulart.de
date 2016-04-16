@@ -35,6 +35,9 @@ fields:
       link:
         label: Link
         type: page
+      room:
+        label: Room (Saal)
+        type:  text
       black:
         label: Black?
         help:  Black will always show on the right (Kleiner Saal)

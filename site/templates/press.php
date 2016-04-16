@@ -20,7 +20,7 @@
       ?>
       <ul>
         <?php foreach($files as $file) : ?>
-        <li><a href="<?=$file->url()?>"><?=$file->text()->isEmpty() ? $file->filename() : $file->text()->html()?></a></li>
+        <li><a href="<?=$file->url()?>"><?=$file->text()->isEmpty() ? $file->filename() : $file->text()->html()?></a> (<?= $file->niceSize() ?>)</li>
         <?php endforeach ?>
       </ul>
     </div>

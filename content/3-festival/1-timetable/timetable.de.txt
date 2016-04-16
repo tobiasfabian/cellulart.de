@@ -26,6 +26,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-1
   black: 'false'
   span: 'false'
+  room: Großer Saal
 - 
   name: |
     LSP
@@ -36,6 +37,7 @@ Events:
     festival/laenderschwerpunkt/laenderschwerpunkt-1
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     WB
@@ -45,6 +47,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-2
   black: 'false'
   span: 'false'
+  room: Großer Saal
 - 
   name: |
     Teen-
@@ -54,6 +57,7 @@ Events:
   link: festival/specials/teen-shorts
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     WB
@@ -63,6 +67,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-3
   black: 'false'
   span: 'false'
+  room: Großer Saal
 - 
   name: |
     Green-
@@ -72,6 +77,7 @@ Events:
   link: festival/specials/green-block
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     WB
@@ -81,6 +87,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-4
   black: 'false'
   span: 'false'
+  room: Großer Saal
 - 
   name: Queer­block
   datetime: 2016-04-21 22:15:00
@@ -88,6 +95,7 @@ Events:
   link: festival/specials/queer-block
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     WB
@@ -97,6 +105,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-5
   black: 'false'
   span: 'false'
+  room: Großer Saal
 - 
   name: |
     WB
@@ -106,24 +115,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-1
   black: 'true'
   span: 'false'
-- 
-  name: |
-    WB
-    2
-  datetime: 2016-04-22 20:15:00
-  duration: "1.5"
-  link: festival/wettbewerb/wettbewerb-2
-  black: 'true'
-  span: 'false'
-- 
-  name: |
-    WB
-    3
-  datetime: 2016-04-22 22:15:00
-  duration: "1.5"
-  link: festival/wettbewerb/wettbewerb-3
-  black: 'true'
-  span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     LSP
@@ -134,6 +126,17 @@ Events:
     festival/laenderschwerpunkt/laenderschwerpunkt-2
   black: 'false'
   span: 'false'
+  room: Großer Saal
+- 
+  name: |
+    WB
+    2
+  datetime: 2016-04-22 20:15:00
+  duration: "1.5"
+  link: festival/wettbewerb/wettbewerb-2
+  black: 'true'
+  span: 'false'
+  room: Kleiner Saal
 - 
   name: Schock­block
   datetime: 2016-04-22 22:00:00
@@ -141,6 +144,17 @@ Events:
   link: festival/specials/shock-block
   black: 'false'
   span: 'false'
+  room: Großer Saal
+- 
+  name: |
+    WB
+    3
+  datetime: 2016-04-22 22:15:00
+  duration: "1.5"
+  link: festival/wettbewerb/wettbewerb-3
+  black: 'true'
+  span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     WB
@@ -150,6 +164,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-4
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 - 
   name: |
     WB
@@ -159,6 +174,7 @@ Events:
   link: festival/wettbewerb/wettbewerb-5
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 - 
   name: 'Preisverleihung & Gewinnerfilme'
   datetime: 2016-04-23 21:00:00
@@ -166,13 +182,7 @@ Events:
   link: festival/preisverleihung
   black: 'false'
   span: 'true'
-- 
-  name: Gewinnerfilme
-  datetime: 2016-04-24 18:00:00
-  duration: "2"
-  link: festival/preisverleihung
-  black: 'false'
-  span: 'false'
+  room: Großer Saal
 - 
   name: |
     LSP
@@ -183,6 +193,15 @@ Events:
     festival/laenderschwerpunkt/laenderschwerpunkt-3
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
+- 
+  name: Gewinnerfilme
+  datetime: 2016-04-24 18:00:00
+  duration: "2"
+  link: festival/preisverleihung
+  black: 'false'
+  span: 'false'
+  room: Großer Saal
 - 
   name: B-Sides
   datetime: 2016-04-24 19:00:00
@@ -190,6 +209,7 @@ Events:
   link: festival/specials/b-sides
   black: 'true'
   span: 'false'
+  room: Kleiner Saal
 
 ----
 
