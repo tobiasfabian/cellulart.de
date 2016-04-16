@@ -25,7 +25,7 @@ Dates:
 
 ----
 
-Blockimage: 
+Blockimage: lsp_finnland.jpg
 
 ----
 
