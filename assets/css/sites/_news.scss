@@ -17,7 +17,7 @@
         padding-right: 0;
       }
       article {
-        padding: 2em 0;
+        padding: 5em 0 2em;
         border-bottom: 2px solid $red;
         &:first-of-type {
           padding-top: 0;
@@ -125,7 +125,6 @@
       }
     }
     aside {
-      // position: absolute;
       // position: sticky;
       top: 6.125em;
       bottom: 13em;
