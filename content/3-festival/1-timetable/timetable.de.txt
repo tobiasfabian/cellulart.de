@@ -13,10 +13,11 @@ Events:
     Festivaleröffnung mit
     The Panjabys und Open-Air-Kino
   datetime: 2016-04-19 20:00:00
-  link: ""
+  link: festival/events/open-air
   duration: "3"
   black: 'true'
   span: 'true'
+  room: ""
 - 
   name: |
     WB
