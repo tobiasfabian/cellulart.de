@@ -2,7 +2,7 @@ Title: say yes and dance
 
 ----
 
-Still: 3-sayyesanddance.tif
+Still: 3-sayyesanddance.jpg
 
 ----
 
@@ -10,7 +10,7 @@ Video: 3_sano_kiitos_ja_tanssi.mp4
 
 ----
 
-Type: Fiction
+Type: 
 
 ----
 
