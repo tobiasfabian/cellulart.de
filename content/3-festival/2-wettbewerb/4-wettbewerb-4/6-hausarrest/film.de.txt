@@ -2,7 +2,7 @@ Title: Hausarrest
 
 ----
 
-Still: 
+Still: wb4_6_hausarrest.png
 
 ----
 
@@ -10,7 +10,7 @@ Video: hausarrest.mp4
 
 ----
 
-Type: Fiction
+Type: Ficton
 
 ----
 

@@ -1,4 +1,4 @@
-Title: Wettbewerb 2
+Title: competition 2
 
 ----
 
@@ -6,7 +6,7 @@ Subtitle: partners in crime
 
 ----
 
-Text: Liebe ist … nicht nur, wenn zwei einander gefunden haben. Das auch, aber sie reicht weiter und geht tiefer. Sie gibt dem Leben Sinn und Inhalt. Sie lässt uns die großen und kleinen Dinge erfassen, die schönen Momente, die intensiven und intimen. Darin gleicht sie dem Kurzfilm.
+Text: With good friends you can share dreams, master the everyday life and set the world on fire. Or even worse. Together through thick and thin. Just sometimes love gets in the way. Then you’ll see how strong your friendship really is.
 
 ----
 
@@ -27,7 +27,7 @@ Dates:
 
 ----
 
-Blockimage: 
+Blockimage: wb_2.jpg
 
 ----
 
@@ -39,11 +39,11 @@ Meta-description: Freundschaften auf der Probe und Irrungen und Wirrungen der Li
 
 ----
 
-Venue: 
+Venue: Volksbad Jena
 
 ----
 
-Bockvideo-vimeo: 
+Bockvideo-vimeo: https://vimeo.com/162253459
 
 ----
 

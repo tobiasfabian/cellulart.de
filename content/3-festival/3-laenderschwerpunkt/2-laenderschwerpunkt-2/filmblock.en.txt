@@ -1,0 +1,58 @@
+Title: country focus 2
+
+----
+
+Subtitle: family matters
+
+----
+
+Meta-description: Finnland Länderschwerpunkt 3 - Stadt, Land, See | 17. internationales Kurzfilmfestival cellu l'art
+
+----
+
+Text: Our family makes us what we are. Whether we like it or not: It is a part of us and shapes our self-assessment. This block’s films approach different family formations from different vantage points. They tell about staying together, about loss, about change and comfort. The family does not necessarily have to be in the focus for that – it is always present in the background, inevitably forming the life of our protagonists.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-22
+  time: 20:00
+  datetime: 2016-04-22 20:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717008
+  room: Großer Saal
+  facebook_event: ""
+
+----
+
+Blockimage: lsp_finnland.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

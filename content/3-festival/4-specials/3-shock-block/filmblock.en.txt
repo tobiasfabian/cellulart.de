@@ -1,0 +1,56 @@
+Title: schock block
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: When it’s getting dark outside the cinema lights go on… From black comedy to mystery to schocker – there is something for everyone. With one restriction: This block is not suitable for children.
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-22 22:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717009
+  room: Großer Saal
+  facebook_event: ""
+
+----
+
+Blockimage: shock-block.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

@@ -1,0 +1,62 @@
+Title: competition 4
+
+----
+
+Subtitle: (in)voluntary
+
+----
+
+Text: The light is red. You feel really cooped in. Puberty knocks on the door. That’s how life goes. What are you going to do? Do you arrange yourself in a small world, dare a riot, make tracks? Whether or not you make a decision: Something is going to happen.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-21
+  time: 22:00
+  datetime: 2016-04-21 22:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717004
+  room: Großer Saal
+  facebook_event: ""
+- 
+  date: 2016-04-23
+  time: 17:00
+  datetime: 2016-04-23 17:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717012
+  room: Kleiner Saal
+  facebook_event: ""
+
+----
+
+Blockimage: wb_4.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Meta-description: Dieser Wettbewerbsblock schickt dich auf die Achterbahn der Pupertät zurück. Zwischen Aufbruch und Ausbruch. cellu l'art Kurzfilmfestival | 19. - 24. April
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/162199278
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

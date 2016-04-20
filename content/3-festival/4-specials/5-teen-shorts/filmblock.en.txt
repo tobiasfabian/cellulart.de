@@ -1,0 +1,61 @@
+Title: teen shorts
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: 
+
+The teen shorts movie night for all young people (aged 14 and above) starts in the festival week under the motto “Short films: do it yourself”. On Thursday, 21th April at 6.15 pm, you will have the chance to ask a group of youths about being a filmmaker. Of course you are also allowed to marvel at some of their work that was created as part of a screenplay workshop. Following this, you can look forward to a great, diverse short film program: You’ll get an idea what goes on in the mind of other people your age, why smartphones make us obviously zombies and be thrilled when it comes down to fighting for survival.<br><br>
+
+The Teen-Shorts-Award sponsored by Jena Bioscience will be awarded for the first time in this context. At this point you come into play: You, as the audience, can chose which film will be honoured with 250 Euro! Don’t waste this opportunity, because there is one thing you can be sure of: Even more exciting guests and surprises are waiting for you!  <br><br>
+
+
+You want to take part and don’t have a ticket yet?
+Write to <info@cellulart.de>!
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-21 18:15:00
+  tickets_url: ""
+
+----
+
+Blockimage: cellulart-teen-shorts.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
