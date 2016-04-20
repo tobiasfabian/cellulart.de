@@ -190,14 +190,15 @@
         }
         .lart {
           right: -$default-padding/2;
-          bottom: 8em;
+          bottom: 10em;
           width: 20em;
           @media (min-width: $max-width*1.1) {
             right: -4em;
-            bottom: 3em;
+            bottom: 10em;
           }
           @media (min-width: $max-width*1.2) {
             right: -1em;
+            bottom: 3em;
           }
           @media (max-width: $max-width) {
             right: $default-padding;

@@ -34,7 +34,7 @@ fields:
     type:  select
     default: false
     options:
-      Ficton: Ficton
+      Fiction: Fiction
       Animation: Animation
       Documentary: Documentary
       Mockumentary: Mockumentary

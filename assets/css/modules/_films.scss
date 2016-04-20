@@ -12,32 +12,41 @@
     margin-bottom: 3em;
     flex: 0 1 $raster-width * 3;
     padding: 0 $default-padding;
-    &.award {
-      margin-left: $raster-width * 1;
-    }
     @media (max-width: $max-width/12*9) {
       flex-basis: $raster-width * 4;
-      &.award {
-        flex-basis: $raster-width * 5;
-      }
     }
     @media (max-width: $max-width/12*7) {
       flex-grow: 1;
       flex-basis: $raster-width * 5;
-      &.award {
-        padding-right: 0;
-        &:nth-child(odd) {
-          margin-right: $default-padding;
-        }
-      }
     }
     @media (max-width: $max-width/12*6) {
       margin-bottom: 4em;
+      margin-right: 20px;
+      margin-left: 20px;
       padding-top: 5.5em;
-      margin-left: 0;
       padding-left: 0;
+      padding-right: 0;
       &:nth-child(odd) {
+        margin-right: 20px;
+      }
+    }
+    @media (max-width: $max-width/12*4) {
+      margin-right: 0;
+      margin-left: 0;
+    }
+    &.award {
+      margin-left: $raster-width * 1;
+      @media (max-width: $max-width/12*9) {
+        flex-basis: $raster-width * 5;
+      }
+      @media (max-width: $max-width/12*6) {
+        margin-right: 20px;
+        margin-left: 20px;
+        padding-top: 5.5em;
+      }
+      @media (max-width: $max-width/12*4) {
         margin-right: 0;
+        margin-left: 0;
       }
     }
     &.award h1 {
@@ -101,6 +110,16 @@
         max-width: 100%;
         max-height: 100%;
         transform: scale(1.015);
+      }
+      @media (min-width: $max-width/12*7+1) {
+        img {
+          display: none;
+        }
+      }
+      @media (max-width: $max-width/12*7) {
+        video {
+          display: none;
+        }
       }
     }
     &.award {

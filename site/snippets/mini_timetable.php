@@ -8,7 +8,7 @@ $events = $timetable->events()->toStructure()->filter(function($field) use ($day
 ?>
 <section class="mini_timetable" aria-labledby="mini_timetable_title">
   <h1 id="mini_timetable_title">Heute im Volksbad Jena</h1>
-  <a href="<?= $timetable->url() ?>" class="timetable_link button small"><?= $timetable->title() ?></a>
+  <a href="<?= $timetable->url() ?>" class="timetable_link"><?= $timetable->title() ?></a>
   <ul>
     <?php
       foreach ($events as $event):

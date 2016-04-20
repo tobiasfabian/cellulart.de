@@ -1,22 +1,33 @@
 .mini_timetable {
   position: relative;
   margin-bottom: 10px;
-  padding: 18px;
+  padding: 20px 18px;
   border: 2px solid #EA564B;
   border-bottom: none;
   border-right: none;
   background: url(../images/corner_bg-redoutline-br-small.svg) bottom right;
   font-size: 0.9em;
   h1 {
+    margin-bottom: 0.6em;
     font-size: 1.2em;
   }
   .timetable_link {
     position: absolute;
-    top: 18px;
-    right: 38px;
+    top: 22px;
+    right: 35px;
     text-transform: lowercase;
     @media (max-width: 390px) {
       right: 18px;
+    }
+    &::after {
+      position: absolute;
+      right: -17px;
+      top: calc(50% - 5px);
+      display: block;
+      width: 17px;
+      height: 10px;
+      content: '';
+      background: url(../images/button-next-arrow-red.svg) right no-repeat;
     }
   }
   ul {
