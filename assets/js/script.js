@@ -305,20 +305,6 @@ function homepage() {
         logoElement.style.opacity = '1';
       }
     });
-    videoElement.addEventListener('ended',function(){
-      setTimeout(function(){
-        videoElement.currentTime = 0;
-        videoElement.play();
-        dateElement.style.opacity = null;
-        venueElement.style.opacity = null;
-        celluElement.style.opacity = null;
-        lartElement.style.opacity = null;
-        logoElement.style.transitionDuration = '150ms';
-        logoElement.style.opacity = null;
-        logoElement.offsetWidth;
-        logoElement.style.transitionDuration = null;
-      },4000);
-    });
   } else {
     showElementsWithTimeouts();
   }
