@@ -1,0 +1,36 @@
+label: Sections
+type: builder
+fieldsets:
+  text:
+    label: Text
+    entry: >
+      <h1>{{h1}}</h1>
+      {{text}}
+    fields:
+      h1:
+        label: Title
+        type: textarea
+      text:
+        label: Text
+        type: textarea
+  gallery:
+    label: Gallery
+    entry: >
+      {{images}}
+    fields:
+      images:
+        label: Images
+        type:  selector
+        mode:  multiple
+        autoselect: all
+        types:
+          - image
+  vimeo_video:
+    label: Vimeo Video
+    entry: >
+      {{video_url}}
+    fields:
+      video_url:
+        label: Vimeo Video URL
+        type:  url
+        placeholder: https://vimeo.com/165159951

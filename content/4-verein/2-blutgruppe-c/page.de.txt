@@ -1,0 +1,75 @@
+Title: cellu l’art Trailer
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  video_url: https://vimeo.com/165159951
+  _fieldset: vimeo_video
+- 
+  h1: cellu l’art Trailer Blutgruppe C
+  text: |
+    **produktion**
+    cellu l’art Kurzfilmfestival Jena e.V. und Manu Lindig
+    
+    **der träumer**
+    Friedrich Herrmann
+    
+    **der bärtige**
+    Oliver Moisich
+    
+    **drehbuch & regie**
+    Manu Lindig
+    
+    **kamera, grip & licht**
+    Johannes Kürschner
+    
+    **nebel & lichtassistenz**
+    Marian Wörfel
+    
+    **ton**
+    Robert Metzner
+    
+    **maske**
+    Susanne Berghoff
+    
+    **medizinische fachberatung**
+    Kathrin Jogubeit
+    
+    **setassistenz**
+    Jenny Singer, Anoush Masoudi & Claude Dell
+    
+    **setfotografie**
+    Julia Wagner
+    
+    **catering**
+    Renate Austermann & Nadine Katschmarek
+    
+    **Schnitt, Farbkorrektur & VFX**
+    Manu Lindig
+    
+    **tonmischung**
+    Martin Schuß
+    
+    **komparsen**
+    Sophie Mehner, Tobias Krückels, Florestan Peters, Robert Wagner, Anoush Masoudi & Nadine Katschmarek
+    
+    **dank an**
+    Tom Schau & den Rosenkeller e.V. Jena
+    Angélique Marr & die Obere Stadtapotheke Pößneck
+    Tillmann Lützner & die Freie Bühne Jena
+    Sven Molke, David Ossa & Campus TV Jena
+    Oliver Krautz & Kaos Shots
+    Susan Kuhne, Linh Nguyen, Robin Weißenborn, Lars Günther, Karsten Hertrich & Wiebke Winter
+    
+    **filmausschnitte**
+    Orbit Ever After (Jamie Stone, 2013), Reality+ (Coralie Fargeat, 2104), Kathedralen (Konrad Kästner, 2013), Seconds (Jordan Canning, 2012), Instalife (Benjamin Rost & Alex Schuster, 2014), Simply the Worst (Johannes Kürschner & Franz Müller, 2015), Operation Rising Tusk (Benjamin Brand, Johannes Engelhardt, Markus Eschrich, Johannes Lumer, Julius Rosen und Alexander Ochs, 2015)
+  _fieldset: text
+- 
+  images: dsc00407.jpg,dsc00452.jpg
+  _fieldset: gallery

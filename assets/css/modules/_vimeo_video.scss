@@ -1,0 +1,19 @@
+// section vimeo_video.phh
+.vimeo_video {
+  position: relative;
+  display: block;
+  margin: 0 auto 3em;
+  width: $raster-width * 10;
+  height: 510px;
+  overflow: hidden;
+  user-select: none;
+  @media (max-width: $max-width) {
+    margin: 0 $default-padding;
+    width: auto;
+    height: calc((100vw - 80px) / 1.3);
+  }
+  @media (max-width: $max-width/12*7) {
+    height: calc((100vw - 32px) / 1.3);
+    margin: 0;
+  }
+}
