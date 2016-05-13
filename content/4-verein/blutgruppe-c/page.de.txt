@@ -1,0 +1,17 @@
+Title: Blutgruppe C
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: ""
+  text: '(vimeo: https://vimeo.com/165159951)'
+  _fieldset: text
+- 
+  images: dsc00407.jpg,dsc00452.jpg
+  _fieldset: gallery
