@@ -112,7 +112,7 @@
         transform: scale(1.015);
       }
       @media (min-width: $max-width/12*7+1) {
-        img {
+        img.video-alternative {
           display: none;
         }
       }
