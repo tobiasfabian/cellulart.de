@@ -30,4 +30,4 @@ Text: A boy overcomes his fear and talks to a girl.
 
 ----
 
-Video: 
+Thumbvideo: 

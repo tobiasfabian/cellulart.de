@@ -30,4 +30,4 @@ Text: Hello. My name is Alba. I am 4 years old and my daddy is a film director.
 
 ----
 
-Video: 
+Thumbvideo: 

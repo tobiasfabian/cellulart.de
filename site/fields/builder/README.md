@@ -25,7 +25,7 @@ Here is a blueprint example:
               image:
                 label: Category
                 type: select
-                query: 
+                query:
                   fetch: images
                   value: '{{url}}'
                   text: '{{filename}}'
@@ -54,9 +54,9 @@ The content will be stored like this:
 
 	----
 
-    Builder: 
+    Builder:
 
-    - 
+    -
       text: >
         Lorem ipsum dolor sit amet, consectetur
         adipisicing elit. Ipsa, rerum quam
@@ -66,11 +66,11 @@ The content will be stored like this:
         odio eaque repellendus accusamus veniam
         blanditiis impedit.
       _fieldset: bodytext
-    - 
+    -
       image: forrest.jpg
       url: www.getkirby.com
       _fieldset: linkedImage
-    - 
+    -
       text: >
         Power is of two kinds. One is obtained
         by the fear of punishment and the other
@@ -89,7 +89,7 @@ There are different ways to use the builder field inside a template. A clean app
 
 ```php
 <?php foreach($page->builder()->toStructure() as $section): ?>
-  <?php snippet( snippet('sections/' . $section->_fieldset(), array('section' => $section)) ) ?>
+  <?php snippet('sections/' . $section->_fieldset(), array('section' => $section)) ?>
 <?php endforeach ?>
 ```
 Don't forget to use `toStructure()` on the builder field that "gives you a full blown Kirby Collection which makes it possible to use Kirby's chaining syntax" ([Kirby Documentation](http://getkirby.com/docs/cheatsheet/field-methods/toStructure)).
@@ -127,5 +127,3 @@ Alternatively you can download the zip file, unzip it's contents into site/field
 ##Known Issues
 
 All issues related to the structure field of Kirby Panel v2.2 beta. It's still in development and buggy.
-
- 

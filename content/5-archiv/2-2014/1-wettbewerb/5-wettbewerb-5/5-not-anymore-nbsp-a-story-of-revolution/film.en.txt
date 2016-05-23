@@ -30,4 +30,4 @@ Text: The film is a 15 minute short about why the Syrian people are fighting for
 
 ----
 
-Video: 
+Thumbvideo: 

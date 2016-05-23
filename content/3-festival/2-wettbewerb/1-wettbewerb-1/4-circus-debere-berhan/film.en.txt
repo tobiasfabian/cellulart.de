@@ -6,7 +6,7 @@ Still: cellu-l-art_kurfilmfestival_wb1_4_circus.jpg
 
 ----
 
-Video: cellulart_kurzfilmfestival_wb1_4_auschnitt_circus-debere-berhan.mp4
+Thumbvideo: cellulart_kurzfilmfestival_wb1_4_auschnitt_circus-debere-berhan.mp4
 
 ----
 
@@ -26,7 +26,7 @@ Duration: 11:11
 
 ----
 
-Book: 
+Book:
 
 ----
 
@@ -34,11 +34,11 @@ Direction: Lukas Berger
 
 ----
 
-Camera: 
+Camera:
 
 ----
 
-Animation: 
+Animation:
 
 ----
 

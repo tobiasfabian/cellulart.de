@@ -30,4 +30,4 @@ Text: Hallo. Mein Name ist Alba. Ich bin 4 Jahre alt und mein Vati ist ein Filmr
 
 ----
 
-Video: 
+Thumbvideo: 

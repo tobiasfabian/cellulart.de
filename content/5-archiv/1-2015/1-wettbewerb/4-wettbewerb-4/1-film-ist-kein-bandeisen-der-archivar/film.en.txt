@@ -30,4 +30,4 @@ Text: Every day we see moving images. But what are we doing with those moving pi
 
 ----
 
-Video: 
+Thumbvideo: 

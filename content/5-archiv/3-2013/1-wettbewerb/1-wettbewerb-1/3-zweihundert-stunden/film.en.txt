@@ -30,4 +30,4 @@ Text: “You’re starting on foot, landing on your feet, lying on your belly wi
 
 ----
 
-Video: 
+Thumbvideo: 

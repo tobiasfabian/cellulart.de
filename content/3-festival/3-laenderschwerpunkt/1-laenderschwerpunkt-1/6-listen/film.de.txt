@@ -6,7 +6,7 @@ Still: 6-listen_komp.png
 
 ----
 
-Video: 6-listen.mp4
+Thumbvideo: 6-listen.mp4
 
 ----
 

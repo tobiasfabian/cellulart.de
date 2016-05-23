@@ -30,4 +30,4 @@ Text: Paul is on holiday in the Allgäu region. But the idyll is disrupted and s
 
 ----
 
-Video: 
+Thumbvideo: 

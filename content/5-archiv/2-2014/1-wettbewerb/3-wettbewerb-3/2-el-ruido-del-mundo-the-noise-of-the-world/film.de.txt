@@ -30,4 +30,4 @@ Text: Ein Komponist leidet unter einer sonderbaren Krankheit. Er ist in der Lage
 
 ----
 
-Video: 
+Thumbvideo: 

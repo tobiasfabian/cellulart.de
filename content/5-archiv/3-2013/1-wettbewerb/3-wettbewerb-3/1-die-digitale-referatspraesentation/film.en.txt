@@ -30,4 +30,4 @@ Text: The name says it all.
 
 ----
 
-Video: 
+Thumbvideo: 

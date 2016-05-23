@@ -11,8 +11,8 @@
     <?php endif ?>
   </header>
   <div class="thumbnail">
-  <?php if (!$film->video()->isEmpty()): ?>
-    <video src="<?= !$film->video()->isEmpty() ? $film->video()->toFile()->url() : null?>" <?=!$film->still()->isEmpty() ? 'poster="'.thumb($film->still()->toFile(),array('width' => 466, 'height' => 262, 'quality' => 70))->url().'"' : null?> loop muted autoplay webkit-playsinline>
+  <?php if (!$film->thumbvideo()->isEmpty()): ?>
+    <video src="<?= !$film->thumbvideo()->isEmpty() ? $film->thumbvideo()->toFile()->url() : null?>" <?=!$film->still()->isEmpty() ? 'poster="'.thumb($film->still()->toFile(),array('width' => 466, 'height' => 262, 'quality' => 70))->url().'"' : null?> loop muted autoplay webkit-playsinline>
     </video>
     <?php if (!$film->still()->isEmpty() AND $film->still()->toFile() !== null): ?>
     <img itemprop="image" class="video-alternative" src="<?=thumb($film->still()->toFile(),array('width' => 233, 'height' => 131, 'quality' => 70))->url()?>" srcset="<?=thumb($film->still()->toFile(),array('width' => 466, 'height' => 262, 'quality' => 70))->url()?> 2x" alt="<?=l::get('film still'),' ',$film->title()?>">

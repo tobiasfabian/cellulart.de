@@ -19,7 +19,7 @@ fields:
     help:  <b>Size</b> 476 x 268 (16/9), if it’s bigger, it will be cropped.
     types:
       - image
-  video:
+  thumbvideo:
     label: Film Video
     type:  selector
     mode:  single

@@ -30,4 +30,4 @@ Text: “It’s not hard being a soldier: you either get used to it or they will
 
 ----
 
-Video: 
+Thumbvideo: 

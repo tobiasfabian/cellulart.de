@@ -21,7 +21,7 @@
     <article>
       <h1 hidden><?php echo $page->title()->html() ?></h1>
       <?php foreach($page->builder()->toStructure() as $section): ?>
-        <?php snippet( snippet('sections/' . $section->_fieldset(), array('section' => $section)) ) ?>
+        <?php snippet('sections/' . $section->_fieldset(), array('section' => $section))?>
       <?php endforeach ?>
     </article>
   </main>

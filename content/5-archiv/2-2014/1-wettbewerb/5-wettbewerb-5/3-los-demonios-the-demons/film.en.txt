@@ -30,4 +30,4 @@ Text: Javi, Fer and Miguel are three friends who roam the city looking for fun. 
 
 ----
 
-Video: 
+Thumbvideo: 

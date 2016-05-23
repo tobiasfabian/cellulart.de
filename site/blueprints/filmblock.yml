@@ -13,14 +13,12 @@ fields:
     width: 1/2
     placeholder:
       de: Wettbewerb 1
-      de: Competition 1
+      en: Competition 1
   subtitle:
     label: Subtitle
     type:  text
     width: 1/2
-    placeholder:
-      de: Schöne neue Welt?
-      en: Schöne neue Welt?
+    placeholder: Schöne neue Welt?
   meta_description:
     label: Meta Description
     type:  text
@@ -49,14 +47,14 @@ fields:
         label: Tickets URL
         type:  url
         validate: url
-    translate: false
+
   blockimage:
     label: Block Image
     type:  selector
     mode:  single
     types:
       - image
-    translate: false
+
     width: 1/2
   blockvideo:
     label: Block Video
@@ -64,13 +62,13 @@ fields:
     mode:  single
     types:
       - video
-    translate: false
+
     width: 1/2
   bockvideo-vimeo:
     label: Block Video Vimeo URL
     type:  url
     validate: url
-    translate: false
+
   venueHeadline:
     label: Venue
     type: headline
@@ -80,17 +78,17 @@ fields:
   street:
     label: Street
     type:  text
-    translate: false
+
     width: 1/3
   zip:
     label: ZIP
     type:  text
     default: 07743
-    translate: false
+
     width: 1/3
   city:
     label: City
     type:  text
     default: Jena
-    translate: false
+
     width: 1/3

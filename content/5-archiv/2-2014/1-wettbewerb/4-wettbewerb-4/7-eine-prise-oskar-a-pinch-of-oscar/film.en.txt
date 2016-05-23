@@ -30,4 +30,4 @@ Text: David works at the pet cemetery where Ellies dog Oscar is buried. Since El
 
 ----
 
-Video: 
+Thumbvideo: 

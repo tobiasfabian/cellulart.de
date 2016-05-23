@@ -30,4 +30,4 @@ Text: Ein Mann begibt sich nach dem Schwimmtraining in die Dusche. Doch was er d
 
 ----
 
-Video: 
+Thumbvideo: 

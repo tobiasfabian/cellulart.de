@@ -30,4 +30,4 @@ Text: Mirta comes from Cuba and lives in Madrid. Like many other immigrants she 
 
 ----
 
-Video: 
+Thumbvideo: 

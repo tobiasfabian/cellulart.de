@@ -6,7 +6,7 @@ Still: 5-sirocco.jpg
 
 ----
 
-Video: 5-sirocco.mp4
+Thumbvideo: 5-sirocco.mp4
 
 ----
 

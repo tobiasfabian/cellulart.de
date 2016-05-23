@@ -6,7 +6,7 @@ Still: 2-animalday.jpg
 
 ----
 
-Video: 2_djurens_dag.mp4
+Thumbvideo: 2_djurens_dag.mp4
 
 ----
 
