@@ -23,10 +23,3 @@ Meta-description: Vom 19. bis 24. April 2016 präsentieren das cellu l’art im 
 ----
 
 Quicklinks: 
-
-- 
-  name: Timetable
-  url: festival/timetable
-- 
-  name: Tickets
-  url: festival/tickets
