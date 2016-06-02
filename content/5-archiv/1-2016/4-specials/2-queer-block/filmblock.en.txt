@@ -1,0 +1,56 @@
+Title: queer block
+
+----
+
+Subtitle: 
+
+----
+
+Meta-description: 
+
+----
+
+Text: In recent years, homosexual, bisexual and transgender characters played a significant role in short films. But even LGBT films treat old issues like love, hate, fear and fun.
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-21 22:15:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717006
+  room: Kleiner Saal
+  facebook_event: ""
+
+----
+
+Blockimage: queer-block.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

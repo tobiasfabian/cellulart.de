@@ -13,10 +13,41 @@ Awards:
     Bester
     Spielfilm
   film: czulosc
+- 
+  award: |
+    Bester
+    ExAnDo
+  film: we-can-t-live-without-cosmos
+- 
+  award: |
+    Publikums-
+    preis
+  film: discipline
+- 
+  award: |
+    Jenaer
+    Filmpreis
+    für Toleranz
+  film: my-enemy-my-brother
+- 
+  award: |
+    Jugendjury-
+    preis
+  film: leona
+- 
+  award: |
+    Teen-
+    Shorts-
+    Award
+  film: meter
 
 ----
 
 Text: 
+
+Was erwartet dich beim internationalen Kurzfilmfestival? Vom 19. bis 24. April 2016 präsentieren wir im Volksbad Jena erstklassige Kurzfilme aller Kategorien und Genres von Filmemachern aus der ganzen Welt. Wir werden dich zum Lachen, Weinen, Tanzen und Nachdenken bringen.
+
+Lerne Regisseure und Produzenten kennen! Und das Beste: Du entscheidest, wer gewinnt. Neben den Preisen der fachkundigen Jurys wird erneut unser beliebter Publikumspreis vergeben. Wenn du Interesse am Filmland Finnland hast, komm zu unserem diesjährigen Länderschwerpunkt. Als Auftakt gibt es wieder unser beliebtes Open-Air am Johannistor. Der krönende Abschluss unserer Festivaltage ist die Preisverleihung, garniert mit den besten Kurzfilmen und unserer legendären After-Show-Party.
 
 ----
 
@@ -32,4 +63,4 @@ Headline-downloads:
 
 ----
 
-Downloads: 
+Downloads: cellu-l-art-katalog-2016.pdf

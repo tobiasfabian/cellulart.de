@@ -1,0 +1,66 @@
+Title: Wettbewerb 1
+
+----
+
+Blockimage: wb_1.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Subtitle: lφve
+
+----
+
+Text: Liebe ist … nicht nur, wenn zwei einander gefunden haben. Das auch, aber sie reicht weiter und geht tiefer. Sie gibt dem Leben Sinn und Inhalt. Sie lässt uns die großen und kleinen Dinge erfassen, die schönen Momente, die intensiven und intimen. Darin gleicht sie dem Kurzfilm.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-20
+  time: 22:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717000
+  datetime: 2016-04-20 22:00:00
+  facebook_event: ""
+  room: Großer Saal
+- 
+  date: 2016-04-22
+  time: 18:15
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717011
+  datetime: 2016-04-22 18:15:00
+  facebook_event: ""
+  room: Kleiner Saal
+
+----
+
+Meta-description: Liebe als Lebenssinn? In diesem Wettbewerbsblock dreht sich alles um die großen und kleinen Fragen der Liebe. cellu l'art Kurzfilmfestival | 19. - 24. April
+
+----
+
+Location: Volksbad Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/162200160
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

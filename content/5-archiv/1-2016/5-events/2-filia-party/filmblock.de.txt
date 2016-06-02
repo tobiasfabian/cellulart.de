@@ -1,0 +1,55 @@
+Title: After-Show-Party
+
+----
+
+Subtitle: zu Gast bei Filia
+
+----
+
+Meta-description: After-Show-Party bei Filia | 17. internationales Kurzfilmfestival in Jena
+
+----
+
+Text: Wer ist hier im falschen Film? Kurzfilm-Cineasten und Elektro-Enthusiasten jedenfalls nicht. Die Frequenzen haben sich geändert. Der Winter hat Sendepause. Das cellu l‘art und Filia tanzen mit euch auf der Suche nach wilden Freunden und alten Tieren waghalsig die Serpentinen hinab. Erlebt mit uns einen neonfarbenen Frühling und lernt den Filmriss ganz neu kennen.
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-22 23:00:00
+  facebook_event: >
+    https://www.facebook.com/events/542267405953533/
+  tickets_url: ""
+
+----
+
+Blockimage: 12798885_1141503749193400_531507875204948245_n.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Kassablanca Jena
+
+----
+
+Street: Felsenkellerstr. 13a
+
+----
+
+Zip: 07745
+
+----
+
+City: Jena

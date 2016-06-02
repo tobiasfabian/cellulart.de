@@ -21,13 +21,14 @@ fields:
     width: 1/2
     types:
       - image
-  video:
+  thumbvideo:
     label: Film Video
     type:  selector
     mode:  single
     autoselect: first
     translate: false
     width: 1/2
+    help:  <b>Size</b> 236 x 134 (16/9)<br><b>Format</b> mp4, H.264 (~3 MBit/s, no audio).
     types:
       - video
   type:

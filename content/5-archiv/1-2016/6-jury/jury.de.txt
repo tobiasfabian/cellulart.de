@@ -1,0 +1,106 @@
+Title: Jury
+
+----
+
+Meta-description: Jury und Jugendjury | 17. internationales Kurzfilmfestival cellu l'art in Jena
+
+----
+
+Builder: 
+
+- 
+  title: Fachjury
+  _fieldset: jury-title
+- 
+  name: Michaela Linow
+  image: jury_michaela-linow.jpg
+  text: 'Nach ihrer Ausbildung als Kauffrau für audio-visuelle Medien studierte Michaela Linow Produktion und Medienwirtschaft an der Filmhochschule München. Während des Studiums gestaltete sie mit ihrer Filmproduktionsfirma Plock + Reinhardt diverse Kurzfilme und arbeitete als freie Mitarbeiterin für den Mitteldeutschen Rundfunk. Mit dem abgeschlossenen Studium war sie als Produzentin zunächst bei EM.Entertainment GmbH für die Vermarktung von „Biene Maja“, „Heidi“ und „Tabaluga“ tätig. 2006 zog die gebürtige Erfurterin zurück in ihre Heimatstadt, um ihre Erfahrungen im neu entstehenden „Kindermedienland Thüringen“ umzusetzen. Beginnend mit ihrer Arbeit als Produktionsmanagerin leitet sie seit 2010 den STUDIOPARK KinderMedienZentrum und blickt auf eine Vielzahl erfolgreicher Kino-, TV- und Serienproduktionen zurück.'
+  _fieldset: jury-member
+- 
+  name: Christian Werner
+  image: jury_christian-werner.jpg
+  text: 'Als Regisseur und Autor realisiert Christian Werner Spiel- und Dokumentarfilme, die heftige als auch feine Töne treffen und sich mit der Realität im Drama wie der Tragikkomödie auseinandersetzen. Er wurde 1978 in Rudolstadt, Thüringen geboren. Die Erfahrungen aus seinem Studium der Visuellen Kommunikation am Bauhaus Weimar setzte er zunächst als Regieassistent bei Saxonia Media und Zerofilmes LTD in Sao Paulo Brasilien um, später in seiner eigenen Produktionsfirma acamara film, mit der er Beiträge für nationale und internationale Festivals und das Fernsehen gestaltete. Seit Oktober 2007 studiert er an der Filmakademie Baden-Württemberg Regie und wurde in diesem Rahmen auf renommierten Festivals mit Preisen ausgezeichnet. 2010 wurde er für den Berlinale Talentcampus ausgewählt und nahm an der UCLA Masterclass in Los Angeles teil.'
+  _fieldset: jury-member
+- 
+  name: Matthias Sdun
+  image: jury_matthias-sdun.jpg
+  text: >
+    Matthias Sdun arbeitet als freier
+    Filmemacher und Formatentwickler in
+    Hamburg. Nach seinem Studium der
+    Politikwissenschaft, Soziologie und
+    Medienwissenschaften in Hamburg und
+    Marburg erhielt er ein Volontariat beim
+    Norddeutschen Rundfunk und arbeitete
+    später als TV-Autor und Videojournalist
+    für das Satiremagazin „extra3“. In
+    der von ihm mitbegründeten
+    Produktionsfirma freeeye.tv begann er
+    neue journalistische Formate wie
+    „Mythen des Nordens“ und „Mit
+    80.000 Fragen um die Welt“, welche
+    unter anderem mit dem
+    Axel-Springer-Preis ausgezeichnet wurde,
+    zu entwickeln. Derzeit fasziniert ihn
+    besonders Mobile Reporting und Virtual
+    Reality als neue Erzählform für
+    fiktionale und dokumentarische Formate.
+    Als Absolvent des World Press Institute
+    Fellowships 2015 berät er
+    Medienunternehmen im Umgang mit Videos
+    und Social-Media-Kanälen.
+  _fieldset: jury-member
+- 
+  title: Jugendjury
+  _fieldset: jury-title
+- 
+  name: Anna-Maria Görnandt
+  image: jugendjury_anna-maria-klein.jpg
+  text: >
+    Mein Name ist Anna-Maria und ich besuche
+    die 10. Klasse der Freien Waldorfschule
+    Jena. Eine meiner liebsten
+    Freizeitbeschäftigungen ist das
+    Hip-Hop-Tanzen und das Fotografieren.
+    Ich finde es sehr schön, Momente mit
+    der Kamera festzuhalten, da man mit
+    einer Aufnahme Stimmungen, Emotionen,
+    Gefühle und Leidenschaft vermitteln
+    kann. Es ist immer wieder beeindruckend,
+    was für eine Wirkung Filme haben. Ich
+    selbst probiere sehr gerne ein wenig aus
+    mit der Filmkunst, um sie zu erlernen.
+  _fieldset: jury-member
+- 
+  name: Luise Krahnert
+  image: jugendjury_luise-krahnert.jpg
+  text: >
+    Mein Name ist Luise Krahnert und ich bin
+    17 Jahre alt. Ich besuche die 11. Klasse
+    des Christlichen Gymnasiums Jena und
+    seit zweieinhalb Jahren nehme ich dort
+    am Kurs „Darstellen und Gestalten“
+    teil. Im Rahmen dieses Kurses haben wir
+    auch bereits kleine Filme gedreht.
+    Außerdem leite ich, ebenfalls an der
+    Schule, die Arbeitsgemeinschaft „Junge
+    Autoren“. An Kurzfilmen faszinieren
+    mich die Handlungen, die absolut auf den
+    Punkt gebracht und doch spannend, lustig
+    oder schockierend sein können.
+  _fieldset: jury-member
+- 
+  name: Pauline Lemb
+  image: jugendjury_pauline-lemb-klein.jpg
+  text: >
+    Hallo, ich bin Pauline. Ich bin 16 Jahre
+    alt und besuche zur Zeit die Freie
+    Waldorfschule in Jena. In meiner
+    Freizeit mache ich gern Sport. Ich gehe
+    zum Tanzen und betreibe Artistik. Ich
+    schaue gerne sehr gute Filme. Vor allem
+    fasziniert mich an Kurzfilmen, dass die
+    Filmemacher es schaffen, in begrenzter
+    Zeit eine Geschichte, mit all ihren
+    Emotionen und Details zu erzählen.
+  _fieldset: jury-member

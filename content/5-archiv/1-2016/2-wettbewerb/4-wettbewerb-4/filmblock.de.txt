@@ -1,0 +1,62 @@
+Title: Wettbewerb 4
+
+----
+
+Subtitle: (un)freiwillig
+
+----
+
+Text: Die Ampel steht auf Rot. Die Decke fällt dir auf den Kopf. Die Pubertät klopft an die Tür. So spielt das Leben. Was tun? Dich einrichten in einer kleinen Welt, den Aufstand wagen, dich auf die Socken machen? Ob du dich entscheidest oder nicht: Etwas wird passieren.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-21
+  time: 22:00
+  datetime: 2016-04-21 22:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717004
+  room: Großer Saal
+  facebook_event: ""
+- 
+  date: 2016-04-23
+  time: 17:00
+  datetime: 2016-04-23 17:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717012
+  room: Kleiner Saal
+  facebook_event: ""
+
+----
+
+Blockimage: wb_4.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Meta-description: Dieser Wettbewerbsblock schickt dich auf die Achterbahn der Pupertät zurück. Zwischen Aufbruch und Ausbruch. cellu l'art Kurzfilmfestival | 19. - 24. April
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/162199278
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

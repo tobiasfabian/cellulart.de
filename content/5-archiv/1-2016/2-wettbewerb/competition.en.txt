@@ -1,0 +1,17 @@
+Title: international competition
+
+----
+
+Builder: 
+
+- 
+  h1: International Competition
+  text: |
+    Numerous visitors are coming to Jena between the 19th and 24th April 2016 to start their journey through the international short film scene. The cellu l’art short film festival enters its 17th round. This time we made a special selection from almost 700 movies including animation, documentary and experimental cinema from more than 20 countries.
+    
+    Explore our diverse festival programme!
+  _fieldset: text
+
+----
+
+Meta-description: Die Wettbewerbsfilme des 17. cellu l'art Kurzfilmfestivals auf einem Blick. 19. - 24. April 2016.

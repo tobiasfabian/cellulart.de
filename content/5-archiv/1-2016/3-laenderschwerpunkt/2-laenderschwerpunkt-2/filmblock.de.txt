@@ -1,0 +1,58 @@
+Title: Länderschwerpunkt 2
+
+----
+
+Subtitle: Familienangelegenheiten
+
+----
+
+Meta-description: Finnland Länderschwerpunkt 3 - Stadt, Land, See | 17. internationales Kurzfilmfestival cellu l'art
+
+----
+
+Text: Die eigene Familie prägt uns. Ob wir es wollen oder nicht: Sie ist ein Teil von uns und trägt entscheidend zur Ich-Werdung bei. Die Filme dieses Blocks nähern sich aus unterschiedlichen Blickwinkeln verschiedenen Familienkonstellationen. Sie erzählen von Zusammenhalt und Verlust, von Veränderung und Geborgenheit. Dabei muss die Familie nicht zwangsläufig im Zentrum der Handlung stehen – im Hintergrund ist sie jedoch stets präsent und formt unverzichtbar das Leben der Protagonisten.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-22
+  time: 20:00
+  datetime: 2016-04-22 20:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717008
+  room: Großer Saal
+  facebook_event: ""
+
+----
+
+Blockimage: lsp_finnland.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knelbelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

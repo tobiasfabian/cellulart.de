@@ -1,0 +1,55 @@
+Title: Open-Air
+
+----
+
+Subtitle: Kurzfilm-Kino mit The Panjabys
+
+----
+
+Meta-description: Open-Air Kurzfilm-Kino mit The Panjabys | 17. internationales Kurzfilmfestival in Jena
+
+----
+
+Text: Knall, krach, kaboom! Es geht wieder los. Das größte Kurzfilmevent in Thüringen, das cellu l‘art Open-Air, findet wie gewohnt am Faulloch (beim Johannistor) statt. Wie immer komplett kostenlos. The Panjabys geben sich die Ehre. Die Jenaer Band wird euch mit groovigen Tönen und Retro-Pop einheizen bis ihr nicht mehr stillstehen könnt. Nachdem die Dunkelheit über die Stadt hereingebrochen ist, präsentieren wir euch die Kurzfilm-Schmankerl aus den vergangenen Festivals, gewürzt mit ein paar aktuellen Highlights aus der Kurzfilmwelt. Mit Speisen und Getränken zu studentischen Preisen ist für euer leibliches Wohl ebenfalls gesorgt. Kommt vorbei und lasst euch begeistern!
+
+----
+
+Dates: 
+
+- 
+  datetime: 2016-04-19 20:00:00
+  facebook_event: >
+    https://www.facebook.com/events/1106391946086371/
+  tickets_url: ""
+
+----
+
+Blockimage: ndf_1736.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Bockvideo-vimeo: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Faulloch Jena
+
+----
+
+Street: (am Johannistor)
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

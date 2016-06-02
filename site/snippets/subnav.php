@@ -5,7 +5,7 @@
       $pages = $page->children();
     } else if ($page->parent() and $page->parent()->template() === 'competition') {
       $pages = $page->siblings();
-    } else if ($page->depth() == 3 and $page->template() === 'filmblock') {
+    } else if ($page->depth() == 3 and $page->template() === 'filmblock' and $page->siblings()->first()->template() === 'competition') {
       $pages = $page->siblings();
     } else if ($page->parent()->parent() and $page->parent()->parent()->template() === 'archive') {
       $pages = $page->children();

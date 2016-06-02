@@ -1,0 +1,58 @@
+Title: competition 2
+
+----
+
+Subtitle: partners in crime
+
+----
+
+Text: With good friends you can share dreams, master the everyday life and set the world on fire. Or even worse. Together through thick and thin. Just sometimes love gets in the way. Then you’ll see how strong your friendship really is.
+
+----
+
+Dates: 
+
+- 
+  date: 2016-04-21
+  time: 18:00
+  datetime: 2016-04-21 18:00:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717002
+- 
+  date: 2016-04-22
+  time: 20:15
+  datetime: 2016-04-22 20:15:00
+  tickets_url: >
+    http://tickets.vibus.de/00100175000000/shop/vstdetails.aspx?VstKey=10017500001717015
+
+----
+
+Blockimage: wb_2.jpg
+
+----
+
+Blockvideo: 
+
+----
+
+Meta-description: Freundschaften auf der Probe und Irrungen und Wirrungen der Liebe gibt es in diesem Wettbewerb zu bestaunen. cellu l'art Kurzfilmfestival | 19. – 24. April
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Bockvideo-vimeo: https://vimeo.com/162253459
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena
