@@ -1,0 +1,35 @@
+Title: 2016
+
+----
+
+Meta-description: 
+
+----
+
+Awards: 
+
+- 
+  award: |
+    Bester
+    Spielfilm
+  film: czulosc
+
+----
+
+Text: 
+
+----
+
+Headline-gallery: 
+
+----
+
+Gallery-images: 
+
+----
+
+Headline-downloads: 
+
+----
+
+Downloads: 
