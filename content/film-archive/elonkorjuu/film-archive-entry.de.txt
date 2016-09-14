@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Elonkorjuu
+
+----
+
+Key: mTRnppq3oiAPCCOY
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Harvest Time
+
+----
+
+Genre: comedy
+
+----
+
+Category: fiction
+
+----
+
+Tags: Bauernhof,Ehepaar,Streit,Polizei,Tod,Frau erschießt ihren Mann
+
+----
+
+Duration: 14:21
+
+----
+
+Year: 2006
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Anja lebt mit ihrem Mann und ihren beiden Söhnen auf dem Land. Während sie auf dem Feld schuftet, sitzt er faul herum, trinkt und nörgelt. Eines Tages platzt ihr der Kragen.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Sami Korjus
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Sami Korjus
+
+----
+
+Address: 
+
+----
+
+Email: sami@samikorjus.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

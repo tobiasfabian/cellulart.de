@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Lost Village
+
+----
+
+Key: 9wwb2KTkX72SqOSL
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Lost Village
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Bruder und Schwester,Haus auf Berg,Einsamkeit,Entfremdung,Verschwinden,ohne Dialog,Buchverfilmung,Landschaft
+
+----
+
+Duration: 15:36
+
+----
+
+Year: 2015
+
+----
+
+Country: GE, ES
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Ein einsames Haus. Seltsame Geräusche im Nebel. Was wird passieren?
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: George Todria
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: b-side
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Kimuak (Verleih)
+
+----
+
+Address: 
+
+----
+
+Email: kimuak@filmotecavasca.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

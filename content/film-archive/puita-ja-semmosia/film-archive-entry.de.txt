@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Puita ja semmosia
+
+----
+
+Key: s3xmO89L8Htzjuah
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Trees and such
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Einsamkeit,Distanz,Schwimmbad
+
+----
+
+Duration: 11:48
+
+----
+
+Year: 2011
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Ein Mann in einer grauen Stadt. Ein Film über eine Welt, die sich von der Natur entfremdet hat.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Markus Lehmusruusu
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Markus Lehmusruusu
+
+----
+
+Address: 
+
+----
+
+Email: markus.lehmusruusu@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

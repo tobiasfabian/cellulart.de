@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Champion
+
+----
+
+Key: A6eV22oz7Z1HjUgs
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 
+
+----
+
+Genre: comedy, romance, drama, western
+
+----
+
+Category: fiction
+
+----
+
+Tags: Duell,Sturheit,Stolz,Freiheit,ohne Dialog
+
+----
+
+Duration: 19:24
+
+----
+
+Year: 2015
+
+----
+
+Country: SE
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Ein kalter Wintertag. Eine kalte Liebe. Da bringt der Besuch einer verloren geglaubten Leidenschaft alte Gefühle zurück. Ein wortloser Kampf beginnt, bis sich das ewige Dreieck für immer auflöst.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Måns Berthas
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Måns Berthas
+
+----
+
+Address: 
+
+----
+
+Email: lightsonteam@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

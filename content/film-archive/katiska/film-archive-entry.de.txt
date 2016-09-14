@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Katiska
+
+----
+
+Key: hn5p5BM73VlbSxib
+
+----
+
+Title-de: 
+
+----
+
+Title-en: The Trap
+
+----
+
+Genre: comedy, fantasy
+
+----
+
+Category: animation, fiction
+
+----
+
+Tags: Stop-Motion,ohne Dialog,Eisfischen,toter Fisch,Wasserleiche
+
+----
+
+Duration: 4:32
+
+----
+
+Year: 2008
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Schnee und Eis. Ein Vater, seine Tochter und: Fische.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Joni Männistö, Janne Kukkonen, JP Saari, Mikko Korhonen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Joni Männistö
+
+----
+
+Address: 
+
+----
+
+Email: joni.mannisto@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

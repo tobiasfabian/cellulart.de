@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Это
+
+----
+
+Key: l57bMpmmiSVnzKox
+
+----
+
+Title-de: 
+
+----
+
+Title-en: It
+
+----
+
+Genre: drama
+
+----
+
+Category: animation, fiction
+
+----
+
+Tags: Insektenbiss,Verwandlung,Entfremdung,kafkaesk,ohne Dialog,Zeichentrick
+
+----
+
+Duration: 8:17
+
+----
+
+Year: 2015
+
+----
+
+Country: RUS
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Ein junger Mann wird von einem Insekt gebissen. Die darauf einsetzende Verwandlung entfremdet ihn von seinem früheren Leben.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Genadzi Buto
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: b-side
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Genadzi Buto
+
+----
+
+Address: 
+
+----
+
+Email: gena.buto@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

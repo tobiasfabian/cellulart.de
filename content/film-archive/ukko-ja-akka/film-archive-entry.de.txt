@@ -1,0 +1,148 @@
+Film-tab: 
+
+----
+
+Title: Ukko ja akka
+
+----
+
+Key: jdcE3LpurXN3Fpd2
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Old Man and the Lady
+
+----
+
+Genre: documentation
+
+----
+
+Category: documentary
+
+----
+
+Tags: Mutter und Sohn,Bauernhof,Rentner,Pflege zuhause
+
+----
+
+Duration: 14:30
+
+----
+
+Year: 2010
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: In einem abgeschotteten Dorf in der ländlich geprägten Region Kainuu an der Grenze zu Russland kümmert sich der 73-jährige Seppo um die 102 Jahre alte Linda. Ein Einblick in ein Leben, das im Begriff ist, zu verschwinden.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Markku Heikkinen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Markku Heikkinen, Hannu Vitikainen
+
+----
+
+Address: 
+
+alternativ:
+hannu.vitikainen@zone2.fi (Produktion)
+
+----
+
+Email: markku.heikkinen@zone2.fi
+
+----
+
+Phone: 
+
+----
+
+Website: 

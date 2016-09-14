@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: My Enemy, My Brother
+
+----
+
+Key: piDDYgvh3f7dzJcZ
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 
+
+----
+
+Genre: documentation
+
+----
+
+Category: documentary
+
+----
+
+Tags: Trauma,Wiedersehen,Gefangenschaft,Iran-Irak-Krieg
+
+----
+
+Duration: 17:00
+
+----
+
+Year: 2015
+
+----
+
+Country: CA
+
+----
+
+Language: en
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Der erste Golfkrieg forderte Opfer auf beiden Seiten. Erbarmen findet hier keinen Platz. Oder doch? Manchmal werden Grenzen zwischen Feind und Bruder schneller verwischt, als man denkt.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Ann Shin
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2015
+
+----
+
+Section: competition
+
+----
+
+Awards: tolerance-award
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Promofest (Vertrieb)
+
+----
+
+Address: 
+
+----
+
+Email: info@promofest.org
+
+----
+
+Phone: 
+
+----
+
+Website: 

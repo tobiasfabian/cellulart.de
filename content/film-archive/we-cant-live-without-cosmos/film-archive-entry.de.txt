@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: We can’t live without cosmos
+
+----
+
+Key: ak49BjfUnGzfua1X
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 
+
+----
+
+Genre: comedy, science-fiction, drama
+
+----
+
+Category: animation, fiction
+
+----
+
+Tags: Kosmonauten,Training,Freundschaft,Verlust,ohne Dialog
+
+----
+
+Duration: 15:00
+
+----
+
+Year: 2014
+
+----
+
+Country: RUS
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Eine schwerelose Freundschaft zwischen Traum und Realität.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Konstantin Bronzit
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: best-exando
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Promofest (Vertrieb)
+
+----
+
+Address: 
+
+----
+
+Email: info@promofest.org
+
+----
+
+Phone: 
+
+----
+
+Website: 

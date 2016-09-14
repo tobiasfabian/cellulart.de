@@ -1,0 +1,148 @@
+Film-tab: 
+
+----
+
+Title: Sirocco
+
+----
+
+Key: pBtulyVyOOSS86Xq
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Sirocco
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Findelkind,Einsamkeit,Wäscherei,Betriebsfeier,versuchte Vergewaltigung,Notwehr,Flucht
+
+----
+
+Duration: 14:30
+
+----
+
+Year: 2012
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Bei den Müllcontainern ihres Wohnhauskomplexes findet eine vereinsamte Frau ein ausgesetztes Kleinkind und nimmt es mit nach Hause.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Mikko Kuparinen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Mikko Kuparinen
+
+----
+
+Address: 
+
+alternativ:
+elina.pohjola@pohjolafilmi.fi (Production)
+
+----
+
+Email: mikko.kuparinen@me.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

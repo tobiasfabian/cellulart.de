@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Hausarrest
+
+----
+
+Key: ZSFUgiUrCiDBs4Mg
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 
+
+----
+
+Genre: horror, comedy, science-fiction
+
+----
+
+Category: fiction
+
+----
+
+Tags: Fussfessel,künstliche Intelligenz,Technologie,Bevormundung
+
+----
+
+Duration: 13:26
+
+----
+
+Year: 2015
+
+----
+
+Country: CH
+
+----
+
+Language: de
+
+----
+
+Subtitles: de
+
+----
+
+Synposis-de: Die Wunder der Technik lassen auch an einer Fußfessel gute Seite erscheinen. Doch was sie nicht kann, ist zwischen den Zeilen lesen.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Matthias Sahli
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Matthias Sahli
+
+----
+
+Address: 
+
+----
+
+Email: matthias.sahli@zhdk.ch
+
+----
+
+Phone: 
+
+----
+
+Website: 

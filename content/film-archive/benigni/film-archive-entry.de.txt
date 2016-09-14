@@ -1,0 +1,149 @@
+Film-tab: 
+
+----
+
+Title: Benigni
+
+----
+
+Key: 7DaSz521hErmsF7q
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Benigni
+
+----
+
+Genre: comedy, drama
+
+----
+
+Category: animation, fiction
+
+----
+
+Tags: Einsamkeit,Freundschaft,Verlust,Unfall,Tumor,Stop-Motion,ohne Dialog
+
+----
+
+Duration: 7:49
+
+----
+
+Year: 2009
+
+----
+
+Country: FI
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Ein zurückgezogen lebender Mann schließt eine äußerst ungewöhnliche Freundschaft.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Elli Vuorinen, Jasmiini Ottelin, Pinja Partanen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Elli Vuorinen, Jasmiini Ottelin, Pinja Partanen
+
+----
+
+Address: 
+
+alternativ:
+jasmiini_o@yahoo.com
+pinja.partanen@gmail.com
+
+----
+
+Email: elli@ellivuorinen.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

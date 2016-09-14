@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Äiti
+
+----
+
+Key: J2lTwBu7wpOtGCki
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Mother
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Mutter,Ehepaar,totes Kind,Trauer,Verlust,Erinnerung,Sauna,Muttertag
+
+----
+
+Duration: 5:39
+
+----
+
+Year: 2014
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Der Muttertag lässt eine Familientragödie wieder aufleben. Das Paar muss neue Wege des Miteinander finden, wenn sie zusammen bleiben wollen.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Juha Hippi
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Juha Hippi
+
+----
+
+Address: 
+
+----
+
+Email: juha.hippi@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Huulilla
+
+----
+
+Key: aGYCsBnB30PcTukm
+
+----
+
+Title-de: 
+
+----
+
+Title-en: On your Lips
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Vergnügungspark,Mutprobe,erster Kuss,Vater und Sohn,Mutter und Tochter
+
+----
+
+Duration: 8:53
+
+----
+
+Year: 2013
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Auf dem Rummelplatz macht der zwölfjährige Viljami erste Erfahrungen mit dem anderen Geschlecht.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Joonas Rutanen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Joonas Rutanen
+
+----
+
+Address: 
+
+----
+
+Email: joonas.rutanen@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

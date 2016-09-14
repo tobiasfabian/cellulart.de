@@ -1,0 +1,148 @@
+Film-tab: 
+
+----
+
+Title: Hiljainen viikko
+
+----
+
+Key: HsglrMt6fZRojUNJ
+
+----
+
+Title-de: 
+
+----
+
+Title-en: All Hallows' Week
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Disco,Schießerei,Amoklauf,Tod,Wut,Vorwürfe,Schuldgefühle der Überlebenden,Türsteher
+
+----
+
+Duration: 18:10
+
+----
+
+Year: 2011
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Vor einem Nachtclub ereignet sich ein Amoklauf. Die Schwester der Getöteten und der Türsteher, beide Zeugen der Gewalttat, müssen lernen, mit ihrer Trauer und ihren Schuldgefühlen umzugehen.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Jussi Hiltunen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Jussi Hiltunen
+
+----
+
+Address: 
+
+alternativ:
+kaarle.aho@mamo.fi (Production)
+
+----
+
+Email: jussi.m.hiltunen@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

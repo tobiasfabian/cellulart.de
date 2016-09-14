@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Gueule de loup
+
+----
+
+Key: Ofy2V8Ci46eFGyx2
+
+----
+
+Title-de: 
+
+----
+
+Title-en: Wolf head
+
+----
+
+Genre: drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Mädchen,Handpuppe,Wölfe,alleinerziehende Mutter,Fantasie,Einsamkeit
+
+----
+
+Duration: 24:10
+
+----
+
+Year: 2014
+
+----
+
+Country: FR
+
+----
+
+Language: fr
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Ein kleines Mädchen hat nur einen echten Freund: eine Wolf-Handpuppe. Sie begleitet das Mädchen in der Schule, beim Baden, und auch in den dunklen Nächten, während Mama arbeiten muss. Doch plötzlich ist die Handpuppe zerrissen und Mama muss wieder arbeiten. Das Mädchen entscheidet sich, auf echte Wölfe zu warten …
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Alice Vial
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Alice Vial
+
+----
+
+Address: 
+
+----
+
+Email: alicepaolivial@hotmail.fr
+
+----
+
+Phone: 
+
+----
+
+Website: 

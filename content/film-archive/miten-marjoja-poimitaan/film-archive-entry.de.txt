@@ -1,0 +1,148 @@
+Film-tab: 
+
+----
+
+Title: Miten marjoja poimitaan
+
+----
+
+Key: me0TCveIrNmt0qTb
+
+----
+
+Title-de: 
+
+----
+
+Title-en: How to pick Berries
+
+----
+
+Genre: documentation
+
+----
+
+Category: documentary
+
+----
+
+Tags: Erzähler,Leere,Landschaft,Beerenpflücker,Konkurrenz,Kapitalismus,Fremde
+
+----
+
+Duration: 18:59
+
+----
+
+Year: 2010
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Besucher aus der Ferne tauchen in den nordfinnischen Sümpfen auf. Sie wühlen etwas in den Einwohnern auf. Der Film erkundet die finnische Mentalität und deckt die Absurditäten des globalisierten Kapitalismus auf.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Elina Talvensaari
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Elina Talvensaari
+
+----
+
+Address: 
+
+alternativ:
+maira.dobele@aalto.fi (Aalto University)
+
+----
+
+Email: elina.talvensaari@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: 90 Grad Nord
+
+----
+
+Key: qHVtk9Mt4bGqkU74
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 
+
+----
+
+Genre: horror, comedy
+
+----
+
+Category: fiction
+
+----
+
+Tags: Ampel,Verkehrsinsel,Gefangenschaft,Flucht
+
+----
+
+Duration: 20:50
+
+----
+
+Year: 2015
+
+----
+
+Country: DE
+
+----
+
+Language: de
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Schon als Kinder lernen wir: „Nicht bei Rot über die Ampel gehen!” Aber was, wenn der grüne Mann einfach nicht erscheint?
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Detsky Graffam
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2015
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Marianne Graffam
+
+----
+
+Address: 
+
+----
+
+Email: mariannegraffam@me.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

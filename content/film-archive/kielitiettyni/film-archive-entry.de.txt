@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Kielitiettyni
+
+----
+
+Key: rZjNpOjtrKUPKpQ4
+
+----
+
+Title-de: 
+
+----
+
+Title-en: The Tongueling
+
+----
+
+Genre: experimental, comedy
+
+----
+
+Category: animation, experimental
+
+----
+
+Tags: Paare,Zunge,Suche nach dem passenden Gegenstück,ohne Dialog
+
+----
+
+Duration: 4:18
+
+----
+
+Year: 2010
+
+----
+
+Country: FI
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: In einer leeren, eisigen Landschaft sucht ein Mann nach dem passenden Gegenstück für seine Zunge.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Elli Vuorinen
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mov
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Elli Vuorinen
+
+----
+
+Address: 
+
+----
+
+Email: elli@ellivuorinen.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

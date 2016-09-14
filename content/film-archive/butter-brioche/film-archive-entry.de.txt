@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Butter Brioche
+
+----
+
+Key: zOldETiy7LPcqLCq
+
+----
+
+Title-de: Butter Brioche
+
+----
+
+Title-en: Butter Brioche
+
+----
+
+Genre: comedy, romance
+
+----
+
+Category: fiction
+
+----
+
+Tags: Liebe aus der Ferne,Missverständnis,Origami,Bäcker,Büro,Bushaltestelle,ohne Dialog,schwarz-weiß
+
+----
+
+Duration: 6:11
+
+----
+
+Year: 2015
+
+----
+
+Country: DE
+
+----
+
+Language: de
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Liebe auf Abwegen: Der Wunsch, der Angebeteten seine Zuneigung zu zeigen. Doch alles läuft ganz anders als geplant.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Christopher Kaufmann
+
+----
+
+Screenplay: Brix Vinzent Koethe
+
+----
+
+Cinematography: Arend Krause
+
+----
+
+Editing: Habiba Laout
+
+----
+
+Production: Karsten Schmied; Hamburg Media School
+
+----
+
+Composer: Siegfried Fischer
+
+----
+
+Music: Jens Südkamp
+
+----
+
+Actors: Michael Schertenleib; Kaya Marie Möller; Marcus Prell
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Petra Barkhausen (Hamburg Media School)
+
+----
+
+Address: 
+
+----
+
+Email: p.barkhausen@hamburgmediaschool.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

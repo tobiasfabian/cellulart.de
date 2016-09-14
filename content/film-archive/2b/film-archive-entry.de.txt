@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: 2B
+
+----
+
+Key: g3TIFgEDcoj4fSrh
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 2B
+
+----
+
+Genre: experimental, comedy, drama
+
+----
+
+Category: fiction
+
+----
+
+Tags: Nachbarn,einzelne Räume,Streit,Lauschen,ohne Dialog,Einsamkeit,Eskalation,nebeneinander
+
+----
+
+Duration: 14:08
+
+----
+
+Year: 2011
+
+----
+
+Country: FI
+
+----
+
+Language: fi
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Kuriose Einblicke in die Lebenswelten der Bewohner eines Mietshauses.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Jäppi Savolainen (als Henri Savolainen)
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: country-focus
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Jäppi Savolainen
+
+----
+
+Address: 
+
+----
+
+Email: jappi.savolainen@gmail.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

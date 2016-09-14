@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Life Smartphone
+
+----
+
+Key: 9ulWiWgArxqGKI5y
+
+----
+
+Title-de: 
+
+----
+
+Title-en: 
+
+----
+
+Genre: comedy, drama
+
+----
+
+Category: animation, fiction
+
+----
+
+Tags: Abhängigkeit,Realitätsverlust,Wahrnehmnungsstörung,schwarzer Humor,ohne Dialog
+
+----
+
+Duration: 3:00
+
+----
+
+Year: 2015
+
+----
+
+Country: CN
+
+----
+
+Language: none
+
+----
+
+Subtitles: none
+
+----
+
+Synposis-de: Was passiert, wenn man nur noch aufs Smartphone starrt?
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Lin Xie Cheng
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: special
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Lin Xie Cheng
+
+----
+
+Address: 
+
+----
+
+Email: 740098264@qq.com
+
+----
+
+Phone: 
+
+----
+
+Website: 

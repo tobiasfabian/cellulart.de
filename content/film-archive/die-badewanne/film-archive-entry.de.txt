@@ -1,0 +1,145 @@
+Film-tab: 
+
+----
+
+Title: Die Badewanne
+
+----
+
+Key: uFn0SZRiKubAOaaq
+
+----
+
+Title-de: 
+
+----
+
+Title-en: The Bathtub
+
+----
+
+Genre: comedy
+
+----
+
+Category: fiction
+
+----
+
+Tags: 
+
+----
+
+Duration: 12:55
+
+----
+
+Year: 2015
+
+----
+
+Country: AT
+
+----
+
+Language: de
+
+----
+
+Subtitles: en
+
+----
+
+Synposis-de: Liebe zur Mutter: Drei Brüder treffen sich im heimischen Badezimmer, um zum Geburtstag der Mutter ein Kinderfoto nachzustellen. Was einfach scheint, wird zu einer Grundsatzdiskussion über die Familiengeschichte.
+
+----
+
+Synposis-en: 
+
+----
+
+Cast-tab: 
+
+----
+
+Direction: Tim Elrich
+
+----
+
+Screenplay: 
+
+----
+
+Cinematography: 
+
+----
+
+Editing: 
+
+----
+
+Production: 
+
+----
+
+Composer: 
+
+----
+
+Music: 
+
+----
+
+Actors: 
+
+----
+
+Festival-tab: 
+
+----
+
+Festival-year: 2016
+
+----
+
+Section: competition
+
+----
+
+Awards: 
+
+----
+
+Formats-tab: 
+
+----
+
+Formats: mp4
+
+----
+
+Location: HDD (Filme)
+
+----
+
+Contact-tab: 
+
+----
+
+Contact: Markus Kaatsch (Aug&Ohr Medien)
+
+----
+
+Address: 
+
+----
+
+Email: markus@augohr.de
+
+----
+
+Phone: 
+
+----
+
+Website: 
