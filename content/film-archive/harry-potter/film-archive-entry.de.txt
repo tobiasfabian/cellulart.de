@@ -2,7 +2,7 @@ Film-tab:
 
 ----
 
-Title: Harry Potter
+Title: Pro Mamu
 
 ----
 
@@ -14,43 +14,43 @@ Title-de:
 
 ----
 
-Title-en: 
+Title-en: About a mother
 
 ----
 
-Genre: 
+Genre: comedy, drama
 
 ----
 
-Category: 
+Category: animation
 
 ----
 
-Tags: 
+Tags: Mutter,drei Söhne,lange Haare,Hilfe,ohne Dialog
 
 ----
 
-Duration: 
+Duration: 7:20
 
 ----
 
-Year: 
+Year: 2015
 
 ----
 
-Country: 
+Country: RUS
 
 ----
 
-Language: 
+Language: ru
 
 ----
 
-Subtitles: 
+Subtitles: none
 
 ----
 
-Synposis-de: 
+Synposis-de: Liebe einer Mutter: Selbst wenn sie sich den Unmut anderer zuzieht, ist eine Mutter immer für ihre Kinder da. Ob klein, ob groß – haarige Angelegenheiten gibt es immer zu lösen.M
 
 ----
 
@@ -62,7 +62,7 @@ Cast-tab:
 
 ----
 
-Direction: 
+Direction: Dina Velikovskaya
 
 ----
 
@@ -98,11 +98,11 @@ Festival-tab:
 
 ----
 
-Festival-year: 
+Festival-year: 2016
 
 ----
 
-Section: 
+Section: competition
 
 ----
 
@@ -114,11 +114,11 @@ Formats-tab:
 
 ----
 
-Formats: 
+Formats: mp4
 
 ----
 
-Location: 
+Location: HDD (Filme)
 
 ----
 
@@ -126,7 +126,7 @@ Contact-tab:
 
 ----
 
-Contact: 
+Contact: Promofest (Vertrieb)
 
 ----
 
@@ -134,7 +134,7 @@ Address:
 
 ----
 
-Email: 
+Email: distribucion@promofest.org
 
 ----
 

@@ -2,216 +2,365 @@ Title: Film Archive
 
 ----
 
-Langs:
+Langs: 
 
--
+- 
   iso_639_1: de
   german: Deutsch
   english: German
--
+- 
   iso_639_1: en
   german: Englisch
   english: English
--
+- 
   iso_639_1: es
   german: Spanisch
   english: Spanish
--
+- 
   iso_639_1: fr
   german: Französisch
   english: French
--
+- 
   iso_639_1: el
   german: Griechisch
   english: Greek
--
+- 
   iso_639_1: ga
   german: Irisch
   english: Irish
--
+- 
   iso_639_1: it
   german: Italienisch
   english: Italien
--
+- 
   iso_639_1: pt
   german: Portugisisch
   english: Portuguese
--
+- 
   iso_639_1: ru
   german: Russisch
   english: Russian
--
+- 
   iso_639_1: sv
   german: Schwedisch
   english: Swedish
+- 
+  iso_639_1: hr
+  german: Kroatisch
+  english: Croatian
+- 
+  iso_639_1: none
+  german: Ohne
+  english: None
+- 
+  iso_639_1: pl
+  german: Polnisch
+  english: Polish
+- 
+  iso_639_1: 'no'
+  german: Norwegisch
+  english: Norwegian
+- 
+  iso_639_1: sv
+  german: Schwedisch
+  english: Swedish
+- 
+  iso_639_1: be
+  german: Belgisch
+  english: Belgian
+- 
+  iso_639_1: ar
+  german: Arabisch
+  english: Arabic
+- 
+  iso_639_1: da
+  german: Dänisch
+  english: Danish
+- 
+  iso_639_1: is
+  german: Isländisch
+  english: Icelandic
+- 
+  iso_639_1: he
+  german: Hebräisch
+  english: Hebrew
+- 
+  iso_639_1: fi
+  german: Finnisch
+  english: Finnish
+- 
+  iso_639_1: nl
+  german: Niederländisch
+  english: Dutch
+- 
+  iso_639_1: zh
+  german: Chinesisch
+  english: Chinese
 
 ----
 
-Countries:
+Countries: 
 
--
+- 
   iso_3166_1: DE
   german: Deutschland
   english: Germany
--
+- 
   iso_3166_1: ES
   german: Spanien
   english: Spain
--
+- 
   iso_3166_1: GB
   german: Großbritannien
   english: Great Britain
--
+- 
   iso_3166_1: US
   german: USA
   english: USA
--
+- 
   iso_3166_1: UA
   german: Ukraine
   english: Ukraine
+- 
+  iso_3166_1: RUS
+  german: Russland
+  english: Russia
+- 
+  iso_3166_1: HRV
+  german: Kroatien
+  english: Croatia
+- 
+  iso_3166_1: PL
+  german: Polen
+  english: Poland
+- 
+  iso_3166_1: AT
+  german: Österreich
+  english: Austria
+- 
+  iso_3166_1: 'NO'
+  german: Norwegen
+  english: Norway
+- 
+  iso_3166_1: CA
+  german: Kanada
+  english: Canada
+- 
+  iso_3166_1: SE
+  german: Schweden
+  english: Sweden
+- 
+  iso_3166_1: AR
+  german: Argentinien
+  english: Argentina
+- 
+  iso_3166_1: BE
+  german: Belgien
+  english: Belgium
+- 
+  iso_3166_1: CH
+  german: Schweiz
+  english: Switzerland
+- 
+  iso_3166_1: UK
+  german: Vereintes Königreich
+  english: United Kingdom
+- 
+  iso_3166_1: FR
+  german: Frankreich
+  english: France
+- 
+  iso_3166_1: DK
+  german: Dänemark
+  english: Denmark
+- 
+  iso_3166_1: IS
+  german: Island
+  english: Iceland
+- 
+  iso_3166_1: IL
+  german: Israel
+  english: Israel
+- 
+  iso_3166_1: MX
+  german: Mexiko
+  english: Mexico
+- 
+  iso_3166_1: FI
+  german: Finnland
+  english: Finland
+- 
+  iso_3166_1: FI
+  german: Finnland
+  english: Finland
+- 
+  iso_3166_1: BE
+  german: Belgien
+  english: Belgium
+- 
+  iso_3166_1: IE
+  german: Irland
+  english: Ireland
+- 
+  iso_3166_1: CZ
+  german: Tschechien
+  english: Czech Republic
+- 
+  iso_3166_1: GE
+  german: Georgien
+  english: Georgia
+- 
+  iso_3166_1: CN
+  german: China
+  english: China
 
 ----
 
-Genres:
+Genres: 
 
--
+- 
   german: Horror
   english: Horror
--
+- 
   german: Action
   english: Action
--
+- 
   german: Dokumentation
   english: Documentation
--
+- 
   german: Experimental
   english: Experimental
--
+- 
   german: Komödie
   english: Comedy
--
+- 
   german: Romantik
   english: Romance
--
+- 
   german: Fantasy
   english: Fantasy
--
+- 
   german: Science-Fiction
   english: Science-Fiction
--
+- 
   german: Thriller
   english: Thriller
--
+- 
   german: Musikfilm / Musical
   english: Musical
--
+- 
   german: Drama
   english: Drama
--
+- 
   german: Historienfilm
   english: History
--
+- 
   german: Western
   english: Western
--
+- 
   german: Musikvideo
   english: Musical clip
 
 ----
 
-Categories:
+Categories: 
 
--
+- 
   german: Animation
   english: Animation
--
+- 
   german: Spielfilm
   english: Fiction
--
+- 
   german: Dokumentation
   english: Documentary
--
+- 
   german: Filmessay
   english: Filmessay
--
+- 
   german: Experimental
   english: Experimental
 
 ----
 
-Awards:
+Awards: 
 
--
+- 
   german: Bester Kurzfilm
   english: Best Short Film
--
+- 
   german: Bester ExAnDo
   english: Best ExAnDo
--
+- 
   german: Publikumspreis
   english: Audience Award
--
+- 
   german: Toleranzpreis
   english: Tolerance Award
--
+- 
   german: Bestes Drehbuch
   english: Best Screenplay
--
+- 
   german: Bester Schauspieler
   english: Best Actor
--
+- 
   german: Beste Schauspielerin
   english: Best Actress
--
+- 
   german: Beste Kamera
   english: Best Camera
--
+- 
   german: Beste Regie
   english: Best Director
--
+- 
   german: Erster Platz
   english: First Place
--
+- 
   german: Zweiter Platz
   english: Second Place
--
+- 
   german: Dritter Platz
   english: Third Place
+- 
+  german: Jugendjury
+  english: Youth Jury
 
 ----
 
-Sections:
+Sections: 
 
--
+- 
   german: Wettbewerb
   english: Competition
--
+- 
   german: Special
   english: Special
--
+- 
   german: Einzelfilm / keine Festivalbeteiligung
   english: Single Film
--
+- 
   german: B-Side
   english: B-Side
--
+- 
   german: Länderschwerpunkt
   english: Country Focus
--
+- 
   german: Außer Konkurrenz
   english: Uncontested
 
 ----
 
-Formats:
+Formats: 
 
--
+- 
   format: MP4
--
+- 
   format: DCP
--
+- 
   format: Blu-Ray
--
+- 
   format: MOV
--
+- 
   format: PAL
+- 
+  format: MPEG
