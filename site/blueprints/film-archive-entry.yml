@@ -241,7 +241,6 @@ fields:
     translate: false
   email:
     label: E-Mail
-    required: true
     type:  email
     translate: false
     width: 1/2
