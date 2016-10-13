@@ -69,7 +69,8 @@ RewriteRule ^(.*) index.php [L]
 
 </IfModule>
 
-
+# AddHandler application/x-httpd-php56 .php .php5 .php4 .php3
+# update auf php5.6
 
 <IfModule mod_deflate.c>
 
