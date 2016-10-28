@@ -13,22 +13,6 @@
     <?php endforeach ?>
   </ul>
   <?php endif ?>
-  <div class="overlay">
-    <h1>
-      <span hidden>cellu l’art</span>
-      <img src="<?=url('assets/images/cellu.svg')?>" class="cellu" alt="">
-      <img src="<?=url('assets/images/lart.svg')?>" class="lart" alt="">
-    </h1>
-    <time class="date" datetime="<?=$site->date('c','startdate')?>">
-      <?=$site->date('j.','startdate')?>–<?=$site->date('j.','enddate')?><br>
-      <?=strftime('%B %Y',$site->date(null,'enddate'))?>
-    </time>
-    <?php if (!$site->venue()->isEmpty()) :?>
-    <div class="venue">
-      <?=str_replace(' ','<br>',$site->venue())?>
-    </div>
-    <?php endif ?>
-  </div>
   <div class="teaser">
     <?php if (!$page->teaservideo()->isEmpty()): ?>
       <video poster="<?=!$page->teaserimage()->isEmpty() ? $page->teaserimage()->toFile()->url() : null ?>" autoplay>
