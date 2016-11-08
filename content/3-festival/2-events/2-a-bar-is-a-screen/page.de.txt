@@ -1,0 +1,24 @@
+Title: a bar is a screen
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    a bar is a screen
+    
+    kurzfilmkneipentour
+  text: |
+    Cellu l'art wird vielleicht volljährig, aber noch längst nicht erwachsen... Also hoch die Tassen für den Kurzfilm! Zur traditionellen Wanderung durch Jenas Kneipenlandschaft verwandeln wir urige Gemäuer in gesellige Kurzfilmkinos. Probiert selbst, wie gut die köstlichen Kaltgetränke des Immergrün, Café Wagner und der Weintanne mit unserer Leinwand harmonieren und sichert euch Tickets!
+    
+    Datum: 28.11.2016
+    Treffpunkt: Campus vor der Ernst-Abbe-Mensa
+    Beginn: 20.00 Uhr
+    Eintritt: 3/4€
+    VVK: 28. November von 11.00 Uhr bis 13.00 Uhr in der Ernst-Abbe-Mensa
+  _fieldset: text

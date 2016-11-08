@@ -14,7 +14,7 @@ Teaservideo: teaser-desktop.mp4
 
 ----
 
-Teaserimage-mobile: teaser-mobile.jpg
+Teaserimage-mobile: poster.jpg
 
 ----
 
@@ -23,3 +23,8 @@ Meta-description: Vom 25. bis 30. April 2017 präsentieren das cellu l’art im 
 ----
 
 Quicklinks: 
+
+- 
+  name: Call for Entries
+  url: >
+    http://cellulart.de/festival/call-for-entries

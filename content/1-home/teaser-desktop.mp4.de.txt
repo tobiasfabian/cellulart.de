@@ -1,9 +1,1 @@
-Media-query: orientation: landscape
-
-----
-
 Media: 
-
-----
-
-Sort: 3

@@ -1,0 +1,22 @@
+Title: events
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: ""
+  text: >
+    Die Zeit bis zum Festival im April ist
+    noch lang! Aber damit der Kurzfilm bis
+    dahin nicht zu kurz kommt, versüßen
+    wir euch die Zeit mit einigen
+    altbewährten Formaten, wie der
+    Kurzfilmkneipentour, aber probieren auch
+    einmal etwas ganz neues, wie den
+    Kurzfilmporno, aus.
+  _fieldset: text

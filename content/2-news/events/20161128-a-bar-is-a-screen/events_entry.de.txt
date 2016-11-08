@@ -1,0 +1,41 @@
+Title: a bar is a screen
+
+----
+
+Fb-link: 
+
+----
+
+Startdate: 2016-11-28 20:00:00
+
+----
+
+Enddate: 2016-11-28 23:00:00
+
+----
+
+Text: kurzfilmkneipentour
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Treffpunkt: Campus
+
+----
+
+Venue-link: 
+
+----
+
+Street: 
+
+----
+
+Zip: 7743
+
+----
+
+City: Jena

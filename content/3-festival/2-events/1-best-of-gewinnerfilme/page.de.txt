@@ -1,0 +1,23 @@
+Title: best of gewinnerfilme
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    best of gewinnerfilme
+    
+    retrospektive zum 18. geburtstag
+  text: |
+    Nach 18 Jahren cellu l'art hat sich so einiges in unserem Archiv angestaut. Zum Semesterstart entführen wir euch auf eine Reise in die Vergangenheit und präsentieren die Entwicklung der internationalen Kurzfilmszene anhand unserer Gewinnerfilme der letzten Jahre. Seid gespannt auf unsere Lieblinge aller preisgekrönten Animationen, Dokumentationen, Experimental- und Spielfilme!
+    
+    Datum: 18.10.2016
+    Ort: Haus auf der Mauer, Großer Saal
+    Beginn: 20.00 Uhr
+    Eintritt: Frei!
+  _fieldset: text

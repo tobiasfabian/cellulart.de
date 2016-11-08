@@ -1,0 +1,24 @@
+Title: der kürzeste tag - die längste nacht
+
+----
+
+Meta-description: 
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    der kürzeste Tag - die längste nacht
+    
+    internationaler Kurzfilmtag
+  text: |
+    Anlässlich des bundesweiten Kurzfilmtages stellt sich cellu l’art voll und ganz auf die Wintersonnenwende ein. Damit ihr bei all der Finsternis nicht einschlaft, bringen wir euch den schaurigsten Horror diesseits eurer Alpträume. Denkt an die Herztabletten, schmeißt den guten Geschmack über Bord, und lasst die feinen Klamotten zu Hause, denn wir versprechen Gallonen an Blut und eimerweise WTF!!!
+    
+    
+    Datum: 21.12.2016
+    Ort: Café Wagner
+    Beginn: 20.00 Uhr
+    Eintritt: 3/4 €
+  _fieldset: text
