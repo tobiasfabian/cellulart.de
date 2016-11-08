@@ -1098,6 +1098,12 @@
 		"oAP": "\/build\/content",
 		"oF": 0
 		},
+	"\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 0,
@@ -20218,6 +20224,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/thumbs\/archiv\/2016\/specials\/green-block\/green-block-1010x568-q80.jpg": {
+		"ft": 16384,
+		"iS": 50254,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/specials\/green-block\/green-block-1010x568-q80.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/specials\/green-block\/green-block-505x284-q80.jpg": {
+		"ft": 16384,
+		"iS": 13957,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/specials\/green-block\/green-block-505x284-q80.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/thumbs\/archiv\/2016\/specials\/shock-block\/shock-block-1010x568-q80.jpg": {
 		"ft": 16384,
 		"iS": 60892,
@@ -20623,6 +20645,94 @@
 		"iS": 51807,
 		"oA": 0,
 		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-1\/wb_1-1010x568-q80.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/freifuss\/wb4_2_freifuss-233x131-q70.jpg": {
+		"ft": 16384,
+		"iS": 5159,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/freifuss\/wb4_2_freifuss-233x131-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/freifuss\/wb4_2_freifuss-466x262-q70.jpg": {
+		"ft": 16384,
+		"iS": 13216,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/freifuss\/wb4_2_freifuss-466x262-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/grad-nord\/wb4_3_90grad-233x98-q70.jpg": {
+		"ft": 16384,
+		"iS": 4209,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/grad-nord\/wb4_3_90grad-233x98-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/grad-nord\/wb4_3_90grad-466x195-q70.jpg": {
+		"ft": 16384,
+		"iS": 12182,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/grad-nord\/wb4_3_90grad-466x195-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/hausarrest\/wb4_6_hausarrest-233x130-q70.png": {
+		"ft": 32768,
+		"iS": 50708,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/hausarrest\/wb4_6_hausarrest-233x130-q70.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/hausarrest\/wb4_6_hausarrest-466x261-q70.png": {
+		"ft": 32768,
+		"iS": 217035,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/hausarrest\/wb4_6_hausarrest-466x261-q70.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/lost-drones\/wb4_4_lostdrones-233x131-q70.jpg": {
+		"ft": 16384,
+		"iS": 8257,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/lost-drones\/wb4_4_lostdrones-233x131-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/lost-drones\/wb4_4_lostdrones-466x262-q70.jpg": {
+		"ft": 16384,
+		"iS": 26817,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/lost-drones\/wb4_4_lostdrones-466x262-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/wb_4-1010x568-q80.jpg": {
+		"ft": 16384,
+		"iS": 84610,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/wb_4-1010x568-q80.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/zero-m2\/wb4_1_zerom2-233x131-q70.jpg": {
+		"ft": 16384,
+		"iS": 3015,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/zero-m2\/wb4_1_zerom2-233x131-q70.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/zero-m2\/wb4_1_zerom2-466x262-q70.jpg": {
+		"ft": 16384,
+		"iS": 7554,
+		"oA": 0,
+		"oAP": "\/thumbs\/archiv\/2016\/wettbewerb\/wettbewerb-4\/zero-m2\/wb4_1_zerom2-466x262-q70.jpg",
 		"oF": 0,
 		"opt": 0
 		},

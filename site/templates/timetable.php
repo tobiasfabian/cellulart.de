@@ -33,12 +33,17 @@ function returnEvent($event, $faulloch) {
     $element->append('<meta itemprop="name" content="' . $event->name() . '">');
   } else {
     $element = new Brick('a');
-    $page = page($event->link());
-    $title = $page->title() . ' – ' . $page->subtitle();
-    $element->attr('href', $page->url());
-    $element->append('<meta itemprop="name" content="' . $title . '">');
-    if ($page->subtitle()) {
-      $element->attr('title', $title);
+    $link = $event->link();
+    $page = page($link);
+    if ($page) {
+      $title = $page->title() . ' – ' . $page->subtitle();
+      $element->attr('href', $page->url());
+      $element->append('<meta itemprop="name" content="' . $title . '">');
+      if ($page->subtitle()) {
+        $element->attr('title', $title);
+      }
+    } else {
+      echo 'Error with link: ' , $link;
     }
   }
   $element->attr('itemscope', ' ');
