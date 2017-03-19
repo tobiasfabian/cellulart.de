@@ -6,27 +6,27 @@ Title: 9 Meter
 
 ----
 
-Still: 
+Still: 9meter2.jpg
 
 ----
 
-Thumbvideo: 
+Thumbvideo: cellulart_kurzfilmfestival_teen_auschnitt_9meter.mp4
 
 ----
 
-Type: 
+Type: Fiction
 
 ----
 
-Country: Germany
+Country: Denmark
 
 ----
 
-Year: 
+Year: 2012
 
 ----
 
-Duration: 
+Duration: 16:32
 
 ----
 
@@ -46,4 +46,4 @@ Animation:
 
 ----
 
-Text: 
+Text: Die Mutter des 16-jährigen Daniel liegt im Koma. Er glaubt, ihr Leben mit Rekorden im Weitsprung retten zu können. Unerbittlich und verzweifelt hält er an der Hoffnung fest, dass sie wieder erwacht ...

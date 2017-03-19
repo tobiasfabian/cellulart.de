@@ -15,3 +15,11 @@ Teaservideo: teaser-desktop.mp4
 ----
 
 Teaserimage-mobile: teaser-mobile.jpg
+
+----
+
+Meta-description: From 25 to 30 April 2017 first-class short films of all categories and genres of filmmakers from all over the world will be presented at Volksbad Jena.
+
+----
+
+Quicklinks: 

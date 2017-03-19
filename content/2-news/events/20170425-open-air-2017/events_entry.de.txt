@@ -1,0 +1,45 @@
+Title: Open-Air-Kurzfilmkino
+
+----
+
+Fb-link: 
+
+----
+
+Startdate: 2017-04-25 20:00:00
+
+----
+
+Enddate: 2017-04-25 23:45:00
+
+----
+
+Text: 
+
+Open-Air 
+20 Uhr Beginn
+Ort: Faulloch
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Faulloch
+
+----
+
+Venue-link: https://www.facebook.com/pages/Faulloch/169219806467541
+
+----
+
+Street: Am Pulverturm
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

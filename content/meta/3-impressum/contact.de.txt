@@ -18,7 +18,7 @@ Registergericht: Amtsgericht Jena
 Registernummer: 1194
 
 ## Corporate Design
-Robin Weißenborn
+Melissa Harms & Benjamin Büchner
 
 ## Webdesign
 (link: https://tobiaswolf.me text: Tobias Wolf popup: true)

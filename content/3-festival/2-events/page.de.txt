@@ -1,4 +1,4 @@
-Title: events
+Title: Events
 
 ----
 
