@@ -38,12 +38,28 @@ c::set('languages', array(
     'default' => true,
     'locale'  => 'de_DE',
     'url'     => '/',
+    'locale'  => array(
+      LC_COLLATE  => 'de_DE.utf8',
+      LC_MONETARY => 'de_DE.utf8',
+      LC_NUMERIC  => 'de_DE.utf8',
+      LC_TIME     => 'de_DE.utf8',
+      LC_MESSAGES => 'de_DE.utf8',
+      LC_CTYPE    => 'de_DE.utf8'
+    ),
   ),
   array(
     'code'    => 'en',
     'name'    => 'English',
     'locale'  => 'en_US',
     'url'     => '/en',
+    'locale'  => array(
+      LC_COLLATE  => 'en_US.utf8',
+      LC_MONETARY => 'en_US.utf8',
+      LC_NUMERIC  => 'en_US.utf8',
+      LC_TIME     => 'en_US.utf8',
+      LC_MESSAGES => 'en_US.utf8',
+      LC_CTYPE    => 'en_US.utf8'
+    ),
   )
   ,
 ));
