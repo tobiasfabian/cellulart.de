@@ -329,13 +329,15 @@
   }
   .mainfooter {
     position: fixed;
-    bottom: -10em;
+    bottom: 0;
     right: 0;
     @media (max-height: 600px) {
       position: absolute;
+      bottom: -10em;
     }
     @media (max-width: $max-width/12*7) and (max-height: 40em) {
       position: absolute;
+      bottom: -10em;
     }
     .logo {
       opacity: 0;
