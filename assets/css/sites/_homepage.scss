@@ -1,8 +1,5 @@
 .homepage {
   background-color: $black;
-  @media (max-width: $max-width/12*7) {
-    overflow: hidden;
-  }
   .mainnav {
     background-color: transparent;
     .nav-1, .nav-2 {
@@ -332,11 +329,13 @@
   }
   .mainfooter {
     position: fixed;
-    bottom: 0;
+    bottom: -10em;
     right: 0;
     @media (max-height: 600px) {
+      position: absolute;
     }
     @media (max-width: $max-width/12*7) and (max-height: 40em) {
+      position: absolute;
     }
     .logo {
       opacity: 0;
