@@ -1,0 +1,25 @@
+Title: kurz & queer
+
+----
+
+Meta-description: Am 12. April 2017 veranstaltet das cellu l'art Kurzfilmfestival in Kooperation mit dem backup_festival Weimar einen queeren Kurzfilmabend im Lichthauskino Weimar.
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    kurz & queer
+    
+    Queerer Kurzfilmabend
+  text: |
+    Lesbische, schwule und Trans*-Identitäten spielen in der Welt des Kurzfilms eine immer wichtigere Rolle. Am 12. April 2017 präsentieren das cellu l’art Kurzfilmfestival Jena und das backup_festival Weimar einen bunten Abend mit den besten LGBTQ-Filmen aus den vergangenen Festivaljahren. Diese Momentaufnahmen sind Reisen in die Leben interessanter Protagonist*innen. Ob amüsante Begegnungen im Fahrstuhl, das Sexleben älterer Herren oder folgenreiche Erkenntnisse über die eigene Identität: Hier ist für jede*n was dabei!
+    
+    Die Kurzfilme werden in der Originalsprache mit deutschen oder englischen Untertiteln gezeigt. Nach der Vorführung werden einzelne Filmemacher*innen für ein Q&A zur Verfügung stehen.
+    
+    Datum: 12.04.2017
+    Ort: Lichthaus-Kino Weimar
+    Beginn: 21.00 Uhr
+    Eintritt: 5/6€
+  _fieldset: text

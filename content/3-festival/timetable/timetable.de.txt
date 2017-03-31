@@ -1,0 +1,87 @@
+Title: Timetable
+
+----
+
+Meta-description: Übersicht aller Veranstaltungen des cellu l’art Kurzfilmfestival Jena 2017 (25.30. April)
+
+----
+
+Events: 
+
+- 
+  name: |
+    Open Air
+    Konzert & Kurzfilme
+    Live Act:
+    SKAVIDA
+  datetime: 2017-04-25 19:30:00
+  duration: "4.5"
+  link: ""
+  room: ""
+  black: 'true'
+  span: 'true'
+- 
+  name: LSP 1
+  datetime: 2017-04-26 18:00:00
+  duration: "1.5"
+  link: ""
+  room: Großer Saal
+  black: 'false'
+  span: 'false'
+- 
+  name: WB 1
+  datetime: 2017-04-26 20:00:00
+  duration: "1.5"
+  link: ""
+  room: Großer Saal
+  black: 'false'
+  span: 'false'
+- 
+  name: WB 2
+  datetime: 2017-04-26 22:00:00
+  duration: "1.5"
+  link: ""
+  room: Großer Saal
+  black: 'false'
+  span: 'false'
+- 
+  name: |
+    SALAM
+    Eröffnung des LSP Iran
+  datetime: 2017-04-26 17:00:00
+  duration: "7.5"
+  link: ""
+  room: Lounge
+  black: 'false'
+  span: 'false'
+
+----
+
+Footer-1: 
+
+WB = Wettbewerb
+LSP = Länderschwerpunkt
+
+----
+
+Footer-2: 
+
+----
+
+Venueheadline: 
+
+----
+
+Venue: Volksbad Jena
+
+----
+
+Street: Knebelstraße 10
+
+----
+
+Zip: 07743
+
+----
+
+City: Jena

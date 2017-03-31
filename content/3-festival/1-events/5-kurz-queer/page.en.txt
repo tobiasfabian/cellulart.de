@@ -1,0 +1,25 @@
+Title: short & queer
+
+----
+
+Meta-description: On 12th April, 2017 cellu l'art Short Film Festival presents a queer short film programme in cooperation with backup_festival Weimar
+
+----
+
+Builder: 
+
+- 
+  h1: |
+    short & queer
+    
+    Queer Short Film Programme
+  text: |
+    In cooperation with backup_festival Weimar, cellu l'art Short Film Festival Jena presents a queer short film programme with the best LGBTQ films from previous festival editions.
+    
+    The short films will be screened in their original language with German or English subtitles. After the screening, filmmakers will be present for a Q&A.
+    
+    Date: 12th April 2017
+    Venue: Lichthaus-Kino Weimar
+    Time: 9pm
+    Entrance fee: 5/6€
+  _fieldset: text
